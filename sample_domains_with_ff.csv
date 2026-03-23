@@ -1,0 +1,5 @@
+domain,base_class,final_class,ff_score,is_fastflux,details
+example.com,,,0.11499999999999999,False,"{'fastflux_score': 0.11499999999999999, 'domain_lexical_score': 0, 'subdomain_complexity_score': 0, 'domain_age_score': 0.6, 'ttl_score': 0.0, 'ip_diversity_score': 0.1, 'query_rate_score': 0.3, 'is_fastflux': False}"
+botnet.cc,,2.0,0.62,True,"{'fastflux_score': 0.62, 'domain_lexical_score': 0.2, 'subdomain_complexity_score': 0, 'domain_age_score': 0.8, 'ttl_score': 0.8, 'ip_diversity_score': 1.0, 'query_rate_score': 0.6, 'is_fastflux': True}"
+google.com,,,0.14500000000000002,False,"{'fastflux_score': 0.14500000000000002, 'domain_lexical_score': 0, 'subdomain_complexity_score': 0, 'domain_age_score': 0.3, 'ttl_score': 0.0, 'ip_diversity_score': 0.1, 'query_rate_score': 0.9, 'is_fastflux': False}"
+malware.ru,,,0.39000000000000007,False,"{'fastflux_score': 0.39000000000000007, 'domain_lexical_score': 0, 'subdomain_complexity_score': 0, 'domain_age_score': 0.6, 'ttl_score': 0.4, 'ip_diversity_score': 0.8, 'query_rate_score': 0.3, 'is_fastflux': False}"
