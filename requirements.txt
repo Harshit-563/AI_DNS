@@ -1,11 +1,38 @@
+# Web Framework & Servers
 Flask>=3.0.0
 waitress>=3.0.0
-scapy>=2.5.0
-python-dotenv>=1.0.0
-ipwhois>=1.2.0
-scikit-learn>=1.5.0
-numpy>=1.26.0
-joblib>=1.4.0
-requests>=2.32.0
-pandas>=2.2.0
 gunicorn>=22.0.0
+
+# Dashboard & UI
+Streamlit>=1.28.0
+plotly>=5.17.0
+
+# Data Processing & Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+
+# Machine Learning & Model Management
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+joblib>=1.4.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Network & Security
+scapy>=2.5.0
+ipwhois>=1.2.0
+
+# NLP
+nltk>=3.8.0
+
+# HTTP & API
+requests>=2.32.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# AI/ML APIs
+google-generativeai>=0.3.0
