@@ -10,6 +10,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import requests
 import streamlit as st
+import os
 
 from db_service import ThreatDatabase
 from sniffer_manager import get_sniffer_manager
@@ -314,7 +315,7 @@ st.markdown(
 
 
 if "api_url" not in st.session_state:
-    st.session_state.api_url = "http://localhost:5000"
+    st.session_state.api_url = "https://ai-dns.onrender.com"
 if "refresh_interval" not in st.session_state:
     st.session_state.refresh_interval = 5
 
@@ -362,63 +363,141 @@ def stylize_plot(fig):
     return fig
 
 
+
+
+DEFAULT_API = os.getenv("API_URL", "https://ai-dns.onrender.com")
+
 with st.sidebar:
-    st.markdown("## Control Room")
-    st.caption("Connect the API, tune refresh behavior, and manage the DNS sniffer.")
+    st.markdown("## 🛠️ Control Room")
+    st.caption("Manage API connection, dashboard behavior, and monitoring status.")
 
-    st.subheader("API Settings")
-    api_host = st.text_input("API Host", value="localhost", key="api_host")
-    api_port = st.number_input("API Port", value=5000, min_value=1, max_value=65535)
-    st.session_state.api_url = f"http://{api_host}:{api_port}"
+    # =========================
+    # API SETTINGS
+    # =========================
+    st.subheader("🌐 API Settings")
 
-    st.subheader("Dashboard")
-    st.session_state.refresh_interval = st.slider("Auto-refresh interval (seconds)", 1, 60, 5)
+    api_url = st.text_input(
+        "API Base URL",
+        value=DEFAULT_API,
+        help="Example: https://ai-dns.onrender.com"
+    )
 
-    st.subheader("Sniffer Control")
-    col1, col2 = st.columns(2)
+    st.session_state.api_url = api_url.rstrip("/")
 
-    with col1:
-        if st.button("Start Sniffer", use_container_width=True):
-            with st.spinner("Starting sniffer..."):
-                success = sniffer.start(interface=None)
-                if success:
-                    st.success("Sniffer started")
-                else:
-                    st.error(f"Failed to start: {sniffer.error_message}")
+    # Health check button
+    if st.button("Check API Connection"):
+        try:
+            import requests
+            res = requests.get(f"{st.session_state.api_url}/api/v1/health", timeout=3)
+            if res.status_code == 200:
+                st.success("✅ API Connected")
+            else:
+                st.warning(f"⚠️ API responded with {res.status_code}")
+        except Exception as e:
+            st.error(f"❌ API not reachable: {str(e)}")
 
-    with col2:
-        if st.button("Stop Sniffer", use_container_width=True):
-            with st.spinner("Stopping sniffer..."):
-                success = sniffer.stop()
-                if success:
-                    st.success("Sniffer stopped")
-                else:
-                    st.error("Sniffer not running")
+    # =========================
+    # DASHBOARD SETTINGS
+    # =========================
+    st.subheader("📊 Dashboard Settings")
 
-    st.divider()
-    st.subheader("Sniffer Status")
+    st.session_state.refresh_interval = st.slider(
+        "Auto-refresh interval (seconds)",
+        min_value=1,
+        max_value=60,
+        value=5
+    )
 
-    status = sniffer.get_status()
-    if status["running"]:
-        st.markdown('<span class="status-pill status-live">LIVE SENSOR ONLINE</span>', unsafe_allow_html=True)
-        uptime = int(status["uptime_seconds"])
-        st.caption(f"Uptime: {uptime // 60}m {uptime % 60}s")
+    # =========================
+    # SNIFFER CONTROL (SAFE MODE)
+    # =========================
+    st.subheader("🧠 Sensor Control")
 
-        stats = sniffer.get_stats()
-        if stats:
-            st.metric("Packets Captured", f"{stats.get('packets_received', 0):,}")
-            st.metric("Queries Classified", f"{stats.get('domains_classified', 0):,}")
-            st.metric("Threats Detected", f"{stats.get('threats_detected', 0):,}")
+    IS_PRODUCTION = os.getenv("ENV", "dev") == "prod"
+
+    if IS_PRODUCTION:
+        st.warning("⚠️ Sniffer control disabled in production (requires root access)")
+
+        st.info("""
+        In production:
+        • Sniffer runs as a separate agent  
+        • This dashboard only reads API data  
+        """)
     else:
-        st.markdown('<span class="status-pill status-down">SNIFFER OFFLINE</span>', unsafe_allow_html=True)
-        if status["error"]:
-            st.caption(f"Error: {status['error']}")
+        col1, col2 = st.columns(2)
+
+        with col1:
+            if st.button("▶ Start Sniffer", use_container_width=True):
+                try:
+                    with st.spinner("Starting sniffer..."):
+                        success = sniffer.start(interface=None)
+                        if success:
+                            st.success("Sniffer started")
+                        else:
+                            st.error(f"Failed: {sniffer.error_message}")
+                except Exception as e:
+                    st.error(f"Error: {str(e)}")
+
+        with col2:
+            if st.button("⏹ Stop Sniffer", use_container_width=True):
+                try:
+                    with st.spinner("Stopping sniffer..."):
+                        success = sniffer.stop()
+                        if success:
+                            st.success("Sniffer stopped")
+                        else:
+                            st.warning("Sniffer not running")
+                except Exception as e:
+                    st.error(f"Error: {str(e)}")
+
+    # =========================
+    # STATUS PANEL
+    # =========================
+    st.divider()
+    st.subheader("📡 Sensor Status")
+
+    try:
+        status = sniffer.get_status()
+
+        if status.get("running"):
+            st.markdown(
+                '<span class="status-pill status-live">🟢 LIVE SENSOR ONLINE</span>',
+                unsafe_allow_html=True
+            )
+
+            uptime = int(status.get("uptime_seconds", 0))
+            st.caption(f"Uptime: {uptime // 60}m {uptime % 60}s")
+
+            stats = sniffer.get_stats()
+            if stats:
+                st.metric("Packets Captured", f"{stats.get('packets_received', 0):,}")
+                st.metric("Queries Classified", f"{stats.get('domains_classified', 0):,}")
+                st.metric("Threats Detected", f"{stats.get('threats_detected', 0):,}")
+        else:
+            st.markdown(
+                '<span class="status-pill status-down">🔴 SENSOR OFFLINE</span>',
+                unsafe_allow_html=True
+            )
+
+            if status.get("error"):
+                st.caption(f"Error: {status['error']}")
+
+    except Exception as e:
+        st.error(f"Failed to fetch status: {str(e)}")
 
     st.divider()
     st.subheader("Database")
     try:
-        db_stats = db.get_database_stats()
-        st.metric("Total Detections", f"{db_stats['total_detections']:,}")
+        if "db" in globals():
+            db_stats = db.get_database_stats()
+            st.metric("Total Detections", f"{db_stats['total_detections']:,}")
+            st.metric("DB Size", f"{db_stats['database_size_bytes'] / 1024 / 1024:.2f} MB")
+        else:
+            st.warning("Database service not available")
+    except Exception as e:
+        st.error(f"Error getting DB stats: {e}")
+
+
         st.metric("DB Size", f"{db_stats['database_size_bytes'] / 1024 / 1024:.2f} MB")
     except Exception as e:
         st.error(f"Error getting DB stats: {e}")
