@@ -201,7 +201,9 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-if "api_url" not in st.session_state: st.session_state.api_url = "http://localhost:5000"
+if "api_url" not in st.session_state: st.session_state.api_url = "https://ai-dns.onrender.com"
+if "sniffer_interface" not in st.session_state: st.session_state.sniffer_interface = ""
+if "latest_result" not in st.session_state: st.session_state.latest_result = None
 
 @st.cache_resource
 def get_database(): return ThreatDatabase()
@@ -217,7 +219,7 @@ st.markdown(
     <div class="hero-shell">
         <div class="hero-kicker">Threat Monitoring</div>
         <div class="hero-title">DNS Threat Detection Dashboard</div>
-        <p class="hero-copy">A dark command-center view tuned around a 60:30:10 contrast split: dominant charcoal canvas, structured slate surfaces, and amber accents for action and focus.</p>
+        <p class="hero-copy">To use the DNS sniffer, run it locally or on a remote server.</p>
     </div>
     """,
     unsafe_allow_html=True,
@@ -232,11 +234,85 @@ def metric_card(label, value, tone="default"):
     st.metric(label, value)
     st.markdown("</div>", unsafe_allow_html=True)
 
+def normalize_prediction_label(result):
+    if result.get("is_fastflux"):
+        return "fast_flux"
+    return result.get("status") or result.get("final_prediction") or "Unknown"
+
+def resolve_final_class(result):
+    if result.get("final_class") is not None:
+        return int(result["final_class"])
+
+    label = str(normalize_prediction_label(result)).lower()
+    class_map = {
+        "benign": 0,
+        "suspicious": 3,
+        "dga": 1,
+        "fast-flux": 2,
+        "fast_flux": 2,
+    }
+    return class_map.get(label, 0)
+
+def save_result_to_database(result, source_ip="dashboard_manual"):
+    detection_id = db.insert_threat_detection(
+        {
+            "domain": result.get("domain"),
+            "final_class": resolve_final_class(result),
+            "confidence": float(result.get("confidence", 0.0)),
+            "ff_score": float(result.get("ff_score", 0.0)),
+            "is_fastflux": bool(result.get("is_fastflux", False)),
+            "source_ip": source_ip,
+            "model_version": "dashboard_manual",
+        }
+    )
+    return detection_id
+
 # --- SIDEBAR ---
 with st.sidebar:
     st.markdown("## 🛠️ Control Room")
     api_url = st.text_input("API Base URL", value=st.session_state.api_url)
     st.session_state.api_url = api_url.rstrip("/")
+
+    if st.button("Refresh Dashboard", use_container_width=True):
+        st.rerun()
+
+    st.markdown("### DNS Sniffer")
+    sniffer_status = sniffer.get_status()
+    st.session_state.sniffer_interface = st.text_input(
+        "Interface",
+        value=st.session_state.sniffer_interface,
+        placeholder="Ethernet / Wi-Fi / eth0",
+        help="Leave blank to auto-detect if supported by the host.",
+    )
+
+    sniffer_col1, sniffer_col2 = st.columns(2)
+    with sniffer_col1:
+        start_clicked = st.button("Start Sniffer", use_container_width=True)
+    with sniffer_col2:
+        stop_clicked = st.button("Stop Sniffer", use_container_width=True)
+
+    if start_clicked:
+        interface = st.session_state.sniffer_interface.strip() or None
+        if sniffer.start(interface=interface):
+            st.success("DNS sniffer started.")
+            st.rerun()
+        else:
+            error = sniffer.get_status().get("error") or "Sniffer could not be started."
+            st.error(error)
+
+    if stop_clicked:
+        if sniffer.stop():
+            st.success("DNS sniffer stopped.")
+            st.rerun()
+        else:
+            st.warning("Sniffer is not running.")
+
+    running_tone = "safe" if sniffer_status.get("running") else "watch"
+    metric_card("Sniffer State", "Running" if sniffer_status.get("running") else "Stopped", tone=running_tone)
+    metric_card("Packets", f"{sniffer_status.get('packets_received', 0):,}")
+    metric_card("Classified", f"{sniffer_status.get('domains_classified', 0):,}")
+    if sniffer_status.get("error"):
+        st.error(sniffer_status["error"])
 
 tab1, tab2, tab3, tab4 = st.tabs(["Statistics", "Recent Detections", "Malicious Domains", "Manual Classification"])
 
@@ -250,9 +326,9 @@ with tab1:
     metric_cols = st.columns(5)
     with metric_cols[0]: metric_card("Total Queries", f"{total:,}")
     with metric_cols[1]: metric_card("Benign", f"{stats.get('0', 0):,}", tone="safe")
-    with metric_cols[2]: metric_card("Suspicious", f"{stats.get('1', 0):,}", tone="watch")
-    with metric_cols[3]: metric_card("DGA", f"{stats.get('2', 0):,}", tone="danger")
-    with metric_cols[4]: metric_card("Fast-Flux", f"{stats.get('3', 0):,}", tone="danger")
+    with metric_cols[2]: metric_card("Suspicious", f"{stats.get('3', 0):,}", tone="watch")
+    with metric_cols[3]: metric_card("DGA", f"{stats.get('1', 0):,}", tone="danger")
+    with metric_cols[4]: metric_card("Fast-Flux", f"{stats.get('2', 0):,}", tone="danger")
 
     chart_col1, chart_col2 = st.columns([1.15, 0.85])
     composition_df = pd.DataFrame(
@@ -260,9 +336,9 @@ with tab1:
             "Class": ["Benign", "Suspicious", "DGA", "Fast-Flux"],
             "Count": [
                 stats.get("0", 0),
+                stats.get("3", 0),
                 stats.get("1", 0),
                 stats.get("2", 0),
-                stats.get("3", 0),
             ],
             "Color": ["#22c55e", "#f59e0b", "#ef4444", "#fb7185"],
         }
@@ -355,10 +431,11 @@ with tab4:
 
             if response.status_code == 200:
                 result = response.json()
+                st.session_state.latest_result = result
                 st.success("Classification complete")
 
                 # EXACT MATCH TO API SNIFFER LOGIC
-                status_label = result.get("status", "Unknown")
+                status_label = normalize_prediction_label(result)
                 if status_label == "fast_flux": 
                     display_text = "Fast-Flux"
                 else: 
@@ -379,3 +456,14 @@ with tab4:
                 st.error(f"Classification failed: {response.text}")
         except Exception as e:
             st.error(f"Error: Could not connect to API at {st.session_state.api_url}. Is Waitress running?")
+
+    if st.session_state.latest_result:
+        st.markdown("### Save Result")
+        latest = st.session_state.latest_result
+        st.caption(f"Latest result: {latest.get('domain', 'Unknown domain')}")
+        if st.button("Save Latest Result to Database", use_container_width=True):
+            try:
+                detection_id = save_result_to_database(latest)
+                st.success(f"Saved to database with detection ID {detection_id}.")
+            except Exception as exc:
+                st.error(f"Database save failed: {exc}")
