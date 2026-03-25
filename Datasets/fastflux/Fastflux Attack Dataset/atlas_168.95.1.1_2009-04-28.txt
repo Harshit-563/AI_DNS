@@ -1,0 +1,44 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1fhfl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 912
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;1fhfl.com.			IN	A
+
+;; ANSWER SECTION:
+1fhfl.com.		1800	IN	A	93.103.217.223
+1fhfl.com.		1800	IN	A	94.21.39.80
+1fhfl.com.		1800	IN	A	95.28.36.229
+1fhfl.com.		1800	IN	A	200.85.217.116
+1fhfl.com.		1800	IN	A	217.216.91.27
+1fhfl.com.		1800	IN	A	221.127.243.242
+1fhfl.com.		1800	IN	A	79.117.82.248
+1fhfl.com.		1800	IN	A	79.119.212.75
+1fhfl.com.		1800	IN	A	80.179.195.144
+1fhfl.com.		1800	IN	A	82.17.83.73
+1fhfl.com.		1800	IN	A	84.126.131.11
+1fhfl.com.		1800	IN	A	85.85.235.101
+1fhfl.com.		1800	IN	A	88.65.89.71
+1fhfl.com.		1800	IN	A	89.161.77.105
+1fhfl.com.		1800	IN	A	92.76.121.114
+
+;; AUTHORITY SECTION:
+1fhfl.com.		1800	IN	NS	ns2.wankers-willa.net.
+1fhfl.com.		1800	IN	NS	ns1.onlinesupors.net.
+1fhfl.com.		1800	IN	NS	ns1.wankers-willa.net.
+1fhfl.com.		1800	IN	NS	ns2.onlinesupors.net.
+
+;; ADDITIONAL SECTION:
+ns2.wankers-willa.net.	157235	IN	A	132.79.112.96
+ns1.onlinesupors.net.	146917	IN	A	217.70.185.0
+ns1.wankers-willa.net.	146917	IN	A	64.34.217.40
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:35:43 2009
+;; MSG SIZE  rcvd: 426
+
+

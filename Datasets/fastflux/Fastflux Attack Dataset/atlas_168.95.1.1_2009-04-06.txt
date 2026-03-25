@@ -1,0 +1,549 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 netfirms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1591
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	38.113.184.90
+netfirms.com.		600	IN	A	70.42.30.58
+netfirms.com.		600	IN	A	38.113.184.26
+netfirms.com.		600	IN	A	70.42.30.122
+netfirms.com.		600	IN	A	70.42.30.218
+netfirms.com.		600	IN	A	38.113.184.250
+netfirms.com.		600	IN	A	38.113.184.122
+netfirms.com.		600	IN	A	70.42.30.250
+
+;; AUTHORITY SECTION:
+netfirms.com.		130133	IN	NS	ns1.netfirms.com.
+netfirms.com.		130133	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	46317	IN	A	70.42.30.1
+ns2.netfirms.com.	68533	IN	A	38.113.184.1
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:36:26 2009
+;; MSG SIZE  rcvd: 238
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 netfirms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1240
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	70.42.30.90
+netfirms.com.		600	IN	A	70.42.30.122
+netfirms.com.		600	IN	A	70.42.30.186
+netfirms.com.		600	IN	A	38.113.184.218
+netfirms.com.		600	IN	A	38.113.184.122
+netfirms.com.		600	IN	A	70.42.30.218
+netfirms.com.		600	IN	A	70.42.30.58
+netfirms.com.		600	IN	A	70.42.30.250
+
+;; AUTHORITY SECTION:
+netfirms.com.		167425	IN	NS	ns1.netfirms.com.
+netfirms.com.		167425	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	84161	IN	A	70.42.30.1
+ns2.netfirms.com.	167424	IN	A	38.113.184.1
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:54:49 2009
+;; MSG SIZE  rcvd: 238
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 netfirms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 270
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	70.42.30.218
+netfirms.com.		600	IN	A	38.113.184.26
+netfirms.com.		600	IN	A	70.42.30.186
+netfirms.com.		600	IN	A	70.42.30.90
+netfirms.com.		600	IN	A	38.113.184.58
+netfirms.com.		600	IN	A	70.42.30.154
+netfirms.com.		600	IN	A	38.113.184.250
+netfirms.com.		600	IN	A	38.113.184.218
+
+;; AUTHORITY SECTION:
+netfirms.com.		104172	IN	NS	ns1.netfirms.com.
+netfirms.com.		104172	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	104172	IN	A	70.42.30.1
+ns2.netfirms.com.	104172	IN	A	38.113.184.1
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:36:14 2009
+;; MSG SIZE  rcvd: 238
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 netfirms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 924
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	38.113.184.218
+netfirms.com.		600	IN	A	70.42.30.58
+netfirms.com.		600	IN	A	38.113.184.186
+netfirms.com.		600	IN	A	38.113.184.90
+netfirms.com.		600	IN	A	38.113.184.26
+netfirms.com.		600	IN	A	38.113.184.122
+netfirms.com.		600	IN	A	38.113.184.154
+netfirms.com.		600	IN	A	70.42.30.250
+
+;; AUTHORITY SECTION:
+netfirms.com.		134584	IN	NS	ns1.netfirms.com.
+netfirms.com.		134584	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	134584	IN	A	70.42.30.1
+ns2.netfirms.com.	134584	IN	A	38.113.184.1
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:36:13 2009
+;; MSG SIZE  rcvd: 238
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 netfirms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1423
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	70.42.30.58
+netfirms.com.		600	IN	A	38.113.184.186
+netfirms.com.		600	IN	A	38.113.184.26
+netfirms.com.		600	IN	A	38.113.184.218
+netfirms.com.		600	IN	A	70.42.30.250
+netfirms.com.		600	IN	A	70.42.30.26
+netfirms.com.		600	IN	A	38.113.184.58
+netfirms.com.		600	IN	A	70.42.30.90
+
+;; AUTHORITY SECTION:
+netfirms.com.		172800	IN	NS	ns1.netfirms.com.
+netfirms.com.		172800	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	171728	IN	A	70.42.30.1
+ns2.netfirms.com.	171728	IN	A	38.113.184.1
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:52 2009
+;; MSG SIZE  rcvd: 238
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 formuprightcompany.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1906
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;formuprightcompany.cn.		IN	A
+
+;; ANSWER SECTION:
+formuprightcompany.cn.	300	IN	A	64.238.223.93
+formuprightcompany.cn.	300	IN	A	69.123.116.89
+formuprightcompany.cn.	300	IN	A	70.91.121.99
+formuprightcompany.cn.	300	IN	A	75.33.18.196
+formuprightcompany.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+formuprightcompany.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+formuprightcompany.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+formuprightcompany.cn.	300	IN	NS	ns2.uniquest-professional.com.
+formuprightcompany.cn.	300	IN	NS	ns3.answertruthful.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 135760 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 135760 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 135760 IN A	200.129.46.5
+ns3.answertruthful.com.	135760	IN	A	66.132.159.62
+
+;; Query time: 4375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:55:14 2009
+;; MSG SIZE  rcvd: 353
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 formuprightcompany.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1906
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;formuprightcompany.cn.		IN	A
+
+;; ANSWER SECTION:
+formuprightcompany.cn.	300	IN	A	64.238.223.93
+formuprightcompany.cn.	300	IN	A	69.123.116.89
+formuprightcompany.cn.	300	IN	A	70.91.121.99
+formuprightcompany.cn.	300	IN	A	75.33.18.196
+formuprightcompany.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+formuprightcompany.cn.	300	IN	NS	ns2.uniquest-professional.com.
+formuprightcompany.cn.	300	IN	NS	ns3.answertruthful.com.
+formuprightcompany.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+formuprightcompany.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 168608 IN A	200.129.46.5
+ns3.answertruthful.com.	168608	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 168608 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 168608 IN	A	66.155.114.139
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:36:20 2009
+;; MSG SIZE  rcvd: 353
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 formuprightcompany.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sswrebef.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 476
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sswrebef.cn.			IN	A
+
+;; ANSWER SECTION:
+sswrebef.cn.		180	IN	A	87.116.162.182
+sswrebef.cn.		180	IN	A	92.249.174.215
+sswrebef.cn.		180	IN	A	192.116.57.120
+sswrebef.cn.		180	IN	A	219.68.190.135
+sswrebef.cn.		180	IN	A	220.123.48.47
+sswrebef.cn.		180	IN	A	78.84.245.67
+sswrebef.cn.		180	IN	A	80.99.163.242
+sswrebef.cn.		180	IN	A	81.195.46.67
+
+;; AUTHORITY SECTION:
+sswrebef.cn.		180	IN	NS	ns4.ncibneww.com.
+sswrebef.cn.		180	IN	NS	ns1.cgsoftly.com.
+sswrebef.cn.		180	IN	NS	ns2.ncibneww.com.
+sswrebef.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	146583	IN	A	79.121.97.118
+ns1.cgsoftly.com.	146583	IN	A	59.151.232.164
+ns2.ncibneww.com.	146583	IN	A	91.148.176.215
+ns3.cgsoftly.com.	146583	IN	A	86.101.123.86
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:17 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ihfffswe.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1373
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ihfffswe.cn.			IN	A
+
+;; ANSWER SECTION:
+ihfffswe.cn.		180	IN	A	220.123.48.47
+ihfffswe.cn.		180	IN	A	78.84.245.67
+ihfffswe.cn.		180	IN	A	80.99.163.242
+ihfffswe.cn.		180	IN	A	81.195.46.67
+ihfffswe.cn.		180	IN	A	87.116.162.182
+ihfffswe.cn.		180	IN	A	92.249.174.215
+ihfffswe.cn.		180	IN	A	192.116.57.120
+ihfffswe.cn.		180	IN	A	219.68.190.135
+
+;; AUTHORITY SECTION:
+ihfffswe.cn.		180	IN	NS	ns4.ncibneww.com.
+ihfffswe.cn.		180	IN	NS	ns1.cgsoftly.com.
+ihfffswe.cn.		180	IN	NS	ns2.ncibneww.com.
+ihfffswe.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	169139	IN	A	77.120.242.70
+ns1.cgsoftly.com.	169139	IN	A	59.151.232.164
+ns2.ncibneww.com.	169139	IN	A	81.195.46.67
+ns3.cgsoftly.com.	169139	IN	A	85.122.42.234
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:18 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ssfifpfi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1492
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ssfifpfi.cn.			IN	A
+
+;; ANSWER SECTION:
+ssfifpfi.cn.		180	IN	A	192.116.57.120
+ssfifpfi.cn.		180	IN	A	219.68.190.135
+ssfifpfi.cn.		180	IN	A	220.123.48.47
+ssfifpfi.cn.		180	IN	A	78.84.245.67
+ssfifpfi.cn.		180	IN	A	80.99.163.242
+ssfifpfi.cn.		180	IN	A	81.195.46.67
+ssfifpfi.cn.		180	IN	A	87.116.162.182
+ssfifpfi.cn.		180	IN	A	92.249.174.215
+
+;; AUTHORITY SECTION:
+ssfifpfi.cn.		180	IN	NS	ns1.cgsoftly.com.
+ssfifpfi.cn.		180	IN	NS	ns2.ncibneww.com.
+ssfifpfi.cn.		180	IN	NS	ns3.cgsoftly.com.
+ssfifpfi.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	146698	IN	A	59.151.232.164
+ns2.ncibneww.com.	146698	IN	A	91.148.176.215
+ns3.cgsoftly.com.	146698	IN	A	86.101.123.86
+ns4.ncibneww.com.	146698	IN	A	89.135.142.72
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:23 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sfsireyw.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1024
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sfsireyw.cn.			IN	A
+
+;; ANSWER SECTION:
+sfsireyw.cn.		180	IN	A	81.195.46.67
+sfsireyw.cn.		180	IN	A	87.116.162.182
+sfsireyw.cn.		180	IN	A	92.249.174.215
+sfsireyw.cn.		180	IN	A	192.116.57.120
+sfsireyw.cn.		180	IN	A	219.68.190.135
+sfsireyw.cn.		180	IN	A	220.123.48.47
+sfsireyw.cn.		180	IN	A	78.84.245.67
+sfsireyw.cn.		180	IN	A	80.99.163.242
+
+;; AUTHORITY SECTION:
+sfsireyw.cn.		180	IN	NS	ns2.ncibneww.com.
+sfsireyw.cn.		180	IN	NS	ns3.cgsoftly.com.
+sfsireyw.cn.		180	IN	NS	ns4.ncibneww.com.
+sfsireyw.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns2.ncibneww.com.	171809	IN	A	208.58.14.217
+ns3.cgsoftly.com.	171831	IN	A	82.233.96.101
+ns4.ncibneww.com.	171831	IN	A	85.122.42.234
+ns1.cgsoftly.com.	171831	IN	A	59.151.232.164
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:24 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ifhzxssf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1244
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ifhzxssf.cn.			IN	A
+
+;; ANSWER SECTION:
+ifhzxssf.cn.		180	IN	A	78.84.245.67
+ifhzxssf.cn.		180	IN	A	80.99.163.242
+ifhzxssf.cn.		180	IN	A	81.195.46.67
+ifhzxssf.cn.		180	IN	A	87.116.162.182
+ifhzxssf.cn.		180	IN	A	92.249.174.215
+ifhzxssf.cn.		180	IN	A	192.116.57.120
+ifhzxssf.cn.		180	IN	A	219.68.190.135
+ifhzxssf.cn.		180	IN	A	220.123.48.47
+
+;; AUTHORITY SECTION:
+ifhzxssf.cn.		180	IN	NS	ns4.ncibneww.com.
+ifhzxssf.cn.		180	IN	NS	ns1.cgsoftly.com.
+ifhzxssf.cn.		180	IN	NS	ns2.ncibneww.com.
+ifhzxssf.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	145561	IN	A	77.89.78.3
+ns1.cgsoftly.com.	145812	IN	A	59.151.232.164
+ns2.ncibneww.com.	145701	IN	A	121.182.220.173
+ns3.cgsoftly.com.	145535	IN	A	123.99.66.147
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:24 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fisigxcs.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1932
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fisigxcs.cn.			IN	A
+
+;; ANSWER SECTION:
+fisigxcs.cn.		180	IN	A	87.116.162.182
+fisigxcs.cn.		180	IN	A	92.249.174.215
+fisigxcs.cn.		180	IN	A	192.116.57.120
+fisigxcs.cn.		180	IN	A	219.68.190.135
+fisigxcs.cn.		180	IN	A	220.123.48.47
+fisigxcs.cn.		180	IN	A	78.84.245.67
+fisigxcs.cn.		180	IN	A	80.99.163.242
+fisigxcs.cn.		180	IN	A	81.195.46.67
+
+;; AUTHORITY SECTION:
+fisigxcs.cn.		180	IN	NS	ns3.cgsoftly.com.
+fisigxcs.cn.		180	IN	NS	ns4.ncibneww.com.
+fisigxcs.cn.		180	IN	NS	ns1.cgsoftly.com.
+fisigxcs.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cgsoftly.com.	145529	IN	A	123.99.66.147
+ns4.ncibneww.com.	145555	IN	A	77.89.78.3
+ns1.cgsoftly.com.	145806	IN	A	59.151.232.164
+ns2.ncibneww.com.	145695	IN	A	121.182.220.173
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:31 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fgiryief.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1572
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fgiryief.cn.			IN	A
+
+;; ANSWER SECTION:
+fgiryief.cn.		180	IN	A	80.99.163.242
+fgiryief.cn.		180	IN	A	81.195.46.67
+fgiryief.cn.		180	IN	A	87.116.162.182
+fgiryief.cn.		180	IN	A	92.249.174.215
+fgiryief.cn.		180	IN	A	192.116.57.120
+fgiryief.cn.		180	IN	A	219.68.190.135
+fgiryief.cn.		180	IN	A	220.123.48.47
+fgiryief.cn.		180	IN	A	78.84.245.67
+
+;; AUTHORITY SECTION:
+fgiryief.cn.		180	IN	NS	ns1.cgsoftly.com.
+fgiryief.cn.		180	IN	NS	ns2.ncibneww.com.
+fgiryief.cn.		180	IN	NS	ns3.cgsoftly.com.
+fgiryief.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	136073	IN	A	59.151.232.164
+ns2.ncibneww.com.	136118	IN	A	188.25.2.27
+ns3.cgsoftly.com.	135832	IN	A	89.148.81.47
+ns4.ncibneww.com.	136029	IN	A	217.20.77.105
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:31 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 zxcssgef.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 505
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;zxcssgef.cn.			IN	A
+
+;; ANSWER SECTION:
+zxcssgef.cn.		180	IN	A	81.195.46.67
+zxcssgef.cn.		180	IN	A	87.116.162.182
+zxcssgef.cn.		180	IN	A	92.249.174.215
+zxcssgef.cn.		180	IN	A	192.116.57.120
+zxcssgef.cn.		180	IN	A	219.68.190.135
+zxcssgef.cn.		180	IN	A	220.123.48.47
+zxcssgef.cn.		180	IN	A	78.84.245.67
+zxcssgef.cn.		180	IN	A	80.99.163.242
+
+;; AUTHORITY SECTION:
+zxcssgef.cn.		180	IN	NS	ns4.ncibneww.com.
+zxcssgef.cn.		180	IN	NS	ns1.cgsoftly.com.
+zxcssgef.cn.		180	IN	NS	ns2.ncibneww.com.
+zxcssgef.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	146568	IN	A	79.121.97.118
+ns1.cgsoftly.com.	146568	IN	A	59.151.232.164
+ns2.ncibneww.com.	146568	IN	A	91.148.176.215
+ns3.cgsoftly.com.	146568	IN	A	86.101.123.86
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:32 2009
+;; MSG SIZE  rcvd: 325
+
+

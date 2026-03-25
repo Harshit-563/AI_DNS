@@ -1,0 +1,843 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 823
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	76.73.237.59
+advabnr.com.		600	IN	A	173.16.232.159
+advabnr.com.		600	IN	A	173.29.205.121
+advabnr.com.		600	IN	A	99.141.79.160
+advabnr.com.		600	IN	A	75.134.38.246
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	75.137.92.240
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	75.4.134.13
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	165.166.236.74
+
+;; AUTHORITY SECTION:
+advabnr.com.		172796	IN	NS	ns1.advabnr.com.
+advabnr.com.		172796	IN	NS	ns2.advabnr.com.
+advabnr.com.		172796	IN	NS	ns3.advabnr.com.
+advabnr.com.		172796	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172796	IN	A	66.233.229.99
+ns2.advabnr.com.	172796	IN	A	89.228.212.197
+ns3.advabnr.com.	172796	IN	A	62.121.110.4
+ns4.advabnr.com.	172796	IN	A	217.28.146.253
+
+;; Query time: 3984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:04 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 464
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	99.141.79.160
+advabnr.com.		600	IN	A	75.4.134.13
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	173.16.232.159
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	76.73.237.59
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	75.134.38.246
+advabnr.com.		600	IN	A	165.166.236.74
+advabnr.com.		600	IN	A	69.66.237.74
+
+;; AUTHORITY SECTION:
+advabnr.com.		147228	IN	NS	ns1.advabnr.com.
+advabnr.com.		147228	IN	NS	ns2.advabnr.com.
+advabnr.com.		147228	IN	NS	ns3.advabnr.com.
+advabnr.com.		147228	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	147228	IN	A	66.233.229.99
+ns2.advabnr.com.	147228	IN	A	89.228.212.197
+ns3.advabnr.com.	147228	IN	A	62.121.110.4
+ns4.advabnr.com.	147228	IN	A	217.28.146.253
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:29 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 336
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	76.224.122.215
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	99.141.79.160
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	68.88.238.194
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	75.134.38.246
+advabnr.com.		600	IN	A	165.166.236.74
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	64.205.9.115
+
+;; AUTHORITY SECTION:
+advabnr.com.		172800	IN	NS	ns1.advabnr.com.
+advabnr.com.		172800	IN	NS	ns2.advabnr.com.
+advabnr.com.		172800	IN	NS	ns3.advabnr.com.
+advabnr.com.		172800	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172800	IN	A	66.233.229.99
+ns2.advabnr.com.	172800	IN	A	89.228.212.197
+ns3.advabnr.com.	172800	IN	A	62.121.110.4
+ns4.advabnr.com.	172800	IN	A	217.28.146.253
+
+;; Query time: 1843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:36:11 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1087
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	68.88.238.194
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	64.149.157.194
+advabnr.com.		600	IN	A	76.224.122.215
+advabnr.com.		600	IN	A	75.134.38.246
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	173.16.232.159
+
+;; AUTHORITY SECTION:
+advabnr.com.		172799	IN	NS	ns1.advabnr.com.
+advabnr.com.		172799	IN	NS	ns2.advabnr.com.
+advabnr.com.		172799	IN	NS	ns3.advabnr.com.
+advabnr.com.		172799	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172799	IN	A	66.233.229.99
+ns2.advabnr.com.	172799	IN	A	89.228.212.197
+ns3.advabnr.com.	172799	IN	A	62.121.110.4
+ns4.advabnr.com.	172799	IN	A	217.28.146.253
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:35:36 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1055
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	65.65.114.185
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	68.88.238.194
+advabnr.com.		600	IN	A	24.125.195.72
+advabnr.com.		600	IN	A	70.231.157.228
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	76.224.19.19
+
+;; AUTHORITY SECTION:
+advabnr.com.		172792	IN	NS	ns1.advabnr.com.
+advabnr.com.		172792	IN	NS	ns2.advabnr.com.
+advabnr.com.		172792	IN	NS	ns3.advabnr.com.
+advabnr.com.		172792	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172792	IN	A	66.233.229.99
+ns2.advabnr.com.	172792	IN	A	89.228.212.197
+ns3.advabnr.com.	172792	IN	A	62.121.110.4
+ns4.advabnr.com.	172792	IN	A	217.28.146.253
+
+;; Query time: 3578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:35 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1888
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	65.65.114.185
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	70.231.157.228
+advabnr.com.		600	IN	A	98.197.176.224
+advabnr.com.		600	IN	A	70.253.144.220
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	24.125.195.72
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	76.224.19.19
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	70.154.82.100
+advabnr.com.		600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+advabnr.com.		163352	IN	NS	ns1.advabnr.com.
+advabnr.com.		163352	IN	NS	ns2.advabnr.com.
+advabnr.com.		163352	IN	NS	ns3.advabnr.com.
+advabnr.com.		163352	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	163352	IN	A	66.233.229.99
+ns2.advabnr.com.	163352	IN	A	89.228.212.197
+ns3.advabnr.com.	163352	IN	A	62.121.110.4
+ns4.advabnr.com.	163352	IN	A	217.28.146.253
+
+;; Query time: 3343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:40 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 306
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	76.224.19.19
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	72.48.183.204
+advabnr.com.		600	IN	A	24.125.195.72
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	71.79.9.177
+advabnr.com.		600	IN	A	70.231.157.228
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	70.253.144.220
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	70.154.82.100
+
+;; AUTHORITY SECTION:
+advabnr.com.		172800	IN	NS	ns1.advabnr.com.
+advabnr.com.		172800	IN	NS	ns2.advabnr.com.
+advabnr.com.		172800	IN	NS	ns3.advabnr.com.
+advabnr.com.		172800	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172800	IN	A	66.233.229.99
+ns2.advabnr.com.	172800	IN	A	89.228.212.197
+ns3.advabnr.com.	172800	IN	A	62.121.110.4
+ns4.advabnr.com.	172800	IN	A	217.28.146.253
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:35:56 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1831
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	65.65.208.207
+advabnr.com.		600	IN	A	70.136.31.99
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	205.209.232.195
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	71.56.99.7
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	67.65.165.42
+advabnr.com.		600	IN	A	99.4.105.171
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	70.154.82.100
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	24.170.188.159
+
+;; AUTHORITY SECTION:
+advabnr.com.		172800	IN	NS	ns1.advabnr.com.
+advabnr.com.		172800	IN	NS	ns2.advabnr.com.
+advabnr.com.		172800	IN	NS	ns3.advabnr.com.
+advabnr.com.		172800	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172800	IN	A	66.233.229.99
+ns2.advabnr.com.	172800	IN	A	89.228.212.197
+ns3.advabnr.com.	172800	IN	A	62.121.110.4
+ns4.advabnr.com.	172800	IN	A	217.28.146.253
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:36:06 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 681
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	24.125.195.72
+advabnr.com.		600	IN	A	98.235.17.250
+advabnr.com.		600	IN	A	24.158.226.162
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	68.89.47.177
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	70.253.144.220
+advabnr.com.		600	IN	A	76.188.59.190
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	70.154.82.100
+advabnr.com.		600	IN	A	70.231.157.228
+
+;; AUTHORITY SECTION:
+advabnr.com.		169693	IN	NS	ns1.advabnr.com.
+advabnr.com.		169693	IN	NS	ns2.advabnr.com.
+advabnr.com.		169693	IN	NS	ns3.advabnr.com.
+advabnr.com.		169693	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	169693	IN	A	66.233.229.99
+ns2.advabnr.com.	169693	IN	A	89.228.212.197
+ns3.advabnr.com.	169693	IN	A	62.121.110.4
+ns4.advabnr.com.	169693	IN	A	217.28.146.253
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:47 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 398
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	70.253.144.220
+advabnr.com.		600	IN	A	70.231.157.228
+advabnr.com.		600	IN	A	70.154.82.100
+advabnr.com.		600	IN	A	65.69.141.248
+advabnr.com.		600	IN	A	68.88.7.36
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	64.205.9.115
+advabnr.com.		600	IN	A	64.203.14.41
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	76.102.51.10
+
+;; AUTHORITY SECTION:
+advabnr.com.		159201	IN	NS	ns1.advabnr.com.
+advabnr.com.		159201	IN	NS	ns2.advabnr.com.
+advabnr.com.		159201	IN	NS	ns3.advabnr.com.
+advabnr.com.		159201	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	159201	IN	A	66.233.229.99
+ns2.advabnr.com.	159201	IN	A	89.228.212.197
+ns3.advabnr.com.	159201	IN	A	62.121.110.4
+ns4.advabnr.com.	159201	IN	A	217.28.146.253
+
+;; Query time: 1171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:08 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 822
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	65.29.202.2
+advabnr.com.		600	IN	A	66.140.60.177
+advabnr.com.		600	IN	A	24.125.195.72
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	98.235.17.250
+advabnr.com.		600	IN	A	64.205.9.115
+advabnr.com.		600	IN	A	76.181.138.175
+advabnr.com.		600	IN	A	71.137.9.48
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	70.253.144.220
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	84.105.9.169
+
+;; AUTHORITY SECTION:
+advabnr.com.		154222	IN	NS	ns1.advabnr.com.
+advabnr.com.		154222	IN	NS	ns2.advabnr.com.
+advabnr.com.		154222	IN	NS	ns3.advabnr.com.
+advabnr.com.		154222	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	154222	IN	A	66.233.229.99
+ns2.advabnr.com.	154222	IN	A	89.228.212.197
+ns3.advabnr.com.	154222	IN	A	62.121.110.4
+ns4.advabnr.com.	154222	IN	A	217.28.146.253
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:35:27 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 671
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	125.195.89.237
+
+;; AUTHORITY SECTION:
+advabnr.com.		172800	IN	NS	ns1.advabnr.com.
+advabnr.com.		172800	IN	NS	ns2.advabnr.com.
+advabnr.com.		172800	IN	NS	ns3.advabnr.com.
+advabnr.com.		172800	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172800	IN	A	66.233.229.99
+ns2.advabnr.com.	172800	IN	A	89.228.212.197
+ns3.advabnr.com.	172800	IN	A	62.121.110.4
+ns4.advabnr.com.	172800	IN	A	217.28.146.253
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:54 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 113
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	71.134.213.120
+advabnr.com.		600	IN	A	82.42.189.145
+advabnr.com.		600	IN	A	76.97.149.29
+advabnr.com.		600	IN	A	82.3.106.140
+advabnr.com.		600	IN	A	80.189.11.165
+advabnr.com.		600	IN	A	24.179.47.251
+advabnr.com.		600	IN	A	76.177.167.69
+advabnr.com.		600	IN	A	68.186.155.120
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	98.197.176.224
+advabnr.com.		600	IN	A	64.205.9.115
+advabnr.com.		600	IN	A	72.241.121.187
+advabnr.com.		600	IN	A	76.97.143.24
+advabnr.com.		600	IN	A	99.180.246.157
+
+;; AUTHORITY SECTION:
+advabnr.com.		141480	IN	NS	ns1.advabnr.com.
+advabnr.com.		141480	IN	NS	ns2.advabnr.com.
+advabnr.com.		141480	IN	NS	ns3.advabnr.com.
+advabnr.com.		141480	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	141480	IN	A	66.233.229.99
+ns2.advabnr.com.	141480	IN	A	89.228.212.197
+ns3.advabnr.com.	141480	IN	A	62.121.110.4
+ns4.advabnr.com.	141480	IN	A	217.28.146.253
+
+;; Query time: 4125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:36 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whitehotdeals.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1263
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;whitehotdeals.com.		IN	A
+
+;; ANSWER SECTION:
+whitehotdeals.com.	600	IN	A	65.66.157.127
+whitehotdeals.com.	600	IN	A	64.205.9.115
+whitehotdeals.com.	600	IN	A	64.91.14.5
+whitehotdeals.com.	600	IN	A	76.97.149.29
+whitehotdeals.com.	600	IN	A	173.45.211.167
+whitehotdeals.com.	600	IN	A	76.177.167.69
+whitehotdeals.com.	600	IN	A	66.142.188.149
+whitehotdeals.com.	600	IN	A	99.149.193.50
+whitehotdeals.com.	600	IN	A	76.97.143.24
+whitehotdeals.com.	600	IN	A	24.179.47.251
+whitehotdeals.com.	600	IN	A	99.190.74.145
+whitehotdeals.com.	600	IN	A	69.154.199.76
+whitehotdeals.com.	600	IN	A	66.189.118.39
+whitehotdeals.com.	600	IN	A	71.195.144.64
+
+;; AUTHORITY SECTION:
+whitehotdeals.com.	172799	IN	NS	ns1.whitehotdeals.com.
+whitehotdeals.com.	172799	IN	NS	ns2.whitehotdeals.com.
+whitehotdeals.com.	172799	IN	NS	ns3.whitehotdeals.com.
+whitehotdeals.com.	172799	IN	NS	ns4.whitehotdeals.com.
+whitehotdeals.com.	172799	IN	NS	ns5.whitehotdeals.com.
+
+;; ADDITIONAL SECTION:
+ns1.whitehotdeals.com.	172799	IN	A	82.42.189.145
+ns2.whitehotdeals.com.	172799	IN	A	165.166.236.74
+ns3.whitehotdeals.com.	172799	IN	A	24.247.215.75
+ns4.whitehotdeals.com.	172799	IN	A	96.8.200.208
+ns5.whitehotdeals.com.	172799	IN	A	72.204.51.72
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:32 2009
+;; MSG SIZE  rcvd: 446
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdgppweg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1498
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sdgppweg.cn.			IN	A
+
+;; ANSWER SECTION:
+sdgppweg.cn.		180	IN	A	95.104.107.6
+sdgppweg.cn.		180	IN	A	116.123.33.27
+sdgppweg.cn.		180	IN	A	190.18.228.6
+sdgppweg.cn.		180	IN	A	220.80.173.118
+sdgppweg.cn.		180	IN	A	74.87.231.40
+sdgppweg.cn.		180	IN	A	77.120.77.50
+sdgppweg.cn.		180	IN	A	84.240.43.153
+sdgppweg.cn.		180	IN	A	89.147.118.51
+
+;; AUTHORITY SECTION:
+sdgppweg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+sdgppweg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+sdgppweg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+sdgppweg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	161828	IN	A	81.198.177.131
+ns1.bybwqdwq.com.	161828	IN	A	79.118.122.78
+ns2.bysfwqdwe.com.	161828	IN	A	217.26.171.29
+ns3.bysfwqdwe.com.	161828	IN	A	93.177.151.201
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:33 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pdwxghrg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1931
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;pdwxghrg.cn.			IN	A
+
+;; ANSWER SECTION:
+pdwxghrg.cn.		180	IN	A	220.80.173.118
+pdwxghrg.cn.		180	IN	A	74.87.231.40
+pdwxghrg.cn.		180	IN	A	77.120.77.50
+pdwxghrg.cn.		180	IN	A	84.240.43.153
+pdwxghrg.cn.		180	IN	A	89.147.118.51
+pdwxghrg.cn.		180	IN	A	95.104.107.6
+pdwxghrg.cn.		180	IN	A	116.123.33.27
+pdwxghrg.cn.		180	IN	A	190.18.228.6
+
+;; AUTHORITY SECTION:
+pdwxghrg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+pdwxghrg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+pdwxghrg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+pdwxghrg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	163314	IN	A	89.28.61.92
+ns4.bybwqdwq.com.	163274	IN	A	87.226.50.79
+ns1.bybwqdwq.com.	163274	IN	A	94.26.133.215
+ns2.bysfwqdwe.com.	163245	IN	A	93.72.27.156
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:34 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pdsgwdio.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 199
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;pdsgwdio.cn.			IN	A
+
+;; ANSWER SECTION:
+pdsgwdio.cn.		180	IN	A	74.87.231.40
+pdsgwdio.cn.		180	IN	A	77.120.77.50
+pdsgwdio.cn.		180	IN	A	84.240.43.153
+pdsgwdio.cn.		180	IN	A	89.147.118.51
+pdsgwdio.cn.		180	IN	A	95.104.107.6
+pdsgwdio.cn.		180	IN	A	116.123.33.27
+pdsgwdio.cn.		180	IN	A	190.18.228.6
+pdsgwdio.cn.		180	IN	A	220.80.173.118
+
+;; AUTHORITY SECTION:
+pdsgwdio.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+pdsgwdio.cn.		180	IN	NS	ns4.bybwqdwq.com.
+pdsgwdio.cn.		180	IN	NS	ns1.bybwqdwq.com.
+pdsgwdio.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	170778	IN	A	84.240.43.153
+ns4.bybwqdwq.com.	170628	IN	A	190.74.237.109
+ns1.bybwqdwq.com.	170628	IN	A	220.80.173.118
+ns2.bysfwqdwe.com.	170624	IN	A	89.147.118.51
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:34 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 isiwcbsg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 634
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;isiwcbsg.cn.			IN	A
+
+;; ANSWER SECTION:
+isiwcbsg.cn.		180	IN	A	77.120.77.50
+isiwcbsg.cn.		180	IN	A	84.240.43.153
+isiwcbsg.cn.		180	IN	A	89.147.118.51
+isiwcbsg.cn.		180	IN	A	95.104.107.6
+isiwcbsg.cn.		180	IN	A	116.123.33.27
+isiwcbsg.cn.		180	IN	A	190.18.228.6
+isiwcbsg.cn.		180	IN	A	220.80.173.118
+isiwcbsg.cn.		180	IN	A	74.87.231.40
+
+;; AUTHORITY SECTION:
+isiwcbsg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+isiwcbsg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+isiwcbsg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+isiwcbsg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	170243	IN	A	93.72.150.140
+ns1.bybwqdwq.com.	170212	IN	A	79.122.5.193
+ns2.bysfwqdwe.com.	170243	IN	A	121.169.39.244
+ns3.bysfwqdwe.com.	170243	IN	A	77.122.187.222
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:50 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ihdswdoo.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2045
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ihdswdoo.cn.			IN	A
+
+;; ANSWER SECTION:
+ihdswdoo.cn.		180	IN	A	190.18.228.6
+ihdswdoo.cn.		180	IN	A	220.80.173.118
+ihdswdoo.cn.		180	IN	A	74.87.231.40
+ihdswdoo.cn.		180	IN	A	77.120.77.50
+ihdswdoo.cn.		180	IN	A	84.240.43.153
+ihdswdoo.cn.		180	IN	A	89.147.118.51
+ihdswdoo.cn.		180	IN	A	95.104.107.6
+ihdswdoo.cn.		180	IN	A	116.123.33.27
+
+;; AUTHORITY SECTION:
+ihdswdoo.cn.		180	IN	NS	ns1.bybwqdwq.com.
+ihdswdoo.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+ihdswdoo.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+ihdswdoo.cn.		180	IN	NS	ns4.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns1.bybwqdwq.com.	170202	IN	A	79.122.5.193
+ns2.bysfwqdwe.com.	170233	IN	A	121.169.39.244
+ns3.bysfwqdwe.com.	170233	IN	A	77.122.187.222
+ns4.bybwqdwq.com.	170233	IN	A	93.72.150.140
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:36:01 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idicbdig.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 474
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idicbdig.cn.			IN	A
+
+;; ANSWER SECTION:
+idicbdig.cn.		180	IN	A	89.147.118.51
+idicbdig.cn.		180	IN	A	95.104.107.6
+idicbdig.cn.		180	IN	A	116.123.33.27
+idicbdig.cn.		180	IN	A	190.18.228.6
+idicbdig.cn.		180	IN	A	220.80.173.118
+idicbdig.cn.		180	IN	A	74.87.231.40
+idicbdig.cn.		180	IN	A	77.120.77.50
+idicbdig.cn.		180	IN	A	84.240.43.153
+
+;; AUTHORITY SECTION:
+idicbdig.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+idicbdig.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+idicbdig.cn.		180	IN	NS	ns4.bybwqdwq.com.
+idicbdig.cn.		180	IN	NS	ns1.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.bysfwqdwe.com.	170814	IN	A	79.122.13.164
+ns3.bysfwqdwe.com.	170814	IN	A	84.240.43.153
+ns4.bybwqdwq.com.	170814	IN	A	119.149.231.138
+ns1.bybwqdwq.com.	170814	IN	A	93.72.96.225
+
+;; Query time: 2812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:36:08 2009
+;; MSG SIZE  rcvd: 326
+
+

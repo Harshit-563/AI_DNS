@@ -1,0 +1,2116 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1606
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	68.163.69.147
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+modern-finding.com.	300	IN	A	75.147.221.65
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	206.58.200.170
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	97719	IN	A	75.41.185.57
+ns3.splendidfindings.com. 97719	IN	A	195.93.181.30
+ns4.magnifindings.com.	97719	IN	A	74.172.32.50
+ns1.verity-fresh.com.	97719	IN	A	72.77.145.3
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:19 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 573
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	76.113.188.200
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	68.163.69.147
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+modern-finding.com.	300	IN	A	75.147.221.65
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	66.36.215.230
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:42:23 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 423
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	76.113.188.200
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 921 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:12 2009
+;; MSG SIZE  rcvd: 310
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1751
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	69.198.5.210
+modern-finding.com.	300	IN	A	76.113.188.200
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:36:39 2009
+;; MSG SIZE  rcvd: 310
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1164
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	81.177.134.9
+modern-finding.com.	300	IN	A	206.104.100.29
+modern-finding.com.	300	IN	A	62.225.156.14
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	195.93.181.30
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:33 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 200
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	81.177.134.9
+modern-finding.com.	300	IN	A	206.104.100.29
+modern-finding.com.	300	IN	A	62.225.156.14
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:28 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 729
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	81.177.134.9
+modern-finding.com.	300	IN	A	206.104.100.29
+modern-finding.com.	300	IN	A	206.210.113.47
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	141082	IN	A	74.15.177.251
+ns3.splendidfindings.com. 141082 IN	A	66.161.148.148
+ns4.magnifindings.com.	141082	IN	A	74.172.32.50
+ns1.verity-fresh.com.	141082	IN	A	64.244.62.54
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:38 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 948
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	206.104.100.29
+modern-finding.com.	300	IN	A	206.210.113.47
+modern-finding.com.	300	IN	A	66.47.207.214
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+modern-finding.com.	300	IN	A	81.177.134.9
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:33 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1946
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	89.188.136.67
+modern-finding.com.	300	IN	A	206.104.100.29
+modern-finding.com.	300	IN	A	206.210.113.47
+modern-finding.com.	300	IN	A	66.47.207.214
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	81.177.134.9
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	138740	IN	A	74.15.177.251
+ns3.splendidfindings.com. 138740 IN	A	66.161.148.148
+ns4.magnifindings.com.	138740	IN	A	74.172.32.50
+ns1.verity-fresh.com.	138740	IN	A	64.244.62.54
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:39 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 832
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.97.106.69
+modern-finding.com.	300	IN	A	162.84.42.167
+modern-finding.com.	300	IN	A	200.223.178.16
+modern-finding.com.	300	IN	A	206.210.113.47
+modern-finding.com.	300	IN	A	213.120.254.75
+modern-finding.com.	300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:35:53 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1698
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	200.223.178.16
+modern-finding.com.	300	IN	A	206.210.113.47
+modern-finding.com.	300	IN	A	213.120.254.75
+modern-finding.com.	300	IN	A	71.0.225.4
+modern-finding.com.	300	IN	A	162.84.42.167
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:27 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 802
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	162.84.42.167
+modern-finding.com.	300	IN	A	69.50.218.12
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.172.32.50
+modern-finding.com.	300	IN	A	84.111.2.225
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	68.157.165.214
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:41 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 612
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	162.84.42.167
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.15.177.251
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 1187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:49 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1020
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	98.197.164.181
+modern-finding.com.	300	IN	A	58.186.12.179
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.15.177.251
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:09 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 432
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	216.226.133.199
+modern-finding.com.	300	IN	A	58.186.12.179
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:49 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1456
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	62.138.104.19
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+modern-finding.com.	300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	62.209.132.246
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:35:28 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 999
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+modern-finding.com.	300	IN	A	75.151.213.13
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	121.132.156.69
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:54 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 760
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	75.151.213.13
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	78.38.149.226
+
+;; Query time: 1421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:38 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1772
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	121.132.156.69
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:36:25 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1507
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	75.147.221.65
+modern-finding.com.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	149338	IN	A	99.24.1.248
+ns3.splendidfindings.com. 149338 IN	A	200.129.46.5
+ns4.magnifindings.com.	149338	IN	A	193.193.239.254
+ns1.verity-fresh.com.	149338	IN	A	74.44.82.40
+
+;; Query time: 1140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:35:46 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 742
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	168.32.84.147
+modern-finding.com.	300	IN	A	221.142.230.143
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	193.193.239.254
+ns1.verity-fresh.com.	172800	IN	A	200.7.17.180
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+
+;; Query time: 890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:55 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	168.32.84.147
+modern-finding.com.	300	IN	A	221.142.230.143
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+modern-finding.com.	300	IN	A	89.180.241.219
+modern-finding.com.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+modern-finding.com.	172799	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	172799	IN	NS	ns2.desistylish.com.
+modern-finding.com.	172799	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	172799	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	200.7.17.180
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	193.193.239.254
+
+;; Query time: 1453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 30 22:36:19 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 920
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	221.142.230.143
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	65.255.81.199
+modern-finding.com.	300	IN	A	85.35.237.155
+modern-finding.com.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+modern-finding.com.	172799	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	172799	IN	NS	ns2.desistylish.com.
+modern-finding.com.	172799	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	172799	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	193.95.98.238
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	193.193.239.254
+
+;; Query time: 1484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:18 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1421
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;loadingofjoy.cn.		IN	A
+
+;; ANSWER SECTION:
+loadingofjoy.cn.	300	IN	A	69.198.5.210
+loadingofjoy.cn.	300	IN	A	75.147.221.65
+loadingofjoy.cn.	300	IN	A	121.240.109.67
+loadingofjoy.cn.	300	IN	A	206.58.200.170
+loadingofjoy.cn.	300	IN	A	68.163.69.147
+loadingofjoy.cn.	300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+loadingofjoy.cn.	300	IN	NS	ns1.verity-fresh.com.
+loadingofjoy.cn.	300	IN	NS	ns2.desistylish.com.
+loadingofjoy.cn.	300	IN	NS	ns3.splendidfindings.com.
+loadingofjoy.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	152569	IN	A	72.77.145.3
+ns2.desistylish.com.	152569	IN	A	75.41.185.57
+ns3.splendidfindings.com. 152569 IN	A	195.93.181.30
+ns4.magnifindings.com.	152569	IN	A	74.172.32.50
+
+;; Query time: 4171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:33 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1360
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;loadingofjoy.cn.		IN	A
+
+;; ANSWER SECTION:
+loadingofjoy.cn.	300	IN	A	71.172.38.60
+loadingofjoy.cn.	300	IN	A	74.172.32.50
+loadingofjoy.cn.	300	IN	A	84.111.2.225
+loadingofjoy.cn.	300	IN	A	149.75.200.5
+loadingofjoy.cn.	300	IN	A	162.84.42.167
+loadingofjoy.cn.	300	IN	A	69.50.218.12
+
+;; AUTHORITY SECTION:
+loadingofjoy.cn.	300	IN	NS	ns4.magnifindings.com.
+loadingofjoy.cn.	300	IN	NS	ns1.verity-fresh.com.
+loadingofjoy.cn.	300	IN	NS	ns2.desistylish.com.
+loadingofjoy.cn.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172779	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172779	IN	A	68.157.165.214
+ns2.desistylish.com.	172779	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172779 IN	A	61.160.217.38
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:36:12 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 786
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;loadingofjoy.cn.		IN	A
+
+;; ANSWER SECTION:
+loadingofjoy.cn.	300	IN	A	74.172.32.50
+loadingofjoy.cn.	300	IN	A	98.197.164.181
+loadingofjoy.cn.	300	IN	A	58.186.12.179
+loadingofjoy.cn.	300	IN	A	71.172.38.60
+loadingofjoy.cn.	300	IN	A	74.15.177.251
+loadingofjoy.cn.	300	IN	A	74.44.82.40
+
+;; AUTHORITY SECTION:
+loadingofjoy.cn.	300	IN	NS	ns1.verity-fresh.com.
+loadingofjoy.cn.	300	IN	NS	ns2.desistylish.com.
+loadingofjoy.cn.	300	IN	NS	ns3.splendidfindings.com.
+loadingofjoy.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172774	IN	A	74.44.82.40
+ns2.desistylish.com.	172774	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172774 IN	A	61.160.217.38
+ns4.magnifindings.com.	172774	IN	A	74.172.32.50
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:34 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;loadingofjoy.cn.		IN	A
+
+;; ANSWER SECTION:
+loadingofjoy.cn.	300	IN	A	65.255.81.199
+loadingofjoy.cn.	300	IN	A	85.35.237.155
+loadingofjoy.cn.	300	IN	A	121.240.109.67
+loadingofjoy.cn.	300	IN	A	149.75.200.5
+loadingofjoy.cn.	300	IN	A	221.142.230.143
+loadingofjoy.cn.	300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+loadingofjoy.cn.	300	IN	NS	ns1.verity-fresh.com.
+loadingofjoy.cn.	300	IN	NS	ns2.desistylish.com.
+loadingofjoy.cn.	300	IN	NS	ns3.splendidfindings.com.
+loadingofjoy.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172789	IN	A	193.95.98.238
+ns2.desistylish.com.	172789	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172789 IN	A	200.129.46.5
+ns4.magnifindings.com.	172789	IN	A	193.193.239.254
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:28 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 649
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	206.58.200.170
+best-rx-onlinestore.com. 300	IN	A	68.163.69.147
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	75.147.221.65
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	146324	IN	A	72.77.145.3
+ns2.desistylish.com.	146324	IN	A	75.41.185.57
+ns3.splendidfindings.com. 146324 IN	A	195.93.181.30
+ns4.magnifindings.com.	146324	IN	A	74.172.32.50
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:33 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 575
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	75.147.221.65
+best-rx-onlinestore.com. 300	IN	A	76.113.188.200
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	68.163.69.147
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	66.36.215.230
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:43:15 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1940
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	76.113.188.200
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172794	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172794 IN	A	195.93.181.30
+ns4.magnifindings.com.	172794	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172794	IN	A	212.100.201.65
+
+;; Query time: 1031 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:45 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 987
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.183.220.16
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:15 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 404
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	195.93.181.30
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:39 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	81.177.134.9
+best-rx-onlinestore.com. 300	IN	A	206.104.100.29
+best-rx-onlinestore.com. 300	IN	A	62.225.156.14
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:36:05 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 575
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	81.177.134.9
+best-rx-onlinestore.com. 300	IN	A	206.104.100.29
+best-rx-onlinestore.com. 300	IN	A	62.225.156.14
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:29 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 0
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	81.177.134.9
+best-rx-onlinestore.com. 300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	138336	IN	A	64.244.62.54
+ns2.desistylish.com.	138335	IN	A	74.15.177.251
+ns3.splendidfindings.com. 138335 IN	A	66.161.148.148
+ns4.magnifindings.com.	138335	IN	A	74.172.32.50
+
+;; Query time: 937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:54 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1961
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	81.177.134.9
+best-rx-onlinestore.com. 300	IN	A	89.188.136.67
+best-rx-onlinestore.com. 300	IN	A	206.104.100.29
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	66.47.207.214
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:54 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 786
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	200.223.178.16
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	64.244.62.205
+best-rx-onlinestore.com. 300	IN	A	66.47.207.214
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	81.214.38.109
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:36:58 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 919
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+best-rx-onlinestore.com. 300	IN	A	71.97.106.69
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	200.223.178.16
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:36:54 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1894
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	213.120.254.75
+best-rx-onlinestore.com. 300	IN	A	71.0.225.4
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	200.223.178.16
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	157346	IN	A	74.15.177.251
+ns3.splendidfindings.com. 157346 IN	A	66.161.148.148
+ns4.magnifindings.com.	157346	IN	A	74.172.32.50
+ns1.verity-fresh.com.	157346	IN	A	64.244.62.54
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:36:29 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	213.120.254.75
+best-rx-onlinestore.com. 300	IN	A	70.91.121.99
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:15 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 891
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	70.91.121.99
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	94.28.81.206
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	69.94.112.190
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:44 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 861
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	94.78.231.116
+best-rx-onlinestore.com. 300	IN	A	70.91.121.99
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	84.111.2.225
+best-rx-onlinestore.com. 300	IN	A	94.28.81.206
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	69.94.112.190
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:36:27 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1540
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	84.111.2.225
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	69.50.218.12
+best-rx-onlinestore.com. 300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	65.171.124.38
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1399
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	84.111.2.225
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	69.50.218.12
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	68.157.165.214
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:36:12 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 366
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.15.177.251
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	89.180.116.199
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:36:22 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 652
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	162.84.42.167
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.15.177.251
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:36:36 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 990
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	58.186.12.179
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.15.177.251
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	98.197.164.181
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172778	IN	A	74.44.82.40
+ns2.desistylish.com.	172778	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172778 IN	A	61.160.217.38
+ns4.magnifindings.com.	172778	IN	A	74.172.32.50
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:41 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 874
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	216.226.133.199
+best-rx-onlinestore.com. 300	IN	A	58.186.12.179
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1071
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	62.138.104.19
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	62.209.132.246
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:36:14 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1465
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	75.151.213.13
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172771	IN	A	121.132.156.69
+ns3.splendidfindings.com. 172771 IN	A	200.129.46.5
+ns4.magnifindings.com.	172771	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172771	IN	A	74.44.82.40
+
+;; Query time: 3859 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:36:44 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 313
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+best-rx-onlinestore.com. 300	IN	A	66.155.114.139
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	121.132.156.69
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:36:41 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 274
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	75.147.221.65
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+best-rx-onlinestore.com. 300	IN	A	66.155.114.139
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	193.193.239.254
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:36:02 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1580
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	168.32.84.147
+best-rx-onlinestore.com. 300	IN	A	221.142.230.143
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+best-rx-onlinestore.com. 300	IN	A	66.155.114.139
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 172798	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172784	IN	A	200.7.17.180
+ns2.desistylish.com.	172784	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172784 IN	A	200.129.46.5
+ns4.magnifindings.com.	172784	IN	A	193.193.239.254
+
+;; Query time: 1453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:11 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 247
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	66.155.114.139
+best-rx-onlinestore.com. 300	IN	A	89.180.241.219
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	168.32.84.147
+best-rx-onlinestore.com. 300	IN	A	221.142.230.143
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 172798	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172798	IN	A	200.7.17.180
+ns2.desistylish.com.	172798	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172798 IN	A	200.129.46.5
+ns4.magnifindings.com.	172798	IN	A	193.193.239.254
+
+;; Query time: 1750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 30 22:36:36 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 486
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	65.255.81.199
+best-rx-onlinestore.com. 300	IN	A	85.35.237.155
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	221.142.230.143
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	193.95.98.238
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	193.193.239.254
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:29 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cippdgtt.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1664
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cippdgtt.cn.			IN	A
+
+;; ANSWER SECTION:
+cippdgtt.cn.		180	IN	A	85.186.112.236
+cippdgtt.cn.		180	IN	A	89.40.127.135
+cippdgtt.cn.		180	IN	A	89.134.75.251
+cippdgtt.cn.		180	IN	A	89.147.99.34
+cippdgtt.cn.		180	IN	A	92.115.42.33
+cippdgtt.cn.		180	IN	A	121.178.39.134
+cippdgtt.cn.		180	IN	A	62.84.51.128
+cippdgtt.cn.		180	IN	A	85.115.126.238
+
+;; AUTHORITY SECTION:
+cippdgtt.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+cippdgtt.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+cippdgtt.cn.		180	IN	NS	ns4.bybwqdwq.com.
+cippdgtt.cn.		180	IN	NS	ns1.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.bysfwqdwe.com.	154459	IN	A	84.3.80.3
+ns3.bysfwqdwe.com.	154459	IN	A	93.73.149.70
+ns4.bybwqdwq.com.	154459	IN	A	78.139.21.135
+ns1.bybwqdwq.com.	154230	IN	A	219.91.213.122
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:14 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fieopowc.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 584
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fieopowc.cn.			IN	A
+
+;; ANSWER SECTION:
+fieopowc.cn.		180	IN	A	85.115.126.238
+fieopowc.cn.		180	IN	A	85.186.112.236
+fieopowc.cn.		180	IN	A	89.40.127.135
+fieopowc.cn.		180	IN	A	89.134.75.251
+fieopowc.cn.		180	IN	A	89.147.99.34
+fieopowc.cn.		180	IN	A	92.115.42.33
+fieopowc.cn.		180	IN	A	121.178.39.134
+fieopowc.cn.		180	IN	A	62.84.51.128
+
+;; AUTHORITY SECTION:
+fieopowc.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+fieopowc.cn.		180	IN	NS	ns4.bybwqdwq.com.
+fieopowc.cn.		180	IN	NS	ns1.bybwqdwq.com.
+fieopowc.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	154459	IN	A	93.73.149.70
+ns4.bybwqdwq.com.	154459	IN	A	78.139.21.135
+ns1.bybwqdwq.com.	154230	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	154459	IN	A	84.3.80.3
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:15 2009
+;; MSG SIZE  rcvd: 326
+
+

@@ -1,0 +1,496 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 147
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;be-patriotic-minister.cn.	IN	A
+
+;; ANSWER SECTION:
+be-patriotic-minister.cn. 300	IN	A	75.33.18.196
+be-patriotic-minister.cn. 300	IN	A	213.120.254.75
+be-patriotic-minister.cn. 300	IN	A	64.238.223.93
+be-patriotic-minister.cn. 300	IN	A	69.123.116.89
+be-patriotic-minister.cn. 300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+be-patriotic-minister.cn. 300	IN	NS	ns3.answertruthful.com.
+be-patriotic-minister.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	115241	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 115241 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 115241 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 115241 IN A	200.129.46.5
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:54:25 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 416
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;be-patriotic-minister.cn.	IN	A
+
+;; ANSWER SECTION:
+be-patriotic-minister.cn. 300	IN	A	70.91.121.99
+be-patriotic-minister.cn. 300	IN	A	75.33.18.196
+be-patriotic-minister.cn. 300	IN	A	213.120.254.75
+be-patriotic-minister.cn. 300	IN	A	64.238.223.93
+be-patriotic-minister.cn. 300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+be-patriotic-minister.cn. 300	IN	NS	ns2.uniquest-professional.com.
+be-patriotic-minister.cn. 300	IN	NS	ns3.answertruthful.com.
+be-patriotic-minister.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 155380 IN A	200.129.46.5
+ns3.answertruthful.com.	155380	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 155380 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 155380 IN	A	66.155.114.139
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:35:59 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 957
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;be-patriotic-minister.cn.	IN	A
+
+;; ANSWER SECTION:
+be-patriotic-minister.cn. 300	IN	A	85.35.237.155
+be-patriotic-minister.cn. 300	IN	A	69.123.116.89
+be-patriotic-minister.cn. 300	IN	A	70.91.121.99
+be-patriotic-minister.cn. 300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+be-patriotic-minister.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns2.uniquest-professional.com.
+be-patriotic-minister.cn. 300	IN	NS	ns3.answertruthful.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 119351 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 119351 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 119351 IN A	200.129.46.5
+ns3.answertruthful.com.	119351	IN	A	201.232.59.145
+
+;; Query time: 1187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:51 2009
+;; MSG SIZE  rcvd: 343
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 727
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;be-patriotic-minister.cn.	IN	A
+
+;; ANSWER SECTION:
+be-patriotic-minister.cn. 300	IN	A	69.123.116.89
+be-patriotic-minister.cn. 300	IN	A	70.91.121.99
+be-patriotic-minister.cn. 300	IN	A	75.33.18.196
+be-patriotic-minister.cn. 300	IN	A	205.206.249.117
+be-patriotic-minister.cn. 300	IN	A	67.230.49.229
+
+;; AUTHORITY SECTION:
+be-patriotic-minister.cn. 300	IN	NS	ns3.answertruthful.com.
+be-patriotic-minister.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	172800	IN	A	66.96.136.67
+ns4.uniquest-pedagogue.com. 160945 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 172800 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 172800 IN A	82.201.196.42
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:37:07 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 be-patriotic-minister.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1136
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;be-patriotic-minister.cn.	IN	A
+
+;; ANSWER SECTION:
+be-patriotic-minister.cn. 300	IN	A	75.33.18.196
+be-patriotic-minister.cn. 300	IN	A	121.240.109.67
+be-patriotic-minister.cn. 300	IN	A	206.248.77.170
+be-patriotic-minister.cn. 300	IN	A	12.184.45.88
+be-patriotic-minister.cn. 300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+be-patriotic-minister.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+be-patriotic-minister.cn. 300	IN	NS	ns2.uniquest-professional.com.
+be-patriotic-minister.cn. 300	IN	NS	ns3.answertruthful.com.
+be-patriotic-minister.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 126861 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 126861 IN A	170.94.200.137
+ns3.answertruthful.com.	126861	IN	A	208.106.153.67
+ns4.uniquest-pedagogue.com. 126861 IN	A	208.123.228.6
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:53 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 filmnavy.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;filmnavy.com.			IN	A
+
+;; ANSWER SECTION:
+filmnavy.com.		1800	IN	A	207.29.228.43
+filmnavy.com.		1800	IN	A	207.29.228.44
+filmnavy.com.		1800	IN	A	207.29.228.45
+filmnavy.com.		1800	IN	A	207.29.228.41
+filmnavy.com.		1800	IN	A	207.29.228.42
+
+;; AUTHORITY SECTION:
+filmnavy.com.		3600	IN	NS	dns1.name-services.com.
+filmnavy.com.		3600	IN	NS	dns2.name-services.com.
+filmnavy.com.		3600	IN	NS	dns3.name-services.com.
+filmnavy.com.		3600	IN	NS	dns4.name-services.com.
+filmnavy.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	155810	IN	A	98.124.192.1
+dns2.name-services.com.	155810	IN	A	69.64.157.18
+dns3.name-services.com.	155810	IN	A	98.124.193.1
+dns4.name-services.com.	155810	IN	A	69.64.145.225
+dns5.name-services.com.	155810	IN	A	70.42.37.7
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:29 2009
+;; MSG SIZE  rcvd: 311
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 promiselandsearched4all.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1340
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;promiselandsearched4all.cn.	IN	A
+
+;; ANSWER SECTION:
+promiselandsearched4all.cn. 300	IN	A	68.163.69.147
+promiselandsearched4all.cn. 300	IN	A	205.206.249.117
+promiselandsearched4all.cn. 300	IN	A	206.248.77.170
+promiselandsearched4all.cn. 300	IN	A	210.211.174.77
+promiselandsearched4all.cn. 300	IN	A	221.142.230.143
+
+;; AUTHORITY SECTION:
+promiselandsearched4all.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+promiselandsearched4all.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+promiselandsearched4all.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+promiselandsearched4all.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+
+;; ADDITIONAL SECTION:
+ns4.forever-honorary-leaf.com. 161623 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 161623 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 161623 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 161623 IN	A	121.247.160.242
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:34 2009
+;; MSG SIZE  rcvd: 368
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 possessing-vivid-court.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 953
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;possessing-vivid-court.cn.	IN	A
+
+;; ANSWER SECTION:
+possessing-vivid-court.cn. 300	IN	A	210.211.174.77
+possessing-vivid-court.cn. 300	IN	A	221.142.230.143
+possessing-vivid-court.cn. 300	IN	A	68.163.69.147
+possessing-vivid-court.cn. 300	IN	A	205.206.249.117
+possessing-vivid-court.cn. 300	IN	A	206.248.77.170
+
+;; AUTHORITY SECTION:
+possessing-vivid-court.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+possessing-vivid-court.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+possessing-vivid-court.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+possessing-vivid-court.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+
+;; ADDITIONAL SECTION:
+ns1.freshgoldinbloom.com. 117224 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 117224 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 117224 IN	A	121.247.160.242
+ns4.forever-honorary-leaf.com. 117224 IN A	68.205.227.90
+
+;; Query time: 1375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:36 2009
+;; MSG SIZE  rcvd: 366
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cherishcontemplatingwithus.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 479
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cherishcontemplatingwithus.cn.	IN	A
+
+;; ANSWER SECTION:
+cherishcontemplatingwithus.cn. 300 IN	A	68.163.69.147
+cherishcontemplatingwithus.cn. 300 IN	A	205.206.249.117
+cherishcontemplatingwithus.cn. 300 IN	A	206.248.77.170
+cherishcontemplatingwithus.cn. 300 IN	A	210.211.174.77
+cherishcontemplatingwithus.cn. 300 IN	A	221.142.230.143
+
+;; AUTHORITY SECTION:
+cherishcontemplatingwithus.cn. 300 IN	NS	ns1.freshgoldinbloom.com.
+cherishcontemplatingwithus.cn. 300 IN	NS	ns2.forever-endless-trip.com.
+cherishcontemplatingwithus.cn. 300 IN	NS	ns3.foreverendlesstree.com.
+cherishcontemplatingwithus.cn. 300 IN	NS	ns4.forever-honorary-leaf.com.
+
+;; ADDITIONAL SECTION:
+ns1.freshgoldinbloom.com. 125622 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 125622 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 125622 IN	A	121.247.160.242
+ns4.forever-honorary-leaf.com. 125622 IN A	68.205.227.90
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:36 2009
+;; MSG SIZE  rcvd: 374
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 totally-whatwe-need.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1929
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;totally-whatwe-need.cn.		IN	A
+
+;; ANSWER SECTION:
+totally-whatwe-need.cn.	300	IN	A	210.211.174.77
+totally-whatwe-need.cn.	300	IN	A	221.142.230.143
+totally-whatwe-need.cn.	300	IN	A	68.163.69.147
+totally-whatwe-need.cn.	300	IN	A	205.206.249.117
+totally-whatwe-need.cn.	300	IN	A	206.248.77.170
+
+;; AUTHORITY SECTION:
+totally-whatwe-need.cn.	300	IN	NS	ns1.freshgoldinbloom.com.
+totally-whatwe-need.cn.	300	IN	NS	ns2.forever-endless-trip.com.
+totally-whatwe-need.cn.	300	IN	NS	ns3.foreverendlesstree.com.
+totally-whatwe-need.cn.	300	IN	NS	ns4.forever-honorary-leaf.com.
+
+;; ADDITIONAL SECTION:
+ns1.freshgoldinbloom.com. 166339 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 166339 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 166339 IN	A	121.247.160.242
+ns4.forever-honorary-leaf.com. 166339 IN A	68.205.227.90
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:37 2009
+;; MSG SIZE  rcvd: 360
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 visitingvividfocus.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 833
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;visitingvividfocus.cn.		IN	A
+
+;; ANSWER SECTION:
+visitingvividfocus.cn.	300	IN	A	221.142.230.143
+visitingvividfocus.cn.	300	IN	A	68.163.69.147
+visitingvividfocus.cn.	300	IN	A	205.206.249.117
+visitingvividfocus.cn.	300	IN	A	206.248.77.170
+visitingvividfocus.cn.	300	IN	A	210.211.174.77
+
+;; AUTHORITY SECTION:
+visitingvividfocus.cn.	300	IN	NS	ns2.forever-endless-trip.com.
+visitingvividfocus.cn.	300	IN	NS	ns3.foreverendlesstree.com.
+visitingvividfocus.cn.	300	IN	NS	ns4.forever-honorary-leaf.com.
+visitingvividfocus.cn.	300	IN	NS	ns1.freshgoldinbloom.com.
+
+;; ADDITIONAL SECTION:
+ns2.forever-endless-trip.com. 138822 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 138822 IN	A	121.247.160.242
+ns4.forever-honorary-leaf.com. 138822 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 138822 IN	A	216.77.50.10
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:37 2009
+;; MSG SIZE  rcvd: 358
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 extend-thinking-online.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 128
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;extend-thinking-online.cn.	IN	A
+
+;; ANSWER SECTION:
+extend-thinking-online.cn. 300	IN	A	205.206.249.117
+extend-thinking-online.cn. 300	IN	A	206.248.77.170
+extend-thinking-online.cn. 300	IN	A	210.211.174.77
+extend-thinking-online.cn. 300	IN	A	221.142.230.143
+extend-thinking-online.cn. 300	IN	A	68.163.69.147
+
+;; AUTHORITY SECTION:
+extend-thinking-online.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+extend-thinking-online.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+extend-thinking-online.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+extend-thinking-online.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+
+;; ADDITIONAL SECTION:
+ns4.forever-honorary-leaf.com. 131621 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 131621 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 131621 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 131621 IN	A	121.247.160.242
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:37 2009
+;; MSG SIZE  rcvd: 366
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 isociety-4cyber-honor.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 173
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;isociety-4cyber-honor.cn.	IN	A
+
+;; ANSWER SECTION:
+isociety-4cyber-honor.cn. 300	IN	A	205.206.249.117
+isociety-4cyber-honor.cn. 300	IN	A	206.248.77.170
+isociety-4cyber-honor.cn. 300	IN	A	210.211.174.77
+isociety-4cyber-honor.cn. 300	IN	A	221.142.230.143
+isociety-4cyber-honor.cn. 300	IN	A	68.163.69.147
+
+;; AUTHORITY SECTION:
+isociety-4cyber-honor.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+isociety-4cyber-honor.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+isociety-4cyber-honor.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+isociety-4cyber-honor.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+
+;; ADDITIONAL SECTION:
+ns2.forever-endless-trip.com. 166343 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 166343 IN	A	121.247.160.242
+ns4.forever-honorary-leaf.com. 166343 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 166343 IN	A	216.77.50.10
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:38 2009
+;; MSG SIZE  rcvd: 364
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovely-enjoyment-wecare.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 527
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lovely-enjoyment-wecare.cn.	IN	A
+
+;; ANSWER SECTION:
+lovely-enjoyment-wecare.cn. 300	IN	A	205.206.249.117
+lovely-enjoyment-wecare.cn. 300	IN	A	206.248.77.170
+lovely-enjoyment-wecare.cn. 300	IN	A	210.211.174.77
+lovely-enjoyment-wecare.cn. 300	IN	A	221.142.230.143
+lovely-enjoyment-wecare.cn. 300	IN	A	68.163.69.147
+
+;; AUTHORITY SECTION:
+lovely-enjoyment-wecare.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+lovely-enjoyment-wecare.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+lovely-enjoyment-wecare.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+lovely-enjoyment-wecare.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+
+;; ADDITIONAL SECTION:
+ns4.forever-honorary-leaf.com. 112420 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 112420 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 112420 IN	A	75.41.185.57
+ns3.foreverendlesstree.com. 112420 IN	A	121.247.160.242
+
+;; Query time: 1984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:40 2009
+;; MSG SIZE  rcvd: 368
+
+

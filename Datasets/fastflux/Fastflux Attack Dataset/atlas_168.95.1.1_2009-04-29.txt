@@ -1,0 +1,76 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dssidgot.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 884
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dssidgot.cn.			IN	A
+
+;; ANSWER SECTION:
+dssidgot.cn.		180	IN	A	93.170.73.22
+dssidgot.cn.		180	IN	A	93.175.203.190
+dssidgot.cn.		180	IN	A	121.136.134.112
+dssidgot.cn.		180	IN	A	190.18.242.154
+dssidgot.cn.		180	IN	A	62.43.122.28
+dssidgot.cn.		180	IN	A	72.189.39.107
+dssidgot.cn.		180	IN	A	85.122.59.130
+dssidgot.cn.		180	IN	A	86.106.61.135
+
+;; AUTHORITY SECTION:
+dssidgot.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+dssidgot.cn.		180	IN	NS	ns4.bybwqdwq.com.
+dssidgot.cn.		180	IN	NS	ns1.bybwqdwq.com.
+dssidgot.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	138721	IN	A	84.3.80.3
+ns4.bybwqdwq.com.	138763	IN	A	123.237.143.202
+ns1.bybwqdwq.com.	138773	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	138762	IN	A	168.131.231.132
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:47 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdegdgrg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 291
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sdegdgrg.cn.			IN	A
+
+;; ANSWER SECTION:
+sdegdgrg.cn.		180	IN	A	190.18.242.154
+sdegdgrg.cn.		180	IN	A	62.43.122.28
+sdegdgrg.cn.		180	IN	A	72.189.39.107
+sdegdgrg.cn.		180	IN	A	85.122.59.130
+sdegdgrg.cn.		180	IN	A	86.106.61.135
+sdegdgrg.cn.		180	IN	A	93.170.73.22
+sdegdgrg.cn.		180	IN	A	93.175.203.190
+sdegdgrg.cn.		180	IN	A	121.136.134.112
+
+;; AUTHORITY SECTION:
+sdegdgrg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+sdegdgrg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+sdegdgrg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+sdegdgrg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	137463	IN	A	128.134.125.183
+ns1.bybwqdwq.com.	137337	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	138361	IN	A	93.177.153.44
+ns3.bysfwqdwe.com.	137478	IN	A	123.237.143.202
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:48 2009
+;; MSG SIZE  rcvd: 326
+
+

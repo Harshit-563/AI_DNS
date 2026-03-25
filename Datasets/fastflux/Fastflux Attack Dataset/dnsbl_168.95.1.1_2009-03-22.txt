@@ -1,0 +1,313 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1493
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	71.100.197.224
+1jjhl.com.		1800	IN	A	79.165.29.215
+1jjhl.com.		1800	IN	A	80.7.18.200
+1jjhl.com.		1800	IN	A	80.179.195.144
+1jjhl.com.		1800	IN	A	84.121.116.138
+1jjhl.com.		1800	IN	A	84.126.29.51
+1jjhl.com.		1800	IN	A	88.156.177.237
+1jjhl.com.		1800	IN	A	88.173.85.170
+1jjhl.com.		1800	IN	A	89.46.59.20
+1jjhl.com.		1800	IN	A	98.234.74.152
+1jjhl.com.		1800	IN	A	114.181.192.34
+1jjhl.com.		1800	IN	A	121.84.118.16
+1jjhl.com.		1800	IN	A	190.7.131.253
+1jjhl.com.		1800	IN	A	200.73.229.212
+1jjhl.com.		1800	IN	A	208.120.237.132
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+
+;; ADDITIONAL SECTION:
+ns1.blokservise.net.	93293	IN	A	85.25.165.57
+ns1.offiseincite.com.	93293	IN	A	67.215.242.137
+ns2.blokservise.net.	93293	IN	A	65.135.99.23
+ns2.offiseincite.com.	93305	IN	A	69.135.99.213
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:41:29 2009
+;; MSG SIZE  rcvd: 440
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1478
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	88.173.85.170
+1jjhl.com.		1800	IN	A	89.46.59.20
+1jjhl.com.		1800	IN	A	98.234.74.152
+1jjhl.com.		1800	IN	A	114.181.192.34
+1jjhl.com.		1800	IN	A	121.84.118.16
+1jjhl.com.		1800	IN	A	190.7.131.253
+1jjhl.com.		1800	IN	A	200.73.229.212
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	71.100.197.224
+1jjhl.com.		1800	IN	A	79.165.29.215
+1jjhl.com.		1800	IN	A	80.7.18.200
+1jjhl.com.		1800	IN	A	80.179.195.144
+1jjhl.com.		1800	IN	A	84.121.116.138
+1jjhl.com.		1800	IN	A	84.126.29.51
+1jjhl.com.		1800	IN	A	88.156.177.237
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+
+;; ADDITIONAL SECTION:
+ns2.blokservise.net.	152764	IN	A	65.135.99.23
+ns2.offiseincite.com.	157374	IN	A	69.135.99.213
+ns1.blokservise.net.	152764	IN	A	85.25.165.57
+ns1.offiseincite.com.	157374	IN	A	67.215.242.137
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:41:39 2009
+;; MSG SIZE  rcvd: 440
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1951
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	84.121.116.138
+1jjhl.com.		1800	IN	A	84.126.29.51
+1jjhl.com.		1800	IN	A	88.156.177.237
+1jjhl.com.		1800	IN	A	88.173.85.170
+1jjhl.com.		1800	IN	A	89.46.59.20
+1jjhl.com.		1800	IN	A	98.234.74.152
+1jjhl.com.		1800	IN	A	114.181.192.34
+1jjhl.com.		1800	IN	A	121.84.118.16
+1jjhl.com.		1800	IN	A	190.7.131.253
+1jjhl.com.		1800	IN	A	200.73.229.212
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	71.100.197.224
+1jjhl.com.		1800	IN	A	79.165.29.215
+1jjhl.com.		1800	IN	A	80.7.18.200
+1jjhl.com.		1800	IN	A	80.179.195.144
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+
+;; ADDITIONAL SECTION:
+ns1.offiseincite.com.	119821	IN	A	67.215.242.137
+ns2.blokservise.net.	119821	IN	A	65.135.99.23
+ns2.offiseincite.com.	120152	IN	A	69.135.99.213
+ns1.blokservise.net.	119821	IN	A	85.25.165.57
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:42:24 2009
+;; MSG SIZE  rcvd: 440
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 950
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	121.84.118.16
+1jjhl.com.		1800	IN	A	190.7.131.253
+1jjhl.com.		1800	IN	A	200.73.229.212
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	71.100.197.224
+1jjhl.com.		1800	IN	A	79.165.29.215
+1jjhl.com.		1800	IN	A	80.7.18.200
+1jjhl.com.		1800	IN	A	80.179.195.144
+1jjhl.com.		1800	IN	A	84.121.116.138
+1jjhl.com.		1800	IN	A	84.126.29.51
+1jjhl.com.		1800	IN	A	88.156.177.237
+1jjhl.com.		1800	IN	A	88.173.85.170
+1jjhl.com.		1800	IN	A	89.46.59.20
+1jjhl.com.		1800	IN	A	98.234.74.152
+1jjhl.com.		1800	IN	A	114.181.192.34
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+
+;; ADDITIONAL SECTION:
+ns1.blokservise.net.	113221	IN	A	85.25.165.57
+ns1.offiseincite.com.	113221	IN	A	67.215.242.137
+ns2.offiseincite.com.	120117	IN	A	69.135.99.213
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:45:12 2009
+;; MSG SIZE  rcvd: 424
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1785
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	98.234.74.152
+1jjhl.com.		1800	IN	A	114.181.192.34
+1jjhl.com.		1800	IN	A	121.84.118.16
+1jjhl.com.		1800	IN	A	190.7.131.253
+1jjhl.com.		1800	IN	A	200.73.229.212
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	71.100.197.224
+1jjhl.com.		1800	IN	A	79.165.29.215
+1jjhl.com.		1800	IN	A	80.7.18.200
+1jjhl.com.		1800	IN	A	80.179.195.144
+1jjhl.com.		1800	IN	A	84.121.116.138
+1jjhl.com.		1800	IN	A	84.126.29.51
+1jjhl.com.		1800	IN	A	88.156.177.237
+1jjhl.com.		1800	IN	A	88.173.85.170
+1jjhl.com.		1800	IN	A	89.46.59.20
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+
+;; ADDITIONAL SECTION:
+ns2.blokservise.net.	110933	IN	A	65.135.99.23
+ns2.offiseincite.com.	152505	IN	A	69.135.99.213
+ns1.blokservise.net.	110933	IN	A	85.25.165.57
+ns1.offiseincite.com.	110933	IN	A	67.215.242.137
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:45:57 2009
+;; MSG SIZE  rcvd: 440
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1665
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	95.25.31.166
+1jjhl.com.		1800	IN	A	151.199.54.100
+1jjhl.com.		1800	IN	A	173.24.102.179
+1jjhl.com.		1800	IN	A	200.109.34.163
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	24.241.49.40
+1jjhl.com.		1800	IN	A	38.102.19.237
+1jjhl.com.		1800	IN	A	66.61.12.217
+1jjhl.com.		1800	IN	A	76.78.215.254
+1jjhl.com.		1800	IN	A	76.112.127.192
+1jjhl.com.		1800	IN	A	82.42.170.97
+1jjhl.com.		1800	IN	A	84.21.24.12
+1jjhl.com.		1800	IN	A	88.156.177.237
+1jjhl.com.		1800	IN	A	91.89.41.164
+1jjhl.com.		1800	IN	A	94.248.143.176
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+
+;; ADDITIONAL SECTION:
+ns1.offiseincite.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:48:26 2009
+;; MSG SIZE  rcvd: 392
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1jjhl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 216
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1jjhl.com.			IN	A
+
+;; ANSWER SECTION:
+1jjhl.com.		1800	IN	A	91.89.41.164
+1jjhl.com.		1800	IN	A	94.248.143.176
+1jjhl.com.		1800	IN	A	95.25.31.166
+1jjhl.com.		1800	IN	A	151.199.54.100
+1jjhl.com.		1800	IN	A	173.24.102.179
+1jjhl.com.		1800	IN	A	200.109.34.163
+1jjhl.com.		1800	IN	A	208.120.237.132
+1jjhl.com.		1800	IN	A	24.241.49.40
+1jjhl.com.		1800	IN	A	38.102.19.237
+1jjhl.com.		1800	IN	A	66.61.12.217
+1jjhl.com.		1800	IN	A	76.78.215.254
+1jjhl.com.		1800	IN	A	76.112.127.192
+1jjhl.com.		1800	IN	A	82.42.170.97
+1jjhl.com.		1800	IN	A	84.21.24.12
+1jjhl.com.		1800	IN	A	88.156.177.237
+
+;; AUTHORITY SECTION:
+1jjhl.com.		1800	IN	NS	ns1.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.blokservise.net.
+1jjhl.com.		1800	IN	NS	ns2.offiseincite.com.
+1jjhl.com.		1800	IN	NS	ns1.offiseincite.com.
+
+;; ADDITIONAL SECTION:
+ns1.offiseincite.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:48:45 2009
+;; MSG SIZE  rcvd: 392
+
+

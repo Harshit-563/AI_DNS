@@ -1,0 +1,898 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1149
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	221.127.240.202
+lfiledirf1.com.		1800	IN	A	76.205.124.247
+lfiledirf1.com.		1800	IN	A	79.117.94.222
+lfiledirf1.com.		1800	IN	A	79.165.92.3
+lfiledirf1.com.		1800	IN	A	82.17.143.25
+lfiledirf1.com.		1800	IN	A	84.61.231.124
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	87.224.218.249
+lfiledirf1.com.		1800	IN	A	91.89.111.68
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	92.249.214.71
+lfiledirf1.com.		1800	IN	A	190.45.132.118
+lfiledirf1.com.		1800	IN	A	201.83.159.53
+lfiledirf1.com.		1800	IN	A	203.67.167.55
+lfiledirf1.com.		1800	IN	A	213.231.105.17
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	144948	IN	A	207.150.183.192
+ns1.securitycheckings.net. 144948 IN	A	207.150.183.192
+ns2.citis-group.com.	145001	IN	A	87.151.74.31
+ns2.securitycheckings.net. 144948 IN	A	92.225.119.21
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:16 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1602
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	84.61.231.124
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	87.224.218.249
+lfiledirf1.com.		1800	IN	A	91.89.111.68
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	92.249.214.71
+lfiledirf1.com.		1800	IN	A	190.45.132.118
+lfiledirf1.com.		1800	IN	A	201.83.159.53
+lfiledirf1.com.		1800	IN	A	203.67.167.55
+lfiledirf1.com.		1800	IN	A	213.231.105.17
+lfiledirf1.com.		1800	IN	A	221.127.240.202
+lfiledirf1.com.		1800	IN	A	76.205.124.247
+lfiledirf1.com.		1800	IN	A	79.117.94.222
+lfiledirf1.com.		1800	IN	A	79.165.92.3
+lfiledirf1.com.		1800	IN	A	82.17.143.25
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 152697 IN	A	92.225.119.21
+ns1.citis-group.com.	152697	IN	A	207.150.183.192
+ns1.securitycheckings.net. 152697 IN	A	207.150.183.192
+ns2.citis-group.com.	152697	IN	A	87.151.74.31
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:36:35 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 244
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	190.45.132.118
+lfiledirf1.com.		1800	IN	A	201.83.159.53
+lfiledirf1.com.		1800	IN	A	203.67.167.55
+lfiledirf1.com.		1800	IN	A	213.231.105.17
+lfiledirf1.com.		1800	IN	A	221.127.240.202
+lfiledirf1.com.		1800	IN	A	76.205.124.247
+lfiledirf1.com.		1800	IN	A	79.117.94.222
+lfiledirf1.com.		1800	IN	A	79.165.92.3
+lfiledirf1.com.		1800	IN	A	82.17.143.25
+lfiledirf1.com.		1800	IN	A	84.61.231.124
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	87.224.218.249
+lfiledirf1.com.		1800	IN	A	91.89.111.68
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	92.249.214.71
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172800	IN	A	207.150.183.192
+ns1.securitycheckings.net. 172800 IN	A	207.150.183.192
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:37:06 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1195
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	203.67.167.55
+lfiledirf1.com.		1800	IN	A	213.231.105.17
+lfiledirf1.com.		1800	IN	A	221.127.240.202
+lfiledirf1.com.		1800	IN	A	76.205.124.247
+lfiledirf1.com.		1800	IN	A	79.117.94.222
+lfiledirf1.com.		1800	IN	A	79.165.92.3
+lfiledirf1.com.		1800	IN	A	82.17.143.25
+lfiledirf1.com.		1800	IN	A	84.61.231.124
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	87.224.218.249
+lfiledirf1.com.		1800	IN	A	91.89.111.68
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	92.249.214.71
+lfiledirf1.com.		1800	IN	A	190.45.132.118
+lfiledirf1.com.		1800	IN	A	201.83.159.53
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172800	IN	A	207.150.183.192
+ns1.securitycheckings.net. 171170 IN	A	207.150.183.192
+ns2.securitycheckings.net. 171170 IN	A	92.225.119.21
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:38:20 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 361
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	87.224.218.249
+lfiledirf1.com.		1800	IN	A	91.89.111.68
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	92.249.214.71
+lfiledirf1.com.		1800	IN	A	190.45.132.118
+lfiledirf1.com.		1800	IN	A	201.83.159.53
+lfiledirf1.com.		1800	IN	A	203.67.167.55
+lfiledirf1.com.		1800	IN	A	213.231.105.17
+lfiledirf1.com.		1800	IN	A	221.127.240.202
+lfiledirf1.com.		1800	IN	A	76.205.124.247
+lfiledirf1.com.		1800	IN	A	79.117.94.222
+lfiledirf1.com.		1800	IN	A	79.165.92.3
+lfiledirf1.com.		1800	IN	A	82.17.143.25
+lfiledirf1.com.		1800	IN	A	84.61.231.124
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	144871	IN	A	87.151.74.31
+ns2.securitycheckings.net. 144871 IN	A	92.225.119.21
+ns1.citis-group.com.	144871	IN	A	207.150.183.192
+ns1.securitycheckings.net. 144871 IN	A	207.150.183.192
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:41:44 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 450
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	135727	IN	A	87.151.74.31
+ns2.securitycheckings.net. 135727 IN	A	92.225.119.21
+ns1.citis-group.com.	135727	IN	A	207.150.183.192
+ns1.securitycheckings.net. 135727 IN	A	207.150.183.192
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:00 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 835
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	163285	IN	A	87.151.74.31
+ns2.securitycheckings.net. 163020 IN	A	92.225.119.21
+ns1.citis-group.com.	163020	IN	A	207.150.183.192
+ns1.securitycheckings.net. 163020 IN	A	207.150.183.192
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:32 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 450
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	166474	IN	A	207.150.183.192
+ns1.securitycheckings.net. 166474 IN	A	207.150.183.192
+ns2.citis-group.com.	166474	IN	A	87.151.74.31
+ns2.securitycheckings.net. 166474 IN	A	92.225.119.21
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:33 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1091
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 134119 IN	A	92.225.119.21
+ns1.citis-group.com.	134119	IN	A	207.150.183.192
+ns1.securitycheckings.net. 134119 IN	A	207.150.183.192
+ns2.citis-group.com.	134119	IN	A	87.151.74.31
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:33 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 202
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 138142 IN	A	92.225.119.21
+ns1.citis-group.com.	138142	IN	A	207.150.183.192
+ns1.securitycheckings.net. 138142 IN	A	207.150.183.192
+ns2.citis-group.com.	138142	IN	A	87.151.74.31
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:47 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 426
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 162877 IN	A	92.225.119.21
+ns1.citis-group.com.	162877	IN	A	207.150.183.192
+ns1.securitycheckings.net. 162877 IN	A	207.150.183.192
+ns2.citis-group.com.	162877	IN	A	87.151.74.31
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:28 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1561
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	152169	IN	A	87.151.74.31
+ns2.securitycheckings.net. 152169 IN	A	92.225.119.21
+ns1.citis-group.com.	152169	IN	A	207.150.183.192
+ns1.securitycheckings.net. 152169 IN	A	207.150.183.192
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:28 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 341
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 146098 IN	A	207.150.183.192
+ns2.citis-group.com.	146098	IN	A	87.151.74.31
+ns2.securitycheckings.net. 146098 IN	A	92.225.119.21
+ns1.citis-group.com.	146098	IN	A	207.150.183.192
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:28 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 93
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 159951 IN	A	92.225.119.21
+ns1.citis-group.com.	159951	IN	A	207.150.183.192
+ns1.securitycheckings.net. 159951 IN	A	207.150.183.192
+ns2.citis-group.com.	159951	IN	A	87.151.74.31
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:29 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1077
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 149097 IN	A	207.150.183.192
+ns2.citis-group.com.	149097	IN	A	87.151.74.31
+ns2.securitycheckings.net. 149097 IN	A	92.225.119.21
+ns1.citis-group.com.	149097	IN	A	207.150.183.192
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:30 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1906
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	159266	IN	A	207.150.183.192
+ns1.securitycheckings.net. 159266 IN	A	207.150.183.192
+ns2.citis-group.com.	159266	IN	A	87.151.74.31
+ns2.securitycheckings.net. 159266 IN	A	92.225.119.21
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:38 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 71
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	148932	IN	A	87.151.74.31
+ns2.securitycheckings.net. 148932 IN	A	92.225.119.21
+ns1.citis-group.com.	148932	IN	A	207.150.183.192
+ns1.securitycheckings.net. 148932 IN	A	207.150.183.192
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:39 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1620
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 163735 IN	A	207.150.183.192
+ns2.citis-group.com.	163735	IN	A	87.151.74.31
+ns2.securitycheckings.net. 163735 IN	A	92.225.119.21
+ns1.citis-group.com.	163735	IN	A	207.150.183.192
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:41 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1669
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 163219 IN	A	92.225.119.21
+ns1.citis-group.com.	163219	IN	A	207.150.183.192
+ns1.securitycheckings.net. 163219 IN	A	207.150.183.192
+ns2.citis-group.com.	163219	IN	A	87.151.74.31
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:41 2009
+;; MSG SIZE  rcvd: 455
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 276
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.com.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.com.		1800	IN	A	81.203.87.207
+lfiledirf1.com.		1800	IN	A	82.22.126.227
+lfiledirf1.com.		1800	IN	A	84.125.47.12
+lfiledirf1.com.		1800	IN	A	84.126.129.97
+lfiledirf1.com.		1800	IN	A	88.156.177.237
+lfiledirf1.com.		1800	IN	A	91.66.248.247
+lfiledirf1.com.		1800	IN	A	92.232.58.238
+lfiledirf1.com.		1800	IN	A	93.191.73.212
+lfiledirf1.com.		1800	IN	A	114.78.111.242
+lfiledirf1.com.		1800	IN	A	119.95.177.86
+lfiledirf1.com.		1800	IN	A	124.66.240.30
+lfiledirf1.com.		1800	IN	A	190.165.9.235
+lfiledirf1.com.		1800	IN	A	208.120.237.132
+lfiledirf1.com.		1800	IN	A	213.231.104.137
+lfiledirf1.com.		1800	IN	A	79.165.44.143
+
+;; AUTHORITY SECTION:
+lfiledirf1.com.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns2.securitycheckings.net.
+lfiledirf1.com.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	145068	IN	A	87.151.74.31
+ns2.securitycheckings.net. 145067 IN	A	92.225.119.21
+ns1.citis-group.com.	145067	IN	A	207.150.183.192
+ns1.securitycheckings.net. 145067 IN	A	207.150.183.192
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:39:31 2009
+;; MSG SIZE  rcvd: 455
+
+

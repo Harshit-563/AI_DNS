@@ -1,0 +1,449 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 rapidcashprovider.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 235
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;rapidcashprovider.com.		IN	A
+
+;; ANSWER SECTION:
+rapidcashprovider.com.	60	IN	A	209.167.6.154
+rapidcashprovider.com.	60	IN	A	209.167.6.153
+rapidcashprovider.com.	60	IN	A	209.167.6.152
+rapidcashprovider.com.	60	IN	A	209.167.6.151
+rapidcashprovider.com.	60	IN	A	209.167.6.150
+rapidcashprovider.com.	60	IN	A	209.167.6.14
+rapidcashprovider.com.	60	IN	A	209.167.6.13
+rapidcashprovider.com.	60	IN	A	209.167.6.12
+rapidcashprovider.com.	60	IN	A	209.167.6.11
+rapidcashprovider.com.	60	IN	A	209.167.6.170
+
+;; AUTHORITY SECTION:
+rapidcashprovider.com.	86400	IN	NS	udns2.ultradns.net.
+rapidcashprovider.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	38005	IN	A	204.74.101.1
+udns1.ultradns.net.	38005	IN	A	204.69.234.1
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:36:43 2009
+;; MSG SIZE  rcvd: 304
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 rapidcashprovider.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 168
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;rapidcashprovider.com.		IN	A
+
+;; ANSWER SECTION:
+rapidcashprovider.com.	60	IN	A	209.167.6.152
+rapidcashprovider.com.	60	IN	A	209.167.6.151
+rapidcashprovider.com.	60	IN	A	209.167.6.150
+rapidcashprovider.com.	60	IN	A	209.167.6.14
+rapidcashprovider.com.	60	IN	A	209.167.6.13
+rapidcashprovider.com.	60	IN	A	209.167.6.12
+rapidcashprovider.com.	60	IN	A	209.167.6.11
+rapidcashprovider.com.	60	IN	A	209.167.6.170
+rapidcashprovider.com.	60	IN	A	209.167.6.154
+rapidcashprovider.com.	60	IN	A	209.167.6.153
+
+;; AUTHORITY SECTION:
+rapidcashprovider.com.	86400	IN	NS	udns2.ultradns.net.
+rapidcashprovider.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	161781	IN	A	204.74.101.1
+udns1.ultradns.net.	161781	IN	A	204.69.234.1
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:58 2009
+;; MSG SIZE  rcvd: 304
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 simpledebtrelief.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 457
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;simpledebtrelief.com.		IN	A
+
+;; ANSWER SECTION:
+simpledebtrelief.com.	60	IN	A	209.167.6.12
+simpledebtrelief.com.	60	IN	A	209.167.6.11
+simpledebtrelief.com.	60	IN	A	209.167.6.170
+simpledebtrelief.com.	60	IN	A	209.167.6.154
+simpledebtrelief.com.	60	IN	A	209.167.6.153
+simpledebtrelief.com.	60	IN	A	209.167.6.152
+simpledebtrelief.com.	60	IN	A	209.167.6.151
+simpledebtrelief.com.	60	IN	A	209.167.6.150
+simpledebtrelief.com.	60	IN	A	209.167.6.14
+simpledebtrelief.com.	60	IN	A	209.167.6.13
+
+;; AUTHORITY SECTION:
+simpledebtrelief.com.	86400	IN	NS	udns2.ultradns.net.
+simpledebtrelief.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	149121	IN	A	204.74.101.1
+udns1.ultradns.net.	149121	IN	A	204.69.234.1
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:36:43 2009
+;; MSG SIZE  rcvd: 302
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 simpledebtrelief.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 957
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;simpledebtrelief.com.		IN	A
+
+;; ANSWER SECTION:
+simpledebtrelief.com.	60	IN	A	209.167.6.150
+simpledebtrelief.com.	60	IN	A	209.167.6.14
+simpledebtrelief.com.	60	IN	A	209.167.6.13
+simpledebtrelief.com.	60	IN	A	209.167.6.12
+simpledebtrelief.com.	60	IN	A	209.167.6.11
+simpledebtrelief.com.	60	IN	A	209.167.6.170
+simpledebtrelief.com.	60	IN	A	209.167.6.154
+simpledebtrelief.com.	60	IN	A	209.167.6.153
+simpledebtrelief.com.	60	IN	A	209.167.6.152
+simpledebtrelief.com.	60	IN	A	209.167.6.151
+
+;; AUTHORITY SECTION:
+simpledebtrelief.com.	86400	IN	NS	udns2.ultradns.net.
+simpledebtrelief.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	143660	IN	A	204.74.101.1
+udns1.ultradns.net.	143660	IN	A	204.69.234.1
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:58 2009
+;; MSG SIZE  rcvd: 302
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lfiledirf1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 720
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lfiledirf1.eu.			IN	A
+
+;; ANSWER SECTION:
+lfiledirf1.eu.		1800	IN	A	213.231.104.137
+lfiledirf1.eu.		1800	IN	A	79.165.44.143
+lfiledirf1.eu.		1800	IN	A	81.203.87.207
+lfiledirf1.eu.		1800	IN	A	82.22.126.227
+lfiledirf1.eu.		1800	IN	A	84.125.47.12
+lfiledirf1.eu.		1800	IN	A	84.126.129.97
+lfiledirf1.eu.		1800	IN	A	88.156.177.237
+lfiledirf1.eu.		1800	IN	A	91.66.248.247
+lfiledirf1.eu.		1800	IN	A	92.232.58.238
+lfiledirf1.eu.		1800	IN	A	93.191.73.212
+lfiledirf1.eu.		1800	IN	A	114.78.111.242
+lfiledirf1.eu.		1800	IN	A	119.95.177.86
+lfiledirf1.eu.		1800	IN	A	124.66.240.30
+lfiledirf1.eu.		1800	IN	A	190.165.9.235
+lfiledirf1.eu.		1800	IN	A	208.120.237.132
+
+;; AUTHORITY SECTION:
+lfiledirf1.eu.		1800	IN	NS	ns1.citis-group.com.
+lfiledirf1.eu.		1800	IN	NS	ns1.securitycheckings.net.
+lfiledirf1.eu.		1800	IN	NS	ns2.citis-group.com.
+lfiledirf1.eu.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	138849	IN	A	207.150.183.192
+ns1.securitycheckings.net. 138849 IN	A	207.150.183.192
+ns2.citis-group.com.	138850	IN	A	87.151.74.31
+ns2.securitycheckings.net. 138849 IN	A	92.225.119.21
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:21 2009
+;; MSG SIZE  rcvd: 456
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 gdidtrs.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1745
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;gdidtrs.eu.			IN	A
+
+;; ANSWER SECTION:
+gdidtrs.eu.		1800	IN	A	92.232.58.238
+gdidtrs.eu.		1800	IN	A	93.191.73.212
+gdidtrs.eu.		1800	IN	A	114.78.111.242
+gdidtrs.eu.		1800	IN	A	119.95.177.86
+gdidtrs.eu.		1800	IN	A	124.66.240.30
+gdidtrs.eu.		1800	IN	A	190.165.9.235
+gdidtrs.eu.		1800	IN	A	208.120.237.132
+gdidtrs.eu.		1800	IN	A	213.231.104.137
+gdidtrs.eu.		1800	IN	A	79.165.44.143
+gdidtrs.eu.		1800	IN	A	81.203.87.207
+gdidtrs.eu.		1800	IN	A	82.22.126.227
+gdidtrs.eu.		1800	IN	A	84.125.47.12
+gdidtrs.eu.		1800	IN	A	84.126.129.97
+gdidtrs.eu.		1800	IN	A	88.156.177.237
+gdidtrs.eu.		1800	IN	A	91.66.248.247
+
+;; AUTHORITY SECTION:
+gdidtrs.eu.		1800	IN	NS	ns2.citis-group.com.
+gdidtrs.eu.		1800	IN	NS	ns2.securitycheckings.net.
+gdidtrs.eu.		1800	IN	NS	ns1.citis-group.com.
+gdidtrs.eu.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	145235	IN	A	87.151.74.31
+ns2.securitycheckings.net. 130732 IN	A	92.225.119.21
+ns1.citis-group.com.	130732	IN	A	207.150.183.192
+ns1.securitycheckings.net. 130732 IN	A	207.150.183.192
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:21 2009
+;; MSG SIZE  rcvd: 450
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 gdidtrs.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 355
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;gdidtrs.com.			IN	A
+
+;; ANSWER SECTION:
+gdidtrs.com.		1800	IN	A	84.125.47.12
+gdidtrs.com.		1800	IN	A	84.126.129.97
+gdidtrs.com.		1800	IN	A	88.156.177.237
+gdidtrs.com.		1800	IN	A	91.66.248.247
+gdidtrs.com.		1800	IN	A	92.232.58.238
+gdidtrs.com.		1800	IN	A	93.191.73.212
+gdidtrs.com.		1800	IN	A	114.78.111.242
+gdidtrs.com.		1800	IN	A	119.95.177.86
+gdidtrs.com.		1800	IN	A	124.66.240.30
+gdidtrs.com.		1800	IN	A	190.165.9.235
+gdidtrs.com.		1800	IN	A	208.120.237.132
+gdidtrs.com.		1800	IN	A	213.231.104.137
+gdidtrs.com.		1800	IN	A	79.165.44.143
+gdidtrs.com.		1800	IN	A	81.203.87.207
+gdidtrs.com.		1800	IN	A	82.22.126.227
+
+;; AUTHORITY SECTION:
+gdidtrs.com.		1800	IN	NS	ns2.securitycheckings.net.
+gdidtrs.com.		1800	IN	NS	ns1.citis-group.com.
+gdidtrs.com.		1800	IN	NS	ns1.securitycheckings.net.
+gdidtrs.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 152355 IN	A	92.225.119.21
+ns1.citis-group.com.	152355	IN	A	207.150.183.192
+ns1.securitycheckings.net. 152355 IN	A	207.150.183.192
+ns2.citis-group.com.	152355	IN	A	87.151.74.31
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:22 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fsyyywgp.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1911
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fsyyywgp.cn.			IN	A
+
+;; ANSWER SECTION:
+fsyyywgp.cn.		180	IN	A	89.34.156.237
+fsyyywgp.cn.		180	IN	A	123.238.82.187
+fsyyywgp.cn.		180	IN	A	220.123.48.47
+fsyyywgp.cn.		180	IN	A	66.168.157.235
+fsyyywgp.cn.		180	IN	A	77.89.78.3
+fsyyywgp.cn.		180	IN	A	77.120.242.70
+fsyyywgp.cn.		180	IN	A	87.226.49.195
+fsyyywgp.cn.		180	IN	A	88.147.43.143
+
+;; AUTHORITY SECTION:
+fsyyywgp.cn.		180	IN	NS	ns3.cbhxswwq.com.
+fsyyywgp.cn.		180	IN	NS	ns4.ncibneww.com.
+fsyyywgp.cn.		180	IN	NS	ns1.cbhxswwq.com.
+fsyyywgp.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cbhxswwq.com.	142965	IN	A	89.45.2.52
+ns4.ncibneww.com.	140552	IN	A	84.3.181.83
+ns1.cbhxswwq.com.	140098	IN	A	79.121.23.125
+ns2.ncibneww.com.	140552	IN	A	93.72.74.103
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:22 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fdirt0s.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1692
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;fdirt0s.com.			IN	A
+
+;; ANSWER SECTION:
+fdirt0s.com.		1800	IN	A	81.203.87.207
+fdirt0s.com.		1800	IN	A	82.22.126.227
+fdirt0s.com.		1800	IN	A	84.125.47.12
+fdirt0s.com.		1800	IN	A	84.126.129.97
+fdirt0s.com.		1800	IN	A	88.156.177.237
+fdirt0s.com.		1800	IN	A	91.66.248.247
+fdirt0s.com.		1800	IN	A	92.232.58.238
+fdirt0s.com.		1800	IN	A	93.191.73.212
+fdirt0s.com.		1800	IN	A	114.78.111.242
+fdirt0s.com.		1800	IN	A	119.95.177.86
+fdirt0s.com.		1800	IN	A	124.66.240.30
+fdirt0s.com.		1800	IN	A	190.165.9.235
+fdirt0s.com.		1800	IN	A	208.120.237.132
+fdirt0s.com.		1800	IN	A	213.231.104.137
+fdirt0s.com.		1800	IN	A	79.165.44.143
+
+;; AUTHORITY SECTION:
+fdirt0s.com.		1800	IN	NS	ns2.securitycheckings.net.
+fdirt0s.com.		1800	IN	NS	ns1.citis-group.com.
+fdirt0s.com.		1800	IN	NS	ns1.securitycheckings.net.
+fdirt0s.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172799	IN	A	207.150.183.192
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:23 2009
+;; MSG SIZE  rcvd: 401
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cdcontg1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 464
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cdcontg1.eu.			IN	A
+
+;; ANSWER SECTION:
+cdcontg1.eu.		1800	IN	A	81.203.87.207
+cdcontg1.eu.		1800	IN	A	82.22.126.227
+cdcontg1.eu.		1800	IN	A	84.125.47.12
+cdcontg1.eu.		1800	IN	A	84.126.129.97
+cdcontg1.eu.		1800	IN	A	88.156.177.237
+cdcontg1.eu.		1800	IN	A	91.66.248.247
+cdcontg1.eu.		1800	IN	A	92.232.58.238
+cdcontg1.eu.		1800	IN	A	93.191.73.212
+cdcontg1.eu.		1800	IN	A	114.78.111.242
+cdcontg1.eu.		1800	IN	A	119.95.177.86
+cdcontg1.eu.		1800	IN	A	124.66.240.30
+cdcontg1.eu.		1800	IN	A	190.165.9.235
+cdcontg1.eu.		1800	IN	A	208.120.237.132
+cdcontg1.eu.		1800	IN	A	213.231.104.137
+cdcontg1.eu.		1800	IN	A	79.165.44.143
+
+;; AUTHORITY SECTION:
+cdcontg1.eu.		1800	IN	NS	ns2.citis-group.com.
+cdcontg1.eu.		1800	IN	NS	ns2.securitycheckings.net.
+cdcontg1.eu.		1800	IN	NS	ns1.citis-group.com.
+cdcontg1.eu.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	138843	IN	A	87.151.74.31
+ns2.securitycheckings.net. 138842 IN	A	92.225.119.21
+ns1.citis-group.com.	138842	IN	A	207.150.183.192
+ns1.securitycheckings.net. 138842 IN	A	207.150.183.192
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:28 2009
+;; MSG SIZE  rcvd: 452
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cdcontg1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1360
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cdcontg1.com.			IN	A
+
+;; ANSWER SECTION:
+cdcontg1.com.		1800	IN	A	84.126.129.97
+cdcontg1.com.		1800	IN	A	88.156.177.237
+cdcontg1.com.		1800	IN	A	91.66.248.247
+cdcontg1.com.		1800	IN	A	92.232.58.238
+cdcontg1.com.		1800	IN	A	93.191.73.212
+cdcontg1.com.		1800	IN	A	114.78.111.242
+cdcontg1.com.		1800	IN	A	119.95.177.86
+cdcontg1.com.		1800	IN	A	124.66.240.30
+cdcontg1.com.		1800	IN	A	190.165.9.235
+cdcontg1.com.		1800	IN	A	208.120.237.132
+cdcontg1.com.		1800	IN	A	213.231.104.137
+cdcontg1.com.		1800	IN	A	79.165.44.143
+cdcontg1.com.		1800	IN	A	81.203.87.207
+cdcontg1.com.		1800	IN	A	82.22.126.227
+cdcontg1.com.		1800	IN	A	84.125.47.12
+
+;; AUTHORITY SECTION:
+cdcontg1.com.		1800	IN	NS	ns1.citis-group.com.
+cdcontg1.com.		1800	IN	NS	ns1.securitycheckings.net.
+cdcontg1.com.		1800	IN	NS	ns2.citis-group.com.
+cdcontg1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	134200	IN	A	207.150.183.192
+ns1.securitycheckings.net. 134200 IN	A	207.150.183.192
+ns2.citis-group.com.	134200	IN	A	87.151.74.31
+ns2.securitycheckings.net. 134200 IN	A	92.225.119.21
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:33 2009
+;; MSG SIZE  rcvd: 451
+
+

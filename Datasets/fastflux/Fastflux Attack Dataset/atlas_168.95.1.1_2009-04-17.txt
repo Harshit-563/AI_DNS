@@ -1,0 +1,191 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 deskgloves.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1057
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 12, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;deskgloves.com.			IN	A
+
+;; ANSWER SECTION:
+deskgloves.com.		1800	IN	A	66.248.143.20
+deskgloves.com.		1800	IN	A	66.248.143.21
+deskgloves.com.		1800	IN	A	66.248.143.22
+deskgloves.com.		1800	IN	A	66.248.143.23
+deskgloves.com.		1800	IN	A	207.29.242.85
+deskgloves.com.		1800	IN	A	207.29.242.86
+deskgloves.com.		1800	IN	A	207.29.242.87
+deskgloves.com.		1800	IN	A	207.29.242.88
+deskgloves.com.		1800	IN	A	207.29.242.89
+deskgloves.com.		1800	IN	A	66.248.143.17
+deskgloves.com.		1800	IN	A	66.248.143.18
+deskgloves.com.		1800	IN	A	66.248.143.19
+
+;; AUTHORITY SECTION:
+deskgloves.com.		3600	IN	NS	dns1.name-services.com.
+deskgloves.com.		3600	IN	NS	dns2.name-services.com.
+deskgloves.com.		3600	IN	NS	dns3.name-services.com.
+deskgloves.com.		3600	IN	NS	dns4.name-services.com.
+deskgloves.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	143841	IN	A	98.124.192.1
+dns2.name-services.com.	143841	IN	A	69.64.157.18
+dns3.name-services.com.	143841	IN	A	98.124.193.1
+dns4.name-services.com.	154684	IN	A	69.64.145.225
+dns5.name-services.com.	154684	IN	A	70.42.37.7
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:20 2009
+;; MSG SIZE  rcvd: 427
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 clever-fortitude-ontheweb.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1456
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;clever-fortitude-ontheweb.cn.	IN	A
+
+;; ANSWER SECTION:
+clever-fortitude-ontheweb.cn. 300 IN	A	74.63.252.83
+clever-fortitude-ontheweb.cn. 300 IN	A	75.33.18.196
+clever-fortitude-ontheweb.cn. 300 IN	A	121.240.109.67
+clever-fortitude-ontheweb.cn. 300 IN	A	208.76.203.26
+clever-fortitude-ontheweb.cn. 300 IN	A	213.120.254.75
+clever-fortitude-ontheweb.cn. 300 IN	A	69.198.187.180
+
+;; AUTHORITY SECTION:
+clever-fortitude-ontheweb.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+clever-fortitude-ontheweb.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+clever-fortitude-ontheweb.cn. 300 IN	NS	ns2.various-gold-everywhere.com.
+clever-fortitude-ontheweb.cn. 300 IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 136743 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 136743 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 151788	IN A	76.233.44.113
+ns3.purecrayonanyway.com. 136743 IN	A	201.79.11.90
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:20 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cbjocvju.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1603
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cbjocvju.cn.			IN	A
+
+;; ANSWER SECTION:
+cbjocvju.cn.		180	IN	A	86.101.46.146
+cbjocvju.cn.		180	IN	A	89.134.141.124
+cbjocvju.cn.		180	IN	A	89.135.142.72
+cbjocvju.cn.		180	IN	A	89.232.37.181
+cbjocvju.cn.		180	IN	A	92.244.107.116
+cbjocvju.cn.		180	IN	A	190.16.194.40
+cbjocvju.cn.		180	IN	A	61.78.221.21
+cbjocvju.cn.		180	IN	A	78.97.84.113
+
+;; AUTHORITY SECTION:
+cbjocvju.cn.		180	IN	NS	ns4.bubdonmfe.com.
+cbjocvju.cn.		180	IN	NS	ns1.bubdonmfe.com.
+cbjocvju.cn.		180	IN	NS	ns2.bubdonmfe.com.
+cbjocvju.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns4.bubdonmfe.com.	146917	IN	A	78.97.84.113
+ns1.bubdonmfe.com.	146917	IN	A	76.15.176.160
+ns2.bubdonmfe.com.	146917	IN	A	87.226.36.252
+ns3.vrtcwnjde.com.	146917	IN	A	61.78.221.21
+
+;; Query time: 812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:21 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 beliefof-reliability-4all.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1549
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;beliefof-reliability-4all.cn.	IN	A
+
+;; ANSWER SECTION:
+beliefof-reliability-4all.cn. 300 IN	A	69.198.187.180
+beliefof-reliability-4all.cn. 300 IN	A	74.63.252.83
+beliefof-reliability-4all.cn. 300 IN	A	75.33.18.196
+beliefof-reliability-4all.cn. 300 IN	A	121.240.109.67
+beliefof-reliability-4all.cn. 300 IN	A	208.76.203.26
+beliefof-reliability-4all.cn. 300 IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+beliefof-reliability-4all.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+beliefof-reliability-4all.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+beliefof-reliability-4all.cn. 300 IN	NS	ns2.various-gold-everywhere.com.
+beliefof-reliability-4all.cn. 300 IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 171590 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 171590 IN	A	66.155.114.139
+ns3.purecrayonanyway.com. 171590 IN	A	94.78.231.116
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:21 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 beetsroute.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1432
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;beetsroute.com.			IN	A
+
+;; ANSWER SECTION:
+beetsroute.com.		1800	IN	A	69.30.195.35
+beetsroute.com.		1800	IN	A	69.30.195.36
+beetsroute.com.		1800	IN	A	69.30.195.37
+beetsroute.com.		1800	IN	A	69.30.195.38
+beetsroute.com.		1800	IN	A	69.30.195.39
+beetsroute.com.		1800	IN	A	69.30.195.34
+
+;; AUTHORITY SECTION:
+beetsroute.com.		3600	IN	NS	dns1.name-services.com.
+beetsroute.com.		3600	IN	NS	dns2.name-services.com.
+beetsroute.com.		3600	IN	NS	dns3.name-services.com.
+beetsroute.com.		3600	IN	NS	dns4.name-services.com.
+beetsroute.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	157614	IN	A	98.124.192.1
+dns2.name-services.com.	246	IN	A	69.64.157.18
+dns3.name-services.com.	153996	IN	A	98.124.193.1
+dns4.name-services.com.	194	IN	A	69.64.145.225
+dns5.name-services.com.	283	IN	A	70.42.37.7
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:22 2009
+;; MSG SIZE  rcvd: 331
+
+

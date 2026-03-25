@@ -1,0 +1,356 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 tmoderss.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;tmoderss.com.			IN	A
+
+;; ANSWER SECTION:
+tmoderss.com.		1800	IN	A	89.46.59.20
+tmoderss.com.		1800	IN	A	190.245.72.2
+tmoderss.com.		1800	IN	A	200.109.36.241
+tmoderss.com.		1800	IN	A	201.83.153.244
+tmoderss.com.		1800	IN	A	217.216.89.68
+tmoderss.com.		1800	IN	A	221.126.238.52
+tmoderss.com.		1800	IN	A	71.100.197.224
+tmoderss.com.		1800	IN	A	75.118.162.91
+tmoderss.com.		1800	IN	A	79.117.84.79
+tmoderss.com.		1800	IN	A	79.175.208.140
+tmoderss.com.		1800	IN	A	82.1.160.84
+tmoderss.com.		1800	IN	A	82.22.126.227
+tmoderss.com.		1800	IN	A	82.158.58.149
+tmoderss.com.		1800	IN	A	84.121.116.138
+tmoderss.com.		1800	IN	A	88.74.48.51
+
+;; AUTHORITY SECTION:
+tmoderss.com.		1800	IN	NS	ns2.onlinechekout.com.
+tmoderss.com.		1800	IN	NS	ns2.alternativedll.com.
+tmoderss.com.		1800	IN	NS	ns1.onlinechekout.com.
+tmoderss.com.		1800	IN	NS	ns1.alternativedll.com.
+
+;; ADDITIONAL SECTION:
+ns2.onlinechekout.com.	170351	IN	A	55.14.127.43
+ns2.alternativedll.com.	170351	IN	A	66.249.52.12
+ns1.onlinechekout.com.	170351	IN	A	96.9.148.136
+ns1.alternativedll.com.	170347	IN	A	96.9.148.136
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:26 2009
+;; MSG SIZE  rcvd: 447
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mmoderss.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 579
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;mmoderss.com.			IN	A
+
+;; ANSWER SECTION:
+mmoderss.com.		1800	IN	A	82.1.160.84
+mmoderss.com.		1800	IN	A	82.22.126.227
+mmoderss.com.		1800	IN	A	82.158.58.149
+mmoderss.com.		1800	IN	A	84.121.116.138
+mmoderss.com.		1800	IN	A	88.74.48.51
+mmoderss.com.		1800	IN	A	89.46.59.20
+mmoderss.com.		1800	IN	A	190.245.72.2
+mmoderss.com.		1800	IN	A	200.109.36.241
+mmoderss.com.		1800	IN	A	201.83.153.244
+mmoderss.com.		1800	IN	A	217.216.89.68
+mmoderss.com.		1800	IN	A	221.126.238.52
+mmoderss.com.		1800	IN	A	71.100.197.224
+mmoderss.com.		1800	IN	A	75.118.162.91
+mmoderss.com.		1800	IN	A	79.117.84.79
+mmoderss.com.		1800	IN	A	79.175.208.140
+
+;; AUTHORITY SECTION:
+mmoderss.com.		1800	IN	NS	ns1.onlinechekout.com.
+mmoderss.com.		1800	IN	NS	ns1.alternativedll.com.
+mmoderss.com.		1800	IN	NS	ns2.onlinechekout.com.
+mmoderss.com.		1800	IN	NS	ns2.alternativedll.com.
+
+;; ADDITIONAL SECTION:
+ns1.onlinechekout.com.	166963	IN	A	96.9.148.136
+ns1.alternativedll.com.	166962	IN	A	96.9.148.136
+ns2.onlinechekout.com.	166963	IN	A	55.14.127.43
+ns2.alternativedll.com.	132343	IN	A	66.249.52.12
+
+;; Query time: 4687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:30 2009
+;; MSG SIZE  rcvd: 447
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lmoderss.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lmoderss.com.			IN	A
+
+;; ANSWER SECTION:
+lmoderss.com.		1800	IN	A	88.74.48.51
+lmoderss.com.		1800	IN	A	89.46.59.20
+lmoderss.com.		1800	IN	A	190.245.72.2
+lmoderss.com.		1800	IN	A	200.109.36.241
+lmoderss.com.		1800	IN	A	201.83.153.244
+lmoderss.com.		1800	IN	A	217.216.89.68
+lmoderss.com.		1800	IN	A	221.126.238.52
+lmoderss.com.		1800	IN	A	71.100.197.224
+lmoderss.com.		1800	IN	A	75.118.162.91
+lmoderss.com.		1800	IN	A	79.117.84.79
+lmoderss.com.		1800	IN	A	79.175.208.140
+lmoderss.com.		1800	IN	A	82.1.160.84
+lmoderss.com.		1800	IN	A	82.22.126.227
+lmoderss.com.		1800	IN	A	82.158.58.149
+lmoderss.com.		1800	IN	A	84.121.116.138
+
+;; AUTHORITY SECTION:
+lmoderss.com.		1800	IN	NS	ns1.bus-on-line.com.
+lmoderss.com.		1800	IN	NS	ns2.americans-tool.com.
+lmoderss.com.		1800	IN	NS	ns1.americans-tool.com.
+lmoderss.com.		1800	IN	NS	ns2.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	166618	IN	A	8.12.160.183
+ns2.americans-tool.com.	144930	IN	A	88.31.112.44
+ns1.americans-tool.com.	144930	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166618	IN	A	205.178.14.51
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:31 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 kmoderss.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 988
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;kmoderss.com.			IN	A
+
+;; ANSWER SECTION:
+kmoderss.com.		1800	IN	A	82.1.160.84
+kmoderss.com.		1800	IN	A	82.22.126.227
+kmoderss.com.		1800	IN	A	82.158.58.149
+kmoderss.com.		1800	IN	A	84.121.116.138
+kmoderss.com.		1800	IN	A	88.74.48.51
+kmoderss.com.		1800	IN	A	89.46.59.20
+kmoderss.com.		1800	IN	A	190.245.72.2
+kmoderss.com.		1800	IN	A	200.109.36.241
+kmoderss.com.		1800	IN	A	201.83.153.244
+kmoderss.com.		1800	IN	A	217.216.89.68
+kmoderss.com.		1800	IN	A	221.126.238.52
+kmoderss.com.		1800	IN	A	71.100.197.224
+kmoderss.com.		1800	IN	A	75.118.162.91
+kmoderss.com.		1800	IN	A	79.117.84.79
+kmoderss.com.		1800	IN	A	79.175.208.140
+
+;; AUTHORITY SECTION:
+kmoderss.com.		1800	IN	NS	ns1.onlinechekout.com.
+kmoderss.com.		1800	IN	NS	ns1.alternativedll.com.
+kmoderss.com.		1800	IN	NS	ns2.onlinechekout.com.
+kmoderss.com.		1800	IN	NS	ns2.alternativedll.com.
+
+;; ADDITIONAL SECTION:
+ns1.onlinechekout.com.	167078	IN	A	96.9.148.136
+ns1.alternativedll.com.	167078	IN	A	96.9.148.136
+ns2.onlinechekout.com.	167078	IN	A	55.14.127.43
+ns2.alternativedll.com.	167078	IN	A	66.249.52.12
+
+;; Query time: 4234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:55 2009
+;; MSG SIZE  rcvd: 447
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jli1l.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 603
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jli1l.com.			IN	A
+
+;; ANSWER SECTION:
+jli1l.com.		1800	IN	A	82.1.160.84
+jli1l.com.		1800	IN	A	82.22.126.227
+jli1l.com.		1800	IN	A	82.158.58.149
+jli1l.com.		1800	IN	A	84.121.116.138
+jli1l.com.		1800	IN	A	88.74.48.51
+jli1l.com.		1800	IN	A	89.46.59.20
+jli1l.com.		1800	IN	A	190.245.72.2
+jli1l.com.		1800	IN	A	200.109.36.241
+jli1l.com.		1800	IN	A	201.83.153.244
+jli1l.com.		1800	IN	A	217.216.89.68
+jli1l.com.		1800	IN	A	221.126.238.52
+jli1l.com.		1800	IN	A	71.100.197.224
+jli1l.com.		1800	IN	A	75.118.162.91
+jli1l.com.		1800	IN	A	79.117.84.79
+jli1l.com.		1800	IN	A	79.175.208.140
+
+;; AUTHORITY SECTION:
+jli1l.com.		1800	IN	NS	ns1.americans-tool.com.
+jli1l.com.		1800	IN	NS	ns2.bus-on-line.com.
+jli1l.com.		1800	IN	NS	ns1.bus-on-line.com.
+jli1l.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	145233	IN	A	8.12.160.183
+ns2.americans-tool.com.	145233	IN	A	88.31.112.44
+
+;; Query time: 1734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:56 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jl1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 101
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jl1il.com.			IN	A
+
+;; ANSWER SECTION:
+jl1il.com.		1800	IN	A	82.22.126.227
+jl1il.com.		1800	IN	A	82.158.58.149
+jl1il.com.		1800	IN	A	84.121.116.138
+jl1il.com.		1800	IN	A	88.74.48.51
+jl1il.com.		1800	IN	A	89.46.59.20
+jl1il.com.		1800	IN	A	190.245.72.2
+jl1il.com.		1800	IN	A	200.109.36.241
+jl1il.com.		1800	IN	A	201.83.153.244
+jl1il.com.		1800	IN	A	217.216.89.68
+jl1il.com.		1800	IN	A	221.126.238.52
+jl1il.com.		1800	IN	A	71.100.197.224
+jl1il.com.		1800	IN	A	75.118.162.91
+jl1il.com.		1800	IN	A	79.117.84.79
+jl1il.com.		1800	IN	A	79.175.208.140
+jl1il.com.		1800	IN	A	82.1.160.84
+
+;; AUTHORITY SECTION:
+jl1il.com.		1800	IN	NS	ns1.americans-tool.com.
+jl1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+jl1il.com.		1800	IN	NS	ns2.americans-tool.com.
+jl1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	142578	IN	A	8.12.160.183
+ns2.americans-tool.com.	142578	IN	A	88.31.112.44
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:36:03 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ji1j1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1033
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ji1j1.com.			IN	A
+
+;; ANSWER SECTION:
+ji1j1.com.		1800	IN	A	221.126.238.52
+ji1j1.com.		1800	IN	A	71.100.197.224
+ji1j1.com.		1800	IN	A	75.118.162.91
+ji1j1.com.		1800	IN	A	79.117.84.79
+ji1j1.com.		1800	IN	A	79.175.208.140
+ji1j1.com.		1800	IN	A	82.1.160.84
+ji1j1.com.		1800	IN	A	82.22.126.227
+ji1j1.com.		1800	IN	A	82.158.58.149
+ji1j1.com.		1800	IN	A	84.121.116.138
+ji1j1.com.		1800	IN	A	88.74.48.51
+ji1j1.com.		1800	IN	A	89.46.59.20
+ji1j1.com.		1800	IN	A	190.245.72.2
+ji1j1.com.		1800	IN	A	200.109.36.241
+ji1j1.com.		1800	IN	A	201.83.153.244
+ji1j1.com.		1800	IN	A	217.216.89.68
+
+;; AUTHORITY SECTION:
+ji1j1.com.		1800	IN	NS	ns2.bus-on-line.com.
+ji1j1.com.		1800	IN	NS	ns1.americans-tool.com.
+ji1j1.com.		1800	IN	NS	ns2.americans-tool.com.
+ji1j1.com.		1800	IN	NS	ns1.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns2.bus-on-line.com.	167636	IN	A	205.178.14.51
+ns1.americans-tool.com.	140236	IN	A	8.12.160.183
+ns2.americans-tool.com.	140236	IN	A	88.31.112.44
+ns1.bus-on-line.com.	167636	IN	A	8.12.160.183
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:36:04 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jf1jj.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1157
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jf1jj.com.			IN	A
+
+;; ANSWER SECTION:
+jf1jj.com.		1800	IN	A	84.121.116.138
+jf1jj.com.		1800	IN	A	88.74.48.51
+jf1jj.com.		1800	IN	A	89.46.59.20
+jf1jj.com.		1800	IN	A	190.245.72.2
+jf1jj.com.		1800	IN	A	200.109.36.241
+jf1jj.com.		1800	IN	A	201.83.153.244
+jf1jj.com.		1800	IN	A	217.216.89.68
+jf1jj.com.		1800	IN	A	221.126.238.52
+jf1jj.com.		1800	IN	A	71.100.197.224
+jf1jj.com.		1800	IN	A	75.118.162.91
+jf1jj.com.		1800	IN	A	79.117.84.79
+jf1jj.com.		1800	IN	A	79.175.208.140
+jf1jj.com.		1800	IN	A	82.1.160.84
+jf1jj.com.		1800	IN	A	82.22.126.227
+jf1jj.com.		1800	IN	A	82.158.58.149
+
+;; AUTHORITY SECTION:
+jf1jj.com.		13	IN	NS	ns2.bus-on-line.com.
+jf1jj.com.		13	IN	NS	ns1.americans-tool.com.
+jf1jj.com.		13	IN	NS	ns1.bus-on-line.com.
+jf1jj.com.		13	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.bus-on-line.com.	166551	IN	A	205.178.14.51
+ns1.americans-tool.com.	131024	IN	A	8.12.160.183
+ns1.bus-on-line.com.	166551	IN	A	8.12.160.183
+ns2.americans-tool.com.	131024	IN	A	88.31.112.44
+
+;; Query time: 953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:36:05 2009
+;; MSG SIZE  rcvd: 439
+
+

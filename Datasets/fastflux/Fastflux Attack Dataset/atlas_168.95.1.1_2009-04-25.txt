@@ -1,0 +1,441 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 841
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;thinkaboutus.cn.		IN	A
+
+;; ANSWER SECTION:
+thinkaboutus.cn.	300	IN	A	75.147.221.65
+thinkaboutus.cn.	300	IN	A	121.240.109.67
+thinkaboutus.cn.	300	IN	A	206.58.200.170
+thinkaboutus.cn.	300	IN	A	68.163.69.147
+thinkaboutus.cn.	300	IN	A	68.236.210.184
+thinkaboutus.cn.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+thinkaboutus.cn.	300	IN	NS	ns1.verity-fresh.com.
+thinkaboutus.cn.	300	IN	NS	ns2.desistylish.com.
+thinkaboutus.cn.	300	IN	NS	ns3.splendidfindings.com.
+thinkaboutus.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	157329	IN	A	72.77.145.3
+ns2.desistylish.com.	157329	IN	A	75.41.185.57
+ns3.splendidfindings.com. 157329 IN	A	195.93.181.30
+ns4.magnifindings.com.	157329	IN	A	74.172.32.50
+
+;; Query time: 3593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:23 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 899
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;thinkaboutus.cn.		IN	A
+
+;; ANSWER SECTION:
+thinkaboutus.cn.	300	IN	A	68.236.210.184
+thinkaboutus.cn.	300	IN	A	69.198.5.210
+thinkaboutus.cn.	300	IN	A	81.177.134.9
+thinkaboutus.cn.	300	IN	A	206.104.100.29
+thinkaboutus.cn.	300	IN	A	62.225.156.14
+
+;; AUTHORITY SECTION:
+thinkaboutus.cn.	300	IN	NS	ns2.desistylish.com.
+thinkaboutus.cn.	300	IN	NS	ns3.splendidfindings.com.
+thinkaboutus.cn.	300	IN	NS	ns4.magnifindings.com.
+thinkaboutus.cn.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	129020	IN	A	75.41.185.57
+ns3.splendidfindings.com. 129020 IN	A	195.93.181.30
+ns4.magnifindings.com.	129020	IN	A	74.172.32.50
+ns1.verity-fresh.com.	129020	IN	A	64.244.62.54
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:49 2009
+;; MSG SIZE  rcvd: 323
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1855
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;landcyberlocal.cn.		IN	A
+
+;; ANSWER SECTION:
+landcyberlocal.cn.	300	IN	A	70.91.121.99
+landcyberlocal.cn.	300	IN	A	70.138.11.141
+landcyberlocal.cn.	300	IN	A	206.210.113.47
+landcyberlocal.cn.	300	IN	A	213.120.254.75
+landcyberlocal.cn.	300	IN	A	67.107.81.188
+
+;; AUTHORITY SECTION:
+landcyberlocal.cn.	300	IN	NS	ns2.desistylish.com.
+landcyberlocal.cn.	300	IN	NS	ns3.splendidfindings.com.
+landcyberlocal.cn.	300	IN	NS	ns4.magnifindings.com.
+landcyberlocal.cn.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	167166	IN	A	74.15.177.251
+ns3.splendidfindings.com. 167166 IN	A	66.161.148.148
+ns4.magnifindings.com.	167166	IN	A	74.172.32.50
+ns1.verity-fresh.com.	167166	IN	A	64.244.62.54
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:41 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1551
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;landcyberlocal.cn.		IN	A
+
+;; ANSWER SECTION:
+landcyberlocal.cn.	300	IN	A	213.120.254.75
+landcyberlocal.cn.	300	IN	A	70.91.121.99
+landcyberlocal.cn.	300	IN	A	71.172.38.60
+landcyberlocal.cn.	300	IN	A	74.172.32.50
+landcyberlocal.cn.	300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+landcyberlocal.cn.	300	IN	NS	ns2.desistylish.com.
+landcyberlocal.cn.	300	IN	NS	ns3.splendidfindings.com.
+landcyberlocal.cn.	300	IN	NS	ns4.magnifindings.com.
+landcyberlocal.cn.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	164526	IN	A	74.15.177.251
+ns3.splendidfindings.com. 164526 IN	A	61.160.217.38
+ns4.magnifindings.com.	164526	IN	A	74.172.32.50
+ns1.verity-fresh.com.	164526	IN	A	64.244.62.54
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:14 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1016
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;landcyberlocal.cn.		IN	A
+
+;; ANSWER SECTION:
+landcyberlocal.cn.	300	IN	A	71.172.38.60
+landcyberlocal.cn.	300	IN	A	74.15.177.251
+landcyberlocal.cn.	300	IN	A	74.44.82.40
+landcyberlocal.cn.	300	IN	A	74.172.32.50
+landcyberlocal.cn.	300	IN	A	98.197.164.181
+landcyberlocal.cn.	300	IN	A	58.186.12.179
+
+;; AUTHORITY SECTION:
+landcyberlocal.cn.	300	IN	NS	ns1.verity-fresh.com.
+landcyberlocal.cn.	300	IN	NS	ns2.desistylish.com.
+landcyberlocal.cn.	300	IN	NS	ns3.splendidfindings.com.
+landcyberlocal.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	159019	IN	A	74.44.82.40
+ns2.desistylish.com.	159019	IN	A	74.15.177.251
+ns3.splendidfindings.com. 159019 IN	A	61.160.217.38
+ns4.magnifindings.com.	159019	IN	A	74.172.32.50
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:40 2009
+;; MSG SIZE  rcvd: 343
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ndiili.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1187
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ndiili.eu.			IN	A
+
+;; ANSWER SECTION:
+ndiili.eu.		1800	IN	A	85.137.231.132
+ndiili.eu.		1800	IN	A	86.5.189.66
+ndiili.eu.		1800	IN	A	86.15.224.146
+ndiili.eu.		1800	IN	A	89.44.63.72
+ndiili.eu.		1800	IN	A	89.230.148.66
+ndiili.eu.		1800	IN	A	91.66.249.2
+ndiili.eu.		1800	IN	A	93.103.217.223
+ndiili.eu.		1800	IN	A	123.225.165.23
+ndiili.eu.		1800	IN	A	124.66.242.71
+ndiili.eu.		1800	IN	A	200.116.215.38
+ndiili.eu.		1800	IN	A	221.127.139.177
+ndiili.eu.		1800	IN	A	79.119.219.13
+ndiili.eu.		1800	IN	A	79.164.137.245
+ndiili.eu.		1800	IN	A	84.109.115.172
+ndiili.eu.		1800	IN	A	84.125.47.12
+
+;; AUTHORITY SECTION:
+ndiili.eu.		1800	IN	NS	ns1.onlinesupors.net.
+ndiili.eu.		1800	IN	NS	ns1.wankers-willa.net.
+ndiili.eu.		1800	IN	NS	ns2.onlinesupors.net.
+ndiili.eu.		1800	IN	NS	ns2.wankers-willa.net.
+
+;; ADDITIONAL SECTION:
+ns1.onlinesupors.net.	137168	IN	A	64.34.217.40
+ns1.wankers-willa.net.	137168	IN	A	64.34.217.40
+ns2.onlinesupors.net.	147840	IN	A	44.121.37.16
+ns2.wankers-willa.net.	137168	IN	A	132.79.112.96
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:17 2009
+;; MSG SIZE  rcvd: 442
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 psssppgk.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1941
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;psssppgk.cn.			IN	A
+
+;; ANSWER SECTION:
+psssppgk.cn.		180	IN	A	62.43.114.19
+psssppgk.cn.		180	IN	A	74.87.231.40
+psssppgk.cn.		180	IN	A	89.40.127.135
+psssppgk.cn.		180	IN	A	89.132.131.231
+psssppgk.cn.		180	IN	A	89.137.112.220
+psssppgk.cn.		180	IN	A	95.85.189.72
+psssppgk.cn.		180	IN	A	217.156.118.71
+psssppgk.cn.		180	IN	A	219.91.213.122
+
+;; AUTHORITY SECTION:
+psssppgk.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+psssppgk.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+psssppgk.cn.		180	IN	NS	ns4.bybwqdwq.com.
+psssppgk.cn.		180	IN	NS	ns1.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.bysfwqdwe.com.	129657	IN	A	89.134.194.164
+ns3.bysfwqdwe.com.	129657	IN	A	88.147.31.90
+ns4.bybwqdwq.com.	129657	IN	A	24.232.187.161
+ns1.bybwqdwq.com.	129657	IN	A	186.18.21.54
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:18 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 psdgwrek.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 105
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;psdgwrek.cn.			IN	A
+
+;; ANSWER SECTION:
+psdgwrek.cn.		180	IN	A	89.137.112.220
+psdgwrek.cn.		180	IN	A	95.85.189.72
+psdgwrek.cn.		180	IN	A	217.156.118.71
+psdgwrek.cn.		180	IN	A	219.91.213.122
+psdgwrek.cn.		180	IN	A	62.43.114.19
+psdgwrek.cn.		180	IN	A	74.87.231.40
+psdgwrek.cn.		180	IN	A	89.40.127.135
+psdgwrek.cn.		180	IN	A	89.132.131.231
+
+;; AUTHORITY SECTION:
+psdgwrek.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+psdgwrek.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+psdgwrek.cn.		180	IN	NS	ns4.bybwqdwq.com.
+psdgwrek.cn.		180	IN	NS	ns1.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.bysfwqdwe.com.	161227	IN	A	88.147.31.90
+ns3.bysfwqdwe.com.	161227	IN	A	89.232.37.181
+ns4.bybwqdwq.com.	161227	IN	A	95.85.189.72
+ns1.bybwqdwq.com.	161227	IN	A	219.91.213.122
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:19 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pigewidh.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 711
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;pigewidh.cn.			IN	A
+
+;; ANSWER SECTION:
+pigewidh.cn.		180	IN	A	89.132.131.231
+pigewidh.cn.		180	IN	A	89.137.112.220
+pigewidh.cn.		180	IN	A	95.85.189.72
+pigewidh.cn.		180	IN	A	217.156.118.71
+pigewidh.cn.		180	IN	A	219.91.213.122
+pigewidh.cn.		180	IN	A	62.43.114.19
+pigewidh.cn.		180	IN	A	74.87.231.40
+pigewidh.cn.		180	IN	A	89.40.127.135
+
+;; AUTHORITY SECTION:
+pigewidh.cn.		180	IN	NS	ns4.bybwqdwq.com.
+pigewidh.cn.		180	IN	NS	ns1.bybwqdwq.com.
+pigewidh.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+pigewidh.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	165569	IN	A	77.110.139.69
+ns1.bybwqdwq.com.	165569	IN	A	84.74.0.53
+ns2.bysfwqdwe.com.	165498	IN	A	87.226.50.79
+ns3.bysfwqdwe.com.	166014	IN	A	95.104.107.6
+
+;; Query time: 828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:35:21 2009
+;; MSG SIZE  rcvd: 326
+
+

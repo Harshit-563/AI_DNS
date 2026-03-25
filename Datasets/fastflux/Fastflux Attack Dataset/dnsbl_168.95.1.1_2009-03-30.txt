@@ -1,0 +1,455 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1513
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	80.98.26.210
+odwhich.cn.		180	IN	A	81.198.155.144
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	88.132.2.165
+odwhich.cn.		180	IN	A	93.126.145.82
+odwhich.cn.		180	IN	A	170.51.236.110
+odwhich.cn.		180	IN	A	78.26.154.108
+odwhich.cn.		180	IN	A	79.121.97.118
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	129181	IN	A	195.140.160.145
+ns4.teybwpnm.com.	129180	IN	A	114.76.3.253
+ns1.dneuine.com.	129180	IN	A	89.133.137.39
+ns2.dneuine.com.	129180	IN	A	114.76.3.253
+
+;; Query time: 890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:37:31 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 125
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	88.132.2.165
+odwhich.cn.		180	IN	A	88.147.11.69
+odwhich.cn.		180	IN	A	62.57.213.166
+odwhich.cn.		180	IN	A	78.84.14.235
+odwhich.cn.		180	IN	A	79.121.97.118
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	159468	IN	A	78.92.160.28
+ns4.teybwpnm.com.	159468	IN	A	88.147.11.69
+ns1.dneuine.com.	159468	IN	A	78.84.14.235
+ns2.dneuine.com.	159468	IN	A	193.6.155.61
+
+;; Query time: 2359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:37:50 2009
+;; MSG SIZE  rcvd: 274
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1552
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	78.84.14.235
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	88.132.2.165
+odwhich.cn.		180	IN	A	88.147.11.69
+odwhich.cn.		180	IN	A	62.57.213.166
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	172756	IN	A	78.84.14.235
+ns2.dneuine.com.	172756	IN	A	91.122.144.139
+ns2.teybwpnm.com.	172756	IN	A	62.57.213.166
+ns4.teybwpnm.com.	172756	IN	A	86.101.96.103
+
+;; Query time: 3875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:38:26 2009
+;; MSG SIZE  rcvd: 274
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1762
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	147725	IN	A	116.72.75.53
+ns2.teybwpnm.com.	147725	IN	A	77.89.78.3
+ns4.teybwpnm.com.	147725	IN	A	98.165.171.134
+ns1.dneuine.com.	147725	IN	A	86.57.2.47
+
+;; Query time: 1140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:56 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1783
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	162506	IN	A	114.76.3.253
+ns4.teybwpnm.com.	162506	IN	A	89.176.85.119
+ns1.dneuine.com.	162506	IN	A	210.121.155.68
+ns2.dneuine.com.	162506	IN	A	87.101.112.192
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:21 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1059
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	149990	IN	A	116.72.211.219
+ns1.dneuine.com.	149990	IN	A	86.57.2.47
+ns2.dneuine.com.	149990	IN	A	78.84.14.235
+ns2.teybwpnm.com.	149990	IN	A	92.249.182.245
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:33 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1888
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	137647	IN	A	165.93.128.92
+ns1.dneuine.com.	137647	IN	A	79.122.111.64
+ns2.dneuine.com.	137647	IN	A	86.57.2.47
+ns2.teybwpnm.com.	137647	IN	A	98.165.171.134
+
+;; Query time: 3390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:58 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1509
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	154613	IN	A	84.17.6.134
+ns1.dneuine.com.	154613	IN	A	60.254.5.142
+ns2.dneuine.com.	154613	IN	A	157.193.84.63
+ns2.teybwpnm.com.	154613	IN	A	89.201.67.203
+
+;; Query time: 3968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:41 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 905
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	158496	IN	A	81.9.148.135
+ns2.dneuine.com.	158496	IN	A	210.121.155.68
+ns2.teybwpnm.com.	158496	IN	A	91.122.157.11
+ns4.teybwpnm.com.	158496	IN	A	221.152.214.234
+
+;; Query time: 2828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:39 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1929
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	79.118.122.78
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.99.205.198
+odwhich.cn.		180	IN	A	84.237.132.93
+odwhich.cn.		180	IN	A	88.147.23.181
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	92.115.27.82
+odwhich.cn.		180	IN	A	62.84.58.100
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	120203	IN	A	194.27.100.197
+ns4.teybwpnm.com.	120203	IN	A	163.13.157.217
+ns1.dneuine.com.	120203	IN	A	89.133.137.39
+ns2.dneuine.com.	120203	IN	A	74.65.228.223
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:59:40 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 360
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	79.118.122.78
+odwhich.cn.		180	IN	A	85.66.145.238
+odwhich.cn.		180	IN	A	87.226.50.79
+odwhich.cn.		180	IN	A	89.133.137.39
+odwhich.cn.		180	IN	A	89.137.112.220
+odwhich.cn.		180	IN	A	94.52.77.9
+odwhich.cn.		180	IN	A	67.36.182.146
+odwhich.cn.		180	IN	A	78.26.154.108
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	172772	IN	A	89.133.137.39
+ns2.teybwpnm.com.	172772	IN	A	68.51.195.151
+ns4.teybwpnm.com.	172772	IN	A	82.42.214.14
+ns1.dneuine.com.	172772	IN	A	85.66.145.238
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:42:11 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1369
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	92.115.8.13
+odwhich.cn.		180	IN	A	92.115.192.218
+odwhich.cn.		180	IN	A	190.25.245.50
+odwhich.cn.		180	IN	A	212.77.133.16
+odwhich.cn.		180	IN	A	87.101.112.192
+odwhich.cn.		180	IN	A	89.34.156.237
+odwhich.cn.		180	IN	A	89.133.137.39
+odwhich.cn.		180	IN	A	91.122.163.75
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns1.cgsoftly.com.
+odwhich.cn.		180	IN	NS	ns2.ncibneww.com.
+odwhich.cn.		180	IN	NS	ns3.cgsoftly.com.
+odwhich.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	134091	IN	A	125.99.137.219
+ns2.ncibneww.com.	134091	IN	A	217.20.77.245
+ns3.cgsoftly.com.	134091	IN	A	114.76.3.253
+ns4.ncibneww.com.	134091	IN	A	134.32.12.164
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:44:17 2009
+;; MSG SIZE  rcvd: 323
+
+

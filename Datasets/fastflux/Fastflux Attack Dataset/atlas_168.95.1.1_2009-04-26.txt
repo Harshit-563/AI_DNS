@@ -1,0 +1,325 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chinahotdeals.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;chinahotdeals.com.		IN	A
+
+;; ANSWER SECTION:
+chinahotdeals.com.	600	IN	A	71.195.144.64
+chinahotdeals.com.	600	IN	A	98.197.176.224
+chinahotdeals.com.	600	IN	A	76.97.143.24
+chinahotdeals.com.	600	IN	A	80.189.11.165
+chinahotdeals.com.	600	IN	A	76.177.167.69
+chinahotdeals.com.	600	IN	A	76.97.149.29
+chinahotdeals.com.	600	IN	A	71.134.213.120
+chinahotdeals.com.	600	IN	A	99.180.246.157
+chinahotdeals.com.	600	IN	A	68.186.155.120
+chinahotdeals.com.	600	IN	A	64.205.9.115
+chinahotdeals.com.	600	IN	A	72.241.121.187
+chinahotdeals.com.	600	IN	A	82.42.189.145
+chinahotdeals.com.	600	IN	A	82.3.106.140
+chinahotdeals.com.	600	IN	A	24.179.47.251
+
+;; AUTHORITY SECTION:
+chinahotdeals.com.	172800	IN	NS	ns1.chinahotdeals.com.
+chinahotdeals.com.	172800	IN	NS	ns2.chinahotdeals.com.
+chinahotdeals.com.	172800	IN	NS	ns3.chinahotdeals.com.
+chinahotdeals.com.	172800	IN	NS	ns4.chinahotdeals.com.
+chinahotdeals.com.	172800	IN	NS	ns5.chinahotdeals.com.
+
+;; ADDITIONAL SECTION:
+ns1.chinahotdeals.com.	172800	IN	A	71.137.148.242
+ns2.chinahotdeals.com.	172800	IN	A	74.129.244.86
+ns3.chinahotdeals.com.	172800	IN	A	75.109.252.245
+ns4.chinahotdeals.com.	172800	IN	A	24.170.188.159
+ns5.chinahotdeals.com.	172800	IN	A	76.73.237.59
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:17 2009
+;; MSG SIZE  rcvd: 446
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sspcbedu.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2046
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sspcbedu.cn.			IN	A
+
+;; ANSWER SECTION:
+sspcbedu.cn.		180	IN	A	62.84.50.17
+sspcbedu.cn.		180	IN	A	62.84.51.128
+sspcbedu.cn.		180	IN	A	85.27.87.175
+sspcbedu.cn.		180	IN	A	85.122.59.130
+sspcbedu.cn.		180	IN	A	87.101.115.79
+sspcbedu.cn.		180	IN	A	88.147.31.90
+sspcbedu.cn.		180	IN	A	89.156.140.139
+sspcbedu.cn.		180	IN	A	116.123.33.28
+
+;; AUTHORITY SECTION:
+sspcbedu.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+sspcbedu.cn.		180	IN	NS	ns4.bybwqdwq.com.
+sspcbedu.cn.		180	IN	NS	ns1.bybwqdwq.com.
+sspcbedu.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	137304	IN	A	186.18.21.54
+ns4.bybwqdwq.com.	137304	IN	A	95.85.189.72
+ns1.bybwqdwq.com.	137304	IN	A	61.78.221.21
+ns2.bysfwqdwe.com.	137304	IN	A	190.18.228.6
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:17 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 homestoreworld.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 253
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;homestoreworld.com.		IN	A
+
+;; ANSWER SECTION:
+homestoreworld.com.	600	IN	A	80.189.11.165
+homestoreworld.com.	600	IN	A	76.97.149.29
+homestoreworld.com.	600	IN	A	76.177.167.69
+homestoreworld.com.	600	IN	A	24.125.195.72
+homestoreworld.com.	600	IN	A	99.180.246.157
+homestoreworld.com.	600	IN	A	71.195.144.64
+homestoreworld.com.	600	IN	A	82.42.189.145
+homestoreworld.com.	600	IN	A	72.241.121.187
+homestoreworld.com.	600	IN	A	98.197.176.224
+homestoreworld.com.	600	IN	A	76.97.143.24
+homestoreworld.com.	600	IN	A	24.179.47.251
+homestoreworld.com.	600	IN	A	68.186.155.120
+homestoreworld.com.	600	IN	A	71.134.213.120
+homestoreworld.com.	600	IN	A	64.205.9.115
+
+;; AUTHORITY SECTION:
+homestoreworld.com.	172796	IN	NS	ns1.homestoreworld.com.
+homestoreworld.com.	172796	IN	NS	ns2.homestoreworld.com.
+homestoreworld.com.	172796	IN	NS	ns3.homestoreworld.com.
+homestoreworld.com.	172796	IN	NS	ns4.homestoreworld.com.
+homestoreworld.com.	172796	IN	NS	ns5.homestoreworld.com.
+
+;; ADDITIONAL SECTION:
+ns1.homestoreworld.com.	172796	IN	A	68.21.42.101
+ns2.homestoreworld.com.	172796	IN	A	82.42.189.145
+ns3.homestoreworld.com.	172796	IN	A	96.8.200.208
+ns4.homestoreworld.com.	172796	IN	A	165.166.236.74
+ns5.homestoreworld.com.	172796	IN	A	67.85.69.196
+
+;; Query time: 3671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:26 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 piepdgdu.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 501
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;piepdgdu.cn.			IN	A
+
+;; ANSWER SECTION:
+piepdgdu.cn.		180	IN	A	89.156.140.139
+piepdgdu.cn.		180	IN	A	116.123.33.28
+piepdgdu.cn.		180	IN	A	62.84.50.17
+piepdgdu.cn.		180	IN	A	62.84.51.128
+piepdgdu.cn.		180	IN	A	85.27.87.175
+piepdgdu.cn.		180	IN	A	85.122.59.130
+piepdgdu.cn.		180	IN	A	87.101.115.79
+piepdgdu.cn.		180	IN	A	88.147.31.90
+
+;; AUTHORITY SECTION:
+piepdgdu.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+piepdgdu.cn.		180	IN	NS	ns4.bybwqdwq.com.
+piepdgdu.cn.		180	IN	NS	ns1.bybwqdwq.com.
+piepdgdu.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	132689	IN	A	190.78.93.17
+ns4.bybwqdwq.com.	132689	IN	A	186.18.21.54
+ns1.bybwqdwq.com.	132689	IN	A	74.87.231.40
+ns2.bysfwqdwe.com.	132689	IN	A	119.200.198.179
+
+;; Query time: 2031 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:28 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 stride-forwardspiritualsquare.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;stride-forwardspiritualsquare.cn. IN	A
+
+;; ANSWER SECTION:
+stride-forwardspiritualsquare.cn. 300 IN A	75.33.18.196
+stride-forwardspiritualsquare.cn. 300 IN A	75.147.221.65
+stride-forwardspiritualsquare.cn. 300 IN A	82.140.103.27
+stride-forwardspiritualsquare.cn. 300 IN A	166.82.91.220
+stride-forwardspiritualsquare.cn. 300 IN A	62.57.215.201
+stride-forwardspiritualsquare.cn. 300 IN A	65.24.65.65
+
+;; AUTHORITY SECTION:
+stride-forwardspiritualsquare.cn. 300 IN NS	ns1.uniquer-pedagogue.com.
+stride-forwardspiritualsquare.cn. 300 IN NS	ns2.various-gold-everywhere.com.
+stride-forwardspiritualsquare.cn. 300 IN NS	ns3.purecrayonanyway.com.
+stride-forwardspiritualsquare.cn. 300 IN NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 171534 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 171534	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 171534 IN	A	64.46.36.111
+ns4.uniquest-pedagogue.com. 171534 IN	A	71.172.38.60
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:29 2009
+;; MSG SIZE  rcvd: 395
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cddepsfg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 878
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cddepsfg.cn.			IN	A
+
+;; ANSWER SECTION:
+cddepsfg.cn.		180	IN	A	85.122.59.130
+cddepsfg.cn.		180	IN	A	87.101.115.79
+cddepsfg.cn.		180	IN	A	88.147.31.90
+cddepsfg.cn.		180	IN	A	89.156.140.139
+cddepsfg.cn.		180	IN	A	116.123.33.28
+cddepsfg.cn.		180	IN	A	62.84.50.17
+cddepsfg.cn.		180	IN	A	62.84.51.128
+cddepsfg.cn.		180	IN	A	85.27.87.175
+
+;; AUTHORITY SECTION:
+cddepsfg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+cddepsfg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+cddepsfg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+cddepsfg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	164866	IN	A	62.84.51.128
+ns4.bybwqdwq.com.	163993	IN	A	95.85.189.72
+ns1.bybwqdwq.com.	164553	IN	A	86.106.61.135
+ns2.bysfwqdwe.com.	164866	IN	A	85.122.59.130
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:30 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ighdpeii.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 984
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ighdpeii.cn.			IN	A
+
+;; ANSWER SECTION:
+ighdpeii.cn.		180	IN	A	87.101.115.79
+ighdpeii.cn.		180	IN	A	88.147.31.90
+ighdpeii.cn.		180	IN	A	89.156.140.139
+ighdpeii.cn.		180	IN	A	116.123.33.28
+ighdpeii.cn.		180	IN	A	62.84.50.17
+ighdpeii.cn.		180	IN	A	62.84.51.128
+ighdpeii.cn.		180	IN	A	85.27.87.175
+ighdpeii.cn.		180	IN	A	85.122.59.130
+
+;; AUTHORITY SECTION:
+ighdpeii.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+ighdpeii.cn.		180	IN	NS	ns4.bybwqdwq.com.
+ighdpeii.cn.		180	IN	NS	ns1.bybwqdwq.com.
+ighdpeii.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	140503	IN	A	75.11.166.107
+ns4.bybwqdwq.com.	140425	IN	A	89.156.140.139
+ns1.bybwqdwq.com.	140430	IN	A	74.87.231.40
+ns2.bysfwqdwe.com.	140503	IN	A	89.134.194.164
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:30 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 rwiilk.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 682
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;rwiilk.com.			IN	A
+
+;; ANSWER SECTION:
+rwiilk.com.		1800	IN	A	79.165.42.183
+rwiilk.com.		1800	IN	A	82.10.225.196
+rwiilk.com.		1800	IN	A	91.67.246.91
+rwiilk.com.		1800	IN	A	93.103.217.223
+rwiilk.com.		1800	IN	A	93.191.74.39
+rwiilk.com.		1800	IN	A	94.21.39.29
+rwiilk.com.		1800	IN	A	139.179.203.193
+rwiilk.com.		1800	IN	A	201.233.45.234
+rwiilk.com.		1800	IN	A	212.22.59.223
+rwiilk.com.		1800	IN	A	213.91.227.80
+rwiilk.com.		1800	IN	A	221.127.241.126
+rwiilk.com.		1800	IN	A	77.100.242.200
+rwiilk.com.		1800	IN	A	78.147.144.207
+rwiilk.com.		1800	IN	A	79.117.82.33
+rwiilk.com.		1800	IN	A	79.119.219.133
+
+;; AUTHORITY SECTION:
+rwiilk.com.		1800	IN	NS	ns2.onlinesupors.net.
+rwiilk.com.		1800	IN	NS	ns2.wankers-willa.net.
+rwiilk.com.		1800	IN	NS	ns1.onlinesupors.net.
+rwiilk.com.		1800	IN	NS	ns1.wankers-willa.net.
+
+;; ADDITIONAL SECTION:
+ns2.onlinesupors.net.	154264	IN	A	44.121.37.16
+ns2.wankers-willa.net.	154264	IN	A	132.79.112.96
+ns1.onlinesupors.net.	154264	IN	A	64.34.217.40
+ns1.wankers-willa.net.	154264	IN	A	64.34.217.40
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:35:31 2009
+;; MSG SIZE  rcvd: 444
+
+

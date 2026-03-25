@@ -1,0 +1,3414 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 246
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	75.147.221.65
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	206.58.200.170
+world-widinnovation.com. 300	IN	A	68.163.69.147
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	146320	IN	A	74.172.32.50
+ns1.verity-fresh.com.	146320	IN	A	72.77.145.3
+ns2.desistylish.com.	146320	IN	A	75.41.185.57
+ns3.splendidfindings.com. 146320 IN	A	195.93.181.30
+
+;; Query time: 4125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:37 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1247
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	76.113.188.200
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.163.69.147
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	75.147.221.65
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	66.36.215.230
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	195.93.181.30
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:43:16 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 201
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	71.0.225.4
+world-widinnovation.com. 300	IN	A	76.113.188.200
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:44 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 94
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	76.113.188.200
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:37:29 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 769
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+world-widinnovation.com. 300	IN	A	62.225.156.14
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	195.93.181.30
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:36:05 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1839
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+world-widinnovation.com. 300	IN	A	62.225.156.14
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:28 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1943
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:54 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1633
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	66.47.207.214
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+world-widinnovation.com. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:35:33 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	66.47.207.214
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	89.188.136.67
+world-widinnovation.com. 300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:35:55 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1598
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	200.223.178.16
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	71.97.106.69
+world-widinnovation.com. 300	IN	A	162.84.42.167
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:36:54 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 960
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	71.0.225.4
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	200.223.178.16
+world-widinnovation.com. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:36:28 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 983
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	94.28.81.206
+world-widinnovation.com. 300	IN	A	94.78.231.116
+world-widinnovation.com. 300	IN	A	70.91.121.99
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	84.111.2.225
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	76.97.241.186
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+
+;; Query time: 1000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:35:47 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1463
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	84.111.2.225
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	69.50.218.12
+world-widinnovation.com. 300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	65.171.124.38
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:36 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1607
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	69.50.218.12
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	84.111.2.225
+world-widinnovation.com. 300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	68.157.165.214
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:36:13 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1264
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.15.177.251
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+
+;; Query time: 1203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:36:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1837
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	98.197.164.181
+world-widinnovation.com. 300	IN	A	58.186.12.179
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.15.177.251
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:40 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 688
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	58.186.12.179
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	216.226.133.199
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1444
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	12.52.248.82
+world-widinnovation.com. 300	IN	A	62.138.104.19
+world-widinnovation.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	62.209.132.246
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:36:14 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1323
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	75.151.213.13
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	12.52.248.82
+world-widinnovation.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	121.132.156.69
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:36:40 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1078
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	71.0.225.4
+world-widinnovation.com. 300	IN	A	76.113.188.200
+world-widinnovation.com. 300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	195.93.181.30
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	212.100.201.65
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:11 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 890
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	76.113.188.200
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	71.0.225.4
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:19 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1123
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	69.183.220.16
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:40:14 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 612
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.183.220.16
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:40:45 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 283
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	69.183.220.16
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	121.240.109.67
+world-widinnovation.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:41:04 2009
+;; MSG SIZE  rcvd: 320
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1714
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	206.104.100.29
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	66.47.207.214
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	81.177.134.9
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:39:27 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1805
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	66.47.207.214
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 1281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:40:26 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1230
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	66.47.207.214
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	69.198.5.210
+world-widinnovation.com. 300	IN	A	81.177.134.9
+world-widinnovation.com. 300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:41:07 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 790
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	200.223.178.16
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	68.236.210.184
+world-widinnovation.com. 300	IN	A	71.97.106.69
+world-widinnovation.com. 300	IN	A	162.84.42.167
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+
+;; Query time: 1171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:36 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 138
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	71.0.225.4
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	200.223.178.16
+world-widinnovation.com. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 157216 IN	A	66.161.148.148
+ns4.magnifindings.com.	157216	IN	A	74.172.32.50
+ns1.verity-fresh.com.	157216	IN	A	64.244.62.54
+ns2.desistylish.com.	157216	IN	A	74.15.177.251
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:38:14 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1238
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	71.0.225.4
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	200.223.178.16
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:39:49 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1398
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	70.138.11.141
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	67.107.81.188
+world-widinnovation.com. 300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 1812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:35 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 929
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	206.210.113.47
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	67.107.81.188
+world-widinnovation.com. 300	IN	A	70.91.121.99
+world-widinnovation.com. 300	IN	A	70.138.11.141
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172799 IN	A	66.161.148.148
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	64.244.62.54
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:00 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1538
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	213.120.254.75
+world-widinnovation.com. 300	IN	A	67.107.81.188
+world-widinnovation.com. 300	IN	A	70.91.121.99
+world-widinnovation.com. 300	IN	A	70.138.11.141
+world-widinnovation.com. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:26 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1287
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	70.91.121.99
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	84.111.2.225
+world-widinnovation.com. 300	IN	A	94.28.81.206
+world-widinnovation.com. 300	IN	A	94.78.231.116
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172474	IN	A	76.97.241.186
+ns2.desistylish.com.	172474	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172474 IN	A	61.160.217.38
+ns4.magnifindings.com.	172474	IN	A	74.172.32.50
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:21 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 896
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	70.91.121.99
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	84.111.2.225
+world-widinnovation.com. 300	IN	A	94.28.81.206
+world-widinnovation.com. 300	IN	A	94.78.231.116
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	76.97.241.186
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:22 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 548
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.15.177.251
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:33 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 656
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.15.177.251
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:34 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 572
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	162.84.42.167
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.15.177.251
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1544
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	12.52.248.82
+world-widinnovation.com. 300	IN	A	62.138.104.19
+world-widinnovation.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	62.209.132.246
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 1687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:39:42 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1522
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	75.151.213.13
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	12.52.248.82
+world-widinnovation.com. 300	IN	A	66.155.114.139
+world-widinnovation.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	78.38.149.226
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+
+;; Query time: 1171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:39:08 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	108750	IN	A	8.12.160.183
+ns1.americans-tool.com.	109563	IN	A	8.12.160.183
+ns2.bus-on-line.com.	120255	IN	A	205.178.14.51
+ns2.americans-tool.com.	109563	IN	A	88.31.112.44
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:00 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 226
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.bus-on-line.com.	133181	IN	A	205.178.14.51
+ns1.bus-on-line.com.	133180	IN	A	8.12.160.183
+ns1.americans-tool.com.	141862	IN	A	8.12.160.183
+ns2.americans-tool.com.	133181	IN	A	88.31.112.44
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:39 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:37:28 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1861
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.bus-on-line.com.	108633	IN	A	205.178.14.51
+ns1.americans-tool.com.	108770	IN	A	8.12.160.183
+ns1.bus-on-line.com.	108632	IN	A	8.12.160.183
+ns2.americans-tool.com.	108770	IN	A	88.31.112.44
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:37:33 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1782
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+ij1il.com.		1800	IN	A	83.57.2.219
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:38:11 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 912
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172799	IN	A	8.12.160.183
+ns1.americans-tool.com.	172799	IN	A	8.12.160.183
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:38:46 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 885
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	213.91.227.80
+ij1il.com.		1800	IN	A	71.143.158.235
+ij1il.com.		1800	IN	A	76.205.93.63
+ij1il.com.		1800	IN	A	78.94.97.120
+ij1il.com.		1800	IN	A	82.9.87.182
+ij1il.com.		1800	IN	A	83.57.2.219
+ij1il.com.		1800	IN	A	84.122.124.19
+ij1il.com.		1800	IN	A	85.31.254.88
+ij1il.com.		1800	IN	A	85.85.75.102
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	94.26.40.78
+ij1il.com.		1800	IN	A	96.32.174.151
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	201.233.25.244
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns2.americans-tool.com.	105097	IN	A	88.31.112.44
+ns1.americans-tool.com.	94863	IN	A	8.12.160.183
+ns2.bus-on-line.com.	108498	IN	A	205.178.14.51
+ns1.bus-on-line.com.	96132	IN	A	8.12.160.183
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:41:10 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1055
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:19 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 720
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:25 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 382
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:30 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 534
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:38 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1176
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172799	IN	A	8.12.160.183
+ns1.americans-tool.com.	172799	IN	A	8.12.160.183
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:07 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 496
+;; flags: qr rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1747	IN	A	221.126.237.234
+ij1il.com.		1747	IN	A	24.61.251.28
+ij1il.com.		1747	IN	A	71.100.197.224
+ij1il.com.		1747	IN	A	71.132.66.90
+ij1il.com.		1747	IN	A	77.41.5.20
+ij1il.com.		1747	IN	A	78.94.99.126
+ij1il.com.		1747	IN	A	82.10.225.196
+ij1il.com.		1747	IN	A	82.22.126.227
+ij1il.com.		1747	IN	A	82.33.173.169
+ij1il.com.		1747	IN	A	88.156.177.237
+ij1il.com.		1747	IN	A	88.173.85.170
+ij1il.com.		1747	IN	A	89.178.28.82
+ij1il.com.		1747	IN	A	89.236.6.254
+ij1il.com.		1747	IN	A	200.109.36.241
+ij1il.com.		1747	IN	A	201.215.161.113
+
+;; AUTHORITY SECTION:
+ij1il.com.		1747	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1747	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1747	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1747	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.americans-tool.com.	172747	IN	A	88.31.112.44
+ns2.bus-on-line.com.	172747	IN	A	205.178.14.51
+ns1.bus-on-line.com.	172747	IN	A	8.12.160.183
+ns1.americans-tool.com.	172747	IN	A	8.12.160.183
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:11 2009
+;; MSG SIZE  rcvd: 430
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 336
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:12 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 171
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:13 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1787
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	103231	IN	A	8.12.160.183
+ns2.americans-tool.com.	109429	IN	A	88.31.112.44
+ns2.bus-on-line.com.	103231	IN	A	205.178.14.51
+ns1.americans-tool.com.	109429	IN	A	8.12.160.183
+
+;; Query time: 1156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:15 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1526
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:16 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 153
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	149206	IN	A	8.12.160.183
+ns1.bus-on-line.com.	153349	IN	A	8.12.160.183
+ns2.bus-on-line.com.	153349	IN	A	205.178.14.51
+ns2.americans-tool.com.	149206	IN	A	88.31.112.44
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:42:22 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 67
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; ANSWER SECTION:
+ij1il.com.		1800	IN	A	89.178.28.82
+ij1il.com.		1800	IN	A	89.236.6.254
+ij1il.com.		1800	IN	A	200.109.36.241
+ij1il.com.		1800	IN	A	201.215.161.113
+ij1il.com.		1800	IN	A	221.126.237.234
+ij1il.com.		1800	IN	A	24.61.251.28
+ij1il.com.		1800	IN	A	71.100.197.224
+ij1il.com.		1800	IN	A	71.132.66.90
+ij1il.com.		1800	IN	A	77.41.5.20
+ij1il.com.		1800	IN	A	78.94.99.126
+ij1il.com.		1800	IN	A	82.10.225.196
+ij1il.com.		1800	IN	A	82.22.126.227
+ij1il.com.		1800	IN	A	82.33.173.169
+ij1il.com.		1800	IN	A	88.156.177.237
+ij1il.com.		1800	IN	A	88.173.85.170
+
+;; AUTHORITY SECTION:
+ij1il.com.		1800	IN	NS	ns2.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns1.americans-tool.com.
+ij1il.com.		1800	IN	NS	ns1.bus-on-line.com.
+ij1il.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:43:13 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1985
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1238424008 1800 900 604800 900
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:44:33 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 488
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1238424008 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:45:55 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1437
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ij1il.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240756820 1800 900 604800 900
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:40:28 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1424
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	69.198.5.210
+aladvise.com.		300	IN	A	76.113.188.200
+aladvise.com.		300	IN	A	121.240.109.67
+aladvise.com.		300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:12 2009
+;; MSG SIZE  rcvd: 298
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1071
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	69.198.5.210
+aladvise.com.		300	IN	A	76.113.188.200
+aladvise.com.		300	IN	A	121.240.109.67
+aladvise.com.		300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:54 2009
+;; MSG SIZE  rcvd: 298
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 340
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	206.210.113.47
+aladvise.com.		300	IN	A	213.120.254.75
+aladvise.com.		300	IN	A	68.236.210.184
+aladvise.com.		300	IN	A	71.97.106.69
+aladvise.com.		300	IN	A	162.84.42.167
+aladvise.com.		300	IN	A	200.223.178.16
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:41:16 2009
+;; MSG SIZE  rcvd: 330
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	71.0.225.4
+aladvise.com.		300	IN	A	162.84.42.167
+aladvise.com.		300	IN	A	200.223.178.16
+aladvise.com.		300	IN	A	206.210.113.47
+aladvise.com.		300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	157127	IN	A	74.172.32.50
+ns1.verity-fresh.com.	157127	IN	A	64.244.62.54
+ns2.desistylish.com.	157127	IN	A	74.15.177.251
+ns3.splendidfindings.com. 157127 IN	A	66.161.148.148
+
+;; Query time: 984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:08 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1591
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	213.120.254.75
+aladvise.com.		300	IN	A	67.107.81.188
+aladvise.com.		300	IN	A	70.91.121.99
+aladvise.com.		300	IN	A	70.138.11.141
+aladvise.com.		300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 1703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:39 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1119
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	70.91.121.99
+aladvise.com.		300	IN	A	70.138.11.141
+aladvise.com.		300	IN	A	206.210.113.47
+aladvise.com.		300	IN	A	213.120.254.75
+aladvise.com.		300	IN	A	67.107.81.188
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	66.161.148.148
+
+;; Query time: 1078 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:06 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 238
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	94.78.231.116
+aladvise.com.		300	IN	A	70.91.121.99
+aladvise.com.		300	IN	A	71.172.38.60
+aladvise.com.		300	IN	A	84.111.2.225
+aladvise.com.		300	IN	A	94.28.81.206
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+
+;; ADDITIONAL SECTION:
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	76.97.241.186
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:20 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 922
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	70.91.121.99
+aladvise.com.		300	IN	A	71.172.38.60
+aladvise.com.		300	IN	A	84.111.2.225
+aladvise.com.		300	IN	A	94.28.81.206
+aladvise.com.		300	IN	A	94.78.231.116
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	61.160.217.38
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	76.97.241.186
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:20 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 980
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	94.28.81.206
+aladvise.com.		300	IN	A	94.78.231.116
+aladvise.com.		300	IN	A	70.91.121.99
+aladvise.com.		300	IN	A	71.172.38.60
+aladvise.com.		300	IN	A	84.111.2.225
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	76.97.241.186
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 859 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:23 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 279
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	162.84.42.167
+aladvise.com.		300	IN	A	71.172.38.60
+aladvise.com.		300	IN	A	74.15.177.251
+aladvise.com.		300	IN	A	74.44.82.40
+aladvise.com.		300	IN	A	74.172.32.50
+aladvise.com.		300	IN	A	149.75.200.5
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:25 2009
+;; MSG SIZE  rcvd: 330
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1816
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	71.172.38.60
+aladvise.com.		300	IN	A	74.44.82.40
+aladvise.com.		300	IN	A	74.172.32.50
+aladvise.com.		300	IN	A	149.75.200.5
+aladvise.com.		300	IN	A	12.52.248.82
+aladvise.com.		300	IN	A	62.138.104.19
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	62.209.132.246
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+
+;; Query time: 1031 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:39:40 2009
+;; MSG SIZE  rcvd: 330
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 aladvise.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 258
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;aladvise.com.			IN	A
+
+;; ANSWER SECTION:
+aladvise.com.		300	IN	A	74.44.82.40
+aladvise.com.		300	IN	A	75.151.213.13
+aladvise.com.		300	IN	A	149.75.200.5
+aladvise.com.		300	IN	A	12.52.248.82
+aladvise.com.		300	IN	A	66.155.114.139
+aladvise.com.		300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+aladvise.com.		300	IN	NS	ns1.verity-fresh.com.
+aladvise.com.		300	IN	NS	ns2.desistylish.com.
+aladvise.com.		300	IN	NS	ns3.splendidfindings.com.
+aladvise.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	78.38.149.226
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:39:07 2009
+;; MSG SIZE  rcvd: 330
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1986
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	206.210.113.47
+bestandonlylink2topsuccess.com.	300 IN	A	24.234.149.119
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	69.15.160.54
+bestandonlylink2topsuccess.com.	300 IN	A	69.123.116.89
+bestandonlylink2topsuccess.com.	300 IN	A	200.223.178.16
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	172800 IN NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 172800 IN	A	70.91.121.99
+ns2.classiremained.com.	172800	IN	A	70.91.121.99
+ns3.factsleading.com.	172800	IN	A	70.102.191.196
+ns4.innobrilliant.com.	172800	IN	A	75.145.2.237
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:47 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1111
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	206.210.113.47
+bestandonlylink2topsuccess.com.	300 IN	A	24.234.149.119
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	69.15.160.54
+bestandonlylink2topsuccess.com.	300 IN	A	74.213.75.246
+bestandonlylink2topsuccess.com.	300 IN	A	121.246.86.173
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	172800 IN NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 172800 IN	A	70.91.121.99
+ns2.classiremained.com.	172800	IN	A	70.91.121.99
+ns3.factsleading.com.	172800	IN	A	70.102.191.196
+ns4.innobrilliant.com.	172800	IN	A	75.145.2.237
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:40:27 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1950
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	69.15.160.54
+bestandonlylink2topsuccess.com.	300 IN	A	99.190.83.110
+bestandonlylink2topsuccess.com.	300 IN	A	121.246.86.173
+bestandonlylink2topsuccess.com.	300 IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	172799	IN	A	70.91.121.99
+ns3.factsleading.com.	172799	IN	A	70.102.191.196
+ns4.innobrilliant.com.	172799	IN	A	75.145.2.237
+ns1.classifiedremained.com. 172799 IN	A	70.91.121.99
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:50 2009
+;; MSG SIZE  rcvd: 355
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1344
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	195.93.180.30
+bestandonlylink2topsuccess.com.	300 IN	A	66.45.231.74
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	70.224.6.81
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	172798	IN	A	78.100.39.148
+ns4.innobrilliant.com.	172798	IN	A	75.145.2.237
+ns1.classifiedremained.com. 172798 IN	A	70.91.121.99
+ns2.classiremained.com.	172798	IN	A	66.36.215.230
+
+;; Query time: 2046 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:44:59 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 481
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	195.93.180.30
+bestandonlylink2topsuccess.com.	300 IN	A	66.45.231.74
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	70.224.6.81
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+
+;; ADDITIONAL SECTION:
+ns4.innobrilliant.com.	172800	IN	A	75.145.2.237
+ns1.classifiedremained.com. 172800 IN	A	70.91.121.99
+ns2.classiremained.com.	172800	IN	A	66.36.215.230
+ns3.factsleading.com.	172800	IN	A	78.100.39.148
+
+;; Query time: 812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:45:16 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 559
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+bestandonlylink2topsuccess.com.	300 IN	A	68.157.165.214
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	70.138.19.145
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	172799 IN NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	172799 IN NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	172799 IN NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	172799 IN NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 165062 IN	A	70.91.121.99
+ns2.classiremained.com.	165062	IN	A	72.44.33.117
+ns3.factsleading.com.	165062	IN	A	78.100.39.148
+ns4.innobrilliant.com.	165062	IN	A	75.145.2.237
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:40:25 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1761
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	98.197.164.181
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+bestandonlylink2topsuccess.com.	300 IN	A	68.163.69.147
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 172800 IN	A	70.91.121.99
+ns2.classiremained.com.	172800	IN	A	72.44.33.117
+ns3.factsleading.com.	172800	IN	A	78.100.39.148
+ns4.innobrilliant.com.	172800	IN	A	75.145.2.237
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:48:25 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1559
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	74.172.32.50
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	208.76.203.26
+bestandonlylink2topsuccess.com.	300 IN	A	12.184.45.88
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	169486	IN	A	72.44.33.117
+ns3.factsleading.com.	169486	IN	A	189.69.144.215
+ns4.innobrilliant.com.	169486	IN	A	205.205.200.235
+ns1.classifiedremained.com. 169486 IN	A	70.91.121.99
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:39:48 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 196
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	208.76.203.26
+bestandonlylink2topsuccess.com.	300 IN	A	12.184.45.88
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	159656	IN	A	78.100.39.148
+ns4.innobrilliant.com.	159656	IN	A	75.145.2.237
+ns1.classifiedremained.com. 159656 IN	A	70.91.121.99
+ns2.classiremained.com.	159656	IN	A	72.44.33.117
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:45 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1568
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	74.172.32.50
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	208.76.203.26
+bestandonlylink2topsuccess.com.	300 IN	A	12.184.45.88
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	159756	IN	A	72.44.33.117
+ns3.factsleading.com.	159756	IN	A	78.100.39.148
+ns4.innobrilliant.com.	159756	IN	A	75.145.2.237
+ns1.classifiedremained.com. 159756 IN	A	70.91.121.99
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:46 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1744
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	68.236.210.184
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	208.76.203.26
+bestandonlylink2topsuccess.com.	300 IN	A	12.184.45.88
+bestandonlylink2topsuccess.com.	300 IN	A	66.161.148.148
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	111066	IN	A	72.44.33.117
+ns3.factsleading.com.	111066	IN	A	189.69.144.215
+ns4.innobrilliant.com.	111066	IN	A	205.205.200.235
+ns1.classifiedremained.com. 111066 IN	A	162.84.42.167
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:35 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 669
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	67.107.81.188
+bestandonlylink2topsuccess.com.	300 IN	A	68.236.210.184
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	114.111.49.40
+bestandonlylink2topsuccess.com.	300 IN	A	128.95.2.254
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+
+;; ADDITIONAL SECTION:
+ns4.innobrilliant.com.	172800	IN	A	69.49.114.78
+ns1.classifiedremained.com. 159407 IN	A	70.91.121.99
+ns2.classiremained.com.	134412	IN	A	72.44.33.117
+ns3.factsleading.com.	172800	IN	A	213.207.200.66
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:12 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1487
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	74.44.82.40
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	128.95.2.254
+bestandonlylink2topsuccess.com.	300 IN	A	66.231.33.161
+bestandonlylink2topsuccess.com.	300 IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	172800 IN NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	172800 IN NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 172800 IN	A	70.91.121.99
+ns2.classiremained.com.	172800	IN	A	72.44.33.117
+ns3.factsleading.com.	172800	IN	A	69.57.239.251
+ns4.innobrilliant.com.	172800	IN	A	69.49.114.78
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:40:40 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	66.231.33.161
+bestandonlylink2topsuccess.com.	300 IN	A	68.236.210.184
+bestandonlylink2topsuccess.com.	300 IN	A	74.44.82.40
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	128.95.2.254
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	172799	IN	A	69.57.239.251
+ns4.innobrilliant.com.	167724	IN	A	69.49.114.78
+ns1.classifiedremained.com. 164125 IN	A	70.91.121.99
+ns2.classiremained.com.	172799	IN	A	72.44.33.117
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:42:15 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 744
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+bestandonlylink2topsuccess.com.	300 IN	A	128.95.2.254
+bestandonlylink2topsuccess.com.	300 IN	A	221.142.230.143
+bestandonlylink2topsuccess.com.	300 IN	A	66.231.33.161
+bestandonlylink2topsuccess.com.	300 IN	A	74.44.82.40
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+
+;; ADDITIONAL SECTION:
+ns1.classifiedremained.com. 172796 IN	A	70.91.121.99
+ns2.classiremained.com.	172796	IN	A	75.127.81.16
+ns3.factsleading.com.	172796	IN	A	66.96.207.105
+ns4.innobrilliant.com.	172796	IN	A	69.49.114.78
+
+;; Query time: 3500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:24 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 666
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	128.95.2.254
+bestandonlylink2topsuccess.com.	300 IN	A	221.142.230.143
+bestandonlylink2topsuccess.com.	300 IN	A	66.231.33.161
+bestandonlylink2topsuccess.com.	300 IN	A	74.44.82.40
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	75.147.221.65
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+
+;; ADDITIONAL SECTION:
+ns4.innobrilliant.com.	142491	IN	A	69.49.114.78
+ns1.classifiedremained.com. 138949 IN	A	70.91.121.99
+ns2.classiremained.com.	142491	IN	A	74.94.70.73
+ns3.factsleading.com.	142491	IN	A	66.96.207.105
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:25 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1432
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	76.240.189.236
+bestandonlylink2topsuccess.com.	300 IN	A	78.5.101.3
+bestandonlylink2topsuccess.com.	300 IN	A	121.240.109.67
+bestandonlylink2topsuccess.com.	300 IN	A	221.142.230.143
+bestandonlylink2topsuccess.com.	300 IN	A	74.63.252.83
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+
+;; ADDITIONAL SECTION:
+ns4.innobrilliant.com.	172796	IN	A	69.49.114.78
+ns1.classifiedremained.com. 172796 IN	A	70.91.121.99
+ns2.classiremained.com.	172796	IN	A	75.127.81.66
+ns3.factsleading.com.	172796	IN	A	66.96.207.105
+
+;; Query time: 3921 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:39:27 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 521
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	74.63.252.83
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	76.240.189.236
+bestandonlylink2topsuccess.com.	300 IN	A	78.5.101.3
+bestandonlylink2topsuccess.com.	300 IN	A	121.240.109.67
+bestandonlylink2topsuccess.com.	300 IN	A	221.142.230.143
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	172792	IN	A	66.96.207.105
+ns4.innobrilliant.com.	172792	IN	A	69.49.114.78
+ns1.classifiedremained.com. 172792 IN	A	70.91.121.99
+ns2.classiremained.com.	172792	IN	A	75.127.81.66
+
+;; Query time: 3015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 24 22:39:39 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2012
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	75.145.2.237
+bestandonlylink2topsuccess.com.	300 IN	A	78.5.101.3
+bestandonlylink2topsuccess.com.	300 IN	A	99.24.1.248
+bestandonlylink2topsuccess.com.	300 IN	A	66.166.1.77
+bestandonlylink2topsuccess.com.	300 IN	A	69.140.107.163
+bestandonlylink2topsuccess.com.	300 IN	A	70.98.103.194
+bestandonlylink2topsuccess.com.	300 IN	A	74.63.252.83
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	172799	IN	A	66.96.207.105
+ns4.innobrilliant.com.	172799	IN	A	69.49.114.78
+ns1.classifiedremained.com. 172799 IN	A	165.132.22.31
+ns2.classiremained.com.	172799	IN	A	75.127.81.16
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:39:07 2009
+;; MSG SIZE  rcvd: 387
+
+

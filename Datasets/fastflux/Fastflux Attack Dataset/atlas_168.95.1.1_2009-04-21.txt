@@ -1,0 +1,255 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 hll1j.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1796
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;hll1j.com.			IN	A
+
+;; ANSWER SECTION:
+hll1j.com.		1800	IN	A	92.76.125.30
+hll1j.com.		1800	IN	A	190.95.21.146
+hll1j.com.		1800	IN	A	201.215.167.241
+hll1j.com.		1800	IN	A	213.21.8.222
+hll1j.com.		1800	IN	A	217.216.90.222
+hll1j.com.		1800	IN	A	221.127.137.30
+hll1j.com.		1800	IN	A	79.164.138.145
+hll1j.com.		1800	IN	A	79.165.47.94
+hll1j.com.		1800	IN	A	79.175.208.140
+hll1j.com.		1800	IN	A	83.24.251.233
+hll1j.com.		1800	IN	A	84.124.136.187
+hll1j.com.		1800	IN	A	84.125.47.12
+hll1j.com.		1800	IN	A	84.126.94.112
+hll1j.com.		1800	IN	A	85.136.100.15
+hll1j.com.		1800	IN	A	89.230.136.190
+
+;; AUTHORITY SECTION:
+hll1j.com.		1800	IN	NS	ns1.systray-dll.net.
+hll1j.com.		1800	IN	NS	ns1.torshtainer.net.
+hll1j.com.		1800	IN	NS	ns2.systray-dll.net.
+hll1j.com.		1800	IN	NS	ns2.torshtainer.net.
+
+;; ADDITIONAL SECTION:
+ns1.systray-dll.net.	146942	IN	A	67.223.241.228
+ns1.torshtainer.net.	127521	IN	A	67.223.241.228
+ns2.systray-dll.net.	146942	IN	A	67.220.203.48
+ns2.torshtainer.net.	127521	IN	A	155.123.125.63
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:17 2009
+;; MSG SIZE  rcvd: 439
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 construct-civilized-street.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1459
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;construct-civilized-street.cn.	IN	A
+
+;; ANSWER SECTION:
+construct-civilized-street.cn. 300 IN	A	84.53.243.45
+construct-civilized-street.cn. 300 IN	A	69.4.188.23
+construct-civilized-street.cn. 300 IN	A	74.63.252.83
+construct-civilized-street.cn. 300 IN	A	75.33.18.196
+construct-civilized-street.cn. 300 IN	A	76.233.44.113
+
+;; AUTHORITY SECTION:
+construct-civilized-street.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+construct-civilized-street.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+construct-civilized-street.cn. 300 IN	NS	ns2.various-gold-everywhere.com.
+construct-civilized-street.cn. 300 IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 150242 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 150242 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 150242	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 150242 IN	A	94.78.231.116
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:18 2009
+;; MSG SIZE  rcvd: 373
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 buildtidymechanism.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1801
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;buildtidymechanism.cn.		IN	A
+
+;; ANSWER SECTION:
+buildtidymechanism.cn.	300	IN	A	75.33.18.196
+buildtidymechanism.cn.	300	IN	A	76.233.44.113
+buildtidymechanism.cn.	300	IN	A	84.53.243.45
+buildtidymechanism.cn.	300	IN	A	69.4.188.23
+buildtidymechanism.cn.	300	IN	A	74.63.252.83
+
+;; AUTHORITY SECTION:
+buildtidymechanism.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+buildtidymechanism.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+buildtidymechanism.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+buildtidymechanism.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+
+;; ADDITIONAL SECTION:
+ns3.purecrayonanyway.com. 140393 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 140393 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 140393 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 140393	IN A	213.234.1.254
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:18 2009
+;; MSG SIZE  rcvd: 357
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 shapeneaturban-area.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1715
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;shapeneaturban-area.cn.		IN	A
+
+;; ANSWER SECTION:
+shapeneaturban-area.cn.	300	IN	A	75.33.18.196
+shapeneaturban-area.cn.	300	IN	A	76.233.44.113
+shapeneaturban-area.cn.	300	IN	A	84.53.243.45
+shapeneaturban-area.cn.	300	IN	A	69.4.188.23
+shapeneaturban-area.cn.	300	IN	A	74.63.252.83
+
+;; AUTHORITY SECTION:
+shapeneaturban-area.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+shapeneaturban-area.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+shapeneaturban-area.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+shapeneaturban-area.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.various-gold-everywhere.com. 136791	IN A	213.234.1.254
+ns3.purecrayonanyway.com. 136791 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 136791 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 136791 IN	A	66.155.114.139
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:34 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 amazingonlineaffairs.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 546
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;amazingonlineaffairs.cn.	IN	A
+
+;; ANSWER SECTION:
+amazingonlineaffairs.cn. 300	IN	A	76.233.44.113
+amazingonlineaffairs.cn. 300	IN	A	84.53.243.45
+amazingonlineaffairs.cn. 300	IN	A	69.4.188.23
+amazingonlineaffairs.cn. 300	IN	A	74.63.252.83
+amazingonlineaffairs.cn. 300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+amazingonlineaffairs.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+amazingonlineaffairs.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+amazingonlineaffairs.cn. 300	IN	NS	ns2.various-gold-everywhere.com.
+amazingonlineaffairs.cn. 300	IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 153614 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 153614 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 153614	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 153614 IN	A	94.78.231.116
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:35 2009
+;; MSG SIZE  rcvd: 361
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 revelwarmbanquet.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 387
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;revelwarmbanquet.cn.		IN	A
+
+;; ANSWER SECTION:
+revelwarmbanquet.cn.	300	IN	A	74.63.252.83
+revelwarmbanquet.cn.	300	IN	A	75.33.18.196
+revelwarmbanquet.cn.	300	IN	A	76.233.44.113
+revelwarmbanquet.cn.	300	IN	A	84.53.243.45
+revelwarmbanquet.cn.	300	IN	A	69.4.188.23
+
+;; AUTHORITY SECTION:
+revelwarmbanquet.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+revelwarmbanquet.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+revelwarmbanquet.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+revelwarmbanquet.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.various-gold-everywhere.com. 162736	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 162736 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 162736 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 162736 IN	A	66.155.114.139
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:40 2009
+;; MSG SIZE  rcvd: 353
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 stride-forwardadvancedmechanism.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1004
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;stride-forwardadvancedmechanism.cn. IN	A
+
+;; ANSWER SECTION:
+stride-forwardadvancedmechanism.cn. 300	IN A	74.63.252.83
+stride-forwardadvancedmechanism.cn. 300	IN A	75.33.18.196
+stride-forwardadvancedmechanism.cn. 300	IN A	76.233.44.113
+stride-forwardadvancedmechanism.cn. 300	IN A	84.53.243.45
+stride-forwardadvancedmechanism.cn. 300	IN A	69.4.188.23
+
+;; AUTHORITY SECTION:
+stride-forwardadvancedmechanism.cn. 300	IN NS	ns2.various-gold-everywhere.com.
+stride-forwardadvancedmechanism.cn. 300	IN NS	ns3.purecrayonanyway.com.
+stride-forwardadvancedmechanism.cn. 300	IN NS	ns4.uniquest-pedagogue.com.
+stride-forwardadvancedmechanism.cn. 300	IN NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.various-gold-everywhere.com. 132412	IN A	213.234.1.254
+ns3.purecrayonanyway.com. 132412 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 132412 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 132412 IN	A	66.155.114.139
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:35:41 2009
+;; MSG SIZE  rcvd: 383
+
+

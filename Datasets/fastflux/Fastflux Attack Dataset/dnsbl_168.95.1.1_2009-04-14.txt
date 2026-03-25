@@ -1,0 +1,2378 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1255
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	189.117.229.200
+ill1j.be.		1800	IN	A	190.53.0.204
+ill1j.be.		1800	IN	A	190.165.32.74
+ill1j.be.		1800	IN	A	190.191.14.145
+ill1j.be.		1800	IN	A	213.21.8.222
+ill1j.be.		1800	IN	A	213.91.227.80
+ill1j.be.		1800	IN	A	71.192.183.218
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	79.70.66.65
+ill1j.be.		1800	IN	A	82.21.212.217
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.137.225.111
+ill1j.be.		1800	IN	A	85.155.204.53
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	86.15.224.146
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+ill1j.be.		1800	IN	NS	ns1.stichback.net.
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+ill1j.be.		1800	IN	NS	ns2.stichback.net.
+
+;; ADDITIONAL SECTION:
+ns1.audivideo.net.	108955	IN	A	67.222.1.30
+ns1.stichback.net.	108955	IN	A	67.222.1.30
+ns2.audivideo.net.	108955	IN	A	195.171.190.48
+ns2.stichback.net.	108955	IN	A	88.152.14.67
+
+;; Query time: 4359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:34 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 535
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	189.117.229.200
+ill1j.be.		1800	IN	A	190.53.0.204
+ill1j.be.		1800	IN	A	190.165.32.74
+ill1j.be.		1800	IN	A	190.191.14.145
+ill1j.be.		1800	IN	A	213.21.8.222
+ill1j.be.		1800	IN	A	213.91.227.80
+ill1j.be.		1800	IN	A	71.192.183.218
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	79.70.66.65
+ill1j.be.		1800	IN	A	82.21.212.217
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.137.225.111
+ill1j.be.		1800	IN	A	85.155.204.53
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	86.15.224.146
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+ill1j.be.		1800	IN	NS	ns2.stichback.net.
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+ill1j.be.		1800	IN	NS	ns1.stichback.net.
+
+;; ADDITIONAL SECTION:
+ns2.audivideo.net.	124920	IN	A	195.171.190.48
+ns2.stichback.net.	114182	IN	A	88.152.14.67
+ns1.audivideo.net.	124920	IN	A	67.222.1.30
+ns1.stichback.net.	114182	IN	A	67.222.1.30
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:19 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 506
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	86.15.224.146
+ill1j.be.		1800	IN	A	189.117.229.200
+ill1j.be.		1800	IN	A	190.53.0.204
+ill1j.be.		1800	IN	A	190.165.32.74
+ill1j.be.		1800	IN	A	190.191.14.145
+ill1j.be.		1800	IN	A	213.21.8.222
+ill1j.be.		1800	IN	A	213.91.227.80
+ill1j.be.		1800	IN	A	71.192.183.218
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	79.70.66.65
+ill1j.be.		1800	IN	A	82.21.212.217
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.137.225.111
+ill1j.be.		1800	IN	A	85.155.204.53
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns2.stichback.net.
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+ill1j.be.		1800	IN	NS	ns1.stichback.net.
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+
+;; ADDITIONAL SECTION:
+ns2.stichback.net.	120618	IN	A	88.152.14.67
+ns1.audivideo.net.	120618	IN	A	67.222.1.30
+ns1.stichback.net.	120618	IN	A	67.222.1.30
+ns2.audivideo.net.	120618	IN	A	195.171.190.48
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:37 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 602
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	78.90.250.72
+ill1j.be.		1800	IN	A	79.109.151.3
+ill1j.be.		1800	IN	A	81.203.87.207
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.136.100.15
+ill1j.be.		1800	IN	A	85.137.238.229
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	91.67.246.172
+ill1j.be.		1800	IN	A	92.237.25.216
+ill1j.be.		1800	IN	A	201.83.147.174
+ill1j.be.		1800	IN	A	201.231.179.56
+ill1j.be.		1800	IN	A	221.163.3.63
+ill1j.be.		1800	IN	A	24.61.249.127
+ill1j.be.		1800	IN	A	71.192.183.218
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+ill1j.be.		1800	IN	NS	ns1.downlloadfiles.net.
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+ill1j.be.		1800	IN	NS	ns2.downlloadfiles.net.
+
+;; ADDITIONAL SECTION:
+ns1.audivideo.net.	118541	IN	A	74.81.90.74
+ns1.downlloadfiles.net.	118541	IN	A	74.81.90.74
+ns2.audivideo.net.	118541	IN	A	195.171.190.48
+ns2.downlloadfiles.net.	118541	IN	A	88.213.12.217
+
+;; Query time: 1062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:39:48 2009
+;; MSG SIZE  rcvd: 438
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	81.203.87.207
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.136.100.15
+ill1j.be.		1800	IN	A	85.137.238.229
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	91.67.246.172
+ill1j.be.		1800	IN	A	92.237.25.216
+ill1j.be.		1800	IN	A	201.83.147.174
+ill1j.be.		1800	IN	A	201.231.179.56
+ill1j.be.		1800	IN	A	221.163.3.63
+ill1j.be.		1800	IN	A	24.61.249.127
+ill1j.be.		1800	IN	A	71.192.183.218
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	78.90.250.72
+ill1j.be.		1800	IN	A	79.109.151.3
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+ill1j.be.		1800	IN	NS	ns2.downlloadfiles.net.
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+ill1j.be.		1800	IN	NS	ns1.downlloadfiles.net.
+
+;; ADDITIONAL SECTION:
+ns2.audivideo.net.	172800	IN	A	195.171.190.48
+ns2.downlloadfiles.net.	129145	IN	A	88.213.12.217
+ns1.audivideo.net.	172800	IN	A	74.81.90.74
+ns1.downlloadfiles.net.	129145	IN	A	74.81.90.74
+
+;; Query time: 1593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:40:05 2009
+;; MSG SIZE  rcvd: 438
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 430
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; ANSWER SECTION:
+ill1j.be.		1800	IN	A	71.192.183.218
+ill1j.be.		1800	IN	A	76.205.112.214
+ill1j.be.		1800	IN	A	78.90.250.72
+ill1j.be.		1800	IN	A	79.109.151.3
+ill1j.be.		1800	IN	A	81.203.87.207
+ill1j.be.		1800	IN	A	84.126.129.97
+ill1j.be.		1800	IN	A	85.136.100.15
+ill1j.be.		1800	IN	A	85.137.238.229
+ill1j.be.		1800	IN	A	86.5.189.66
+ill1j.be.		1800	IN	A	91.67.246.172
+ill1j.be.		1800	IN	A	92.237.25.216
+ill1j.be.		1800	IN	A	201.83.147.174
+ill1j.be.		1800	IN	A	201.231.179.56
+ill1j.be.		1800	IN	A	221.163.3.63
+ill1j.be.		1800	IN	A	24.61.249.127
+
+;; AUTHORITY SECTION:
+ill1j.be.		1800	IN	NS	ns1.downlloadfiles.net.
+ill1j.be.		1800	IN	NS	ns2.audivideo.net.
+ill1j.be.		1800	IN	NS	ns2.downlloadfiles.net.
+ill1j.be.		1800	IN	NS	ns1.audivideo.net.
+
+;; ADDITIONAL SECTION:
+ns2.audivideo.net.	157150	IN	A	195.171.190.48
+ns1.audivideo.net.	157150	IN	A	74.81.90.74
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:40:59 2009
+;; MSG SIZE  rcvd: 406
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 119
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ill1j.be.			IN	A
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:43:09 2009
+;; MSG SIZE  rcvd: 26
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ill1j.be
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 372
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	88.188.129.168
+supermovie.ru.		180	IN	A	79.120.60.72
+supermovie.ru.		180	IN	A	200.117.53.151
+supermovie.ru.		180	IN	A	119.95.113.88
+supermovie.ru.		180	IN	A	81.172.25.227
+supermovie.ru.		180	IN	A	216.41.254.128
+supermovie.ru.		180	IN	A	173.88.35.69
+supermovie.ru.		180	IN	A	70.70.245.41
+supermovie.ru.		180	IN	A	99.234.39.130
+supermovie.ru.		180	IN	A	68.61.109.10
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:41:28 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 233
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:38:36 2009
+;; MSG SIZE  rcvd: 31
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 539
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	76.195.85.223
+supermovie.ru.		180	IN	A	216.41.254.128
+supermovie.ru.		180	IN	A	88.186.72.143
+supermovie.ru.		180	IN	A	69.196.190.104
+supermovie.ru.		180	IN	A	123.19.131.127
+supermovie.ru.		180	IN	A	216.186.212.141
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	95.221.181.1
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	125.212.238.75
+
+;; Query time: 1078 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:00 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1316
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	216.186.212.141
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	95.221.181.1
+supermovie.ru.		180	IN	A	88.186.72.143
+supermovie.ru.		180	IN	A	216.41.254.128
+supermovie.ru.		180	IN	A	123.19.131.127
+supermovie.ru.		180	IN	A	69.196.190.104
+supermovie.ru.		180	IN	A	76.195.85.223
+supermovie.ru.		180	IN	A	125.212.238.75
+
+;; Query time: 4031 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:38 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1842
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	216.186.212.141
+supermovie.ru.		180	IN	A	69.196.190.104
+supermovie.ru.		180	IN	A	76.195.85.223
+supermovie.ru.		180	IN	A	216.41.254.128
+supermovie.ru.		180	IN	A	123.19.131.127
+supermovie.ru.		180	IN	A	88.186.72.143
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	95.221.181.1
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	125.212.238.75
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:49 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 453
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	75.206.70.175
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	64.234.79.159
+supermovie.ru.		180	IN	A	75.182.89.124
+supermovie.ru.		180	IN	A	74.172.57.172
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	75.60.4.226
+supermovie.ru.		180	IN	A	206.248.128.67
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:58:08 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 747
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	74.172.57.172
+supermovie.ru.		180	IN	A	206.248.128.67
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	75.206.70.175
+supermovie.ru.		180	IN	A	64.234.79.159
+supermovie.ru.		180	IN	A	75.60.4.226
+supermovie.ru.		180	IN	A	75.182.89.124
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	152.2.88.192
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:58:31 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 278
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	206.248.128.67
+supermovie.ru.		180	IN	A	64.234.79.159
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	75.182.89.124
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	74.172.57.172
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	75.206.70.175
+supermovie.ru.		180	IN	A	75.60.4.226
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:59:41 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1801
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	75.182.89.124
+supermovie.ru.		180	IN	A	75.206.70.175
+supermovie.ru.		180	IN	A	64.234.79.159
+supermovie.ru.		180	IN	A	75.60.4.226
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	206.248.128.67
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	74.172.57.172
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:59:41 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		87	IN	A	74.172.57.172
+supermovie.ru.		87	IN	A	152.2.88.192
+supermovie.ru.		87	IN	A	157.252.151.49
+supermovie.ru.		87	IN	A	142.167.248.255
+supermovie.ru.		87	IN	A	75.60.4.226
+supermovie.ru.		87	IN	A	206.248.128.67
+supermovie.ru.		87	IN	A	75.206.70.175
+supermovie.ru.		87	IN	A	76.202.59.159
+supermovie.ru.		87	IN	A	64.234.79.159
+supermovie.ru.		87	IN	A	75.182.89.124
+
+;; AUTHORITY SECTION:
+supermovie.ru.		345432	IN	NS	ns3.iejdjn4cc.com.
+supermovie.ru.		345432	IN	NS	ns4.iejdjn4cc.com.
+supermovie.ru.		345432	IN	NS	ns5.iejdjn4cc.com.
+supermovie.ru.		345432	IN	NS	ns6.iejdjn4cc.com.
+
+;; ADDITIONAL SECTION:
+ns3.iejdjn4cc.com.	172632	IN	A	64.234.79.159
+ns4.iejdjn4cc.com.	172632	IN	A	76.195.85.223
+ns5.iejdjn4cc.com.	172632	IN	A	142.167.248.255
+ns6.iejdjn4cc.com.	172632	IN	A	70.70.245.41
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:59:41 2009
+;; MSG SIZE  rcvd: 340
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1170
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	75.60.4.226
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	64.234.79.159
+supermovie.ru.		180	IN	A	206.248.128.67
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	75.206.70.175
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	75.182.89.124
+supermovie.ru.		180	IN	A	74.172.57.172
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:59:41 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1633
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	95.221.221.169
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	125.212.238.75
+supermovie.ru.		180	IN	A	77.249.209.189
+supermovie.ru.		180	IN	A	76.10.8.239
+supermovie.ru.		180	IN	A	74.15.30.145
+supermovie.ru.		180	IN	A	88.181.186.2
+supermovie.ru.		180	IN	A	85.154.198.132
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:37:09 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 595
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	95.221.221.169
+supermovie.ru.		180	IN	A	88.181.186.2
+supermovie.ru.		180	IN	A	85.154.198.132
+supermovie.ru.		180	IN	A	74.15.30.145
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	125.212.238.75
+supermovie.ru.		180	IN	A	77.249.209.189
+supermovie.ru.		180	IN	A	76.10.8.239
+
+;; Query time: 4187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:37:27 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 775
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	77.249.209.189
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	76.10.8.239
+supermovie.ru.		180	IN	A	74.15.30.145
+supermovie.ru.		180	IN	A	88.181.186.2
+supermovie.ru.		180	IN	A	142.167.248.255
+supermovie.ru.		180	IN	A	125.212.238.75
+supermovie.ru.		180	IN	A	85.154.198.132
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	95.221.221.169
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:38:33 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 774
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	76.10.8.239
+supermovie.ru.		180	IN	A	99.50.189.37
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	70.70.245.41
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	66.205.131.162
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:38:55 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1993
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	70.70.245.41
+supermovie.ru.		180	IN	A	99.50.189.37
+supermovie.ru.		180	IN	A	76.10.8.239
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	76.202.59.159
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:39:09 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 120
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	76.10.8.239
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	70.70.245.41
+supermovie.ru.		180	IN	A	76.202.59.159
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	99.50.189.37
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:39:10 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 558
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		166	IN	A	99.50.189.37
+supermovie.ru.		166	IN	A	76.10.8.239
+supermovie.ru.		166	IN	A	196.203.53.30
+supermovie.ru.		166	IN	A	66.205.131.162
+supermovie.ru.		166	IN	A	125.212.181.178
+supermovie.ru.		166	IN	A	70.70.245.41
+supermovie.ru.		166	IN	A	76.202.59.159
+supermovie.ru.		166	IN	A	142.167.254.35
+supermovie.ru.		166	IN	A	24.151.243.99
+supermovie.ru.		166	IN	A	138.238.207.55
+
+;; AUTHORITY SECTION:
+supermovie.ru.		279403	IN	NS	ns3.iejdjn4cc.com.
+supermovie.ru.		279403	IN	NS	ns4.iejdjn4cc.com.
+supermovie.ru.		279403	IN	NS	ns5.iejdjn4cc.com.
+supermovie.ru.		279403	IN	NS	ns6.iejdjn4cc.com.
+
+;; ADDITIONAL SECTION:
+ns3.iejdjn4cc.com.	98750	IN	A	74.15.30.145
+ns4.iejdjn4cc.com.	98750	IN	A	76.10.8.239
+ns5.iejdjn4cc.com.	98750	IN	A	68.40.141.35
+ns6.iejdjn4cc.com.	98750	IN	A	152.2.88.192
+
+;; Query time: 15 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:39:23 2009
+;; MSG SIZE  rcvd: 340
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1855
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	81.13.227.175
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	142.167.254.35
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:18 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 917
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	81.13.227.175
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	138.238.207.55
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:31 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1498
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	81.13.227.175
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	138.238.207.55
+
+;; Query time: 1734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:42 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 334
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	81.13.227.175
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	157.252.151.49
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:52 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 93
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.98.43.57
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	69.76.179.222
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	152.2.88.192
+supermovie.ru.		180	IN	A	138.238.207.55
+supermovie.ru.		180	IN	A	81.13.227.175
+supermovie.ru.		180	IN	A	196.203.53.30
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:13 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 528
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	216.249.89.152
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:40:47 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 107
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	142.167.254.35
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:00 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1009
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	66.190.182.248
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1159
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	213.22.165.170
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:36 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		147	IN	A	142.167.254.35
+supermovie.ru.		147	IN	A	79.170.188.76
+supermovie.ru.		147	IN	A	125.212.181.178
+supermovie.ru.		147	IN	A	70.92.144.129
+supermovie.ru.		147	IN	A	89.208.6.98
+supermovie.ru.		147	IN	A	213.22.165.170
+supermovie.ru.		147	IN	A	66.190.182.248
+supermovie.ru.		147	IN	A	200.171.140.247
+supermovie.ru.		147	IN	A	71.243.127.115
+supermovie.ru.		147	IN	A	216.249.89.152
+
+;; AUTHORITY SECTION:
+supermovie.ru.		345567	IN	NS	ns5.iejdjn4cc.com.
+supermovie.ru.		345567	IN	NS	ns6.iejdjn4cc.com.
+supermovie.ru.		345567	IN	NS	ns3.iejdjn4cc.com.
+supermovie.ru.		345567	IN	NS	ns4.iejdjn4cc.com.
+
+;; ADDITIONAL SECTION:
+ns5.iejdjn4cc.com.	170278	IN	A	68.40.141.35
+ns6.iejdjn4cc.com.	170278	IN	A	152.2.88.192
+ns3.iejdjn4cc.com.	170278	IN	A	74.15.30.145
+ns4.iejdjn4cc.com.	170278	IN	A	76.10.8.239
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:55 2009
+;; MSG SIZE  rcvd: 340
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1253
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	213.22.165.170
+
+;; Query time: 2000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:57 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1443
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	200.171.140.247
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:58 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 632
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	125.212.181.178
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:42:29 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1068
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	71.243.127.115
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:43:00 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 227
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	142.167.254.35
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:43:00 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 873
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	70.92.144.129
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	200.171.140.247
+
+;; Query time: 1781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:43:31 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 252
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	200.171.140.247
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	213.22.165.170
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	66.190.182.248
+supermovie.ru.		180	IN	A	89.208.6.98
+supermovie.ru.		180	IN	A	216.249.89.152
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	70.92.144.129
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:43:47 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 736
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	75.59.231.156
+supermovie.ru.		180	IN	A	24.150.0.40
+supermovie.ru.		180	IN	A	70.210.90.119
+supermovie.ru.		180	IN	A	89.45.253.111
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	200.206.213.136
+supermovie.ru.		180	IN	A	80.247.187.114
+supermovie.ru.		180	IN	A	81.110.230.72
+supermovie.ru.		180	IN	A	208.120.229.44
+
+;; Query time: 1078 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:42:21 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 495
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.150.0.40
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	75.59.231.156
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	81.110.230.72
+supermovie.ru.		180	IN	A	200.206.213.136
+supermovie.ru.		180	IN	A	89.45.253.111
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	80.247.187.114
+supermovie.ru.		180	IN	A	70.210.90.119
+
+;; Query time: 2984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:43:57 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 193
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	80.247.187.114
+supermovie.ru.		180	IN	A	70.210.90.119
+supermovie.ru.		180	IN	A	89.45.253.111
+supermovie.ru.		180	IN	A	24.150.0.40
+supermovie.ru.		180	IN	A	200.206.213.136
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	75.59.231.156
+supermovie.ru.		180	IN	A	81.110.230.72
+supermovie.ru.		180	IN	A	208.120.229.44
+
+;; Query time: 4125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:44:07 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 794
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.110.230.72
+supermovie.ru.		180	IN	A	70.210.90.119
+supermovie.ru.		180	IN	A	66.205.131.162
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	24.151.243.99
+supermovie.ru.		180	IN	A	89.45.253.111
+supermovie.ru.		180	IN	A	200.206.213.136
+supermovie.ru.		180	IN	A	80.247.187.114
+supermovie.ru.		180	IN	A	75.59.231.156
+supermovie.ru.		180	IN	A	24.150.0.40
+
+;; Query time: 2765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:44:29 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 343
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	166.82.146.115
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	200.206.213.136
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	125.212.144.37
+supermovie.ru.		180	IN	A	65.34.133.104
+supermovie.ru.		180	IN	A	71.243.127.115
+supermovie.ru.		180	IN	A	121.243.16.212
+supermovie.ru.		180	IN	A	98.238.161.186
+supermovie.ru.		180	IN	A	82.236.18.221
+
+;; Query time: 3859 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 02 22:38:01 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1090
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.104.250.183
+supermovie.ru.		180	IN	A	76.70.114.91
+supermovie.ru.		180	IN	A	95.221.221.169
+supermovie.ru.		180	IN	A	68.163.215.75
+supermovie.ru.		180	IN	A	157.252.151.49
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	121.243.16.212
+supermovie.ru.		180	IN	A	66.176.115.211
+supermovie.ru.		180	IN	A	75.206.241.5
+supermovie.ru.		180	IN	A	78.224.196.11
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:38:04 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1296
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	84.73.172.227
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	68.163.215.75
+supermovie.ru.		180	IN	A	75.206.241.5
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	79.234.239.15
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	76.70.114.91
+supermovie.ru.		180	IN	A	68.40.141.35
+
+;; Query time: 2062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:39:38 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1953
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	195.174.214.232
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	95.221.181.1
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:23 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 465
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	95.221.181.1
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	195.174.214.232
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	70.212.17.200
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:30 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1140
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	81.57.112.210
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:58 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1642
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	70.24.128.188
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:15 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 376
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	70.212.17.200
+
+;; Query time: 1843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1844
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	138.238.201.197
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1756
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	81.57.112.210
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1088
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	76.118.191.8
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	69.76.188.211
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	69.176.25.31
+supermovie.ru.		180	IN	A	166.82.146.115
+supermovie.ru.		180	IN	A	76.110.193.108
+supermovie.ru.		180	IN	A	121.243.16.212
+supermovie.ru.		180	IN	A	196.203.53.30
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:38:51 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1237
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	99.50.187.31
+supermovie.ru.		180	IN	A	99.35.43.54
+supermovie.ru.		180	IN	A	76.110.193.108
+supermovie.ru.		180	IN	A	200.158.104.137
+supermovie.ru.		180	IN	A	76.204.34.35
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	75.218.115.108
+supermovie.ru.		180	IN	A	69.94.214.203
+supermovie.ru.		180	IN	A	68.163.215.75
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:36:43 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 641
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	69.94.214.203
+supermovie.ru.		180	IN	A	76.204.34.35
+supermovie.ru.		180	IN	A	76.110.193.108
+supermovie.ru.		180	IN	A	200.158.104.137
+supermovie.ru.		180	IN	A	68.163.215.75
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	99.50.187.31
+supermovie.ru.		180	IN	A	75.218.115.108
+supermovie.ru.		180	IN	A	99.35.43.54
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:37:32 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 509
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	99.50.187.31
+supermovie.ru.		180	IN	A	79.120.246.143
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	84.253.159.76
+supermovie.ru.		180	IN	A	166.82.146.115
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	76.67.81.108
+supermovie.ru.		180	IN	A	200.158.104.137
+supermovie.ru.		180	IN	A	75.137.152.194
+supermovie.ru.		180	IN	A	125.212.181.178
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:06 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1767
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	99.50.187.31
+supermovie.ru.		180	IN	A	79.120.246.143
+supermovie.ru.		180	IN	A	84.253.159.76
+supermovie.ru.		180	IN	A	75.137.152.194
+supermovie.ru.		180	IN	A	200.158.104.137
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	166.82.146.115
+supermovie.ru.		180	IN	A	76.67.81.108
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	72.241.200.127
+
+;; Query time: 1796 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:14 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1954
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	200.158.104.137
+supermovie.ru.		180	IN	A	99.50.187.31
+supermovie.ru.		180	IN	A	75.137.152.194
+supermovie.ru.		180	IN	A	84.253.159.76
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	125.212.181.178
+supermovie.ru.		180	IN	A	79.120.246.143
+supermovie.ru.		180	IN	A	166.82.146.115
+supermovie.ru.		180	IN	A	76.67.81.108
+supermovie.ru.		180	IN	A	72.241.200.127
+
+;; Query time: 1453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:15 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1496
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	74.15.250.64
+supermovie.ru.		180	IN	A	99.25.25.139
+supermovie.ru.		180	IN	A	75.21.114.128
+supermovie.ru.		180	IN	A	64.247.113.7
+supermovie.ru.		180	IN	A	213.151.186.42
+supermovie.ru.		180	IN	A	79.170.188.76
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	84.253.159.76
+supermovie.ru.		180	IN	A	79.120.246.143
+supermovie.ru.		180	IN	A	69.176.25.31
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:39:54 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 615
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; AUTHORITY SECTION:
+supermovie.ru.		180	IN	SOA	ns.supermovie.ru. webmaster.supermovie.ru. 2009031662 300 300 300 180
+
+;; Query time: 906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:48:16 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 991
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; AUTHORITY SECTION:
+supermovie.ru.		180	IN	SOA	ns.supermovie.ru. webmaster.supermovie.ru. 2009031662 300 300 300 180
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:48:38 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 360
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; AUTHORITY SECTION:
+supermovie.ru.		180	IN	SOA	ns.supermovie.ru. webmaster.supermovie.ru. 2009031662 300 300 300 180
+
+;; Query time: 3968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:49:08 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1254
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; AUTHORITY SECTION:
+supermovie.ru.		180	IN	SOA	ns.supermovie.ru. webmaster.supermovie.ru. 2009031662 300 300 300 180
+
+;; Query time: 843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:50:13 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1561
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; AUTHORITY SECTION:
+supermovie.ru.		180	IN	SOA	ns.supermovie.ru. webmaster.supermovie.ru. 2009031662 300 300 300 180
+
+;; Query time: 1046 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:50:24 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1196
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	87.17.9.49
+supermovie.ru.		180	IN	A	213.214.44.47
+supermovie.ru.		180	IN	A	88.246.181.199
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	119.95.120.200
+supermovie.ru.		180	IN	A	78.231.32.192
+supermovie.ru.		180	IN	A	65.35.154.251
+supermovie.ru.		180	IN	A	81.13.191.186
+supermovie.ru.		180	IN	A	79.104.217.89
+supermovie.ru.		180	IN	A	116.226.201.222
+
+;; Query time: 843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:37:58 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 982
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	88.246.181.199
+supermovie.ru.		180	IN	A	116.226.201.222
+supermovie.ru.		180	IN	A	79.104.217.89
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	65.35.154.251
+supermovie.ru.		180	IN	A	78.231.32.192
+supermovie.ru.		180	IN	A	119.95.120.200
+supermovie.ru.		180	IN	A	81.13.191.186
+supermovie.ru.		180	IN	A	87.17.9.49
+supermovie.ru.		180	IN	A	213.214.44.47
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:37:58 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 932
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	213.214.44.47
+supermovie.ru.		180	IN	A	65.35.154.251
+supermovie.ru.		180	IN	A	79.104.217.89
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	116.226.201.222
+supermovie.ru.		180	IN	A	88.246.181.199
+supermovie.ru.		180	IN	A	119.95.120.200
+supermovie.ru.		180	IN	A	81.13.191.186
+supermovie.ru.		180	IN	A	78.231.32.192
+supermovie.ru.		180	IN	A	87.17.9.49
+
+;; Query time: 3890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:38:24 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1852
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	82.229.18.170
+supermovie.ru.		180	IN	A	82.232.105.166
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	83.142.0.126
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:36:36 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1942
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	82.229.18.170
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	83.142.0.126
+supermovie.ru.		180	IN	A	82.232.105.166
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:36:41 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1476
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	82.232.105.166
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	83.142.0.126
+supermovie.ru.		180	IN	A	82.229.18.170
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:37:47 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 848
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	82.232.105.166
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	83.142.0.126
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	82.229.18.170
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:03 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1148
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	82.229.18.170
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	83.142.0.126
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	82.232.105.166
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:03 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1857
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	83.142.0.126
+supermovie.ru.		180	IN	A	76.192.43.165
+supermovie.ru.		180	IN	A	75.253.176.117
+supermovie.ru.		180	IN	A	82.229.18.170
+supermovie.ru.		180	IN	A	216.152.175.134
+supermovie.ru.		180	IN	A	69.244.211.180
+supermovie.ru.		180	IN	A	85.58.176.242
+supermovie.ru.		180	IN	A	216.196.151.122
+supermovie.ru.		180	IN	A	89.20.140.95
+supermovie.ru.		180	IN	A	82.232.105.166
+
+;; Query time: 796 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:05 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+

@@ -1,0 +1,478 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1156
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;finestesolution.cn.		IN	A
+
+;; ANSWER SECTION:
+finestesolution.cn.	300	IN	A	68.236.210.184
+finestesolution.cn.	300	IN	A	69.198.5.210
+finestesolution.cn.	300	IN	A	75.147.221.65
+finestesolution.cn.	300	IN	A	121.240.109.67
+finestesolution.cn.	300	IN	A	206.58.200.170
+finestesolution.cn.	300	IN	A	68.163.69.147
+
+;; AUTHORITY SECTION:
+finestesolution.cn.	300	IN	NS	ns1.verity-fresh.com.
+finestesolution.cn.	300	IN	NS	ns2.desistylish.com.
+finestesolution.cn.	300	IN	NS	ns3.splendidfindings.com.
+finestesolution.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	146339	IN	A	72.77.145.3
+ns2.desistylish.com.	146339	IN	A	75.41.185.57
+ns3.splendidfindings.com. 146339 IN	A	195.93.181.30
+ns4.magnifindings.com.	146339	IN	A	74.172.32.50
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:20 2009
+;; MSG SIZE  rcvd: 345
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1570
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;finestesolution.cn.		IN	A
+
+;; ANSWER SECTION:
+finestesolution.cn.	300	IN	A	71.0.225.4
+finestesolution.cn.	300	IN	A	76.113.188.200
+finestesolution.cn.	300	IN	A	121.240.109.67
+finestesolution.cn.	300	IN	A	68.236.210.184
+finestesolution.cn.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+finestesolution.cn.	300	IN	NS	ns1.verity-fresh.com.
+finestesolution.cn.	300	IN	NS	ns2.desistylish.com.
+finestesolution.cn.	300	IN	NS	ns3.splendidfindings.com.
+finestesolution.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	107460	IN	A	66.36.215.230
+ns2.desistylish.com.	107460	IN	A	75.41.185.57
+ns3.splendidfindings.com. 107460 IN	A	195.93.181.30
+ns4.magnifindings.com.	107460	IN	A	74.172.32.50
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:13 2009
+;; MSG SIZE  rcvd: 329
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 finestesolution.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 f1llf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1926
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;f1llf.com.			IN	A
+
+;; ANSWER SECTION:
+f1llf.com.		1800	IN	A	78.136.90.145
+f1llf.com.		1800	IN	A	79.70.120.137
+f1llf.com.		1800	IN	A	79.164.61.102
+f1llf.com.		1800	IN	A	79.165.41.211
+f1llf.com.		1800	IN	A	81.203.87.207
+f1llf.com.		1800	IN	A	82.47.35.68
+f1llf.com.		1800	IN	A	83.24.210.44
+f1llf.com.		1800	IN	A	84.125.47.12
+f1llf.com.		1800	IN	A	85.155.207.27
+f1llf.com.		1800	IN	A	86.15.224.146
+f1llf.com.		1800	IN	A	124.66.240.30
+f1llf.com.		1800	IN	A	38.102.19.237
+f1llf.com.		1800	IN	A	62.30.88.159
+f1llf.com.		1800	IN	A	67.193.190.252
+f1llf.com.		1800	IN	A	77.100.242.200
+
+;; AUTHORITY SECTION:
+f1llf.com.		1800	IN	NS	ns1.bobsly.net.
+f1llf.com.		1800	IN	NS	ns1.dodjes.net.
+f1llf.com.		1800	IN	NS	ns2.bobsly.net.
+f1llf.com.		1800	IN	NS	ns2.dodjes.net.
+
+;; ADDITIONAL SECTION:
+ns1.bobsly.net.		158315	IN	A	67.223.241.228
+ns1.dodjes.net.		158315	IN	A	67.223.241.228
+ns2.bobsly.net.		158315	IN	A	77.144.63.18
+ns2.dodjes.net.		158315	IN	A	88.131.75.161
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:16 2009
+;; MSG SIZE  rcvd: 429
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cxvjeoio.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1737
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cxvjeoio.cn.			IN	A
+
+;; ANSWER SECTION:
+cxvjeoio.cn.		180	IN	A	212.80.58.27
+cxvjeoio.cn.		180	IN	A	62.57.239.150
+cxvjeoio.cn.		180	IN	A	66.168.152.129
+cxvjeoio.cn.		180	IN	A	79.164.132.40
+cxvjeoio.cn.		180	IN	A	84.10.61.139
+cxvjeoio.cn.		180	IN	A	85.67.157.144
+cxvjeoio.cn.		180	IN	A	89.148.100.95
+cxvjeoio.cn.		180	IN	A	89.176.242.105
+
+;; AUTHORITY SECTION:
+cxvjeoio.cn.		180	IN	NS	ns2.bybwqdwq.com.
+cxvjeoio.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+cxvjeoio.cn.		180	IN	NS	ns4.bybwqdwq.com.
+cxvjeoio.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns2.bybwqdwq.com.	170395	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	170395	IN	A	87.226.67.6
+ns4.bybwqdwq.com.	170395	IN	A	62.201.65.47
+ns1.bysfwqdwe.com.	170395	IN	A	78.96.207.176
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:17 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cxjoeopo.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1887
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cxjoeopo.cn.			IN	A
+
+;; ANSWER SECTION:
+cxjoeopo.cn.		180	IN	A	85.67.157.144
+cxjoeopo.cn.		180	IN	A	89.148.100.95
+cxjoeopo.cn.		180	IN	A	89.176.242.105
+cxjoeopo.cn.		180	IN	A	212.80.58.27
+cxjoeopo.cn.		180	IN	A	62.57.239.150
+cxjoeopo.cn.		180	IN	A	66.168.152.129
+cxjoeopo.cn.		180	IN	A	79.164.132.40
+cxjoeopo.cn.		180	IN	A	84.10.61.139
+
+;; AUTHORITY SECTION:
+cxjoeopo.cn.		180	IN	NS	ns4.bybwqdwq.com.
+cxjoeopo.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+cxjoeopo.cn.		180	IN	NS	ns2.bybwqdwq.com.
+cxjoeopo.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	158641	IN	A	79.118.55.97
+ns1.bysfwqdwe.com.	158820	IN	A	88.147.8.251
+ns2.bybwqdwq.com.	160126	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	158186	IN	A	81.198.177.131
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:18 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cxbjoowg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2036
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cxbjoowg.cn.			IN	A
+
+;; ANSWER SECTION:
+cxbjoowg.cn.		180	IN	A	89.176.242.105
+cxbjoowg.cn.		180	IN	A	212.80.58.27
+cxbjoowg.cn.		180	IN	A	62.57.239.150
+cxbjoowg.cn.		180	IN	A	66.168.152.129
+cxbjoowg.cn.		180	IN	A	79.164.132.40
+cxbjoowg.cn.		180	IN	A	84.10.61.139
+cxbjoowg.cn.		180	IN	A	85.67.157.144
+cxbjoowg.cn.		180	IN	A	89.148.100.95
+
+;; AUTHORITY SECTION:
+cxbjoowg.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+cxbjoowg.cn.		180	IN	NS	ns2.bybwqdwq.com.
+cxbjoowg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+cxbjoowg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns1.bysfwqdwe.com.	161537	IN	A	77.123.126.80
+ns2.bybwqdwq.com.	164538	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	161360	IN	A	220.80.173.118
+ns4.bybwqdwq.com.	161580	IN	A	92.115.192.230
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:18 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cvejoowg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1733
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cvejoowg.cn.			IN	A
+
+;; ANSWER SECTION:
+cvejoowg.cn.		180	IN	A	95.104.73.100
+cvejoowg.cn.		180	IN	A	186.14.116.143
+cvejoowg.cn.		180	IN	A	59.22.145.146
+cvejoowg.cn.		180	IN	A	75.131.74.139
+cvejoowg.cn.		180	IN	A	88.147.8.251
+cvejoowg.cn.		180	IN	A	89.133.172.111
+cvejoowg.cn.		180	IN	A	92.115.192.230
+cvejoowg.cn.		180	IN	A	94.52.77.9
+
+;; AUTHORITY SECTION:
+cvejoowg.cn.		134	IN	NS	ns2.bybwqdwq.com.
+cvejoowg.cn.		134	IN	NS	ns3.bysfwqdwe.com.
+cvejoowg.cn.		134	IN	NS	ns4.bybwqdwq.com.
+cvejoowg.cn.		134	IN	NS	ns1.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns2.bybwqdwq.com.	172461	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	172461	IN	A	82.137.44.46
+ns4.bybwqdwq.com.	172461	IN	A	95.85.189.37
+ns1.bysfwqdwe.com.	172461	IN	A	79.164.132.40
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:24 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ffhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1882
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1ffhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ffhf.com.		1800	IN	A	82.47.35.68
+1ffhf.com.		1800	IN	A	83.24.210.44
+1ffhf.com.		1800	IN	A	84.125.47.12
+1ffhf.com.		1800	IN	A	85.155.207.27
+1ffhf.com.		1800	IN	A	86.15.224.146
+1ffhf.com.		1800	IN	A	124.66.240.30
+1ffhf.com.		1800	IN	A	38.102.19.237
+1ffhf.com.		1800	IN	A	62.30.88.159
+1ffhf.com.		1800	IN	A	67.193.190.252
+1ffhf.com.		1800	IN	A	77.100.242.200
+1ffhf.com.		1800	IN	A	78.136.90.145
+1ffhf.com.		1800	IN	A	79.70.120.137
+1ffhf.com.		1800	IN	A	79.164.61.102
+1ffhf.com.		1800	IN	A	79.165.41.211
+1ffhf.com.		1800	IN	A	81.203.87.207
+
+;; AUTHORITY SECTION:
+1ffhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ffhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ffhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ffhf.com.		1800	IN	NS	ns2.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns2.suportservice.com.	161903	IN	A	76.28.249.13
+ns1.adventury-s.com.	1599	IN	A	74.81.90.74
+ns1.suportservice.com.	161903	IN	A	74.81.90.74
+ns2.adventury-s.com.	161903	IN	A	66.45.136.84
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:29 2009
+;; MSG SIZE  rcvd: 438
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ifhh.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1640
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1ifhh.com.			IN	A
+
+;; ANSWER SECTION:
+1ifhh.com.		1800	IN	A	78.136.90.145
+1ifhh.com.		1800	IN	A	79.70.120.137
+1ifhh.com.		1800	IN	A	79.164.61.102
+1ifhh.com.		1800	IN	A	79.165.41.211
+1ifhh.com.		1800	IN	A	81.203.87.207
+1ifhh.com.		1800	IN	A	82.47.35.68
+1ifhh.com.		1800	IN	A	83.24.210.44
+1ifhh.com.		1800	IN	A	84.125.47.12
+1ifhh.com.		1800	IN	A	85.155.207.27
+1ifhh.com.		1800	IN	A	86.15.224.146
+1ifhh.com.		1800	IN	A	124.66.240.30
+1ifhh.com.		1800	IN	A	38.102.19.237
+1ifhh.com.		1800	IN	A	62.30.88.159
+1ifhh.com.		1800	IN	A	67.193.190.252
+1ifhh.com.		1800	IN	A	77.100.242.200
+
+;; AUTHORITY SECTION:
+1ifhh.com.		1800	IN	NS	ns1.suportservice.com.
+1ifhh.com.		1800	IN	NS	ns2.adventury-s.com.
+1ifhh.com.		1800	IN	NS	ns2.suportservice.com.
+1ifhh.com.		1800	IN	NS	ns1.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns1.adventury-s.com.	172584	IN	A	74.81.90.74
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:30 2009
+;; MSG SIZE  rcvd: 390
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bjovewsj.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1047
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bjovewsj.cn.			IN	A
+
+;; ANSWER SECTION:
+bjovewsj.cn.		180	IN	A	88.147.8.251
+bjovewsj.cn.		180	IN	A	89.133.172.111
+bjovewsj.cn.		180	IN	A	92.115.192.230
+bjovewsj.cn.		180	IN	A	94.52.77.9
+bjovewsj.cn.		180	IN	A	95.104.73.100
+bjovewsj.cn.		180	IN	A	186.14.116.143
+bjovewsj.cn.		180	IN	A	59.22.145.146
+bjovewsj.cn.		180	IN	A	75.131.74.139
+
+;; AUTHORITY SECTION:
+bjovewsj.cn.		180	IN	NS	ns4.bybwqdwq.com.
+bjovewsj.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+bjovewsj.cn.		180	IN	NS	ns2.bybwqdwq.com.
+bjovewsj.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	145438	IN	A	75.131.74.139
+ns1.bysfwqdwe.com.	145518	IN	A	88.147.8.251
+ns2.bybwqdwq.com.	145255	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	145518	IN	A	93.74.168.107
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:36 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ilh1f.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 620
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ilh1f.com.			IN	A
+
+;; ANSWER SECTION:
+ilh1f.com.		1800	IN	A	38.102.19.237
+ilh1f.com.		1800	IN	A	62.30.88.159
+ilh1f.com.		1800	IN	A	67.193.190.252
+ilh1f.com.		1800	IN	A	77.100.242.200
+ilh1f.com.		1800	IN	A	78.136.90.145
+ilh1f.com.		1800	IN	A	79.70.120.137
+ilh1f.com.		1800	IN	A	79.164.61.102
+ilh1f.com.		1800	IN	A	79.165.41.211
+ilh1f.com.		1800	IN	A	81.203.87.207
+ilh1f.com.		1800	IN	A	82.47.35.68
+ilh1f.com.		1800	IN	A	83.24.210.44
+ilh1f.com.		1800	IN	A	84.125.47.12
+ilh1f.com.		1800	IN	A	85.155.207.27
+ilh1f.com.		1800	IN	A	86.15.224.146
+ilh1f.com.		1800	IN	A	124.66.240.30
+
+;; AUTHORITY SECTION:
+ilh1f.com.		1800	IN	NS	ns2.bobsly.net.
+ilh1f.com.		1800	IN	NS	ns2.dodjes.net.
+ilh1f.com.		1800	IN	NS	ns1.bobsly.net.
+ilh1f.com.		1800	IN	NS	ns1.dodjes.net.
+
+;; ADDITIONAL SECTION:
+ns2.bobsly.net.		135821	IN	A	77.144.63.18
+ns2.dodjes.net.		135821	IN	A	88.131.75.161
+ns1.bobsly.net.		135821	IN	A	67.223.241.228
+ns1.dodjes.net.		135821	IN	A	67.223.241.228
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:36 2009
+;; MSG SIZE  rcvd: 429
+
+

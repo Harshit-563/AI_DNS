@@ -1,0 +1,176 @@
+; <<>> DiG 9.3.2rc1 <<>> wwhhcfid.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 156
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;wwhhcfid.cn.			IN	A
+
+;; ANSWER SECTION:
+wwhhcfid.cn.		180	IN	A	85.114.230.77
+wwhhcfid.cn.		180	IN	A	86.101.123.5
+wwhhcfid.cn.		180	IN	A	89.215.8.231
+wwhhcfid.cn.		180	IN	A	92.115.8.131
+wwhhcfid.cn.		180	IN	A	95.76.195.195
+wwhhcfid.cn.		180	IN	A	78.131.68.94
+wwhhcfid.cn.		180	IN	A	81.184.70.224
+wwhhcfid.cn.		180	IN	A	84.17.6.134
+
+;; AUTHORITY SECTION:
+wwhhcfid.cn.		180	IN	NS	ns4.cjinthe.com.
+wwhhcfid.cn.		180	IN	NS	ns1.frubjnfew.com.
+wwhhcfid.cn.		180	IN	NS	ns2.frubjnfew.com.
+wwhhcfid.cn.		180	IN	NS	ns3.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns4.cjinthe.com.	149576	IN	A	77.122.47.186
+ns1.frubjnfew.com.	148932	IN	A	72.185.78.169
+ns2.frubjnfew.com.	143563	IN	A	89.215.8.231
+ns3.cjinthe.com.	143563	IN	A	77.41.9.149
+
+;; Query time: 1015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:37 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> munsenblues.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 279
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;munsenblues.com.		IN	A
+
+;; ANSWER SECTION:
+munsenblues.com.	1800	IN	A	208.66.237.13
+munsenblues.com.	1800	IN	A	66.159.17.48
+munsenblues.com.	1800	IN	A	66.159.17.49
+munsenblues.com.	1800	IN	A	66.159.17.50
+munsenblues.com.	1800	IN	A	66.159.17.242
+munsenblues.com.	1800	IN	A	66.159.17.243
+
+;; AUTHORITY SECTION:
+munsenblues.com.	3600	IN	NS	dns1.name-services.com.
+munsenblues.com.	3600	IN	NS	dns2.name-services.com.
+munsenblues.com.	3600	IN	NS	dns3.name-services.com.
+munsenblues.com.	3600	IN	NS	dns4.name-services.com.
+munsenblues.com.	3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	158403	IN	A	98.124.192.1
+dns2.name-services.com.	165661	IN	A	216.52.184.248
+dns3.name-services.com.	169291	IN	A	98.124.193.1
+dns4.name-services.com.	154789	IN	A	69.64.145.225
+dns5.name-services.com.	173	IN	A	70.42.37.7
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:38 2009
+;; MSG SIZE  rcvd: 333
+
+; <<>> DiG 9.3.2rc1 <<>> movespring.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 762
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;movespring.com.			IN	A
+
+;; ANSWER SECTION:
+movespring.com.		1800	IN	A	208.69.118.25
+movespring.com.		1800	IN	A	208.69.118.26
+movespring.com.		1800	IN	A	208.69.118.27
+movespring.com.		1800	IN	A	208.69.118.28
+movespring.com.		1800	IN	A	208.69.118.29
+movespring.com.		1800	IN	A	208.69.118.30
+movespring.com.		1800	IN	A	204.11.101.140
+movespring.com.		1800	IN	A	204.11.101.141
+movespring.com.		1800	IN	A	208.69.118.23
+movespring.com.		1800	IN	A	208.69.118.24
+
+;; AUTHORITY SECTION:
+movespring.com.		3600	IN	NS	dns1.name-services.com.
+movespring.com.		3600	IN	NS	dns2.name-services.com.
+movespring.com.		3600	IN	NS	dns3.name-services.com.
+movespring.com.		3600	IN	NS	dns4.name-services.com.
+movespring.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	265	IN	A	98.124.192.1
+dns2.name-services.com.	163995	IN	A	216.52.184.248
+dns3.name-services.com.	163995	IN	A	98.124.193.1
+dns4.name-services.com.	242	IN	A	69.64.145.225
+dns5.name-services.com.	109	IN	A	70.42.37.7
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:41 2009
+;; MSG SIZE  rcvd: 395
+
+; <<>> DiG 9.3.2rc1 <<>> web-win-win.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 897
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;web-win-win.com.		IN	A
+
+;; ANSWER SECTION:
+web-win-win.com.	300	IN	A	201.6.245.234
+web-win-win.com.	300	IN	A	209.41.200.129
+web-win-win.com.	300	IN	A	66.240.84.56
+web-win-win.com.	300	IN	A	68.236.210.184
+web-win-win.com.	300	IN	A	69.198.5.210
+web-win-win.com.	300	IN	A	82.118.129.135
+
+;; AUTHORITY SECTION:
+web-win-win.com.	300	IN	NS	ns2.desistylish.com.
+web-win-win.com.	300	IN	NS	ns3.splendidfindings.com.
+web-win-win.com.	300	IN	NS	ns4.magnifindings.com.
+web-win-win.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+ns4.magnifindings.com.	172800	IN	A	64.250.194.238
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:43 2009
+;; MSG SIZE  rcvd: 336
+
+; <<>> DiG 9.3.2rc1 <<>> tops-service.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1976
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;tops-service.com.		IN	A
+
+;; ANSWER SECTION:
+tops-service.com.	300	IN	A	82.118.129.135
+tops-service.com.	300	IN	A	201.6.245.234
+tops-service.com.	300	IN	A	209.41.200.129
+tops-service.com.	300	IN	A	66.240.84.56
+tops-service.com.	300	IN	A	68.236.210.184
+tops-service.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+tops-service.com.	300	IN	NS	ns2.desistylish.com.
+tops-service.com.	300	IN	NS	ns3.splendidfindings.com.
+tops-service.com.	300	IN	NS	ns4.magnifindings.com.
+tops-service.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	66.96.207.105
+ns4.magnifindings.com.	172799	IN	A	64.250.194.238
+ns1.verity-fresh.com.	172799	IN	A	72.254.80.121
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:43 2009
+;; MSG SIZE  rcvd: 338
+
+

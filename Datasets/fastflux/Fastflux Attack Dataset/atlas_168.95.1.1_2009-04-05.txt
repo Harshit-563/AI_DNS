@@ -1,0 +1,363 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 swwhifgh.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1000
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;swwhifgh.cn.			IN	A
+
+;; ANSWER SECTION:
+swwhifgh.cn.		180	IN	A	62.84.54.172
+swwhifgh.cn.		180	IN	A	67.36.182.85
+swwhifgh.cn.		180	IN	A	77.243.222.85
+swwhifgh.cn.		180	IN	A	84.237.252.124
+swwhifgh.cn.		180	IN	A	90.155.165.114
+swwhifgh.cn.		180	IN	A	93.126.97.69
+swwhifgh.cn.		180	IN	A	217.26.171.29
+swwhifgh.cn.		180	IN	A	62.84.39.0
+
+;; AUTHORITY SECTION:
+swwhifgh.cn.		180	IN	NS	ns1.cgsoftly.com.
+swwhifgh.cn.		180	IN	NS	ns2.ncibneww.com.
+swwhifgh.cn.		180	IN	NS	ns3.cgsoftly.com.
+swwhifgh.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	118268	IN	A	59.151.232.164
+ns2.ncibneww.com.	118344	IN	A	81.198.249.245
+ns3.cgsoftly.com.	121753	IN	A	217.26.171.29
+ns4.ncibneww.com.	118308	IN	A	217.26.171.29
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:13 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 swfhiihh.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 739
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;swfhiihh.cn.			IN	A
+
+;; ANSWER SECTION:
+swfhiihh.cn.		180	IN	A	90.155.165.114
+swfhiihh.cn.		180	IN	A	93.126.97.69
+swfhiihh.cn.		180	IN	A	217.26.171.29
+swfhiihh.cn.		180	IN	A	62.84.39.0
+swfhiihh.cn.		180	IN	A	62.84.54.172
+swfhiihh.cn.		180	IN	A	67.36.182.85
+swfhiihh.cn.		180	IN	A	77.243.222.85
+swfhiihh.cn.		180	IN	A	84.237.252.124
+
+;; AUTHORITY SECTION:
+swfhiihh.cn.		180	IN	NS	ns2.ncibneww.com.
+swfhiihh.cn.		180	IN	NS	ns3.cgsoftly.com.
+swfhiihh.cn.		180	IN	NS	ns4.ncibneww.com.
+swfhiihh.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns2.ncibneww.com.	147835	IN	A	84.3.84.212
+ns3.cgsoftly.com.	147656	IN	A	89.232.28.247
+ns4.ncibneww.com.	147749	IN	A	123.99.75.4
+ns1.cgsoftly.com.	147655	IN	A	59.151.232.164
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:13 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ssfwwbju.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 466
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ssfwwbju.cn.			IN	A
+
+;; ANSWER SECTION:
+ssfwwbju.cn.		180	IN	A	67.36.182.85
+ssfwwbju.cn.		180	IN	A	77.243.222.85
+ssfwwbju.cn.		180	IN	A	84.237.252.124
+ssfwwbju.cn.		180	IN	A	90.155.165.114
+ssfwwbju.cn.		180	IN	A	93.126.97.69
+ssfwwbju.cn.		180	IN	A	217.26.171.29
+ssfwwbju.cn.		180	IN	A	62.84.39.0
+ssfwwbju.cn.		180	IN	A	62.84.54.172
+
+;; AUTHORITY SECTION:
+ssfwwbju.cn.		180	IN	NS	ns1.cgsoftly.com.
+ssfwwbju.cn.		180	IN	NS	ns2.ncibneww.com.
+ssfwwbju.cn.		180	IN	NS	ns3.cgsoftly.com.
+ssfwwbju.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	136371	IN	A	59.151.232.164
+ns2.ncibneww.com.	136438	IN	A	93.74.166.48
+ns3.cgsoftly.com.	138599	IN	A	208.58.14.217
+ns4.ncibneww.com.	136438	IN	A	77.123.178.252
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:14 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ssfireyp.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1742
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ssfireyp.cn.			IN	A
+
+;; ANSWER SECTION:
+ssfireyp.cn.		180	IN	A	93.126.97.69
+ssfireyp.cn.		180	IN	A	217.26.171.29
+ssfireyp.cn.		180	IN	A	62.84.39.0
+ssfireyp.cn.		180	IN	A	62.84.54.172
+ssfireyp.cn.		180	IN	A	67.36.182.85
+ssfireyp.cn.		180	IN	A	77.243.222.85
+ssfireyp.cn.		180	IN	A	84.237.252.124
+ssfireyp.cn.		180	IN	A	90.155.165.114
+
+;; AUTHORITY SECTION:
+ssfireyp.cn.		180	IN	NS	ns1.cgsoftly.com.
+ssfireyp.cn.		180	IN	NS	ns2.ncibneww.com.
+ssfireyp.cn.		180	IN	NS	ns3.cgsoftly.com.
+ssfireyp.cn.		180	IN	NS	ns4.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns1.cgsoftly.com.	169026	IN	A	59.151.232.164
+ns2.ncibneww.com.	168410	IN	A	67.36.182.85
+ns3.cgsoftly.com.	168251	IN	A	24.137.80.173
+ns4.ncibneww.com.	168410	IN	A	89.34.156.237
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:14 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pewfeibh.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 273
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;pewfeibh.cn.			IN	A
+
+;; ANSWER SECTION:
+pewfeibh.cn.		180	IN	A	62.84.39.0
+pewfeibh.cn.		180	IN	A	62.84.54.172
+pewfeibh.cn.		180	IN	A	67.36.182.85
+pewfeibh.cn.		180	IN	A	77.243.222.85
+pewfeibh.cn.		180	IN	A	84.237.252.124
+pewfeibh.cn.		180	IN	A	90.155.165.114
+pewfeibh.cn.		180	IN	A	93.126.97.69
+pewfeibh.cn.		180	IN	A	217.26.171.29
+
+;; AUTHORITY SECTION:
+pewfeibh.cn.		180	IN	NS	ns4.ncibneww.com.
+pewfeibh.cn.		180	IN	NS	ns1.cgsoftly.com.
+pewfeibh.cn.		180	IN	NS	ns2.ncibneww.com.
+pewfeibh.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	107398	IN	A	90.155.165.114
+ns1.cgsoftly.com.	107398	IN	A	59.151.232.164
+ns2.ncibneww.com.	107398	IN	A	93.74.254.29
+ns3.cgsoftly.com.	107398	IN	A	93.74.166.48
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:15 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mode-f01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 279
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;mode-f01.com.			IN	A
+
+;; ANSWER SECTION:
+mode-f01.com.		1800	IN	A	208.120.237.132
+mode-f01.com.		1800	IN	A	221.126.238.156
+mode-f01.com.		1800	IN	A	69.149.14.11
+mode-f01.com.		1800	IN	A	76.112.163.235
+mode-f01.com.		1800	IN	A	79.79.36.39
+mode-f01.com.		1800	IN	A	79.119.213.97
+mode-f01.com.		1800	IN	A	79.164.136.38
+mode-f01.com.		1800	IN	A	81.203.87.207
+mode-f01.com.		1800	IN	A	82.22.126.227
+mode-f01.com.		1800	IN	A	86.5.189.66
+mode-f01.com.		1800	IN	A	88.80.105.229
+mode-f01.com.		1800	IN	A	88.156.177.237
+mode-f01.com.		1800	IN	A	121.163.56.96
+mode-f01.com.		1800	IN	A	190.45.132.118
+mode-f01.com.		1800	IN	A	190.165.9.235
+
+;; AUTHORITY SECTION:
+mode-f01.com.		1800	IN	NS	ns2.allinoffice.net.
+mode-f01.com.		1800	IN	NS	ns1.westgraunt.net.
+mode-f01.com.		1800	IN	NS	ns1.allinoffice.net.
+mode-f01.com.		1800	IN	NS	ns2.westgraunt.net.
+
+;; ADDITIONAL SECTION:
+ns2.allinoffice.net.	158146	IN	A	66.55.205.21
+ns1.westgraunt.net.	158146	IN	A	207.150.183.192
+ns1.allinoffice.net.	158146	IN	A	207.150.183.192
+ns2.westgraunt.net.	158146	IN	A	66.57.174.81
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:15 2009
+;; MSG SIZE  rcvd: 444
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 kstre1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 710
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;kstre1.eu.			IN	A
+
+;; ANSWER SECTION:
+kstre1.eu.		1800	IN	A	69.149.14.11
+kstre1.eu.		1800	IN	A	76.112.163.235
+kstre1.eu.		1800	IN	A	79.79.36.39
+kstre1.eu.		1800	IN	A	79.119.213.97
+kstre1.eu.		1800	IN	A	79.164.136.38
+kstre1.eu.		1800	IN	A	81.203.87.207
+kstre1.eu.		1800	IN	A	82.22.126.227
+kstre1.eu.		1800	IN	A	86.5.189.66
+kstre1.eu.		1800	IN	A	88.80.105.229
+kstre1.eu.		1800	IN	A	88.156.177.237
+kstre1.eu.		1800	IN	A	121.163.56.96
+kstre1.eu.		1800	IN	A	190.45.132.118
+kstre1.eu.		1800	IN	A	190.165.9.235
+kstre1.eu.		1800	IN	A	208.120.237.132
+kstre1.eu.		1800	IN	A	221.126.238.156
+
+;; AUTHORITY SECTION:
+kstre1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+kstre1.eu.		1800	IN	NS	ns1.goldstatik.net.
+kstre1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+kstre1.eu.		1800	IN	NS	ns2.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.com. 158127	IN	A	55.125.99.23
+ns1.goldstatik.net.	158126	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 158126	IN	A	66.219.22.109
+ns2.goldstatik.net.	158127	IN	A	199.21.42.60
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:15 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ihrywpei.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1471
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ihrywpei.cn.			IN	A
+
+;; ANSWER SECTION:
+ihrywpei.cn.		180	IN	A	217.26.171.29
+ihrywpei.cn.		180	IN	A	62.84.39.0
+ihrywpei.cn.		180	IN	A	62.84.54.172
+ihrywpei.cn.		180	IN	A	67.36.182.85
+ihrywpei.cn.		180	IN	A	77.243.222.85
+ihrywpei.cn.		180	IN	A	84.237.252.124
+ihrywpei.cn.		180	IN	A	90.155.165.114
+ihrywpei.cn.		180	IN	A	93.126.97.69
+
+;; AUTHORITY SECTION:
+ihrywpei.cn.		180	IN	NS	ns2.ncibneww.com.
+ihrywpei.cn.		180	IN	NS	ns3.cgsoftly.com.
+ihrywpei.cn.		180	IN	NS	ns4.ncibneww.com.
+ihrywpei.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns2.ncibneww.com.	164550	IN	A	78.84.245.67
+ns3.cgsoftly.com.	164550	IN	A	84.3.84.212
+ns4.ncibneww.com.	164550	IN	A	60.243.97.60
+ns1.cgsoftly.com.	164550	IN	A	59.151.232.164
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:16 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 igts1e.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1689
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;igts1e.eu.			IN	A
+
+;; ANSWER SECTION:
+igts1e.eu.		1800	IN	A	69.149.14.11
+igts1e.eu.		1800	IN	A	76.112.163.235
+igts1e.eu.		1800	IN	A	79.79.36.39
+igts1e.eu.		1800	IN	A	79.119.213.97
+igts1e.eu.		1800	IN	A	79.164.136.38
+igts1e.eu.		1800	IN	A	81.203.87.207
+igts1e.eu.		1800	IN	A	82.22.126.227
+igts1e.eu.		1800	IN	A	86.5.189.66
+igts1e.eu.		1800	IN	A	88.80.105.229
+igts1e.eu.		1800	IN	A	88.156.177.237
+igts1e.eu.		1800	IN	A	121.163.56.96
+igts1e.eu.		1800	IN	A	190.45.132.118
+igts1e.eu.		1800	IN	A	190.165.9.235
+igts1e.eu.		1800	IN	A	208.120.237.132
+igts1e.eu.		1800	IN	A	221.126.238.156
+
+;; AUTHORITY SECTION:
+igts1e.eu.		1800	IN	NS	ns2.allinoffice.net.
+igts1e.eu.		1800	IN	NS	ns1.westgraunt.net.
+igts1e.eu.		1800	IN	NS	ns1.allinoffice.net.
+igts1e.eu.		1800	IN	NS	ns2.westgraunt.net.
+
+;; ADDITIONAL SECTION:
+ns2.allinoffice.net.	158140	IN	A	66.55.205.21
+ns1.westgraunt.net.	158140	IN	A	207.150.183.192
+ns1.allinoffice.net.	158140	IN	A	207.150.183.192
+ns2.westgraunt.net.	158140	IN	A	66.57.174.81
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:35:21 2009
+;; MSG SIZE  rcvd: 438
+
+

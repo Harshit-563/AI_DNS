@@ -1,0 +1,199 @@
+; <<>> DiG 9.3.2rc1 <<>> modern-finding.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 642
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	201.6.245.234
+modern-finding.com.	300	IN	A	209.41.200.129
+modern-finding.com.	300	IN	A	66.45.231.74
+modern-finding.com.	300	IN	A	66.240.84.56
+modern-finding.com.	300	IN	A	68.236.210.184
+modern-finding.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+
+;; Query time: 1546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:03 2009
+;; MSG SIZE  rcvd: 342
+
+; <<>> DiG 9.3.2rc1 <<>> service-finest.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1471
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;service-finest.com.		IN	A
+
+;; ANSWER SECTION:
+service-finest.com.	300	IN	A	68.236.210.184
+service-finest.com.	300	IN	A	69.198.5.210
+service-finest.com.	300	IN	A	201.6.245.234
+service-finest.com.	300	IN	A	209.41.200.129
+service-finest.com.	300	IN	A	66.45.231.74
+service-finest.com.	300	IN	A	66.240.84.56
+
+;; AUTHORITY SECTION:
+service-finest.com.	300	IN	NS	ns4.magnifindings.com.
+service-finest.com.	300	IN	NS	ns1.verity-fresh.com.
+service-finest.com.	300	IN	NS	ns2.desistylish.com.
+service-finest.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:03 2009
+;; MSG SIZE  rcvd: 342
+
+; <<>> DiG 9.3.2rc1 <<>> super-meds-power.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 253
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;super-meds-power.com.		IN	A
+
+;; ANSWER SECTION:
+super-meds-power.com.	300	IN	A	66.240.84.56
+super-meds-power.com.	300	IN	A	68.236.210.184
+super-meds-power.com.	300	IN	A	69.198.5.210
+super-meds-power.com.	300	IN	A	201.6.245.234
+super-meds-power.com.	300	IN	A	209.41.200.129
+super-meds-power.com.	300	IN	A	66.45.231.74
+
+;; AUTHORITY SECTION:
+super-meds-power.com.	300	IN	NS	ns1.verity-fresh.com.
+super-meds-power.com.	300	IN	NS	ns2.desistylish.com.
+super-meds-power.com.	300	IN	NS	ns3.splendidfindings.com.
+super-meds-power.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:03 2009
+;; MSG SIZE  rcvd: 346
+
+; <<>> DiG 9.3.2rc1 <<>> underwayservice.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 319
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;underwayservice.com.		IN	A
+
+;; ANSWER SECTION:
+underwayservice.com.	300	IN	A	66.45.231.74
+underwayservice.com.	300	IN	A	66.240.84.56
+underwayservice.com.	300	IN	A	68.236.210.184
+underwayservice.com.	300	IN	A	69.198.5.210
+underwayservice.com.	300	IN	A	201.6.245.234
+underwayservice.com.	300	IN	A	209.41.200.129
+
+;; AUTHORITY SECTION:
+underwayservice.com.	300	IN	NS	ns4.magnifindings.com.
+underwayservice.com.	300	IN	NS	ns1.verity-fresh.com.
+underwayservice.com.	300	IN	NS	ns2.desistylish.com.
+underwayservice.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:04 2009
+;; MSG SIZE  rcvd: 344
+
+; <<>> DiG 9.3.2rc1 <<>> coolest-cyber-zone.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 911
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;coolest-cyber-zone.com.		IN	A
+
+;; ANSWER SECTION:
+coolest-cyber-zone.com.	300	IN	A	66.240.84.56
+coolest-cyber-zone.com.	300	IN	A	68.236.210.184
+coolest-cyber-zone.com.	300	IN	A	69.198.5.210
+coolest-cyber-zone.com.	300	IN	A	201.6.245.234
+coolest-cyber-zone.com.	300	IN	A	209.41.200.129
+coolest-cyber-zone.com.	300	IN	A	66.45.231.74
+
+;; AUTHORITY SECTION:
+coolest-cyber-zone.com.	300	IN	NS	ns4.magnifindings.com.
+coolest-cyber-zone.com.	300	IN	NS	ns1.verity-fresh.com.
+coolest-cyber-zone.com.	300	IN	NS	ns2.desistylish.com.
+coolest-cyber-zone.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:05 2009
+;; MSG SIZE  rcvd: 350
+
+; <<>> DiG 9.3.2rc1 <<>> e-advice-center.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1729
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;e-advice-center.com.		IN	A
+
+;; ANSWER SECTION:
+e-advice-center.com.	300	IN	A	69.198.5.210
+e-advice-center.com.	300	IN	A	201.6.245.234
+e-advice-center.com.	300	IN	A	209.41.200.129
+e-advice-center.com.	300	IN	A	66.45.231.74
+e-advice-center.com.	300	IN	A	66.240.84.56
+e-advice-center.com.	300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+e-advice-center.com.	300	IN	NS	ns2.desistylish.com.
+e-advice-center.com.	300	IN	NS	ns3.splendidfindings.com.
+e-advice-center.com.	300	IN	NS	ns4.magnifindings.com.
+e-advice-center.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+ns4.magnifindings.com.	172800	IN	A	66.45.231.74
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:41:05 2009
+;; MSG SIZE  rcvd: 344
+
+

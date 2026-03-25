@@ -1,0 +1,377 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dttsp.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 997
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dttsp.com.			IN	A
+
+;; ANSWER SECTION:
+dttsp.com.		1800	IN	A	173.24.102.179
+dttsp.com.		1800	IN	A	200.109.34.163
+dttsp.com.		1800	IN	A	208.120.237.132
+dttsp.com.		1800	IN	A	24.241.49.40
+dttsp.com.		1800	IN	A	38.102.19.237
+dttsp.com.		1800	IN	A	66.61.12.217
+dttsp.com.		1800	IN	A	76.78.215.254
+dttsp.com.		1800	IN	A	76.112.127.192
+dttsp.com.		1800	IN	A	82.42.170.97
+dttsp.com.		1800	IN	A	84.21.24.12
+dttsp.com.		1800	IN	A	88.156.177.237
+dttsp.com.		1800	IN	A	91.89.41.164
+dttsp.com.		1800	IN	A	94.248.143.176
+dttsp.com.		1800	IN	A	95.25.31.166
+dttsp.com.		1800	IN	A	151.199.54.100
+
+;; AUTHORITY SECTION:
+dttsp.com.		1800	IN	NS	ns1.citis-group.com.
+dttsp.com.		1800	IN	NS	ns1.securitycheckings.net.
+dttsp.com.		1800	IN	NS	ns2.citis-group.com.
+dttsp.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	158869	IN	A	65.23.158.124
+ns1.securitycheckings.net. 158869 IN	A	65.23.158.124
+ns2.citis-group.com.	158869	IN	A	87.151.74.31
+ns2.securitycheckings.net. 158869 IN	A	92.225.119.21
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:41:39 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dttsp.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 977
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dttsp.com.			IN	A
+
+;; ANSWER SECTION:
+dttsp.com.		1800	IN	A	95.25.31.166
+dttsp.com.		1800	IN	A	151.199.54.100
+dttsp.com.		1800	IN	A	173.24.102.179
+dttsp.com.		1800	IN	A	200.109.34.163
+dttsp.com.		1800	IN	A	208.120.237.132
+dttsp.com.		1800	IN	A	24.241.49.40
+dttsp.com.		1800	IN	A	38.102.19.237
+dttsp.com.		1800	IN	A	66.61.12.217
+dttsp.com.		1800	IN	A	76.78.215.254
+dttsp.com.		1800	IN	A	76.112.127.192
+dttsp.com.		1800	IN	A	82.42.170.97
+dttsp.com.		1800	IN	A	84.21.24.12
+dttsp.com.		1800	IN	A	88.156.177.237
+dttsp.com.		1800	IN	A	91.89.41.164
+dttsp.com.		1800	IN	A	94.248.143.176
+
+;; AUTHORITY SECTION:
+dttsp.com.		1800	IN	NS	ns2.securitycheckings.net.
+dttsp.com.		1800	IN	NS	ns1.citis-group.com.
+dttsp.com.		1800	IN	NS	ns1.securitycheckings.net.
+dttsp.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 162794 IN	A	92.225.119.21
+ns1.citis-group.com.	162794	IN	A	65.23.158.124
+ns1.securitycheckings.net. 162794 IN	A	65.23.158.124
+ns2.citis-group.com.	162794	IN	A	87.151.74.31
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:46:06 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dttsp.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2026
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dttsp.com.			IN	A
+
+;; ANSWER SECTION:
+dttsp.com.		1800	IN	A	76.78.215.254
+dttsp.com.		1800	IN	A	76.112.127.192
+dttsp.com.		1800	IN	A	76.113.228.157
+dttsp.com.		1800	IN	A	82.22.126.227
+dttsp.com.		1800	IN	A	84.121.116.138
+dttsp.com.		1800	IN	A	84.126.29.51
+dttsp.com.		1800	IN	A	88.156.177.237
+dttsp.com.		1800	IN	A	94.26.40.78
+dttsp.com.		1800	IN	A	94.248.143.176
+dttsp.com.		1800	IN	A	122.111.56.70
+dttsp.com.		1800	IN	A	201.233.25.244
+dttsp.com.		1800	IN	A	208.120.237.132
+dttsp.com.		1800	IN	A	68.202.198.202
+dttsp.com.		1800	IN	A	74.78.84.208
+dttsp.com.		1800	IN	A	75.118.162.91
+
+;; AUTHORITY SECTION:
+dttsp.com.		1800	IN	NS	ns1.citis-group.com.
+dttsp.com.		1800	IN	NS	ns1.securitycheckings.net.
+dttsp.com.		1800	IN	NS	ns2.citis-group.com.
+dttsp.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	163427	IN	A	65.23.158.124
+ns1.securitycheckings.net. 168806 IN	A	65.23.158.124
+ns2.citis-group.com.	163427	IN	A	87.151.74.31
+ns2.securitycheckings.net. 168806 IN	A	92.225.119.21
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:48 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dttsp.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1639
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dttsp.com.			IN	A
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:40:15 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dttsp.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1739
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dttsp.com.			IN	A
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:40 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1541
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; ANSWER SECTION:
+sdirmdlf.com.		1800	IN	A	82.22.126.227
+sdirmdlf.com.		1800	IN	A	84.121.116.138
+sdirmdlf.com.		1800	IN	A	84.126.29.51
+sdirmdlf.com.		1800	IN	A	88.156.177.237
+sdirmdlf.com.		1800	IN	A	94.26.40.78
+sdirmdlf.com.		1800	IN	A	94.248.143.176
+sdirmdlf.com.		1800	IN	A	122.111.56.70
+sdirmdlf.com.		1800	IN	A	201.233.25.244
+sdirmdlf.com.		1800	IN	A	208.120.237.132
+sdirmdlf.com.		1800	IN	A	68.202.198.202
+sdirmdlf.com.		1800	IN	A	74.78.84.208
+sdirmdlf.com.		1800	IN	A	75.118.162.91
+sdirmdlf.com.		1800	IN	A	76.78.215.254
+sdirmdlf.com.		1800	IN	A	76.112.127.192
+sdirmdlf.com.		1800	IN	A	76.113.228.157
+
+;; AUTHORITY SECTION:
+sdirmdlf.com.		1800	IN	NS	ns1.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns1.securitycheckings.net.
+sdirmdlf.com.		1800	IN	NS	ns2.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	127570	IN	A	65.23.158.124
+ns1.securitycheckings.net. 127570 IN	A	65.23.158.124
+ns2.citis-group.com.	131485	IN	A	87.151.74.31
+ns2.securitycheckings.net. 127570 IN	A	92.225.119.21
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:35:18 2009
+;; MSG SIZE  rcvd: 451
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2032
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; ANSWER SECTION:
+sdirmdlf.com.		1800	IN	A	94.26.40.78
+sdirmdlf.com.		1800	IN	A	94.248.143.176
+sdirmdlf.com.		1800	IN	A	122.111.56.70
+sdirmdlf.com.		1800	IN	A	201.233.25.244
+sdirmdlf.com.		1800	IN	A	208.120.237.132
+sdirmdlf.com.		1800	IN	A	68.202.198.202
+sdirmdlf.com.		1800	IN	A	74.78.84.208
+sdirmdlf.com.		1800	IN	A	75.118.162.91
+sdirmdlf.com.		1800	IN	A	76.78.215.254
+sdirmdlf.com.		1800	IN	A	76.112.127.192
+sdirmdlf.com.		1800	IN	A	76.113.228.157
+sdirmdlf.com.		1800	IN	A	82.22.126.227
+sdirmdlf.com.		1800	IN	A	84.121.116.138
+sdirmdlf.com.		1800	IN	A	84.126.29.51
+sdirmdlf.com.		1800	IN	A	88.156.177.237
+
+;; AUTHORITY SECTION:
+sdirmdlf.com.		1800	IN	NS	ns2.securitycheckings.net.
+sdirmdlf.com.		1800	IN	NS	ns1.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns1.securitycheckings.net.
+sdirmdlf.com.		1800	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 148482 IN	A	92.225.119.21
+ns1.citis-group.com.	148482	IN	A	65.23.158.124
+ns1.securitycheckings.net. 148482 IN	A	65.23.158.124
+ns2.citis-group.com.	148482	IN	A	87.151.74.31
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:38:50 2009
+;; MSG SIZE  rcvd: 451
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 372
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:52 2009
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2046
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; ANSWER SECTION:
+sdirmdlf.com.		1800	IN	A	141.157.187.203
+sdirmdlf.com.		1800	IN	A	189.120.36.57
+sdirmdlf.com.		1800	IN	A	208.120.237.132
+sdirmdlf.com.		1800	IN	A	220.124.158.71
+sdirmdlf.com.		1800	IN	A	62.0.154.251
+sdirmdlf.com.		1800	IN	A	71.100.197.224
+sdirmdlf.com.		1800	IN	A	75.14.23.245
+sdirmdlf.com.		1800	IN	A	75.118.162.91
+sdirmdlf.com.		1800	IN	A	76.78.215.254
+sdirmdlf.com.		1800	IN	A	76.188.149.126
+sdirmdlf.com.		1800	IN	A	79.164.129.188
+sdirmdlf.com.		1800	IN	A	88.156.177.237
+sdirmdlf.com.		1800	IN	A	94.26.40.78
+sdirmdlf.com.		1800	IN	A	94.248.143.176
+sdirmdlf.com.		1800	IN	A	94.253.16.119
+
+;; AUTHORITY SECTION:
+sdirmdlf.com.		1800	IN	NS	ns2.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns2.securitycheckings.net.
+sdirmdlf.com.		1800	IN	NS	ns1.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172800	IN	A	87.239.22.94
+ns1.securitycheckings.net. 172800 IN	A	87.239.22.94
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:06 2009
+;; MSG SIZE  rcvd: 435
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 232
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; ANSWER SECTION:
+sdirmdlf.com.		1800	IN	A	94.248.143.176
+sdirmdlf.com.		1800	IN	A	94.253.16.119
+sdirmdlf.com.		1800	IN	A	141.157.187.203
+sdirmdlf.com.		1800	IN	A	189.120.36.57
+sdirmdlf.com.		1800	IN	A	208.120.237.132
+sdirmdlf.com.		1800	IN	A	220.124.158.71
+sdirmdlf.com.		1800	IN	A	62.0.154.251
+sdirmdlf.com.		1800	IN	A	71.100.197.224
+sdirmdlf.com.		1800	IN	A	75.14.23.245
+sdirmdlf.com.		1800	IN	A	75.118.162.91
+sdirmdlf.com.		1800	IN	A	76.78.215.254
+sdirmdlf.com.		1800	IN	A	76.188.149.126
+sdirmdlf.com.		1800	IN	A	79.164.129.188
+sdirmdlf.com.		1800	IN	A	88.156.177.237
+sdirmdlf.com.		1800	IN	A	94.26.40.78
+
+;; AUTHORITY SECTION:
+sdirmdlf.com.		1800	IN	NS	ns1.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns1.securitycheckings.net.
+sdirmdlf.com.		1800	IN	NS	ns2.citis-group.com.
+sdirmdlf.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172800	IN	A	87.239.22.94
+ns1.securitycheckings.net. 172800 IN	A	87.239.22.94
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+
+;; Query time: 843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:40:47 2009
+;; MSG SIZE  rcvd: 435
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdirmdlf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 444
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;sdirmdlf.com.			IN	A
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:40 2009
+;; MSG SIZE  rcvd: 30
+
+

@@ -1,0 +1,2965 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 670
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	4.181.22.219
+yourpharmweb.com.	600	IN	A	71.140.21.146
+yourpharmweb.com.	600	IN	A	72.241.124.119
+yourpharmweb.com.	600	IN	A	69.247.161.254
+yourpharmweb.com.	600	IN	A	74.41.48.50
+yourpharmweb.com.	600	IN	A	71.65.231.215
+yourpharmweb.com.	600	IN	A	99.141.164.246
+yourpharmweb.com.	600	IN	A	76.202.2.127
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	75.212.210.125
+yourpharmweb.com.	600	IN	A	98.230.58.166
+yourpharmweb.com.	600	IN	A	74.212.4.66
+yourpharmweb.com.	600	IN	A	99.140.161.108
+yourpharmweb.com.	600	IN	A	71.80.11.32
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:36:26 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1986
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; Query time: 2531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:54:48 2009
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1020
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	68.88.253.211
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:41 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 149
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	75.137.92.240
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	173.16.232.159
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:15 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 495
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	69.66.237.74
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:49 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 518
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.224.122.215
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	76.102.51.10
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:36:45 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1572
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	76.224.122.215
+yourpharmweb.com.	600	IN	A	64.149.157.194
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.102.51.10
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:36:00 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1096
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:51 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 207
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	72.48.183.204
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	71.79.9.177
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	82.3.106.140
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:36:15 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 494
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	71.56.99.7
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.91.14.12
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	67.65.165.42
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	99.4.105.171
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	205.209.232.195
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	65.65.208.207
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:36:38 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1304
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.196.190.91
+yourpharmweb.com.	600	IN	A	99.164.47.155
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	68.117.155.171
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	71.65.231.215
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	98.246.111.238
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	65.69.140.66
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:42:02 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1417
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.196.190.91
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	68.117.155.171
+yourpharmweb.com.	600	IN	A	99.164.47.155
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	65.69.140.66
+yourpharmweb.com.	600	IN	A	71.65.231.215
+yourpharmweb.com.	600	IN	A	98.246.111.238
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	173.29.205.121
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:42:03 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1919
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	65.69.140.66
+yourpharmweb.com.	600	IN	A	71.196.190.91
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	71.65.231.215
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	99.164.47.155
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	98.246.111.238
+yourpharmweb.com.	600	IN	A	82.42.189.145
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:43:23 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1005
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	68.88.253.211
+yourpharmweb.com.	600	IN	A	97.82.26.230
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	24.158.226.162
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 1359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:25 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 924
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	68.88.253.211
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.102.51.10
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 1875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:37 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1170
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	68.88.253.211
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	146.57.249.100
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 78 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:56 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1096
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	68.88.253.211
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:21 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 756
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	24.170.188.159
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:41:48 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1285
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:42:22 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1475
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	76.224.122.215
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	173.29.205.121
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	146.57.249.100
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:39:01 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1445
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.149.157.194
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:41:47 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1892
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	64.149.157.194
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	76.224.122.215
+yourpharmweb.com.	600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:41:50 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 566
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	64.149.157.194
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	76.224.122.215
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	173.16.232.159
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:41:57 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1620
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	64.149.157.194
+yourpharmweb.com.	600	IN	A	173.16.232.159
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.179.47.251
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:42:24 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1951
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	69.66.237.74
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:38:59 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1598
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:05 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1428
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.195.144.64
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:11 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1029
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	65.65.114.185
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:13 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 164
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	68.88.238.194
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	146.57.249.100
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:16 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1086
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	24.179.47.251
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:41:21 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1499
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	24.179.47.251
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:41:26 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	65.65.114.185
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	70.231.157.228
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:41:34 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1824
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	72.48.183.204
+yourpharmweb.com.	600	IN	A	71.79.9.177
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	70.253.144.220
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:40:12 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 239
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	98.235.17.250
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	68.89.47.177
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	70.231.157.228
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:41:56 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 684
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	70.154.82.100
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	68.89.47.177
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	98.235.17.250
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	70.231.157.228
+yourpharmweb.com.	600	IN	A	70.253.144.220
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:29 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1689
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	68.89.47.177
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	76.224.19.19
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	98.235.17.250
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	70.154.82.100
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:30 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1714
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	24.125.195.72
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:29 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1279
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	76.177.167.69
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:30 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1752
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	67.65.161.112
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	76.188.59.190
+yourpharmweb.com.	600	IN	A	24.158.226.162
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:30 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1516
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	76.102.51.10
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:31 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 306
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	71.137.9.48
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:32 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 625
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	76.202.166.136
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:37 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 181
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	71.137.9.48
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:38 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1491
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	70.136.31.99
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	99.184.220.219
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:38 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 215
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	99.184.220.219
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	71.137.9.48
+yourpharmweb.com.	600	IN	A	65.69.70.160
+yourpharmweb.com.	600	IN	A	70.231.136.222
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	76.202.166.136
+yourpharmweb.com.	600	IN	A	64.91.14.68
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	70.136.31.99
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:38:43 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1050
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	76.188.59.190
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	98.235.17.250
+yourpharmweb.com.	600	IN	A	24.158.226.162
+yourpharmweb.com.	600	IN	A	67.65.161.112
+yourpharmweb.com.	600	IN	A	70.253.144.220
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	64.203.14.41
+yourpharmweb.com.	600	IN	A	64.205.9.115
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:39:57 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 496
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	84.25.208.139
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:42:10 2009
+;; MSG SIZE  rcvd: 168
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	84.25.208.139
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:42:52 2009
+;; MSG SIZE  rcvd: 168
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 942
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	99.180.246.157
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	72.241.121.187
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	80.189.11.165
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	71.134.213.120
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:38:26 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1141
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	72.241.121.187
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	80.189.11.165
+yourpharmweb.com.	600	IN	A	99.180.246.157
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	24.125.195.72
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:41:01 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1714
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	68.186.155.120
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	24.125.195.72
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	99.180.246.157
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	72.241.121.187
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:41:43 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1792
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; Query time: 4750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:42:11 2009
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1193
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	99.190.74.145
+yourpharmweb.com.	600	IN	A	64.91.14.5
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	99.149.193.50
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	66.189.118.39
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	173.45.211.167
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	69.154.199.76
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:42:29 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1028
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	71.8.1.184
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 4781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:37:04 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 535
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	71.8.1.184
+yourpharmweb.com.	600	IN	A	24.6.232.7
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:45 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 350
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	71.8.1.184
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:49 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1308
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	71.8.1.184
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	67.150.81.4
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:02 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 796
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	71.8.1.184
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:07 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1144
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	71.8.1.184
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	64.205.9.115
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172796	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172796	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172796	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172796	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172796	IN	A	212.251.99.197
+
+;; Query time: 3562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:43 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 274
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	66.142.188.149
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	80.189.10.239
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	76.97.149.29
+yourpharmweb.com.	600	IN	A	76.22.226.55
+yourpharmweb.com.	600	IN	A	76.177.167.69
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	71.8.1.184
+yourpharmweb.com.	600	IN	A	216.188.193.83
+yourpharmweb.com.	600	IN	A	99.149.194.219
+yourpharmweb.com.	600	IN	A	67.150.81.4
+yourpharmweb.com.	600	IN	A	24.6.232.7
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:57 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 196
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	209.30.248.102
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	71.136.243.70
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	64.91.14.5
+yourpharmweb.com.	600	IN	A	65.66.157.127
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:38:41 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1072
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	209.30.248.102
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.136.243.70
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	64.91.14.5
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:39:48 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1415
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	24.179.47.251
+yourpharmweb.com.	600	IN	A	64.205.9.115
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	98.197.176.224
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	71.136.243.70
+yourpharmweb.com.	600	IN	A	76.181.138.175
+yourpharmweb.com.	600	IN	A	209.30.248.102
+yourpharmweb.com.	600	IN	A	24.6.232.7
+yourpharmweb.com.	600	IN	A	76.97.143.24
+yourpharmweb.com.	600	IN	A	71.134.213.120
+yourpharmweb.com.	600	IN	A	65.66.157.127
+yourpharmweb.com.	600	IN	A	82.3.106.140
+yourpharmweb.com.	600	IN	A	82.42.189.145
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172800	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172800	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172800	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172800	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172800	IN	A	212.251.99.197
+
+;; Query time: 875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:41:04 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1612
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	85.85.67.172
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	86.6.171.181
+idrefg10.com.		1800	IN	A	91.67.246.53
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	124.66.240.44
+idrefg10.com.		1800	IN	A	190.45.226.21
+idrefg10.com.		1800	IN	A	200.85.211.42
+idrefg10.com.		1800	IN	A	217.216.91.146
+idrefg10.com.		1800	IN	A	79.119.220.2
+idrefg10.com.		1800	IN	A	79.164.137.150
+idrefg10.com.		1800	IN	A	79.165.81.28
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	84.126.31.85
+idrefg10.com.		1800	IN	A	84.126.131.11
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+
+;; ADDITIONAL SECTION:
+ns1.itsyoubusiness.com.	170691	IN	A	67.91.182.56
+ns2.systray-dll.net.	165723	IN	A	195.44.23.44
+ns2.itsyoubusiness.com.	167439	IN	A	220.28.232.24
+ns1.systray-dll.net.	170923	IN	A	67.91.182.56
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 27 22:35:32 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1553
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+
+;; ADDITIONAL SECTION:
+ns2.itsyoubusiness.com.	146834	IN	A	220.28.232.24
+ns1.systray-dll.net.	138483	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	138483	IN	A	67.91.182.56
+ns2.systray-dll.net.	154672	IN	A	195.44.23.44
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:37:00 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 823
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+
+;; ADDITIONAL SECTION:
+ns2.systray-dll.net.	150310	IN	A	195.44.23.44
+ns2.itsyoubusiness.com.	143119	IN	A	220.28.232.24
+ns1.systray-dll.net.	138336	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	138336	IN	A	67.91.182.56
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:38:39 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+
+;; ADDITIONAL SECTION:
+ns1.itsyoubusiness.com.	144695	IN	A	67.91.182.56
+ns2.systray-dll.net.	153911	IN	A	195.44.23.44
+ns2.itsyoubusiness.com.	138642	IN	A	220.28.232.24
+ns1.systray-dll.net.	139418	IN	A	67.91.182.56
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:38:40 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 763
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+
+;; ADDITIONAL SECTION:
+ns1.systray-dll.net.	141615	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	141335	IN	A	67.91.182.56
+ns2.systray-dll.net.	141615	IN	A	195.44.23.44
+ns2.itsyoubusiness.com.	157632	IN	A	220.28.232.24
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:38:46 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1127
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+
+;; ADDITIONAL SECTION:
+ns2.itsyoubusiness.com.	146152	IN	A	220.28.232.24
+ns1.systray-dll.net.	146728	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	146152	IN	A	67.91.182.56
+ns2.systray-dll.net.	161226	IN	A	195.44.23.44
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:38:49 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 541
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+
+;; ADDITIONAL SECTION:
+ns1.systray-dll.net.	135770	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	135770	IN	A	67.91.182.56
+ns2.systray-dll.net.	150208	IN	A	195.44.23.44
+ns2.itsyoubusiness.com.	150208	IN	A	220.28.232.24
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:23 2009
+;; MSG SIZE  rcvd: 448
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2037
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; ANSWER SECTION:
+idrefg10.com.		1800	IN	A	94.21.39.80
+idrefg10.com.		1800	IN	A	95.28.36.229
+idrefg10.com.		1800	IN	A	200.85.217.116
+idrefg10.com.		1800	IN	A	217.216.91.27
+idrefg10.com.		1800	IN	A	221.127.243.242
+idrefg10.com.		1800	IN	A	79.117.82.248
+idrefg10.com.		1800	IN	A	79.119.212.75
+idrefg10.com.		1800	IN	A	80.179.195.144
+idrefg10.com.		1800	IN	A	82.17.83.73
+idrefg10.com.		1800	IN	A	84.126.131.11
+idrefg10.com.		1800	IN	A	85.85.235.101
+idrefg10.com.		1800	IN	A	88.65.89.71
+idrefg10.com.		1800	IN	A	89.161.77.105
+idrefg10.com.		1800	IN	A	92.76.121.114
+idrefg10.com.		1800	IN	A	93.103.217.223
+
+;; AUTHORITY SECTION:
+idrefg10.com.		1800	IN	NS	ns2.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns1.systray-dll.net.
+idrefg10.com.		1800	IN	NS	ns1.itsyoubusiness.com.
+idrefg10.com.		1800	IN	NS	ns2.systray-dll.net.
+
+;; ADDITIONAL SECTION:
+ns1.systray-dll.net.	172800	IN	A	67.91.182.56
+ns1.itsyoubusiness.com.	172800	IN	A	67.91.182.56
+ns2.systray-dll.net.	172800	IN	A	195.44.23.44
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:54 2009
+;; MSG SIZE  rcvd: 432
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 802
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1241015974 1800 900 604800 900
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:39:49 2009
+;; MSG SIZE  rcvd: 106
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idrefg10.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1844
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;idrefg10.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1241016051 1800 900 604800 900
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:41:00 2009
+;; MSG SIZE  rcvd: 106
+
+

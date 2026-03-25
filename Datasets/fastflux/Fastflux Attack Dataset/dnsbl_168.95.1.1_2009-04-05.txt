@@ -1,0 +1,377 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1354
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	79.119.214.80
+ms-tp01.com.		1800	IN	A	79.164.40.219
+ms-tp01.com.		1800	IN	A	79.165.84.77
+ms-tp01.com.		1800	IN	A	79.172.71.188
+ms-tp01.com.		1800	IN	A	83.89.82.89
+ms-tp01.com.		1800	IN	A	84.125.43.170
+ms-tp01.com.		1800	IN	A	85.137.236.180
+ms-tp01.com.		1800	IN	A	85.155.204.133
+ms-tp01.com.		1800	IN	A	86.5.189.66
+ms-tp01.com.		1800	IN	A	89.230.145.141
+ms-tp01.com.		1800	IN	A	92.23.150.183
+ms-tp01.com.		1800	IN	A	92.76.126.140
+ms-tp01.com.		1800	IN	A	121.163.56.13
+ms-tp01.com.		1800	IN	A	66.138.7.3
+ms-tp01.com.		1800	IN	A	76.205.125.180
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1602	IN	NS	ns2.securitycheckings.net.
+ms-tp01.com.		1602	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1602	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1602	IN	NS	ns2.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 163288 IN	A	92.225.119.21
+ns1.citis-group.com.	139364	IN	A	96.9.148.136
+ns1.securitycheckings.net. 130907 IN	A	96.9.148.136
+ns2.citis-group.com.	131809	IN	A	87.151.74.31
+
+;; Query time: 3328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:35:42 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1836
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:38:52 2009
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1616
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	89.230.145.141
+ms-tp01.com.		1800	IN	A	92.23.150.183
+ms-tp01.com.		1800	IN	A	92.76.126.140
+ms-tp01.com.		1800	IN	A	121.163.56.13
+ms-tp01.com.		1800	IN	A	66.138.7.3
+ms-tp01.com.		1800	IN	A	76.205.125.180
+ms-tp01.com.		1800	IN	A	79.119.214.80
+ms-tp01.com.		1800	IN	A	79.164.40.219
+ms-tp01.com.		1800	IN	A	79.165.84.77
+ms-tp01.com.		1800	IN	A	79.172.71.188
+ms-tp01.com.		1800	IN	A	83.89.82.89
+ms-tp01.com.		1800	IN	A	84.125.43.170
+ms-tp01.com.		1800	IN	A	85.137.236.180
+ms-tp01.com.		1800	IN	A	85.155.204.133
+ms-tp01.com.		1800	IN	A	86.5.189.66
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	131290	IN	A	87.151.74.31
+ns2.securitycheckings.net. 150670 IN	A	92.225.119.21
+ns1.citis-group.com.	144877	IN	A	96.9.148.136
+ns1.securitycheckings.net. 129021 IN	A	96.9.148.136
+
+;; Query time: 1281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:21 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 967
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	85.155.204.133
+ms-tp01.com.		1800	IN	A	86.5.189.66
+ms-tp01.com.		1800	IN	A	89.230.145.141
+ms-tp01.com.		1800	IN	A	92.23.150.183
+ms-tp01.com.		1800	IN	A	92.76.126.140
+ms-tp01.com.		1800	IN	A	121.163.56.13
+ms-tp01.com.		1800	IN	A	66.138.7.3
+ms-tp01.com.		1800	IN	A	76.205.125.180
+ms-tp01.com.		1800	IN	A	79.119.214.80
+ms-tp01.com.		1800	IN	A	79.164.40.219
+ms-tp01.com.		1800	IN	A	79.165.84.77
+ms-tp01.com.		1800	IN	A	79.172.71.188
+ms-tp01.com.		1800	IN	A	83.89.82.89
+ms-tp01.com.		1800	IN	A	84.125.43.170
+ms-tp01.com.		1800	IN	A	85.137.236.180
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 148943 IN	A	96.9.148.136
+ns2.citis-group.com.	158545	IN	A	87.151.74.31
+ns2.securitycheckings.net. 158545 IN	A	92.225.119.21
+ns1.citis-group.com.	151602	IN	A	96.9.148.136
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:21 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2020
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	79.119.214.80
+ms-tp01.com.		1800	IN	A	79.164.40.219
+ms-tp01.com.		1800	IN	A	79.165.84.77
+ms-tp01.com.		1800	IN	A	79.172.71.188
+ms-tp01.com.		1800	IN	A	83.89.82.89
+ms-tp01.com.		1800	IN	A	84.125.43.170
+ms-tp01.com.		1800	IN	A	85.137.236.180
+ms-tp01.com.		1800	IN	A	85.155.204.133
+ms-tp01.com.		1800	IN	A	86.5.189.66
+ms-tp01.com.		1800	IN	A	89.230.145.141
+ms-tp01.com.		1800	IN	A	92.23.150.183
+ms-tp01.com.		1800	IN	A	92.76.126.140
+ms-tp01.com.		1800	IN	A	121.163.56.13
+ms-tp01.com.		1800	IN	A	66.138.7.3
+ms-tp01.com.		1800	IN	A	76.205.125.180
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	156276	IN	A	96.9.148.136
+ns1.securitycheckings.net. 148152 IN	A	96.9.148.136
+ns2.citis-group.com.	149380	IN	A	87.151.74.31
+ns2.securitycheckings.net. 152590 IN	A	92.225.119.21
+
+;; Query time: 1890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:42:12 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 152
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	171109	IN	A	96.9.148.136
+ns1.securitycheckings.net. 171109 IN	A	96.9.148.136
+ns2.citis-group.com.	171110	IN	A	87.151.74.31
+ns2.securitycheckings.net. 171109 IN	A	92.225.119.21
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:58 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 358
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172799	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:32 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1711
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172800	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:04 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 648
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:39:55 2009
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 790
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:41:18 2009
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 2044
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:42:12 2009
+;; MSG SIZE  rcvd: 29
+
+

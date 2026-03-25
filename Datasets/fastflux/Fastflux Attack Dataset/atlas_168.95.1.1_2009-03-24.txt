@@ -1,0 +1,102 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 consistentlyflourishingtrip.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1345
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;consistentlyflourishingtrip.cn.	IN	A
+
+;; ANSWER SECTION:
+consistentlyflourishingtrip.cn.	300 IN	A	69.123.116.89
+consistentlyflourishingtrip.cn.	300 IN	A	70.102.191.196
+consistentlyflourishingtrip.cn.	300 IN	A	75.33.18.196
+consistentlyflourishingtrip.cn.	300 IN	A	76.6.194.132
+consistentlyflourishingtrip.cn.	300 IN	A	213.120.254.75
+consistentlyflourishingtrip.cn.	300 IN	A	69.15.160.54
+
+;; AUTHORITY SECTION:
+consistentlyflourishingtrip.cn.	300 IN	NS	ns2.myenergykingdom.com.
+consistentlyflourishingtrip.cn.	300 IN	NS	ns3.futureofcyberwonders.com.
+consistentlyflourishingtrip.cn.	300 IN	NS	ns4.answersweneed2find.com.
+consistentlyflourishingtrip.cn.	300 IN	NS	ns1.findinglucklylucy.com.
+
+;; ADDITIONAL SECTION:
+ns1.findinglucklylucy.com. 160537 IN	A	72.17.145.3
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:36:13 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 enjoy-particular-ball.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 737
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;enjoy-particular-ball.cn.	IN	A
+
+;; ANSWER SECTION:
+enjoy-particular-ball.cn. 300	IN	A	70.102.191.196
+enjoy-particular-ball.cn. 300	IN	A	75.33.18.196
+enjoy-particular-ball.cn. 300	IN	A	76.6.194.132
+enjoy-particular-ball.cn. 300	IN	A	213.120.254.75
+enjoy-particular-ball.cn. 300	IN	A	69.15.160.54
+enjoy-particular-ball.cn. 300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+enjoy-particular-ball.cn. 300	IN	NS	ns3.answertruthful.com.
+enjoy-particular-ball.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+enjoy-particular-ball.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+enjoy-particular-ball.cn. 300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	137716	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 137716 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 137716 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 137716 IN A	200.129.46.5
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:36:14 2009
+;; MSG SIZE  rcvd: 375
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 everlasting-colorful-idea.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1781
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;everlasting-colorful-idea.cn.	IN	A
+
+;; ANSWER SECTION:
+everlasting-colorful-idea.cn. 300 IN	A	70.102.191.196
+everlasting-colorful-idea.cn. 300 IN	A	75.33.18.196
+everlasting-colorful-idea.cn. 300 IN	A	76.6.194.132
+everlasting-colorful-idea.cn. 300 IN	A	213.120.254.75
+everlasting-colorful-idea.cn. 300 IN	A	69.15.160.54
+everlasting-colorful-idea.cn. 300 IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+everlasting-colorful-idea.cn. 300 IN	NS	ns2.myenergykingdom.com.
+everlasting-colorful-idea.cn. 300 IN	NS	ns3.futureofcyberwonders.com.
+everlasting-colorful-idea.cn. 300 IN	NS	ns4.answersweneed2find.com.
+everlasting-colorful-idea.cn. 300 IN	NS	ns1.findinglucklylucy.com.
+
+;; ADDITIONAL SECTION:
+ns1.findinglucklylucy.com. 161816 IN	A	72.17.145.3
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:36:19 2009
+;; MSG SIZE  rcvd: 335
+
+

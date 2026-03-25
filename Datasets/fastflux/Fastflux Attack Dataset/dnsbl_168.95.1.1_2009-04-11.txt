@@ -1,0 +1,37 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 share-hot-blooded-hour.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1580
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;share-hot-blooded-hour.com.	IN	A
+
+;; ANSWER SECTION:
+share-hot-blooded-hour.com. 300	IN	A	75.145.2.237
+share-hot-blooded-hour.com. 300	IN	A	75.147.221.65
+share-hot-blooded-hour.com. 300	IN	A	208.76.203.26
+share-hot-blooded-hour.com. 300	IN	A	12.184.45.88
+share-hot-blooded-hour.com. 300	IN	A	66.161.148.148
+share-hot-blooded-hour.com. 300	IN	A	69.4.188.23
+share-hot-blooded-hour.com. 300	IN	A	74.172.32.50
+
+;; AUTHORITY SECTION:
+share-hot-blooded-hour.com. 300	IN	NS	ns3.factsleading.com.
+share-hot-blooded-hour.com. 300	IN	NS	ns4.innobrilliant.com.
+share-hot-blooded-hour.com. 300	IN	NS	ns1.classifiedremained.com.
+share-hot-blooded-hour.com. 300	IN	NS	ns2.classiremained.com.
+
+;; ADDITIONAL SECTION:
+ns3.factsleading.com.	159946	IN	A	78.100.39.148
+ns4.innobrilliant.com.	159946	IN	A	75.145.2.237
+ns1.classifiedremained.com. 159946 IN	A	70.91.121.99
+ns2.classiremained.com.	159946	IN	A	72.44.33.117
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:46 2009
+;; MSG SIZE  rcvd: 379
+
+

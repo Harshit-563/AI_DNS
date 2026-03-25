@@ -1,0 +1,377 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1651
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	24.158.226.162
+ioctl2.jp.		600	IN	A	173.29.205.121
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	173.16.232.159
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	98.197.176.224
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	99.141.79.160
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	75.4.134.13
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	68.88.253.211
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86392	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns1.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns2.ioctl2.jp.		86392	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86392	IN	A	68.197.137.239
+ns1.ioctl2.jp.		86392	IN	A	74.196.156.180
+
+;; Query time: 2953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:49 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1938
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	75.4.134.13
+ioctl2.jp.		600	IN	A	173.29.205.121
+ioctl2.jp.		600	IN	A	173.16.232.159
+ioctl2.jp.		600	IN	A	76.73.237.59
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	165.166.236.74
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	99.141.79.160
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	75.137.92.240
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	146.57.249.100
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+
+;; Query time: 4281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:24 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 78
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	75.4.134.13
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	165.166.236.74
+ioctl2.jp.		600	IN	A	99.141.79.160
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	76.73.237.59
+ioctl2.jp.		600	IN	A	82.3.106.140
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	173.29.205.121
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86392	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns1.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns2.ioctl2.jp.		86392	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86392	IN	A	68.197.137.239
+ns1.ioctl2.jp.		86392	IN	A	74.196.156.180
+
+;; Query time: 3062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:57 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1803
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	173.29.205.121
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	99.141.79.160
+ioctl2.jp.		600	IN	A	64.203.14.41
+ioctl2.jp.		600	IN	A	68.88.238.194
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	64.205.9.115
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	82.3.106.140
+ioctl2.jp.		600	IN	A	165.166.236.74
+ioctl2.jp.		600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86392	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86392	IN	NS	ns1.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns3.ioctl2.jp.		86392	IN	A	68.197.137.239
+ns2.ioctl2.jp.		86392	IN	A	72.204.44.232
+ns1.ioctl2.jp.		86392	IN	A	74.196.156.180
+
+;; Query time: 2859 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:36:53 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1596
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	24.179.47.251
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	173.16.232.159
+ioctl2.jp.		600	IN	A	68.88.238.194
+ioctl2.jp.		600	IN	A	64.149.157.194
+ioctl2.jp.		600	IN	A	64.203.14.41
+ioctl2.jp.		600	IN	A	76.224.122.215
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	24.158.226.162
+ioctl2.jp.		600	IN	A	69.66.237.74
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+
+;; Query time: 4078 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:36:04 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 429
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	24.158.226.162
+ioctl2.jp.		600	IN	A	24.179.47.251
+ioctl2.jp.		600	IN	A	70.231.157.228
+ioctl2.jp.		600	IN	A	68.88.238.194
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	65.65.114.185
+ioctl2.jp.		600	IN	A	76.224.19.19
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	24.125.195.72
+ioctl2.jp.		600	IN	A	82.3.106.140
+ioctl2.jp.		600	IN	A	64.203.14.41
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+
+;; Query time: 3812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:54 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1800
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	70.231.157.228
+ioctl2.jp.		600	IN	A	70.154.82.100
+ioctl2.jp.		600	IN	A	146.57.249.100
+ioctl2.jp.		600	IN	A	24.158.226.162
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	76.224.19.19
+ioctl2.jp.		600	IN	A	72.48.183.204
+ioctl2.jp.		600	IN	A	82.3.106.140
+ioctl2.jp.		600	IN	A	24.125.195.72
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	71.79.9.177
+ioctl2.jp.		600	IN	A	64.203.14.41
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+
+;; Query time: 3921 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:36:19 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1350
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	70.136.31.99
+ioctl2.jp.		600	IN	A	70.154.82.100
+ioctl2.jp.		600	IN	A	24.170.188.159
+ioctl2.jp.		600	IN	A	82.3.106.140
+ioctl2.jp.		600	IN	A	99.4.105.171
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	64.203.14.41
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	65.65.208.207
+ioctl2.jp.		600	IN	A	205.209.232.195
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	67.65.165.42
+ioctl2.jp.		600	IN	A	71.56.99.7
+ioctl2.jp.		600	IN	A	24.158.226.162
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+
+;; Query time: 4312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:36:42 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cyberagthor.tk
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1516
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 7, ADDITIONAL: 7
+
+;; QUESTION SECTION:
+;cyberagthor.tk.			IN	A
+
+;; ANSWER SECTION:
+cyberagthor.tk.		300	IN	A	81.29.204.108
+cyberagthor.tk.		300	IN	A	193.33.61.2
+cyberagthor.tk.		300	IN	A	195.20.32.103
+cyberagthor.tk.		300	IN	A	209.172.59.196
+cyberagthor.tk.		300	IN	A	217.119.57.22
+
+;; AUTHORITY SECTION:
+tk.			73445	IN	NS	ROOT-A.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-F.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-E.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-C.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-D.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-G.TALOHA.tk.
+tk.			73445	IN	NS	ROOT-B.TALOHA.tk.
+
+;; ADDITIONAL SECTION:
+ROOT-A.TALOHA.tk.	162	IN	A	194.109.152.138
+ROOT-F.TALOHA.tk.	162	IN	A	202.125.44.173
+ROOT-E.TALOHA.tk.	162	IN	A	66.36.231.236
+ROOT-C.TALOHA.tk.	162	IN	A	207.36.228.217
+ROOT-D.TALOHA.tk.	162	IN	A	217.199.176.121
+ROOT-G.TALOHA.tk.	168160	IN	A	217.68.243.17
+ROOT-B.TALOHA.tk.	168160	IN	A	195.20.32.102
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:35:16 2009
+;; MSG SIZE  rcvd: 392
+
+

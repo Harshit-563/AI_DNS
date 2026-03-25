@@ -1,0 +1,108 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fruitof-i-times.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 141
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fruitof-i-times.cn.		IN	A
+
+;; ANSWER SECTION:
+fruitof-i-times.cn.	300	IN	A	74.63.252.83
+fruitof-i-times.cn.	300	IN	A	75.33.18.196
+fruitof-i-times.cn.	300	IN	A	121.240.109.67
+fruitof-i-times.cn.	300	IN	A	206.210.113.47
+fruitof-i-times.cn.	300	IN	A	208.84.251.197
+fruitof-i-times.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+fruitof-i-times.cn.	300	IN	NS	ns2.uniquest-professional.com.
+fruitof-i-times.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+fruitof-i-times.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+fruitof-i-times.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 144200 IN A	76.233.44.113
+ns3.purecrayonanyway.com. 147433 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 144200 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 144200 IN	A	66.155.114.139
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:35:54 2009
+;; MSG SIZE  rcvd: 365
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 flourishofinternettimes.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1581
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;flourishofinternettimes.cn.	IN	A
+
+;; ANSWER SECTION:
+flourishofinternettimes.cn. 300	IN	A	208.84.251.197
+flourishofinternettimes.cn. 300	IN	A	213.120.254.75
+flourishofinternettimes.cn. 300	IN	A	74.63.252.83
+flourishofinternettimes.cn. 300	IN	A	75.33.18.196
+flourishofinternettimes.cn. 300	IN	A	121.240.109.67
+flourishofinternettimes.cn. 300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+flourishofinternettimes.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+flourishofinternettimes.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+flourishofinternettimes.cn. 300	IN	NS	ns2.uniquest-professional.com.
+flourishofinternettimes.cn. 300	IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 123080 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 123080 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 123080 IN A	76.233.44.113
+ns3.purecrayonanyway.com. 147476 IN	A	94.78.231.116
+
+;; Query time: 1625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:35:56 2009
+;; MSG SIZE  rcvd: 381
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ecommandof-amazing-energy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1099
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ecommandof-amazing-energy.cn.	IN	A
+
+;; ANSWER SECTION:
+ecommandof-amazing-energy.cn. 300 IN	A	74.63.252.83
+ecommandof-amazing-energy.cn. 300 IN	A	75.33.18.196
+ecommandof-amazing-energy.cn. 300 IN	A	121.240.109.67
+ecommandof-amazing-energy.cn. 300 IN	A	206.210.113.47
+ecommandof-amazing-energy.cn. 300 IN	A	208.84.251.197
+ecommandof-amazing-energy.cn. 300 IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+ecommandof-amazing-energy.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+ecommandof-amazing-energy.cn. 300 IN	NS	ns2.uniquest-professional.com.
+ecommandof-amazing-energy.cn. 300 IN	NS	ns3.purecrayonanyway.com.
+ecommandof-amazing-energy.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 153636 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 153636 IN A	76.233.44.113
+ns3.purecrayonanyway.com. 155834 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 153636 IN	A	71.172.38.60
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:35:56 2009
+;; MSG SIZE  rcvd: 385
+
+

@@ -1,0 +1,135 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 vmodeid.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;vmodeid.com.			IN	A
+
+;; ANSWER SECTION:
+vmodeid.com.		1800	IN	A	71.100.197.224
+vmodeid.com.		1800	IN	A	75.118.162.91
+vmodeid.com.		1800	IN	A	79.117.84.79
+vmodeid.com.		1800	IN	A	79.175.208.140
+vmodeid.com.		1800	IN	A	82.1.160.84
+vmodeid.com.		1800	IN	A	82.22.126.227
+vmodeid.com.		1800	IN	A	82.158.58.149
+vmodeid.com.		1800	IN	A	84.121.116.138
+vmodeid.com.		1800	IN	A	88.74.48.51
+vmodeid.com.		1800	IN	A	89.46.59.20
+vmodeid.com.		1800	IN	A	190.245.72.2
+vmodeid.com.		1800	IN	A	200.109.36.241
+vmodeid.com.		1800	IN	A	201.83.153.244
+vmodeid.com.		1800	IN	A	217.216.89.68
+vmodeid.com.		1800	IN	A	221.126.238.52
+
+;; AUTHORITY SECTION:
+vmodeid.com.		1800	IN	NS	ns1.americans-tool.com.
+vmodeid.com.		1800	IN	NS	ns1.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns2.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.americans-tool.com.	150303	IN	A	8.12.160.183
+ns1.bus-on-line.com.	166641	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166641	IN	A	205.178.14.51
+ns2.americans-tool.com.	150303	IN	A	88.31.112.44
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:35:25 2009
+;; MSG SIZE  rcvd: 443
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 vmodeid.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 871
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;vmodeid.com.			IN	A
+
+;; ANSWER SECTION:
+vmodeid.com.		1800	IN	A	190.245.72.2
+vmodeid.com.		1800	IN	A	200.109.36.241
+vmodeid.com.		1800	IN	A	201.83.153.244
+vmodeid.com.		1800	IN	A	217.216.89.68
+vmodeid.com.		1800	IN	A	221.126.238.52
+vmodeid.com.		1800	IN	A	71.100.197.224
+vmodeid.com.		1800	IN	A	75.118.162.91
+vmodeid.com.		1800	IN	A	79.117.84.79
+vmodeid.com.		1800	IN	A	79.175.208.140
+vmodeid.com.		1800	IN	A	82.1.160.84
+vmodeid.com.		1800	IN	A	82.22.126.227
+vmodeid.com.		1800	IN	A	82.158.58.149
+vmodeid.com.		1800	IN	A	84.121.116.138
+vmodeid.com.		1800	IN	A	88.74.48.51
+vmodeid.com.		1800	IN	A	89.46.59.20
+
+;; AUTHORITY SECTION:
+vmodeid.com.		1800	IN	NS	ns1.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns1.americans-tool.com.
+vmodeid.com.		1800	IN	NS	ns2.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	166433	IN	A	8.12.160.183
+ns1.americans-tool.com.	144734	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166433	IN	A	205.178.14.51
+ns2.americans-tool.com.	144734	IN	A	88.31.112.44
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:13 2009
+;; MSG SIZE  rcvd: 443
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 vmodeid.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1996
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;vmodeid.com.			IN	A
+
+;; ANSWER SECTION:
+vmodeid.com.		1800	IN	A	200.109.36.241
+vmodeid.com.		1800	IN	A	201.83.153.244
+vmodeid.com.		1800	IN	A	217.216.89.68
+vmodeid.com.		1800	IN	A	221.126.238.52
+vmodeid.com.		1800	IN	A	71.100.197.224
+vmodeid.com.		1800	IN	A	75.118.162.91
+vmodeid.com.		1800	IN	A	79.117.84.79
+vmodeid.com.		1800	IN	A	79.175.208.140
+vmodeid.com.		1800	IN	A	82.1.160.84
+vmodeid.com.		1800	IN	A	82.22.126.227
+vmodeid.com.		1800	IN	A	82.158.58.149
+vmodeid.com.		1800	IN	A	84.121.116.138
+vmodeid.com.		1800	IN	A	88.74.48.51
+vmodeid.com.		1800	IN	A	89.46.59.20
+vmodeid.com.		1800	IN	A	190.245.72.2
+
+;; AUTHORITY SECTION:
+vmodeid.com.		9	IN	NS	ns2.americans-tool.com.
+vmodeid.com.		9	IN	NS	ns1.bus-on-line.com.
+vmodeid.com.		9	IN	NS	ns2.bus-on-line.com.
+vmodeid.com.		9	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.americans-tool.com.	152335	IN	A	88.31.112.44
+ns1.bus-on-line.com.	166156	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166156	IN	A	205.178.14.51
+ns1.americans-tool.com.	152335	IN	A	8.12.160.183
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:32 2009
+;; MSG SIZE  rcvd: 443
+
+

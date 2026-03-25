@@ -1,0 +1,185 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adecman.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1725
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;adecman.com.			IN	A
+
+;; ANSWER SECTION:
+adecman.com.		1800	IN	A	147.96.32.146
+adecman.com.		1800	IN	A	24.61.249.127
+adecman.com.		1800	IN	A	84.121.118.196
+adecman.com.		1800	IN	A	85.216.48.97
+adecman.com.		1800	IN	A	86.15.224.146
+
+;; AUTHORITY SECTION:
+adecman.com.		1800	IN	NS	ns1.dortfoot.com.
+adecman.com.		1800	IN	NS	ns1.bigthework.com.
+adecman.com.		1800	IN	NS	ns2.dortfoot.com.
+adecman.com.		1800	IN	NS	ns2.bigthework.com.
+
+;; ADDITIONAL SECTION:
+ns1.dortfoot.com.	172799	IN	A	91.199.50.78
+ns1.bigthework.com.	172799	IN	A	91.199.50.78
+
+;; Query time: 1640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:35:42 2009
+;; MSG SIZE  rcvd: 244
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sssriepk.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1902
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sssriepk.cn.			IN	A
+
+;; ANSWER SECTION:
+sssriepk.cn.		180	IN	A	91.146.169.224
+sssriepk.cn.		180	IN	A	91.148.176.215
+sssriepk.cn.		180	IN	A	92.244.107.116
+sssriepk.cn.		180	IN	A	219.91.213.122
+sssriepk.cn.		180	IN	A	62.57.8.210
+sssriepk.cn.		180	IN	A	80.233.206.35
+sssriepk.cn.		180	IN	A	83.86.122.42
+sssriepk.cn.		180	IN	A	86.106.61.135
+
+;; AUTHORITY SECTION:
+sssriepk.cn.		180	IN	NS	ns4.bybwqdwq.com.
+sssriepk.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+sssriepk.cn.		180	IN	NS	ns2.bybwqdwq.com.
+sssriepk.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	132127	IN	A	84.74.0.53
+ns1.bysfwqdwe.com.	132127	IN	A	89.135.82.139
+ns2.bybwqdwq.com.	132127	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	132127	IN	A	78.84.20.189
+
+;; Query time: 2203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:35:52 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dhipewpk.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1053
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dhipewpk.cn.			IN	A
+
+;; ANSWER SECTION:
+dhipewpk.cn.		180	IN	A	62.57.8.210
+dhipewpk.cn.		180	IN	A	80.233.206.35
+dhipewpk.cn.		180	IN	A	83.86.122.42
+dhipewpk.cn.		180	IN	A	86.106.61.135
+dhipewpk.cn.		180	IN	A	91.146.169.224
+dhipewpk.cn.		180	IN	A	91.148.176.215
+dhipewpk.cn.		180	IN	A	92.244.107.116
+dhipewpk.cn.		180	IN	A	219.91.213.122
+
+;; AUTHORITY SECTION:
+dhipewpk.cn.		180	IN	NS	ns4.bybwqdwq.com.
+dhipewpk.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+dhipewpk.cn.		180	IN	NS	ns2.bybwqdwq.com.
+dhipewpk.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	147476	IN	A	89.149.96.78
+ns1.bysfwqdwe.com.	147476	IN	A	94.52.77.9
+ns2.bybwqdwq.com.	147476	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	147476	IN	A	78.139.129.101
+
+;; Query time: 2171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:35:54 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ihprpsik.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 795
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ihprpsik.cn.			IN	A
+
+;; ANSWER SECTION:
+ihprpsik.cn.		180	IN	A	92.244.107.116
+ihprpsik.cn.		180	IN	A	219.91.213.122
+ihprpsik.cn.		180	IN	A	62.57.8.210
+ihprpsik.cn.		180	IN	A	80.233.206.35
+ihprpsik.cn.		180	IN	A	83.86.122.42
+ihprpsik.cn.		180	IN	A	86.106.61.135
+ihprpsik.cn.		180	IN	A	91.146.169.224
+ihprpsik.cn.		180	IN	A	91.148.176.215
+
+;; AUTHORITY SECTION:
+ihprpsik.cn.		180	IN	NS	ns4.bybwqdwq.com.
+ihprpsik.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+ihprpsik.cn.		180	IN	NS	ns2.bybwqdwq.com.
+ihprpsik.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	168909	IN	A	89.133.137.39
+ns1.bysfwqdwe.com.	168923	IN	A	83.86.122.42
+ns2.bybwqdwq.com.	168923	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	168923	IN	A	78.131.35.20
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:35:54 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 figrssgg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 657
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;figrssgg.cn.			IN	A
+
+;; ANSWER SECTION:
+figrssgg.cn.		180	IN	A	91.146.169.224
+figrssgg.cn.		180	IN	A	91.148.176.215
+figrssgg.cn.		180	IN	A	92.244.107.116
+figrssgg.cn.		180	IN	A	219.91.213.122
+figrssgg.cn.		180	IN	A	62.57.8.210
+figrssgg.cn.		180	IN	A	80.233.206.35
+figrssgg.cn.		180	IN	A	83.86.122.42
+figrssgg.cn.		180	IN	A	86.106.61.135
+
+;; AUTHORITY SECTION:
+figrssgg.cn.		180	IN	NS	ns2.bybwqdwq.com.
+figrssgg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+figrssgg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+figrssgg.cn.		180	IN	NS	ns1.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns2.bybwqdwq.com.	168511	IN	A	86.101.123.68
+ns3.bysfwqdwe.com.	168330	IN	A	116.72.180.112
+ns4.bybwqdwq.com.	168465	IN	A	92.244.107.116
+ns1.bysfwqdwe.com.	168330	IN	A	83.86.122.42
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 22 22:36:05 2009
+;; MSG SIZE  rcvd: 326
+
+

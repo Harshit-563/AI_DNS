@@ -1,0 +1,33 @@
+; <<>> DiG 9.3.2rc1 <<>> best-rx-onlinestore.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1576
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	201.6.245.234
+best-rx-onlinestore.com. 300	IN	A	209.41.200.129
+best-rx-onlinestore.com. 300	IN	A	64.238.223.93
+best-rx-onlinestore.com. 300	IN	A	66.240.84.56
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	148183	IN	A	75.41.185.57
+ns3.splendidfindings.com. 148183 IN	A	64.207.235.135
+ns4.magnifindings.com.	172800	IN	A	216.241.132.134
+ns1.verity-fresh.com.	148183	IN	A	72.254.80.121
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:30 2009
+;; MSG SIZE  rcvd: 352
+

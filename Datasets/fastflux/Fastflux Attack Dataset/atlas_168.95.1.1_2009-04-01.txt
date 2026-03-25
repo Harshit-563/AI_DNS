@@ -1,0 +1,384 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 underwayservice.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1279
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;underwayservice.com.		IN	A
+
+;; ANSWER SECTION:
+underwayservice.com.	300	IN	A	76.113.188.200
+underwayservice.com.	300	IN	A	121.240.109.67
+underwayservice.com.	300	IN	A	68.236.210.184
+underwayservice.com.	300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+underwayservice.com.	300	IN	NS	ns2.desistylish.com.
+underwayservice.com.	300	IN	NS	ns3.splendidfindings.com.
+underwayservice.com.	300	IN	NS	ns4.magnifindings.com.
+underwayservice.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:36:39 2009
+;; MSG SIZE  rcvd: 312
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 underwayservice.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 679
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;underwayservice.com.		IN	A
+
+;; ANSWER SECTION:
+underwayservice.com.	300	IN	A	62.225.156.14
+underwayservice.com.	300	IN	A	68.236.210.184
+underwayservice.com.	300	IN	A	69.198.5.210
+underwayservice.com.	300	IN	A	81.177.134.9
+underwayservice.com.	300	IN	A	206.104.100.29
+
+;; AUTHORITY SECTION:
+underwayservice.com.	300	IN	NS	ns1.verity-fresh.com.
+underwayservice.com.	300	IN	NS	ns2.desistylish.com.
+underwayservice.com.	300	IN	NS	ns3.splendidfindings.com.
+underwayservice.com.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	195.93.181.30
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:34 2009
+;; MSG SIZE  rcvd: 328
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ssiprisf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 516
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ssiprisf.cn.			IN	A
+
+;; ANSWER SECTION:
+ssiprisf.cn.		180	IN	A	217.26.171.29
+ssiprisf.cn.		180	IN	A	217.199.114.203
+ssiprisf.cn.		180	IN	A	62.201.113.51
+ssiprisf.cn.		180	IN	A	78.26.161.75
+ssiprisf.cn.		180	IN	A	82.131.96.112
+ssiprisf.cn.		180	IN	A	89.133.172.111
+ssiprisf.cn.		180	IN	A	94.240.135.42
+ssiprisf.cn.		180	IN	A	190.25.245.50
+
+;; AUTHORITY SECTION:
+ssiprisf.cn.		180	IN	NS	ns2.hugwqsw.com.
+ssiprisf.cn.		180	IN	NS	ns3.ninknedsew.com.
+ssiprisf.cn.		180	IN	NS	ns4.hugwqsw.com.
+ssiprisf.cn.		180	IN	NS	ns1.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns2.hugwqsw.com.	165960	IN	A	61.61.61.61
+ns3.ninknedsew.com.	165960	IN	A	62.65.210.58
+ns4.hugwqsw.com.	165960	IN	A	61.61.61.61
+ns1.hugwqsw.com.	165960	IN	A	212.4.134.144
+
+;; Query time: 4187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:16 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sfiehgii.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 128
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sfiehgii.cn.			IN	A
+
+;; ANSWER SECTION:
+sfiehgii.cn.		180	IN	A	217.199.114.203
+sfiehgii.cn.		180	IN	A	62.201.113.51
+sfiehgii.cn.		180	IN	A	78.26.161.75
+sfiehgii.cn.		180	IN	A	82.131.96.112
+sfiehgii.cn.		180	IN	A	89.133.172.111
+sfiehgii.cn.		180	IN	A	94.240.135.42
+sfiehgii.cn.		180	IN	A	190.25.245.50
+sfiehgii.cn.		180	IN	A	217.26.171.29
+
+;; AUTHORITY SECTION:
+sfiehgii.cn.		180	IN	NS	ns4.hugwqsw.com.
+sfiehgii.cn.		180	IN	NS	ns1.hugwqsw.com.
+sfiehgii.cn.		180	IN	NS	ns2.hugwqsw.com.
+sfiehgii.cn.		180	IN	NS	ns3.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns4.hugwqsw.com.	169467	IN	A	61.61.61.61
+ns1.hugwqsw.com.	169493	IN	A	212.4.134.144
+ns2.hugwqsw.com.	169493	IN	A	61.61.61.61
+ns3.ninknedsew.com.	169493	IN	A	89.42.253.76
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:18 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 zmodef1.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1214
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;zmodef1.com.			IN	A
+
+;; ANSWER SECTION:
+zmodef1.com.		1800	IN	A	84.121.118.94
+zmodef1.com.		1800	IN	A	89.46.59.20
+zmodef1.com.		1800	IN	A	99.190.33.232
+zmodef1.com.		1800	IN	A	124.66.240.24
+zmodef1.com.		1800	IN	A	172.130.93.159
+zmodef1.com.		1800	IN	A	186.81.192.195
+zmodef1.com.		1800	IN	A	190.191.134.55
+zmodef1.com.		1800	IN	A	213.231.106.104
+zmodef1.com.		1800	IN	A	220.124.158.71
+zmodef1.com.		1800	IN	A	221.126.239.117
+zmodef1.com.		1800	IN	A	66.138.7.3
+zmodef1.com.		1800	IN	A	76.205.126.12
+zmodef1.com.		1800	IN	A	79.175.208.140
+zmodef1.com.		1800	IN	A	80.179.195.144
+zmodef1.com.		1800	IN	A	83.89.82.89
+
+;; AUTHORITY SECTION:
+zmodef1.com.		1800	IN	NS	ns1.citis-group.com.
+zmodef1.com.		1800	IN	NS	ns1.securitycheckings.net.
+zmodef1.com.		1800	IN	NS	ns2.citis-group.com.
+zmodef1.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172800	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:19 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fseifgef.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1488
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fseifgef.cn.			IN	A
+
+;; ANSWER SECTION:
+fseifgef.cn.		180	IN	A	89.133.172.111
+fseifgef.cn.		180	IN	A	94.240.135.42
+fseifgef.cn.		180	IN	A	190.25.245.50
+fseifgef.cn.		180	IN	A	217.26.171.29
+fseifgef.cn.		180	IN	A	217.199.114.203
+fseifgef.cn.		180	IN	A	62.201.113.51
+fseifgef.cn.		180	IN	A	78.26.161.75
+fseifgef.cn.		180	IN	A	82.131.96.112
+
+;; AUTHORITY SECTION:
+fseifgef.cn.		180	IN	NS	ns4.hugwqsw.com.
+fseifgef.cn.		180	IN	NS	ns1.hugwqsw.com.
+fseifgef.cn.		180	IN	NS	ns2.hugwqsw.com.
+fseifgef.cn.		180	IN	NS	ns3.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns4.hugwqsw.com.	140410	IN	A	61.61.61.61
+ns1.hugwqsw.com.	140410	IN	A	219.241.174.102
+ns2.hugwqsw.com.	140410	IN	A	61.61.61.61
+ns3.ninknedsew.com.	140392	IN	A	69.232.45.3
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:24 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fruitearth.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 723
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;fruitearth.com.			IN	A
+
+;; ANSWER SECTION:
+fruitearth.com.		1800	IN	A	208.66.233.30
+fruitearth.com.		1800	IN	A	208.66.233.13
+fruitearth.com.		1800	IN	A	208.66.233.14
+fruitearth.com.		1800	IN	A	208.66.233.15
+fruitearth.com.		1800	IN	A	208.66.233.17
+
+;; AUTHORITY SECTION:
+fruitearth.com.		3600	IN	NS	dns1.name-services.com.
+fruitearth.com.		3600	IN	NS	dns2.name-services.com.
+fruitearth.com.		3600	IN	NS	dns3.name-services.com.
+fruitearth.com.		3600	IN	NS	dns4.name-services.com.
+fruitearth.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	76	IN	A	98.124.192.1
+dns2.name-services.com.	167	IN	A	69.64.157.18
+dns3.name-services.com.	161104	IN	A	98.124.193.1
+dns4.name-services.com.	193	IN	A	69.64.145.225
+dns5.name-services.com.	161	IN	A	70.42.37.7
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:24 2009
+;; MSG SIZE  rcvd: 315
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fiejifgs.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 742
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fiejifgs.cn.			IN	A
+
+;; ANSWER SECTION:
+fiejifgs.cn.		180	IN	A	78.26.161.75
+fiejifgs.cn.		180	IN	A	82.131.96.112
+fiejifgs.cn.		180	IN	A	89.133.172.111
+fiejifgs.cn.		180	IN	A	94.240.135.42
+fiejifgs.cn.		180	IN	A	190.25.245.50
+fiejifgs.cn.		180	IN	A	217.26.171.29
+fiejifgs.cn.		180	IN	A	217.199.114.203
+fiejifgs.cn.		180	IN	A	62.201.113.51
+
+;; AUTHORITY SECTION:
+fiejifgs.cn.		180	IN	NS	ns2.hugwqsw.com.
+fiejifgs.cn.		180	IN	NS	ns3.ninknedsew.com.
+fiejifgs.cn.		180	IN	NS	ns4.hugwqsw.com.
+fiejifgs.cn.		180	IN	NS	ns1.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns2.hugwqsw.com.	166232	IN	A	61.61.61.61
+ns3.ninknedsew.com.	166148	IN	A	87.226.50.79
+ns4.hugwqsw.com.	166401	IN	A	61.61.61.61
+ns1.hugwqsw.com.	166140	IN	A	74.65.15.26
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:25 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xfvjoier.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 734
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;xfvjoier.cn.			IN	A
+
+;; ANSWER SECTION:
+xfvjoier.cn.		180	IN	A	217.199.114.203
+xfvjoier.cn.		180	IN	A	62.201.113.51
+xfvjoier.cn.		180	IN	A	78.26.161.75
+xfvjoier.cn.		180	IN	A	82.131.96.112
+xfvjoier.cn.		180	IN	A	89.133.172.111
+xfvjoier.cn.		180	IN	A	94.240.135.42
+xfvjoier.cn.		180	IN	A	190.25.245.50
+xfvjoier.cn.		180	IN	A	217.26.171.29
+
+;; AUTHORITY SECTION:
+xfvjoier.cn.		180	IN	NS	ns4.hugwqsw.com.
+xfvjoier.cn.		180	IN	NS	ns1.hugwqsw.com.
+xfvjoier.cn.		180	IN	NS	ns2.hugwqsw.com.
+xfvjoier.cn.		180	IN	NS	ns3.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns4.hugwqsw.com.	116212	IN	A	61.61.61.61
+ns1.hugwqsw.com.	116212	IN	A	212.4.134.144
+ns2.hugwqsw.com.	116172	IN	A	61.61.61.61
+ns3.ninknedsew.com.	116212	IN	A	194.208.177.215
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:25 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 idstrc.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1567
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;idstrc.com.			IN	A
+
+;; ANSWER SECTION:
+idstrc.com.		1800	IN	A	220.124.158.71
+idstrc.com.		1800	IN	A	221.126.239.117
+idstrc.com.		1800	IN	A	66.138.7.3
+idstrc.com.		1800	IN	A	76.205.126.12
+idstrc.com.		1800	IN	A	79.175.208.140
+idstrc.com.		1800	IN	A	80.179.195.144
+idstrc.com.		1800	IN	A	83.89.82.89
+idstrc.com.		1800	IN	A	84.121.118.94
+idstrc.com.		1800	IN	A	89.46.59.20
+idstrc.com.		1800	IN	A	99.190.33.232
+idstrc.com.		1800	IN	A	124.66.240.24
+idstrc.com.		1800	IN	A	172.130.93.159
+idstrc.com.		1800	IN	A	186.81.192.195
+idstrc.com.		1800	IN	A	190.191.134.55
+idstrc.com.		1800	IN	A	213.231.106.104
+
+;; AUTHORITY SECTION:
+idstrc.com.		1800	IN	NS	ns2.citis-group.com.
+idstrc.com.		1800	IN	NS	ns2.securitycheckings.net.
+idstrc.com.		1800	IN	NS	ns1.citis-group.com.
+idstrc.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172799	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:35:26 2009
+;; MSG SIZE  rcvd: 431
+
+

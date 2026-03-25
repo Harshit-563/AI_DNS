@@ -1,0 +1,398 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 586
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+
+;; ADDITIONAL SECTION:
+ns2.goldstatik.net.	93292	IN	A	199.21.42.60
+ns2.atlantasale-dll.com. 96801	IN	A	55.125.99.23
+ns1.goldstatik.net.	98134	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 93303	IN	A	66.219.22.109
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:37:20 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1972
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns1.atlantasale-dll.com. 147222	IN	A	66.219.22.109
+ns2.goldstatik.net.	146825	IN	A	199.21.42.60
+ns2.atlantasale-dll.com. 149168	IN	A	55.125.99.23
+ns1.goldstatik.net.	146825	IN	A	66.219.22.109
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:37:25 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1466
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.com. 152128	IN	A	55.125.99.23
+ns1.goldstatik.net.	152122	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 152121	IN	A	66.219.22.109
+ns2.goldstatik.net.	152122	IN	A	199.21.42.60
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:38:19 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 771
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+
+;; ADDITIONAL SECTION:
+ns2.goldstatik.net.	101947	IN	A	199.21.42.60
+ns2.atlantasale-dll.com. 93187	IN	A	55.125.99.23
+ns1.goldstatik.net.	91333	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 91051	IN	A	66.219.22.109
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:38:19 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1628
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.com. 125390	IN	A	55.125.99.23
+ns1.goldstatik.net.	110978	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 110978	IN	A	66.219.22.109
+ns2.goldstatik.net.	143376	IN	A	199.21.42.60
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:40:58 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 140
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+
+;; ADDITIONAL SECTION:
+ns2.goldstatik.net.	172577	IN	A	199.21.42.60
+ns2.atlantasale-dll.com. 172577	IN	A	55.125.99.23
+ns1.goldstatik.net.	172577	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 172577	IN	A	66.219.22.109
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:41:04 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 310
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+
+;; ADDITIONAL SECTION:
+ns1.goldstatik.net.	136197	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 136197	IN	A	66.219.22.109
+ns2.goldstatik.net.	148630	IN	A	199.21.42.60
+ns2.atlantasale-dll.com. 136197	IN	A	55.125.99.23
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:41:12 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1055
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; ANSWER SECTION:
+edf-s1.eu.		1800	IN	A	88.156.177.237
+edf-s1.eu.		1800	IN	A	121.163.56.96
+edf-s1.eu.		1800	IN	A	190.45.132.118
+edf-s1.eu.		1800	IN	A	190.165.9.235
+edf-s1.eu.		1800	IN	A	208.120.237.132
+edf-s1.eu.		1800	IN	A	221.126.238.156
+edf-s1.eu.		1800	IN	A	69.149.14.11
+edf-s1.eu.		1800	IN	A	76.112.163.235
+edf-s1.eu.		1800	IN	A	79.79.36.39
+edf-s1.eu.		1800	IN	A	79.119.213.97
+edf-s1.eu.		1800	IN	A	79.164.136.38
+edf-s1.eu.		1800	IN	A	81.203.87.207
+edf-s1.eu.		1800	IN	A	82.22.126.227
+edf-s1.eu.		1800	IN	A	86.5.189.66
+edf-s1.eu.		1800	IN	A	88.80.105.229
+
+;; AUTHORITY SECTION:
+edf-s1.eu.		1800	IN	NS	ns2.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns1.goldstatik.net.
+edf-s1.eu.		1800	IN	NS	ns1.atlantasale-dll.com.
+edf-s1.eu.		1800	IN	NS	ns2.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.com. 146996	IN	A	55.125.99.23
+ns1.goldstatik.net.	146995	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 146995	IN	A	66.219.22.109
+ns2.goldstatik.net.	146995	IN	A	199.21.42.60
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:41:13 2009
+;; MSG SIZE  rcvd: 445
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1766
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			600	IN	SOA	a.nic.eu. tech.eurid.eu. 904061778 3600 1800 3600000 600
+
+;; Query time: 125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:41:38 2009
+;; MSG SIZE  rcvd: 82
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 edf-s1.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 797
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;edf-s1.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			600	IN	SOA	a.nic.eu. tech.eurid.eu. 904061782 3600 1800 3600000 600
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:42:35 2009
+;; MSG SIZE  rcvd: 82
+
+

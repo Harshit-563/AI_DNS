@@ -1,0 +1,176 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 stride-forward-educational-district.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1300
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;stride-forward-educational-district.cn.	IN A
+
+;; ANSWER SECTION:
+stride-forward-educational-district.cn.	300 IN A 69.123.116.89
+stride-forward-educational-district.cn.	300 IN A 70.91.121.99
+stride-forward-educational-district.cn.	300 IN A 75.33.18.196
+stride-forward-educational-district.cn.	300 IN A 213.120.254.75
+stride-forward-educational-district.cn.	300 IN A 64.238.223.93
+
+;; AUTHORITY SECTION:
+stride-forward-educational-district.cn.	300 IN NS ns1.uniquer-pedagogue.com.
+stride-forward-educational-district.cn.	300 IN NS ns2.uniquest-professional.com.
+stride-forward-educational-district.cn.	300 IN NS ns3.answertruthful.com.
+stride-forward-educational-district.cn.	300 IN NS ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 119266 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 119266 IN A	200.129.46.5
+ns3.answertruthful.com.	119266	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 119266 IN	A	24.222.4.75
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:54:59 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 stride-forward-educational-district.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 418
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;stride-forward-educational-district.cn.	IN A
+
+;; ANSWER SECTION:
+stride-forward-educational-district.cn.	300 IN A 74.213.75.246
+stride-forward-educational-district.cn.	300 IN A 75.33.18.196
+stride-forward-educational-district.cn.	300 IN A 201.91.159.196
+stride-forward-educational-district.cn.	300 IN A 64.238.223.93
+stride-forward-educational-district.cn.	300 IN A 69.123.116.89
+stride-forward-educational-district.cn.	300 IN A 70.91.121.99
+
+;; AUTHORITY SECTION:
+stride-forward-educational-district.cn.	300 IN NS ns3.answertruthful.com.
+stride-forward-educational-district.cn.	300 IN NS ns4.uniquest-pedagogue.com.
+stride-forward-educational-district.cn.	300 IN NS ns1.uniquer-pedagogue.com.
+stride-forward-educational-district.cn.	300 IN NS ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	165160	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 165160 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 165160 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 165160 IN A	200.129.46.5
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:36:13 2009
+;; MSG SIZE  rcvd: 403
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 stride-forward-educational-district.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 92
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;stride-forward-educational-district.cn.	IN A
+
+;; ANSWER SECTION:
+stride-forward-educational-district.cn.	300 IN A 67.230.49.229
+stride-forward-educational-district.cn.	300 IN A 69.123.116.89
+stride-forward-educational-district.cn.	300 IN A 70.91.121.99
+stride-forward-educational-district.cn.	300 IN A 75.33.18.196
+stride-forward-educational-district.cn.	300 IN A 205.206.249.117
+
+;; AUTHORITY SECTION:
+stride-forward-educational-district.cn.	300 IN NS ns1.uniquer-pedagogue.com.
+stride-forward-educational-district.cn.	300 IN NS ns2.uniquest-professional.com.
+stride-forward-educational-district.cn.	300 IN NS ns3.answertruthful.com.
+stride-forward-educational-district.cn.	300 IN NS ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 146497 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 146497 IN A	76.14.107.227
+ns3.answertruthful.com.	146500	IN	A	66.96.136.67
+ns4.uniquest-pedagogue.com. 146497 IN	A	208.123.228.6
+
+;; Query time: 4265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:37:17 2009
+;; MSG SIZE  rcvd: 387
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 formindestructibletaste.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1397
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;formindestructibletaste.cn.	IN	A
+
+;; ANSWER SECTION:
+formindestructibletaste.cn. 300	IN	A	75.33.18.196
+formindestructibletaste.cn. 300	IN	A	205.206.249.117
+formindestructibletaste.cn. 300	IN	A	67.230.49.229
+formindestructibletaste.cn. 300	IN	A	69.123.116.89
+formindestructibletaste.cn. 300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+formindestructibletaste.cn. 300	IN	NS	ns2.forever-endless-trip.com.
+formindestructibletaste.cn. 300	IN	NS	ns3.foreverendlesstree.com.
+formindestructibletaste.cn. 300	IN	NS	ns4.forever-honorary-leaf.com.
+formindestructibletaste.cn. 300	IN	NS	ns1.freshgoldinbloom.com.
+
+;; ADDITIONAL SECTION:
+ns2.forever-endless-trip.com. 158002 IN	A	216.161.215.141
+ns3.foreverendlesstree.com. 158002 IN	A	66.47.207.214
+ns4.forever-honorary-leaf.com. 158002 IN A	68.205.227.90
+ns1.freshgoldinbloom.com. 158002 IN	A	216.77.50.10
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:35:45 2009
+;; MSG SIZE  rcvd: 368
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 constantlypleasanttravel.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 763
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;constantlypleasanttravel.cn.	IN	A
+
+;; ANSWER SECTION:
+constantlypleasanttravel.cn. 300 IN	A	70.91.121.99
+constantlypleasanttravel.cn. 300 IN	A	75.33.18.196
+constantlypleasanttravel.cn. 300 IN	A	205.206.249.117
+constantlypleasanttravel.cn. 300 IN	A	67.230.49.229
+constantlypleasanttravel.cn. 300 IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+constantlypleasanttravel.cn. 300 IN	NS	ns1.freshgoldinbloom.com.
+constantlypleasanttravel.cn. 300 IN	NS	ns2.forever-endless-trip.com.
+constantlypleasanttravel.cn. 300 IN	NS	ns3.foreverendlesstree.com.
+constantlypleasanttravel.cn. 300 IN	NS	ns4.forever-honorary-leaf.com.
+
+;; ADDITIONAL SECTION:
+ns1.freshgoldinbloom.com. 166569 IN	A	216.77.50.10
+ns2.forever-endless-trip.com. 166569 IN	A	216.161.215.141
+ns3.foreverendlesstree.com. 166569 IN	A	66.47.207.214
+ns4.forever-honorary-leaf.com. 166569 IN A	68.205.227.90
+
+;; Query time: 4437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:35:50 2009
+;; MSG SIZE  rcvd: 370
+
+

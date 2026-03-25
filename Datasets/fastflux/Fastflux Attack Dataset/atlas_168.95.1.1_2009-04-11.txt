@@ -1,0 +1,228 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jiihgfjy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1855
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jiihgfjy.cn.			IN	A
+
+;; ANSWER SECTION:
+jiihgfjy.cn.		180	IN	A	89.232.28.247
+jiihgfjy.cn.		180	IN	A	94.248.137.234
+jiihgfjy.cn.		180	IN	A	220.116.245.167
+jiihgfjy.cn.		180	IN	A	62.84.37.104
+jiihgfjy.cn.		180	IN	A	62.201.119.53
+jiihgfjy.cn.		180	IN	A	78.97.84.113
+jiihgfjy.cn.		180	IN	A	78.159.43.18
+jiihgfjy.cn.		180	IN	A	87.110.192.121
+
+;; AUTHORITY SECTION:
+jiihgfjy.cn.		180	IN	NS	ns4.vrtcwnjde.com.
+jiihgfjy.cn.		180	IN	NS	ns1.cbhxswwq.com.
+jiihgfjy.cn.		180	IN	NS	ns2.vrtcwnjde.com.
+jiihgfjy.cn.		180	IN	NS	ns3.cbhxswwq.com.
+
+;; ADDITIONAL SECTION:
+ns4.vrtcwnjde.com.	136671	IN	A	85.65.31.57
+ns1.cbhxswwq.com.	136671	IN	A	80.99.163.242
+ns2.vrtcwnjde.com.	136671	IN	A	114.76.3.253
+ns3.cbhxswwq.com.	136671	IN	A	94.27.133.158
+
+;; Query time: 906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:15 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jieehyti.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 906
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jieehyti.cn.			IN	A
+
+;; ANSWER SECTION:
+jieehyti.cn.		180	IN	A	78.97.84.113
+jieehyti.cn.		180	IN	A	78.159.43.18
+jieehyti.cn.		180	IN	A	87.110.192.121
+jieehyti.cn.		180	IN	A	89.232.28.247
+jieehyti.cn.		180	IN	A	94.248.137.234
+jieehyti.cn.		180	IN	A	220.116.245.167
+jieehyti.cn.		180	IN	A	62.84.37.104
+jieehyti.cn.		180	IN	A	62.201.119.53
+
+;; AUTHORITY SECTION:
+jieehyti.cn.		97	IN	NS	ns3.cbhxswwq.com.
+jieehyti.cn.		97	IN	NS	ns4.vrtcwnjde.com.
+jieehyti.cn.		97	IN	NS	ns1.cbhxswwq.com.
+jieehyti.cn.		97	IN	NS	ns2.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns3.cbhxswwq.com.	155900	IN	A	94.27.133.158
+ns4.vrtcwnjde.com.	155900	IN	A	218.147.56.110
+ns1.cbhxswwq.com.	155900	IN	A	89.232.37.181
+ns2.vrtcwnjde.com.	155900	IN	A	94.101.233.242
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:15 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ihryeig.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1114
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ihryeig.cn.			IN	A
+
+;; ANSWER SECTION:
+ihryeig.cn.		180	IN	A	94.248.137.234
+ihryeig.cn.		180	IN	A	220.116.245.167
+ihryeig.cn.		180	IN	A	62.84.37.104
+ihryeig.cn.		180	IN	A	62.201.119.53
+ihryeig.cn.		180	IN	A	78.97.84.113
+ihryeig.cn.		180	IN	A	78.159.43.18
+ihryeig.cn.		180	IN	A	87.110.192.121
+ihryeig.cn.		180	IN	A	89.232.28.247
+
+;; AUTHORITY SECTION:
+ihryeig.cn.		180	IN	NS	ns2.vrtcwnjde.com.
+ihryeig.cn.		180	IN	NS	ns3.cbhxswwq.com.
+ihryeig.cn.		180	IN	NS	ns4.vrtcwnjde.com.
+ihryeig.cn.		180	IN	NS	ns1.cbhxswwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.vrtcwnjde.com.	166305	IN	A	89.232.28.247
+ns3.cbhxswwq.com.	166086	IN	A	94.27.133.158
+ns4.vrtcwnjde.com.	166305	IN	A	91.83.85.37
+ns1.cbhxswwq.com.	166955	IN	A	78.97.84.113
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:16 2009
+;; MSG SIZE  rcvd: 324
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ghjgifte.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1066
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ghjgifte.cn.			IN	A
+
+;; ANSWER SECTION:
+ghjgifte.cn.		180	IN	A	78.159.43.18
+ghjgifte.cn.		180	IN	A	87.110.192.121
+ghjgifte.cn.		180	IN	A	89.232.28.247
+ghjgifte.cn.		180	IN	A	94.248.137.234
+ghjgifte.cn.		180	IN	A	220.116.245.167
+ghjgifte.cn.		180	IN	A	62.84.37.104
+ghjgifte.cn.		180	IN	A	62.201.119.53
+ghjgifte.cn.		180	IN	A	78.97.84.113
+
+;; AUTHORITY SECTION:
+ghjgifte.cn.		180	IN	NS	ns3.cbhxswwq.com.
+ghjgifte.cn.		180	IN	NS	ns4.vrtcwnjde.com.
+ghjgifte.cn.		180	IN	NS	ns1.cbhxswwq.com.
+ghjgifte.cn.		180	IN	NS	ns2.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns3.cbhxswwq.com.	137138	IN	A	94.27.133.158
+ns4.vrtcwnjde.com.	137157	IN	A	89.42.253.76
+ns1.cbhxswwq.com.	137289	IN	A	186.18.21.54
+ns2.vrtcwnjde.com.	137116	IN	A	84.109.195.126
+
+;; Query time: 1765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:18 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fieooifh.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 847
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fieooifh.cn.			IN	A
+
+;; ANSWER SECTION:
+fieooifh.cn.		180	IN	A	62.201.119.53
+fieooifh.cn.		180	IN	A	78.97.84.113
+fieooifh.cn.		180	IN	A	78.159.43.18
+fieooifh.cn.		180	IN	A	87.110.192.121
+fieooifh.cn.		180	IN	A	89.232.28.247
+fieooifh.cn.		180	IN	A	94.248.137.234
+fieooifh.cn.		180	IN	A	220.116.245.167
+fieooifh.cn.		180	IN	A	62.84.37.104
+
+;; AUTHORITY SECTION:
+fieooifh.cn.		180	IN	NS	ns3.cbhxswwq.com.
+fieooifh.cn.		180	IN	NS	ns4.vrtcwnjde.com.
+fieooifh.cn.		180	IN	NS	ns1.cbhxswwq.com.
+fieooifh.cn.		180	IN	NS	ns2.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns3.cbhxswwq.com.	145158	IN	A	94.27.133.158
+ns4.vrtcwnjde.com.	144964	IN	A	91.122.144.177
+ns1.cbhxswwq.com.	145158	IN	A	94.27.144.221
+ns2.vrtcwnjde.com.	145010	IN	A	93.73.149.70
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:23 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 eoiihhyp.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 574
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;eoiihhyp.cn.			IN	A
+
+;; ANSWER SECTION:
+eoiihhyp.cn.		180	IN	A	78.97.84.113
+eoiihhyp.cn.		180	IN	A	78.159.43.18
+eoiihhyp.cn.		180	IN	A	87.110.192.121
+eoiihhyp.cn.		180	IN	A	89.232.28.247
+eoiihhyp.cn.		180	IN	A	94.248.137.234
+eoiihhyp.cn.		180	IN	A	220.116.245.167
+eoiihhyp.cn.		180	IN	A	62.84.37.104
+eoiihhyp.cn.		180	IN	A	62.201.119.53
+
+;; AUTHORITY SECTION:
+eoiihhyp.cn.		180	IN	NS	ns1.cbhxswwq.com.
+eoiihhyp.cn.		180	IN	NS	ns2.vrtcwnjde.com.
+eoiihhyp.cn.		180	IN	NS	ns3.cbhxswwq.com.
+eoiihhyp.cn.		180	IN	NS	ns4.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns1.cbhxswwq.com.	140179	IN	A	98.197.53.78
+ns2.vrtcwnjde.com.	140227	IN	A	86.57.2.47
+ns3.cbhxswwq.com.	144962	IN	A	94.27.133.158
+ns4.vrtcwnjde.com.	140227	IN	A	95.85.189.56
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:35:24 2009
+;; MSG SIZE  rcvd: 326
+
+

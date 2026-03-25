@@ -1,0 +1,181 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xcvjpinn.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 840
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;xcvjpinn.cn.			IN	A
+
+;; ANSWER SECTION:
+xcvjpinn.cn.		180	IN	A	89.134.194.164
+xcvjpinn.cn.		180	IN	A	89.136.4.113
+xcvjpinn.cn.		180	IN	A	91.154.201.78
+xcvjpinn.cn.		180	IN	A	93.89.167.143
+xcvjpinn.cn.		180	IN	A	217.156.118.71
+xcvjpinn.cn.		180	IN	A	81.195.46.67
+xcvjpinn.cn.		180	IN	A	81.198.177.131
+xcvjpinn.cn.		180	IN	A	85.65.31.57
+
+;; AUTHORITY SECTION:
+xcvjpinn.cn.		180	IN	NS	ns1.dsrwqdwq.com.
+xcvjpinn.cn.		180	IN	NS	ns2.dsrwqdwq.com.
+xcvjpinn.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+xcvjpinn.cn.		180	IN	NS	ns4.dsrwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns1.dsrwqdwq.com.	168465	IN	A	86.101.67.184
+ns2.dsrwqdwq.com.	168586	IN	A	201.231.97.165
+ns3.vrtcwnjde.com.	168400	IN	A	78.131.126.24
+ns4.dsrwqdwq.com.	170481	IN	A	212.90.185.230
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:35 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 touching-unforgetable-court.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2023
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;touching-unforgetable-court.cn.	IN	A
+
+;; ANSWER SECTION:
+touching-unforgetable-court.cn.	300 IN	A	121.240.109.67
+touching-unforgetable-court.cn.	300 IN	A	12.184.45.88
+touching-unforgetable-court.cn.	300 IN	A	67.210.42.31
+touching-unforgetable-court.cn.	300 IN	A	69.134.130.230
+touching-unforgetable-court.cn.	300 IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+touching-unforgetable-court.cn.	300 IN	NS	ns2.uniquest-professional.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns3.answertruthful.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns4.uniquest-pedagogue.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 149346 IN A	170.94.200.137
+ns3.answertruthful.com.	149346	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 149346 IN	A	213.210.221.37
+ns1.uniquer-pedagogue.com. 149346 IN	A	66.155.114.139
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:36 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 take-part-inspecialdance.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1534
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;take-part-inspecialdance.cn.	IN	A
+
+;; ANSWER SECTION:
+take-part-inspecialdance.cn. 300 IN	A	12.184.45.88
+take-part-inspecialdance.cn. 300 IN	A	67.210.42.31
+take-part-inspecialdance.cn. 300 IN	A	69.134.130.230
+take-part-inspecialdance.cn. 300 IN	A	75.33.18.196
+take-part-inspecialdance.cn. 300 IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+take-part-inspecialdance.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns2.uniquest-professional.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns3.answertruthful.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 170058 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 170058 IN A	170.94.200.137
+ns3.answertruthful.com.	170058	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 170058 IN	A	71.172.38.60
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:36 2009
+;; MSG SIZE  rcvd: 365
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 read-juicy-composition.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;read-juicy-composition.cn.	IN	A
+
+;; ANSWER SECTION:
+read-juicy-composition.cn. 300	IN	A	75.33.18.196
+read-juicy-composition.cn. 300	IN	A	121.240.109.67
+read-juicy-composition.cn. 300	IN	A	12.184.45.88
+read-juicy-composition.cn. 300	IN	A	67.210.42.31
+read-juicy-composition.cn. 300	IN	A	69.134.130.230
+
+;; AUTHORITY SECTION:
+read-juicy-composition.cn. 300	IN	NS	ns2.uniquest-professional.com.
+read-juicy-composition.cn. 300	IN	NS	ns3.answertruthful.com.
+read-juicy-composition.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+read-juicy-composition.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 144114 IN A	170.94.200.137
+ns3.answertruthful.com.	144114	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 144114 IN	A	213.210.221.37
+ns1.uniquer-pedagogue.com. 144114 IN	A	66.155.114.139
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:45 2009
+;; MSG SIZE  rcvd: 361
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jfineoio.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1557
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jfineoio.cn.			IN	A
+
+;; ANSWER SECTION:
+jfineoio.cn.		180	IN	A	217.156.118.71
+jfineoio.cn.		180	IN	A	81.195.46.67
+jfineoio.cn.		180	IN	A	81.198.177.131
+jfineoio.cn.		180	IN	A	85.65.31.57
+jfineoio.cn.		180	IN	A	89.134.194.164
+jfineoio.cn.		180	IN	A	89.136.4.113
+jfineoio.cn.		180	IN	A	91.154.201.78
+jfineoio.cn.		180	IN	A	93.89.167.143
+
+;; AUTHORITY SECTION:
+jfineoio.cn.		180	IN	NS	ns4.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns1.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns2.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns4.dsrwqdwq.com.	167666	IN	A	78.131.126.24
+ns1.dsrwqdwq.com.	170468	IN	A	190.213.98.246
+ns2.dsrwqdwq.com.	167429	IN	A	77.38.138.117
+ns3.vrtcwnjde.com.	135215	IN	A	210.125.73.214
+
+;; Query time: 2328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:48 2009
+;; MSG SIZE  rcvd: 326
+
+

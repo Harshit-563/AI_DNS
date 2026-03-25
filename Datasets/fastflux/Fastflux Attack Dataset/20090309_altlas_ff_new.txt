@@ -1,0 +1,360 @@
+; <<>> DiG 9.3.2rc1 <<>> iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 182
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iwwmkkdi.cn.			IN	A
+
+;; ANSWER SECTION:
+iwwmkkdi.cn.		180	IN	A	83.86.122.42
+iwwmkkdi.cn.		180	IN	A	85.66.145.238
+iwwmkkdi.cn.		180	IN	A	86.122.251.30
+iwwmkkdi.cn.		180	IN	A	89.40.253.1
+iwwmkkdi.cn.		180	IN	A	92.255.89.237
+iwwmkkdi.cn.		180	IN	A	94.52.77.222
+iwwmkkdi.cn.		180	IN	A	78.96.212.238
+iwwmkkdi.cn.		180	IN	A	80.98.26.210
+
+;; AUTHORITY SECTION:
+iwwmkkdi.cn.		180	IN	NS	ns2.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns3.cjinthe.com.
+iwwmkkdi.cn.		180	IN	NS	ns4.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns1.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	153938	IN	A	85.66.145.238
+ns3.cjinthe.com.	153938	IN	A	78.96.212.238
+ns4.frubjnfew.com.	153938	IN	A	219.241.174.102
+ns1.cjinthe.com.	153938	IN	A	72.185.78.169
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:42 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iixhhwmc.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1663
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iixhhwmc.cn.			IN	A
+
+;; ANSWER SECTION:
+iixhhwmc.cn.		180	IN	A	85.66.145.238
+iixhhwmc.cn.		180	IN	A	86.122.251.30
+iixhhwmc.cn.		180	IN	A	89.40.253.1
+iixhhwmc.cn.		180	IN	A	92.255.89.237
+iixhhwmc.cn.		180	IN	A	94.52.77.222
+iixhhwmc.cn.		180	IN	A	78.96.212.238
+iixhhwmc.cn.		180	IN	A	80.98.26.210
+iixhhwmc.cn.		180	IN	A	83.86.122.42
+
+;; AUTHORITY SECTION:
+iixhhwmc.cn.		180	IN	NS	ns1.cjinthe.com.
+iixhhwmc.cn.		180	IN	NS	ns2.frubjnfew.com.
+iixhhwmc.cn.		180	IN	NS	ns3.cjinthe.com.
+iixhhwmc.cn.		180	IN	NS	ns4.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns1.cjinthe.com.	156027	IN	A	72.185.78.169
+ns2.frubjnfew.com.	156133	IN	A	157.193.84.63
+ns3.cjinthe.com.	156110	IN	A	81.198.13.191
+ns4.frubjnfew.com.	156133	IN	A	83.103.134.205
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:43 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iixdfhhj.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 584
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iixdfhhj.cn.			IN	A
+
+;; ANSWER SECTION:
+iixdfhhj.cn.		180	IN	A	78.96.212.238
+iixdfhhj.cn.		180	IN	A	80.98.26.210
+iixdfhhj.cn.		180	IN	A	83.86.122.42
+iixdfhhj.cn.		180	IN	A	85.66.145.238
+iixdfhhj.cn.		180	IN	A	86.122.251.30
+iixdfhhj.cn.		180	IN	A	89.40.253.1
+iixdfhhj.cn.		180	IN	A	92.255.89.237
+iixdfhhj.cn.		180	IN	A	94.52.77.222
+
+;; AUTHORITY SECTION:
+iixdfhhj.cn.		180	IN	NS	ns2.frubjnfew.com.
+iixdfhhj.cn.		180	IN	NS	ns3.cjinthe.com.
+iixdfhhj.cn.		180	IN	NS	ns4.frubjnfew.com.
+iixdfhhj.cn.		180	IN	NS	ns1.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	158710	IN	A	77.123.92.187
+ns3.cjinthe.com.	159521	IN	A	88.201.148.218
+ns4.frubjnfew.com.	158952	IN	A	77.122.104.49
+ns1.cjinthe.com.	158910	IN	A	72.185.78.169
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:53 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iiwwexpd.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1799
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iiwwexpd.cn.			IN	A
+
+;; ANSWER SECTION:
+iiwwexpd.cn.		180	IN	A	78.96.212.238
+iiwwexpd.cn.		180	IN	A	80.98.26.210
+iiwwexpd.cn.		180	IN	A	83.86.122.42
+iiwwexpd.cn.		180	IN	A	85.66.145.238
+iiwwexpd.cn.		180	IN	A	86.122.251.30
+iiwwexpd.cn.		180	IN	A	89.40.253.1
+iiwwexpd.cn.		180	IN	A	92.255.89.237
+iiwwexpd.cn.		180	IN	A	94.52.77.222
+
+;; AUTHORITY SECTION:
+iiwwexpd.cn.		180	IN	NS	ns2.frubjnfew.com.
+iiwwexpd.cn.		180	IN	NS	ns3.cjinthe.com.
+iiwwexpd.cn.		180	IN	NS	ns4.frubjnfew.com.
+iiwwexpd.cn.		180	IN	NS	ns1.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	156122	IN	A	157.193.84.63
+ns3.cjinthe.com.	156099	IN	A	81.198.13.191
+ns4.frubjnfew.com.	156122	IN	A	83.103.134.205
+ns1.cjinthe.com.	156016	IN	A	72.185.78.169
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:54 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iiimlfex.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iiimlfex.cn.			IN	A
+
+;; ANSWER SECTION:
+iiimlfex.cn.		180	IN	A	92.255.89.237
+iiimlfex.cn.		180	IN	A	94.52.77.222
+iiimlfex.cn.		180	IN	A	78.96.212.238
+iiimlfex.cn.		180	IN	A	80.98.26.210
+iiimlfex.cn.		180	IN	A	83.86.122.42
+iiimlfex.cn.		180	IN	A	85.66.145.238
+iiimlfex.cn.		180	IN	A	86.122.251.30
+iiimlfex.cn.		180	IN	A	89.40.253.1
+
+;; AUTHORITY SECTION:
+iiimlfex.cn.		180	IN	NS	ns3.cjinthe.com.
+iiimlfex.cn.		180	IN	NS	ns4.frubjnfew.com.
+iiimlfex.cn.		180	IN	NS	ns1.cjinthe.com.
+iiimlfex.cn.		180	IN	NS	ns2.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns3.cjinthe.com.	154101	IN	A	78.96.212.238
+ns4.frubjnfew.com.	154228	IN	A	219.241.174.102
+ns1.cjinthe.com.	153760	IN	A	72.185.78.169
+ns2.frubjnfew.com.	154228	IN	A	85.66.145.238
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:55 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iiidhwwf.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1852
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iiidhwwf.cn.			IN	A
+
+;; ANSWER SECTION:
+iiidhwwf.cn.		180	IN	A	86.122.251.30
+iiidhwwf.cn.		180	IN	A	89.40.253.1
+iiidhwwf.cn.		180	IN	A	92.255.89.237
+iiidhwwf.cn.		180	IN	A	94.52.77.222
+iiidhwwf.cn.		180	IN	A	78.96.212.238
+iiidhwwf.cn.		180	IN	A	80.98.26.210
+iiidhwwf.cn.		180	IN	A	83.86.122.42
+iiidhwwf.cn.		180	IN	A	85.66.145.238
+
+;; AUTHORITY SECTION:
+iiidhwwf.cn.		180	IN	NS	ns1.cjinthe.com.
+iiidhwwf.cn.		180	IN	NS	ns2.frubjnfew.com.
+iiidhwwf.cn.		180	IN	NS	ns3.cjinthe.com.
+iiidhwwf.cn.		180	IN	NS	ns4.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns1.cjinthe.com.	155148	IN	A	72.185.78.169
+ns2.frubjnfew.com.	154382	IN	A	85.66.145.238
+ns3.cjinthe.com.	154366	IN	A	78.96.212.238
+ns4.frubjnfew.com.	154339	IN	A	219.241.174.102
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:55 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> iidwhxdf.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 595
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iidwhxdf.cn.			IN	A
+
+;; ANSWER SECTION:
+iidwhxdf.cn.		180	IN	A	89.40.253.1
+iidwhxdf.cn.		180	IN	A	92.255.89.237
+iidwhxdf.cn.		180	IN	A	94.52.77.222
+iidwhxdf.cn.		180	IN	A	78.96.212.238
+iidwhxdf.cn.		180	IN	A	80.98.26.210
+iidwhxdf.cn.		180	IN	A	83.86.122.42
+iidwhxdf.cn.		180	IN	A	85.66.145.238
+iidwhxdf.cn.		180	IN	A	86.122.251.30
+
+;; AUTHORITY SECTION:
+iidwhxdf.cn.		180	IN	NS	ns2.frubjnfew.com.
+iidwhxdf.cn.		180	IN	NS	ns3.cjinthe.com.
+iidwhxdf.cn.		180	IN	NS	ns4.frubjnfew.com.
+iidwhxdf.cn.		180	IN	NS	ns1.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	163709	IN	A	67.149.22.150
+ns3.cjinthe.com.	163709	IN	A	93.72.171.84
+ns4.frubjnfew.com.	163709	IN	A	87.207.236.207
+ns1.cjinthe.com.	163709	IN	A	72.185.78.169
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:36:56 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> idsrt-d02.eu
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 270
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idsrt-d02.eu.			IN	A
+
+;; ANSWER SECTION:
+idsrt-d02.eu.		1800	IN	A	200.86.139.84
+idsrt-d02.eu.		1800	IN	A	208.120.237.132
+idsrt-d02.eu.		1800	IN	A	211.195.69.174
+idsrt-d02.eu.		1800	IN	A	221.163.3.85
+idsrt-d02.eu.		1800	IN	A	24.196.2.132
+idsrt-d02.eu.		1800	IN	A	66.138.7.3
+idsrt-d02.eu.		1800	IN	A	68.63.90.79
+idsrt-d02.eu.		1800	IN	A	68.160.11.211
+idsrt-d02.eu.		1800	IN	A	68.220.37.205
+idsrt-d02.eu.		1800	IN	A	75.0.152.140
+idsrt-d02.eu.		1800	IN	A	75.134.53.195
+idsrt-d02.eu.		1800	IN	A	76.112.174.28
+idsrt-d02.eu.		1800	IN	A	84.121.116.138
+idsrt-d02.eu.		1800	IN	A	119.198.163.106
+idsrt-d02.eu.		1800	IN	A	121.84.116.199
+
+;; AUTHORITY SECTION:
+idsrt-d02.eu.		1800	IN	NS	ns2.citiservise.net.
+idsrt-d02.eu.		1800	IN	NS	ns1.avalonge.com.
+idsrt-d02.eu.		1800	IN	NS	ns1.citiservise.net.
+idsrt-d02.eu.		1800	IN	NS	ns2.avalonge.com.
+
+;; ADDITIONAL SECTION:
+ns2.citiservise.net.	166567	IN	A	216.22.212.21
+ns1.avalonge.com.	166567	IN	A	66.219.22.18
+ns1.citiservise.net.	166567	IN	A	8.12.160.176
+ns2.avalonge.com.	166567	IN	A	216.229.22.31
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:37:07 2009
+;; MSG SIZE  rcvd: 445
+
+; <<>> DiG 9.3.2rc1 <<>> idlkhhcx.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1910
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idlkhhcx.cn.			IN	A
+
+;; ANSWER SECTION:
+idlkhhcx.cn.		180	IN	A	94.52.77.222
+idlkhhcx.cn.		180	IN	A	78.96.212.238
+idlkhhcx.cn.		180	IN	A	80.98.26.210
+idlkhhcx.cn.		180	IN	A	83.86.122.42
+idlkhhcx.cn.		180	IN	A	85.66.145.238
+idlkhhcx.cn.		180	IN	A	86.122.251.30
+idlkhhcx.cn.		180	IN	A	89.40.253.1
+idlkhhcx.cn.		180	IN	A	92.255.89.237
+
+;; AUTHORITY SECTION:
+idlkhhcx.cn.		180	IN	NS	ns2.frubjnfew.com.
+idlkhhcx.cn.		180	IN	NS	ns3.cjinthe.com.
+idlkhhcx.cn.		180	IN	NS	ns4.frubjnfew.com.
+idlkhhcx.cn.		180	IN	NS	ns1.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	154370	IN	A	85.66.145.238
+ns3.cjinthe.com.	154354	IN	A	78.96.212.238
+ns4.frubjnfew.com.	154327	IN	A	219.241.174.102
+ns1.cjinthe.com.	155136	IN	A	72.185.78.169
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:37:07 2009
+;; MSG SIZE  rcvd: 325
+
+; <<>> DiG 9.3.2rc1 <<>> idfixhim.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1025
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;idfixhim.cn.			IN	A
+
+;; ANSWER SECTION:
+idfixhim.cn.		180	IN	A	78.96.212.238
+idfixhim.cn.		180	IN	A	80.98.26.210
+idfixhim.cn.		180	IN	A	83.86.122.42
+idfixhim.cn.		180	IN	A	85.66.145.238
+idfixhim.cn.		180	IN	A	86.122.251.30
+idfixhim.cn.		180	IN	A	89.40.253.1
+idfixhim.cn.		180	IN	A	92.255.89.237
+idfixhim.cn.		180	IN	A	94.52.77.222
+
+;; AUTHORITY SECTION:
+idfixhim.cn.		180	IN	NS	ns4.frubjnfew.com.
+idfixhim.cn.		180	IN	NS	ns1.cjinthe.com.
+idfixhim.cn.		180	IN	NS	ns2.frubjnfew.com.
+idfixhim.cn.		180	IN	NS	ns3.cjinthe.com.
+
+;; ADDITIONAL SECTION:
+ns4.frubjnfew.com.	157719	IN	A	93.72.248.230
+ns1.cjinthe.com.	158035	IN	A	72.185.78.169
+ns2.frubjnfew.com.	157737	IN	A	91.116.168.182
+ns3.cjinthe.com.	157733	IN	A	82.193.117.207
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:37:08 2009
+;; MSG SIZE  rcvd: 325
+
+

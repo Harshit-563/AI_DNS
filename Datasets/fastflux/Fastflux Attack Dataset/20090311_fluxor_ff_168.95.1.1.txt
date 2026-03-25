@@ -1,0 +1,31 @@
+; <<>> DiG 9.3.2rc1 <<>> netfirms.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 215
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;netfirms.com.			IN	A
+
+;; ANSWER SECTION:
+netfirms.com.		600	IN	A	70.42.30.250
+netfirms.com.		600	IN	A	38.113.184.58
+netfirms.com.		600	IN	A	70.42.30.218
+netfirms.com.		600	IN	A	70.42.30.90
+netfirms.com.		600	IN	A	70.42.30.154
+netfirms.com.		600	IN	A	38.113.184.90
+netfirms.com.		600	IN	A	38.113.184.26
+netfirms.com.		600	IN	A	38.113.184.122
+
+;; AUTHORITY SECTION:
+netfirms.com.		123025	IN	NS	ns1.netfirms.com.
+netfirms.com.		123025	IN	NS	ns2.netfirms.com.
+
+;; ADDITIONAL SECTION:
+ns1.netfirms.com.	49114	IN	A	70.42.30.1
+ns2.netfirms.com.	123025	IN	A	38.113.184.1
+
+;; Query time: 1375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 11 23:22:45 2009
+;; MSG SIZE  rcvd: 238
+

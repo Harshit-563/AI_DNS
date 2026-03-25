@@ -1,0 +1,190 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sifwiegg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 254
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sifwiegg.cn.			IN	A
+
+;; ANSWER SECTION:
+sifwiegg.cn.		180	IN	A	195.214.239.30
+sifwiegg.cn.		180	IN	A	78.26.161.75
+sifwiegg.cn.		180	IN	A	78.84.5.201
+sifwiegg.cn.		180	IN	A	84.237.252.124
+sifwiegg.cn.		180	IN	A	86.101.123.86
+sifwiegg.cn.		180	IN	A	89.176.85.113
+sifwiegg.cn.		180	IN	A	89.232.37.181
+sifwiegg.cn.		180	IN	A	94.248.137.234
+
+;; AUTHORITY SECTION:
+sifwiegg.cn.		180	IN	NS	ns3.ninknedsew.com.
+sifwiegg.cn.		180	IN	NS	ns4.gdybnuvew.com.
+sifwiegg.cn.		180	IN	NS	ns1.gdybnuvew.com.
+sifwiegg.cn.		180	IN	NS	ns2.gdybnuvew.com.
+
+;; ADDITIONAL SECTION:
+ns3.ninknedsew.com.	149585	IN	A	219.241.174.102
+ns4.gdybnuvew.com.	143455	IN	A	87.226.50.79
+ns1.gdybnuvew.com.	143455	IN	A	84.109.152.29
+ns2.gdybnuvew.com.	143455	IN	A	90.155.165.114
+
+;; Query time: 1281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:35:38 2009
+;; MSG SIZE  rcvd: 328
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 clsvipsf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2026
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;clsvipsf.cn.			IN	A
+
+;; ANSWER SECTION:
+clsvipsf.cn.		180	IN	A	89.176.85.113
+clsvipsf.cn.		180	IN	A	92.115.192.230
+clsvipsf.cn.		180	IN	A	93.114.114.13
+clsvipsf.cn.		180	IN	A	94.248.137.234
+clsvipsf.cn.		180	IN	A	78.84.5.201
+clsvipsf.cn.		180	IN	A	80.98.109.83
+clsvipsf.cn.		180	IN	A	84.237.252.124
+clsvipsf.cn.		180	IN	A	89.34.156.237
+
+;; AUTHORITY SECTION:
+clsvipsf.cn.		180	IN	NS	ns3.cgsoftly.com.
+clsvipsf.cn.		180	IN	NS	ns4.ncibneww.com.
+clsvipsf.cn.		180	IN	NS	ns1.cgsoftly.com.
+clsvipsf.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cgsoftly.com.	148829	IN	A	87.226.50.79
+ns4.ncibneww.com.	147411	IN	A	89.34.156.237
+ns1.cgsoftly.com.	150105	IN	A	59.151.232.164
+ns2.ncibneww.com.	147411	IN	A	86.101.123.86
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:35:53 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sd-fs01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1298
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sd-fs01.com.			IN	A
+
+;; ANSWER SECTION:
+sd-fs01.com.		1800	IN	A	79.119.214.80
+sd-fs01.com.		1800	IN	A	79.164.40.219
+sd-fs01.com.		1800	IN	A	79.165.84.77
+sd-fs01.com.		1800	IN	A	79.172.71.188
+sd-fs01.com.		1800	IN	A	83.89.82.89
+sd-fs01.com.		1800	IN	A	84.125.43.170
+sd-fs01.com.		1800	IN	A	85.137.236.180
+sd-fs01.com.		1800	IN	A	85.155.204.133
+sd-fs01.com.		1800	IN	A	86.5.189.66
+sd-fs01.com.		1800	IN	A	89.230.145.141
+sd-fs01.com.		1800	IN	A	92.23.150.183
+sd-fs01.com.		1800	IN	A	92.76.126.140
+sd-fs01.com.		1800	IN	A	121.163.56.13
+sd-fs01.com.		1800	IN	A	66.138.7.3
+sd-fs01.com.		1800	IN	A	76.205.125.180
+
+;; AUTHORITY SECTION:
+sd-fs01.com.		1800	IN	NS	ns1.securitycheckings.net.
+sd-fs01.com.		1800	IN	NS	ns2.citis-group.com.
+sd-fs01.com.		1800	IN	NS	ns2.securitycheckings.net.
+sd-fs01.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 137398 IN	A	96.9.148.136
+ns2.citis-group.com.	168812	IN	A	87.151.74.31
+ns2.securitycheckings.net. 163657 IN	A	92.225.119.21
+ns1.citis-group.com.	141442	IN	A	96.9.148.136
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:35:54 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 unicodebiz.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1531
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;unicodebiz.com.			IN	A
+
+;; ANSWER SECTION:
+unicodebiz.com.		1800	IN	A	83.89.82.89
+unicodebiz.com.		1800	IN	A	121.163.56.13
+unicodebiz.com.		1800	IN	A	79.119.214.80
+unicodebiz.com.		1800	IN	A	79.164.40.219
+unicodebiz.com.		1800	IN	A	79.165.84.77
+
+;; AUTHORITY SECTION:
+unicodebiz.com.		1800	IN	NS	ns2.launcshbrowser.com.
+unicodebiz.com.		1800	IN	NS	ns1.launcshbrowser.com.
+
+;; ADDITIONAL SECTION:
+ns2.launcshbrowser.com.	172800	IN	A	205.1.190.112
+ns1.launcshbrowser.com.	172799	IN	A	74.63.225.145
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:36:00 2009
+;; MSG SIZE  rcvd: 209
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mymortgagehelper.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1511
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;mymortgagehelper.com.		IN	A
+
+;; ANSWER SECTION:
+mymortgagehelper.com.	60	IN	A	209.167.6.170
+mymortgagehelper.com.	60	IN	A	209.167.6.150
+mymortgagehelper.com.	60	IN	A	209.167.6.151
+mymortgagehelper.com.	60	IN	A	209.167.6.152
+mymortgagehelper.com.	60	IN	A	209.167.6.153
+mymortgagehelper.com.	60	IN	A	209.167.6.154
+mymortgagehelper.com.	60	IN	A	209.167.6.11
+mymortgagehelper.com.	60	IN	A	209.167.6.12
+mymortgagehelper.com.	60	IN	A	209.167.6.13
+mymortgagehelper.com.	60	IN	A	209.167.6.14
+
+;; AUTHORITY SECTION:
+mymortgagehelper.com.	60	IN	NS	ns1.1500v.net.
+mymortgagehelper.com.	60	IN	NS	ns2.1500v.net.
+mymortgagehelper.com.	60	IN	NS	ns3.1500v.net.
+
+;; ADDITIONAL SECTION:
+ns1.1500v.net.		170121	IN	A	67.109.145.55
+ns2.1500v.net.		170121	IN	A	64.187.43.49
+ns3.1500v.net.		170121	IN	A	209.47.46.196
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:36:42 2009
+;; MSG SIZE  rcvd: 329
+
+

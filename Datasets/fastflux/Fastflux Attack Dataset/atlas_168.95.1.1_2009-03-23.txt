@@ -1,0 +1,205 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sfweyuci.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1000
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;sfweyuci.cn.			IN	A
+
+;; ANSWER SECTION:
+sfweyuci.cn.		180	IN	A	79.121.97.118
+sfweyuci.cn.		180	IN	A	81.198.155.144
+sfweyuci.cn.		180	IN	A	88.132.2.165
+sfweyuci.cn.		180	IN	A	93.126.145.82
+sfweyuci.cn.		180	IN	A	170.51.236.110
+
+;; AUTHORITY SECTION:
+sfweyuci.cn.		180	IN	NS	ns1.ninknedsew.com.
+sfweyuci.cn.		180	IN	NS	ns2.riehjkwqdsw.com.
+sfweyuci.cn.		180	IN	NS	ns3.ninknedsew.com.
+sfweyuci.cn.		180	IN	NS	ns4.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns1.ninknedsew.com.	155054	IN	A	78.84.14.235
+ns2.riehjkwqdsw.com.	155115	IN	A	93.72.175.112
+ns3.ninknedsew.com.	155030	IN	A	78.92.160.28
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:35:17 2009
+;; MSG SIZE  rcvd: 266
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 constantlyendlessmark.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1094
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;constantlyendlessmark.cn.	IN	A
+
+;; ANSWER SECTION:
+constantlyendlessmark.cn. 300	IN	A	69.15.160.54
+constantlyendlessmark.cn. 300	IN	A	69.123.116.89
+constantlyendlessmark.cn. 300	IN	A	200.223.178.16
+constantlyendlessmark.cn. 300	IN	A	206.210.113.47
+constantlyendlessmark.cn. 300	IN	A	24.234.149.119
+constantlyendlessmark.cn. 300	IN	A	69.4.188.23
+
+;; AUTHORITY SECTION:
+constantlyendlessmark.cn. 300	IN	NS	ns2.classiremained.com.
+constantlyendlessmark.cn. 300	IN	NS	ns3.factsleading.com.
+constantlyendlessmark.cn. 300	IN	NS	ns4.innobrilliant.com.
+constantlyendlessmark.cn. 300	IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	156381	IN	A	70.91.121.99
+ns3.factsleading.com.	156381	IN	A	70.102.191.196
+ns4.innobrilliant.com.	156381	IN	A	75.145.2.237
+ns1.classifiedremained.com. 156381 IN	A	70.91.121.99
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:35:53 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modetss.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 209
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modetss.com.			IN	A
+
+;; ANSWER SECTION:
+modetss.com.		1800	IN	A	84.126.29.51
+modetss.com.		1800	IN	A	88.156.177.237
+modetss.com.		1800	IN	A	94.26.40.78
+modetss.com.		1800	IN	A	94.248.143.176
+modetss.com.		1800	IN	A	122.111.56.70
+modetss.com.		1800	IN	A	201.233.25.244
+modetss.com.		1800	IN	A	208.120.237.132
+modetss.com.		1800	IN	A	68.202.198.202
+modetss.com.		1800	IN	A	74.78.84.208
+modetss.com.		1800	IN	A	75.118.162.91
+modetss.com.		1800	IN	A	76.78.215.254
+modetss.com.		1800	IN	A	76.112.127.192
+modetss.com.		1800	IN	A	76.113.228.157
+modetss.com.		1800	IN	A	82.22.126.227
+modetss.com.		1800	IN	A	84.121.116.138
+
+;; AUTHORITY SECTION:
+modetss.com.		1800	IN	NS	ns2.citis-group.com.
+modetss.com.		1800	IN	NS	ns2.securitycheckings.net.
+modetss.com.		1800	IN	NS	ns1.citis-group.com.
+modetss.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.citis-group.com.	165422	IN	A	87.151.74.31
+ns2.securitycheckings.net. 165421 IN	A	92.225.119.21
+ns1.citis-group.com.	165421	IN	A	65.23.158.124
+ns1.securitycheckings.net. 165421 IN	A	65.23.158.124
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:09 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mdfxsl.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1431
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;mdfxsl.com.			IN	A
+
+;; ANSWER SECTION:
+mdfxsl.com.		1800	IN	A	75.118.162.91
+mdfxsl.com.		1800	IN	A	76.78.215.254
+mdfxsl.com.		1800	IN	A	76.112.127.192
+mdfxsl.com.		1800	IN	A	76.113.228.157
+mdfxsl.com.		1800	IN	A	82.22.126.227
+mdfxsl.com.		1800	IN	A	84.121.116.138
+mdfxsl.com.		1800	IN	A	84.126.29.51
+mdfxsl.com.		1800	IN	A	88.156.177.237
+mdfxsl.com.		1800	IN	A	94.26.40.78
+mdfxsl.com.		1800	IN	A	94.248.143.176
+mdfxsl.com.		1800	IN	A	122.111.56.70
+mdfxsl.com.		1800	IN	A	201.233.25.244
+mdfxsl.com.		1800	IN	A	208.120.237.132
+mdfxsl.com.		1800	IN	A	68.202.198.202
+mdfxsl.com.		1800	IN	A	74.78.84.208
+
+;; AUTHORITY SECTION:
+mdfxsl.com.		1800	IN	NS	ns1.securitycheckings.net.
+mdfxsl.com.		1800	IN	NS	ns2.citis-group.com.
+mdfxsl.com.		1800	IN	NS	ns2.securitycheckings.net.
+mdfxsl.com.		1800	IN	NS	ns1.citis-group.com.
+
+;; ADDITIONAL SECTION:
+ns1.securitycheckings.net. 161847 IN	A	65.23.158.124
+ns2.citis-group.com.	161847	IN	A	87.151.74.31
+ns2.securitycheckings.net. 161847 IN	A	92.225.119.21
+ns1.citis-group.com.	161847	IN	A	65.23.158.124
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:10 2009
+;; MSG SIZE  rcvd: 447
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mddls1q.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1137
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;mddls1q.com.			IN	A
+
+;; ANSWER SECTION:
+mddls1q.com.		1800	IN	A	201.233.25.244
+mddls1q.com.		1800	IN	A	208.120.237.132
+mddls1q.com.		1800	IN	A	68.202.198.202
+mddls1q.com.		1800	IN	A	74.78.84.208
+mddls1q.com.		1800	IN	A	75.118.162.91
+mddls1q.com.		1800	IN	A	76.78.215.254
+mddls1q.com.		1800	IN	A	76.112.127.192
+mddls1q.com.		1800	IN	A	76.113.228.157
+mddls1q.com.		1800	IN	A	82.22.126.227
+mddls1q.com.		1800	IN	A	84.121.116.138
+mddls1q.com.		1800	IN	A	84.126.29.51
+mddls1q.com.		1800	IN	A	88.156.177.237
+mddls1q.com.		1800	IN	A	94.26.40.78
+mddls1q.com.		1800	IN	A	94.248.143.176
+mddls1q.com.		1800	IN	A	122.111.56.70
+
+;; AUTHORITY SECTION:
+mddls1q.com.		1800	IN	NS	ns1.citis-group.com.
+mddls1q.com.		1800	IN	NS	ns1.securitycheckings.net.
+mddls1q.com.		1800	IN	NS	ns2.citis-group.com.
+mddls1q.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	134199	IN	A	65.23.158.124
+ns1.securitycheckings.net. 134199 IN	A	65.23.158.124
+ns2.citis-group.com.	134200	IN	A	87.151.74.31
+ns2.securitycheckings.net. 134199 IN	A	92.225.119.21
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:36:10 2009
+;; MSG SIZE  rcvd: 449
+
+

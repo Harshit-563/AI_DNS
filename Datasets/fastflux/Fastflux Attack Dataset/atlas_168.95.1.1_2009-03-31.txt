@@ -1,0 +1,213 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 gdat11.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1566
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;gdat11.com.			IN	A
+
+;; ANSWER SECTION:
+gdat11.com.		1800	IN	A	92.237.25.216
+gdat11.com.		1800	IN	A	119.228.162.254
+gdat11.com.		1800	IN	A	139.179.191.139
+gdat11.com.		1800	IN	A	172.130.93.159
+gdat11.com.		1800	IN	A	190.7.131.253
+gdat11.com.		1800	IN	A	201.232.29.72
+gdat11.com.		1800	IN	A	221.126.238.141
+gdat11.com.		1800	IN	A	71.100.197.224
+gdat11.com.		1800	IN	A	75.14.2.112
+gdat11.com.		1800	IN	A	76.78.215.254
+gdat11.com.		1800	IN	A	80.179.195.144
+gdat11.com.		1800	IN	A	82.22.126.227
+gdat11.com.		1800	IN	A	82.46.189.40
+gdat11.com.		1800	IN	A	88.156.177.237
+gdat11.com.		1800	IN	A	92.2.84.54
+
+;; AUTHORITY SECTION:
+gdat11.com.		1800	IN	NS	ns2.citis-group.com.
+gdat11.com.		1800	IN	NS	ns2.securitycheckings.net.
+gdat11.com.		1800	IN	NS	ns1.citis-group.com.
+gdat11.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172799	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:35:13 2009
+;; MSG SIZE  rcvd: 431
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 il1ll.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;il1ll.com.			IN	A
+
+;; ANSWER SECTION:
+il1ll.com.		1800	IN	A	82.46.189.40
+il1ll.com.		1800	IN	A	88.156.177.237
+il1ll.com.		1800	IN	A	92.2.84.54
+il1ll.com.		1800	IN	A	92.237.25.216
+il1ll.com.		1800	IN	A	93.173.156.178
+il1ll.com.		1800	IN	A	119.228.162.254
+il1ll.com.		1800	IN	A	139.179.191.139
+il1ll.com.		1800	IN	A	190.7.131.253
+il1ll.com.		1800	IN	A	201.232.29.72
+il1ll.com.		1800	IN	A	221.126.238.141
+il1ll.com.		1800	IN	A	71.100.197.224
+il1ll.com.		1800	IN	A	75.14.2.112
+il1ll.com.		1800	IN	A	76.78.215.254
+il1ll.com.		1800	IN	A	80.179.195.144
+il1ll.com.		1800	IN	A	82.22.126.227
+
+;; AUTHORITY SECTION:
+il1ll.com.		1800	IN	NS	ns1.officeandmarket.com.
+il1ll.com.		1800	IN	NS	ns1.officeandmarket.net.
+il1ll.com.		1800	IN	NS	ns2.officeandmarket.com.
+il1ll.com.		1800	IN	NS	ns2.officeandmarket.net.
+
+;; ADDITIONAL SECTION:
+ns1.officeandmarket.com. 143687	IN	A	96.9.148.136
+ns2.officeandmarket.com. 143687	IN	A	77.15.155.21
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:35:31 2009
+;; MSG SIZE  rcvd: 415
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 frepfpif.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 431
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;frepfpif.cn.			IN	A
+
+;; ANSWER SECTION:
+frepfpif.cn.		180	IN	A	78.84.14.235
+frepfpif.cn.		180	IN	A	79.121.97.118
+frepfpif.cn.		180	IN	A	83.170.195.182
+frepfpif.cn.		180	IN	A	83.170.205.162
+frepfpif.cn.		180	IN	A	85.115.120.200
+frepfpif.cn.		180	IN	A	86.101.10.242
+frepfpif.cn.		180	IN	A	95.104.106.247
+frepfpif.cn.		180	IN	A	212.4.134.144
+
+;; AUTHORITY SECTION:
+frepfpif.cn.		180	IN	NS	ns4.hugwqsw.com.
+frepfpif.cn.		180	IN	NS	ns1.hugwqsw.com.
+frepfpif.cn.		180	IN	NS	ns2.hugwqsw.com.
+frepfpif.cn.		180	IN	NS	ns3.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns4.hugwqsw.com.	127490	IN	A	58.78.202.100
+ns1.hugwqsw.com.	127490	IN	A	190.205.157.175
+ns2.hugwqsw.com.	127490	IN	A	219.241.174.102
+ns3.ninknedsew.com.	127490	IN	A	190.164.88.146
+
+;; Query time: 1671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:35:33 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ilf1i.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1132
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ilf1i.com.			IN	A
+
+;; ANSWER SECTION:
+ilf1i.com.		1800	IN	A	71.100.197.224
+ilf1i.com.		1800	IN	A	75.14.2.112
+ilf1i.com.		1800	IN	A	76.78.215.254
+ilf1i.com.		1800	IN	A	80.179.195.144
+ilf1i.com.		1800	IN	A	82.22.126.227
+ilf1i.com.		1800	IN	A	82.46.189.40
+ilf1i.com.		1800	IN	A	88.156.177.237
+ilf1i.com.		1800	IN	A	92.2.84.54
+ilf1i.com.		1800	IN	A	92.237.25.216
+ilf1i.com.		1800	IN	A	93.173.156.178
+ilf1i.com.		1800	IN	A	119.228.162.254
+ilf1i.com.		1800	IN	A	139.179.191.139
+ilf1i.com.		1800	IN	A	190.7.131.253
+ilf1i.com.		1800	IN	A	201.232.29.72
+ilf1i.com.		1800	IN	A	221.126.238.141
+
+;; AUTHORITY SECTION:
+ilf1i.com.		1800	IN	NS	ns1.officeandmarket.net.
+ilf1i.com.		1800	IN	NS	ns2.officeandmarket.com.
+ilf1i.com.		1800	IN	NS	ns2.officeandmarket.net.
+ilf1i.com.		1800	IN	NS	ns1.officeandmarket.com.
+
+;; ADDITIONAL SECTION:
+ns1.officeandmarket.net. 172797	IN	A	96.9.148.136
+ns2.officeandmarket.com. 143684	IN	A	77.15.155.21
+ns2.officeandmarket.net. 172797	IN	A	65.135.99.23
+ns1.officeandmarket.com. 143684	IN	A	96.9.148.136
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:35:34 2009
+;; MSG SIZE  rcvd: 447
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ilf1l.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 396
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ilf1l.com.			IN	A
+
+;; ANSWER SECTION:
+ilf1l.com.		1800	IN	A	80.179.195.144
+ilf1l.com.		1800	IN	A	82.22.126.227
+ilf1l.com.		1800	IN	A	82.46.189.40
+ilf1l.com.		1800	IN	A	88.156.177.237
+ilf1l.com.		1800	IN	A	92.2.84.54
+ilf1l.com.		1800	IN	A	92.237.25.216
+ilf1l.com.		1800	IN	A	93.173.156.178
+ilf1l.com.		1800	IN	A	119.228.162.254
+ilf1l.com.		1800	IN	A	139.179.191.139
+ilf1l.com.		1800	IN	A	190.7.131.253
+ilf1l.com.		1800	IN	A	201.232.29.72
+ilf1l.com.		1800	IN	A	221.126.238.141
+ilf1l.com.		1800	IN	A	71.100.197.224
+ilf1l.com.		1800	IN	A	75.14.2.112
+ilf1l.com.		1800	IN	A	76.78.215.254
+
+;; AUTHORITY SECTION:
+ilf1l.com.		1800	IN	NS	ns1.officeandmarket.net.
+ilf1l.com.		1800	IN	NS	ns2.officeandmarket.com.
+ilf1l.com.		1800	IN	NS	ns2.officeandmarket.net.
+ilf1l.com.		1800	IN	NS	ns1.officeandmarket.com.
+
+;; ADDITIONAL SECTION:
+ns2.officeandmarket.com. 147250	IN	A	77.15.155.21
+ns1.officeandmarket.com. 147250	IN	A	96.9.148.136
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:35:34 2009
+;; MSG SIZE  rcvd: 415
+
+

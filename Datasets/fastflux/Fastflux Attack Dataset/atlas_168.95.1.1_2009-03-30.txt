@@ -1,0 +1,268 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 azoogle.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;azoogle.com.			IN	A
+
+;; ANSWER SECTION:
+azoogle.com.		60	IN	A	209.167.6.12
+azoogle.com.		60	IN	A	209.167.6.11
+azoogle.com.		60	IN	A	209.167.6.170
+azoogle.com.		60	IN	A	209.167.6.154
+azoogle.com.		60	IN	A	209.167.6.153
+azoogle.com.		60	IN	A	209.167.6.152
+azoogle.com.		60	IN	A	209.167.6.151
+azoogle.com.		60	IN	A	209.167.6.150
+azoogle.com.		60	IN	A	209.167.6.14
+azoogle.com.		60	IN	A	209.167.6.13
+
+;; AUTHORITY SECTION:
+azoogle.com.		86400	IN	NS	udns2.ultradns.net.
+azoogle.com.		86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	103916	IN	A	204.74.101.1
+udns1.ultradns.net.	103916	IN	A	204.69.234.1
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:18 2009
+;; MSG SIZE  rcvd: 284
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 azoogle.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 825
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;azoogle.com.			IN	A
+
+;; ANSWER SECTION:
+azoogle.com.		60	IN	A	209.167.6.152
+azoogle.com.		60	IN	A	209.167.6.151
+azoogle.com.		60	IN	A	209.167.6.150
+azoogle.com.		60	IN	A	209.167.6.14
+azoogle.com.		60	IN	A	209.167.6.13
+azoogle.com.		60	IN	A	209.167.6.12
+azoogle.com.		60	IN	A	209.167.6.11
+azoogle.com.		60	IN	A	209.167.6.170
+azoogle.com.		60	IN	A	209.167.6.154
+azoogle.com.		60	IN	A	209.167.6.153
+
+;; AUTHORITY SECTION:
+azoogle.com.		86400	IN	NS	udns2.ultradns.net.
+azoogle.com.		86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	22711	IN	A	204.74.101.1
+udns1.ultradns.net.	22711	IN	A	204.69.234.1
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:41 2009
+;; MSG SIZE  rcvd: 284
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 nationwidebank-co.tk
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 527
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 7, ADDITIONAL: 7
+
+;; QUESTION SECTION:
+;nationwidebank-co.tk.		IN	A
+
+;; ANSWER SECTION:
+nationwidebank-co.tk.	300	IN	A	217.119.57.22
+nationwidebank-co.tk.	300	IN	A	209.172.59.196
+nationwidebank-co.tk.	300	IN	A	193.33.61.2
+nationwidebank-co.tk.	300	IN	A	81.29.204.108
+nationwidebank-co.tk.	300	IN	A	195.20.32.103
+
+;; AUTHORITY SECTION:
+tk.			38785	IN	NS	ROOT-E.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-C.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-G.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-A.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-D.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-B.TALOHA.tk.
+tk.			38785	IN	NS	ROOT-F.TALOHA.tk.
+
+;; ADDITIONAL SECTION:
+ROOT-E.TALOHA.tk.	165644	IN	A	66.36.231.236
+ROOT-C.TALOHA.tk.	195	IN	A	207.36.228.217
+ROOT-G.TALOHA.tk.	195	IN	A	217.68.243.17
+ROOT-A.TALOHA.tk.	195	IN	A	194.109.152.138
+ROOT-D.TALOHA.tk.	195	IN	A	217.199.176.121
+ROOT-B.TALOHA.tk.	195	IN	A	195.20.32.102
+ROOT-F.TALOHA.tk.	195	IN	A	202.125.44.173
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:08 2009
+;; MSG SIZE  rcvd: 404
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 nationwide-uk.tk
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1281
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 7, ADDITIONAL: 7
+
+;; QUESTION SECTION:
+;nationwide-uk.tk.		IN	A
+
+;; ANSWER SECTION:
+nationwide-uk.tk.	300	IN	A	193.33.61.2
+nationwide-uk.tk.	300	IN	A	195.20.32.103
+nationwide-uk.tk.	300	IN	A	209.172.59.196
+nationwide-uk.tk.	300	IN	A	217.119.57.22
+nationwide-uk.tk.	300	IN	A	81.29.204.108
+
+;; AUTHORITY SECTION:
+tk.			80143	IN	NS	ROOT-C.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-D.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-G.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-E.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-A.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-F.TALOHA.tk.
+tk.			80143	IN	NS	ROOT-B.TALOHA.tk.
+
+;; ADDITIONAL SECTION:
+ROOT-C.TALOHA.tk.	75	IN	A	207.36.228.217
+ROOT-D.TALOHA.tk.	166502	IN	A	217.199.176.121
+ROOT-G.TALOHA.tk.	75	IN	A	217.68.243.17
+ROOT-E.TALOHA.tk.	75	IN	A	66.36.231.236
+ROOT-A.TALOHA.tk.	75	IN	A	194.109.152.138
+ROOT-F.TALOHA.tk.	75	IN	A	202.125.44.173
+ROOT-B.TALOHA.tk.	28	IN	A	195.20.32.102
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:09 2009
+;; MSG SIZE  rcvd: 396
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 gjyrecsg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 389
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;gjyrecsg.cn.			IN	A
+
+;; ANSWER SECTION:
+gjyrecsg.cn.		180	IN	A	78.84.14.235
+gjyrecsg.cn.		180	IN	A	79.121.110.63
+gjyrecsg.cn.		180	IN	A	82.131.47.118
+gjyrecsg.cn.		180	IN	A	83.86.122.42
+gjyrecsg.cn.		180	IN	A	89.232.37.181
+gjyrecsg.cn.		180	IN	A	92.115.8.13
+gjyrecsg.cn.		180	IN	A	121.136.134.176
+gjyrecsg.cn.		180	IN	A	193.151.252.247
+
+;; AUTHORITY SECTION:
+gjyrecsg.cn.		180	IN	NS	ns2.hugwqsw.com.
+gjyrecsg.cn.		180	IN	NS	ns3.ninknedsew.com.
+gjyrecsg.cn.		180	IN	NS	ns4.hugwqsw.com.
+gjyrecsg.cn.		180	IN	NS	ns1.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns2.hugwqsw.com.	150607	IN	A	81.184.70.193
+ns3.ninknedsew.com.	150720	IN	A	92.115.8.13
+ns4.hugwqsw.com.	150788	IN	A	95.104.55.67
+ns1.hugwqsw.com.	150607	IN	A	84.3.73.245
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:20 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sswhipfi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1161
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sswhipfi.cn.			IN	A
+
+;; ANSWER SECTION:
+sswhipfi.cn.		180	IN	A	79.121.110.63
+sswhipfi.cn.		180	IN	A	82.131.47.118
+sswhipfi.cn.		180	IN	A	83.86.122.42
+sswhipfi.cn.		180	IN	A	89.232.37.181
+sswhipfi.cn.		180	IN	A	92.115.8.13
+sswhipfi.cn.		180	IN	A	121.136.134.176
+sswhipfi.cn.		180	IN	A	193.151.252.247
+sswhipfi.cn.		180	IN	A	78.84.14.235
+
+;; AUTHORITY SECTION:
+sswhipfi.cn.		180	IN	NS	ns1.hugwqsw.com.
+sswhipfi.cn.		180	IN	NS	ns2.hugwqsw.com.
+sswhipfi.cn.		180	IN	NS	ns3.ninknedsew.com.
+sswhipfi.cn.		180	IN	NS	ns4.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns1.hugwqsw.com.	158821	IN	A	89.133.172.111
+ns2.hugwqsw.com.	159096	IN	A	114.76.3.253
+ns3.ninknedsew.com.	159157	IN	A	116.72.75.53
+ns4.hugwqsw.com.	161355	IN	A	192.116.57.120
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:37 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 srybfipf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1278
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;srybfipf.cn.			IN	A
+
+;; ANSWER SECTION:
+srybfipf.cn.		180	IN	A	78.84.14.235
+srybfipf.cn.		180	IN	A	79.121.110.63
+srybfipf.cn.		180	IN	A	82.131.47.118
+srybfipf.cn.		180	IN	A	83.86.122.42
+srybfipf.cn.		180	IN	A	89.232.37.181
+srybfipf.cn.		180	IN	A	92.115.8.13
+srybfipf.cn.		180	IN	A	121.136.134.176
+srybfipf.cn.		180	IN	A	193.151.252.247
+
+;; AUTHORITY SECTION:
+srybfipf.cn.		180	IN	NS	ns2.hugwqsw.com.
+srybfipf.cn.		180	IN	NS	ns3.ninknedsew.com.
+srybfipf.cn.		180	IN	NS	ns4.hugwqsw.com.
+srybfipf.cn.		180	IN	NS	ns1.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns2.hugwqsw.com.	148944	IN	A	87.226.50.79
+ns3.ninknedsew.com.	148944	IN	A	118.217.243.18
+ns4.hugwqsw.com.	148944	IN	A	78.37.26.40
+ns1.hugwqsw.com.	151163	IN	A	210.121.155.68
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:35:37 2009
+;; MSG SIZE  rcvd: 326
+
+

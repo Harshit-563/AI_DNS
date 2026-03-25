@@ -1,0 +1,992 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 373
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.3.175.208
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	165734	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 165734 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 165734 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 165734 IN A	200.129.46.5
+
+;; Query time: 4187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:06 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1966
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.3.175.208
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 138459 IN A	200.129.46.5
+ns3.answertruthful.com.	138459	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 138459 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 138459 IN	A	166.155.114.139
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 23 22:39:36 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 375
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 159351 IN A	200.129.46.5
+ns3.answertruthful.com.	159351	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 159351 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 159351 IN	A	166.155.114.139
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:40:28 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1124
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 144704 IN A	200.129.46.5
+ns3.answertruthful.com.	144704	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 144704 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 144704 IN	A	166.155.114.139
+
+;; Query time: 3390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:14 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 809
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	162482	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 162482 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 162482 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 162482 IN A	200.129.46.5
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:20 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1478
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 163590 IN A	200.129.46.5
+ns3.answertruthful.com.	163590	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 163590 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 163590 IN	A	166.155.114.139
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:27 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1566
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	85.35.237.155
+passcrazymoment.cn.	300	IN	A	69.50.218.12
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.91.121.99
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	160583	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 160583 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 160583 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 160583 IN A	200.129.46.5
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:40:53 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1984
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	89.188.136.67
+passcrazymoment.cn.	300	IN	A	69.50.218.12
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.91.121.99
+passcrazymoment.cn.	300	IN	A	71.32.134.149
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 143892 IN A	200.129.46.5
+ns3.answertruthful.com.	143892	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 143892 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 143892 IN	A	66.155.114.139
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:40:09 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1115
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	89.188.136.67
+passcrazymoment.cn.	300	IN	A	69.50.218.12
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.91.121.99
+passcrazymoment.cn.	300	IN	A	71.32.134.149
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	153152	IN	A	201.232.59.145
+ns4.uniquest-pedagogue.com. 153152 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 153152 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 153152 IN A	200.129.46.5
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:40:52 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 241
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	205.206.249.117
+passcrazymoment.cn.	300	IN	A	67.230.49.229
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 172573 IN	A	208.123.228.6
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:42:32 2009
+;; MSG SIZE  rcvd: 299
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 315
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	216.37.73.200
+passcrazymoment.cn.	300	IN	A	67.230.49.229
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	70.91.121.99
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 151087 IN A	206.248.77.170
+ns3.answertruthful.com.	151087	IN	A	66.96.136.67
+ns4.uniquest-pedagogue.com. 151087 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 151087 IN	A	66.155.114.139
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:41:15 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 751
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	208.106.153.67
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 165012 IN A	170.94.200.137
+ns3.answertruthful.com.	165012	IN	A	195.242.182.60
+ns4.uniquest-pedagogue.com. 165012 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 165012 IN	A	66.155.114.139
+
+;; Query time: 4328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:07 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1221
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	208.106.153.67
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 125451 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 125451 IN A	170.94.200.137
+ns3.answertruthful.com.	125451	IN	A	66.96.207.105
+ns4.uniquest-pedagogue.com. 125451 IN	A	208.123.228.6
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:07 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 916
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	208.106.153.67
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	125229	IN	A	66.96.207.105
+ns4.uniquest-pedagogue.com. 125229 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 125229 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 125229 IN A	170.94.200.137
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:30 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 532
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 167288 IN A	170.94.200.137
+ns3.answertruthful.com.	167288	IN	A	208.106.153.67
+ns4.uniquest-pedagogue.com. 167288 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 167288 IN	A	66.155.114.139
+
+;; Query time: 3515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:59 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 818
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 150011 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 150011 IN A	170.94.200.137
+ns3.answertruthful.com.	150011	IN	A	208.106.153.67
+ns4.uniquest-pedagogue.com. 150011 IN	A	208.123.228.6
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:01 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1478
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	206.248.77.170
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	69.123.116.89
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 157832 IN A	170.94.200.137
+ns3.answertruthful.com.	157832	IN	A	208.106.153.67
+ns4.uniquest-pedagogue.com. 157832 IN	A	208.123.228.6
+ns1.uniquer-pedagogue.com. 157832 IN	A	66.155.114.139
+
+;; Query time: 3968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:05 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1744
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	12.184.45.88
+passcrazymoment.cn.	300	IN	A	67.210.42.31
+passcrazymoment.cn.	300	IN	A	69.134.130.230
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 127612 IN	A	117.47.102.111
+ns1.uniquer-pedagogue.com. 127524 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 127612 IN A	170.94.200.137
+ns3.answertruthful.com.	127612	IN	A	67.173.78.46
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:37:02 2009
+;; MSG SIZE  rcvd: 347
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	207.108.245.4
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	64.238.223.93
+passcrazymoment.cn.	300	IN	A	74.15.177.251
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 156671 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 156671 IN A	76.233.44.113
+ns3.answertruthful.com.	156671	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 156671 IN	A	71.172.38.60
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:38:04 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 787
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	207.108.245.4
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	64.238.223.93
+passcrazymoment.cn.	300	IN	A	74.15.177.251
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 154007 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 154007 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 154007 IN A	76.233.44.113
+ns3.answertruthful.com.	154007	IN	A	193.193.239.254
+
+;; Query time: 4000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:42:28 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1337
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	74.15.177.251
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	207.108.245.4
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	64.238.223.93
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 160384 IN A	76.233.44.113
+ns3.answertruthful.com.	160384	IN	A	69.45.150.210
+ns4.uniquest-pedagogue.com. 160384 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 160384 IN	A	66.155.114.139
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:42:30 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1338
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	208.76.203.26
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.198.187.180
+passcrazymoment.cn.	300	IN	A	74.63.252.83
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 166348 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 166586	IN A	76.233.44.113
+ns3.purecrayonanyway.com. 166348 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 166348 IN	A	71.172.38.60
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:11 2009
+;; MSG SIZE  rcvd: 367
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 347
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	74.63.252.83
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+passcrazymoment.cn.	300	IN	A	208.76.203.26
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.198.187.180
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 141370 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 141370 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 152472	IN A	76.233.44.113
+ns3.purecrayonanyway.com. 141370 IN	A	94.78.231.116
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:12 2009
+;; MSG SIZE  rcvd: 367
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1722
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	208.76.203.26
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.198.187.180
+passcrazymoment.cn.	300	IN	A	74.63.252.83
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.various-gold-everywhere.com. 150889	IN A	76.233.44.113
+ns3.purecrayonanyway.com. 144215 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 144215 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 144215 IN	A	66.155.114.139
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:37 2009
+;; MSG SIZE  rcvd: 367
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1488
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.4.188.23
+passcrazymoment.cn.	300	IN	A	74.63.252.83
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.233.44.113
+passcrazymoment.cn.	300	IN	A	84.53.243.45
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 149723 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 149723	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 149723 IN	A	94.78.231.116
+ns4.uniquest-pedagogue.com. 149723 IN	A	71.172.38.60
+
+;; Query time: 1765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:32 2009
+;; MSG SIZE  rcvd: 351
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1293
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	76.233.44.113
+passcrazymoment.cn.	300	IN	A	84.53.243.45
+passcrazymoment.cn.	300	IN	A	69.4.188.23
+passcrazymoment.cn.	300	IN	A	74.63.252.83
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+
+;; ADDITIONAL SECTION:
+ns4.uniquest-pedagogue.com. 144232 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 144232 IN	A	66.155.114.139
+ns2.various-gold-everywhere.com. 144232	IN A	178.104.140.182
+ns3.purecrayonanyway.com. 144232 IN	A	94.78.231.116
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:42:32 2009
+;; MSG SIZE  rcvd: 351
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1919
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	82.140.103.27
+passcrazymoment.cn.	300	IN	A	210.219.199.13
+passcrazymoment.cn.	300	IN	A	61.5.152.136
+passcrazymoment.cn.	300	IN	A	66.231.33.161
+passcrazymoment.cn.	300	IN	A	70.91.75.36
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.various-gold-everywhere.com.
+passcrazymoment.cn.	300	IN	NS	ns3.purecrayonanyway.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.various-gold-everywhere.com. 172263	IN A	198.104.140.185
+ns3.purecrayonanyway.com. 172263 IN	A	64.46.36.111
+ns4.uniquest-pedagogue.com. 172263 IN	A	71.172.38.60
+ns1.uniquer-pedagogue.com. 172263 IN	A	66.155.114.139
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:23 2009
+;; MSG SIZE  rcvd: 367
+
+

@@ -1,0 +1,404 @@
+; <<>> DiG 9.3.2rc1 <<>> on-trahelp.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 714
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;on-trahelp.com.			IN	A
+
+;; ANSWER SECTION:
+on-trahelp.com.		300	IN	A	82.118.129.135
+on-trahelp.com.		300	IN	A	201.6.245.234
+on-trahelp.com.		300	IN	A	209.41.200.129
+on-trahelp.com.		300	IN	A	66.240.84.56
+on-trahelp.com.		300	IN	A	68.236.210.184
+on-trahelp.com.		300	IN	A	69.198.5.210
+
+;; AUTHORITY SECTION:
+on-trahelp.com.		300	IN	NS	ns4.magnifindings.com.
+on-trahelp.com.		300	IN	NS	ns1.verity-fresh.com.
+on-trahelp.com.		300	IN	NS	ns2.desistylish.com.
+on-trahelp.com.		300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	64.250.194.238
+ns1.verity-fresh.com.	172800	IN	A	72.254.80.121
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	66.96.207.105
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 21:38:42 2009
+;; MSG SIZE  rcvd: 334
+
+; <<>> DiG 9.3.2rc1 <<>> on-trahelp.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 978
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;on-trahelp.com.			IN	A
+
+;; ANSWER SECTION:
+on-trahelp.com.		300	IN	A	209.41.200.129
+on-trahelp.com.		300	IN	A	64.238.223.93
+on-trahelp.com.		300	IN	A	66.240.84.56
+on-trahelp.com.		300	IN	A	68.236.210.184
+on-trahelp.com.		300	IN	A	69.198.5.210
+on-trahelp.com.		300	IN	A	201.6.245.234
+
+;; AUTHORITY SECTION:
+on-trahelp.com.		300	IN	NS	ns1.verity-fresh.com.
+on-trahelp.com.		300	IN	NS	ns2.desistylish.com.
+on-trahelp.com.		300	IN	NS	ns3.splendidfindings.com.
+on-trahelp.com.		300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	64.207.235.135
+ns4.magnifindings.com.	172799	IN	A	216.241.132.134
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:48 2009
+;; MSG SIZE  rcvd: 334
+
+
+; <<>> DiG 9.3.2rc1 <<>> densitytrim.net
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 144
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;densitytrim.net.		IN	A
+
+;; ANSWER SECTION:
+densitytrim.net.	1800	IN	A	173.24.103.200
+densitytrim.net.	1800	IN	A	68.202.198.202
+densitytrim.net.	1800	IN	A	68.220.37.205
+densitytrim.net.	1800	IN	A	75.118.162.91
+densitytrim.net.	1800	IN	A	76.122.72.90
+
+;; AUTHORITY SECTION:
+densitytrim.net.	1800	IN	NS	ns2.brokersaite.com.
+densitytrim.net.	1800	IN	NS	ns1.brokersaite.com.
+
+;; ADDITIONAL SECTION:
+ns2.brokersaite.com.	157967	IN	A	99.221.142.60
+ns1.brokersaite.com.	157967	IN	A	208.91.134.146
+
+;; Query time: 3937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:13:32 2009
+;; MSG SIZE  rcvd: 211
+
+; <<>> DiG 9.3.2rc1 <<>> night69.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1001
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;night69.com.			IN	A
+
+;; ANSWER SECTION:
+night69.com.		600	IN	A	81.203.5.195
+night69.com.		600	IN	A	59.27.146.159
+night69.com.		600	IN	A	94.209.18.113
+night69.com.		600	IN	A	67.149.196.135
+night69.com.		600	IN	A	61.210.184.160
+
+;; AUTHORITY SECTION:
+night69.com.		600	IN	NS	ns1.night69.com.
+night69.com.		600	IN	NS	ns2.night69.com.
+night69.com.		600	IN	NS	ns3.night69.com.
+night69.com.		600	IN	NS	ns4.night69.com.
+night69.com.		600	IN	NS	ns5.night69.com.
+
+;; ADDITIONAL SECTION:
+ns3.night69.com.	600	IN	A	0.0.0.0
+ns4.night69.com.	600	IN	A	0.0.0.0
+ns1.night69.com.	600	IN	A	0.0.0.0
+ns2.night69.com.	600	IN	A	0.0.0.0
+ns5.night69.com.	600	IN	A	0.0.0.0
+
+;; Query time: 1578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:13:33 2009
+;; MSG SIZE  rcvd: 279
+
+; <<>> DiG 9.3.2rc1 <<>> dfidgxgf.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1302
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	78.84.234.54
+dfidgxgf.cn.		180	IN	A	80.99.169.105
+dfidgxgf.cn.		180	IN	A	85.66.128.200
+dfidgxgf.cn.		180	IN	A	85.66.254.112
+dfidgxgf.cn.		180	IN	A	85.67.98.214
+dfidgxgf.cn.		180	IN	A	94.30.151.74
+dfidgxgf.cn.		180	IN	A	217.26.171.29
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns3.clanarctic.com.
+dfidgxgf.cn.		180	IN	NS	ns4.clanarctic.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+
+;; ADDITIONAL SECTION:
+ns3.clanarctic.com.	162695	IN	A	93.72.214.233
+ns4.clanarctic.com.	162695	IN	A	69.146.42.87
+ns1.linbknhefw.com.	162695	IN	A	86.104.94.233
+ns2.linbknhefw.com.	162695	IN	A	78.139.151.252
+
+;; Query time: 953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:14:21 2009
+;; MSG SIZE  rcvd: 313
+
+; <<>> DiG 9.3.2rc1 <<>> gyyeewsd.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 863
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;gyyeewsd.cn.			IN	A
+
+;; ANSWER SECTION:
+gyyeewsd.cn.		180	IN	A	78.84.234.54
+gyyeewsd.cn.		180	IN	A	80.99.169.105
+gyyeewsd.cn.		180	IN	A	81.94.248.150
+gyyeewsd.cn.		180	IN	A	84.17.6.134
+gyyeewsd.cn.		180	IN	A	84.237.132.115
+gyyeewsd.cn.		180	IN	A	85.66.254.112
+gyyeewsd.cn.		180	IN	A	85.67.98.214
+gyyeewsd.cn.		180	IN	A	77.41.80.10
+
+;; AUTHORITY SECTION:
+gyyeewsd.cn.		180	IN	NS	ns3.cisunday.com.
+gyyeewsd.cn.		180	IN	NS	ns4.cisunday.com.
+gyyeewsd.cn.		180	IN	NS	ns1.frubjnfew.com.
+gyyeewsd.cn.		180	IN	NS	ns2.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns3.cisunday.com.	113996	IN	A	186.18.20.92
+ns4.cisunday.com.	113996	IN	A	84.22.142.228
+ns1.frubjnfew.com.	113996	IN	A	77.41.80.10
+ns2.frubjnfew.com.	113996	IN	A	89.133.137.39
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:30 2009
+;; MSG SIZE  rcvd: 326
+
+; <<>> DiG 9.3.2rc1 <<>> fswperte.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 422
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fswperte.cn.			IN	A
+
+;; ANSWER SECTION:
+fswperte.cn.		180	IN	A	85.66.254.112
+fswperte.cn.		180	IN	A	85.67.98.214
+fswperte.cn.		180	IN	A	77.41.80.10
+fswperte.cn.		180	IN	A	78.84.234.54
+fswperte.cn.		180	IN	A	80.99.169.105
+fswperte.cn.		180	IN	A	81.94.248.150
+fswperte.cn.		180	IN	A	84.17.6.134
+fswperte.cn.		180	IN	A	84.237.132.115
+
+;; AUTHORITY SECTION:
+fswperte.cn.		180	IN	NS	ns2.frubjnfew.com.
+fswperte.cn.		180	IN	NS	ns3.cisunday.com.
+fswperte.cn.		180	IN	NS	ns4.cisunday.com.
+fswperte.cn.		180	IN	NS	ns1.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	170619	IN	A	81.17.185.109
+ns3.cisunday.com.	170619	IN	A	85.66.128.200
+ns4.cisunday.com.	170619	IN	A	93.72.17.179
+ns1.frubjnfew.com.	170609	IN	A	72.185.78.169
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:37 2009
+;; MSG SIZE  rcvd: 326
+
+; <<>> DiG 9.3.2rc1 <<>> fswewpwe.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 567
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fswewpwe.cn.			IN	A
+
+;; ANSWER SECTION:
+fswewpwe.cn.		180	IN	A	80.99.169.105
+fswewpwe.cn.		180	IN	A	81.94.248.150
+fswewpwe.cn.		180	IN	A	84.17.6.134
+fswewpwe.cn.		180	IN	A	84.237.132.115
+fswewpwe.cn.		180	IN	A	85.66.254.112
+fswewpwe.cn.		180	IN	A	85.67.98.214
+fswewpwe.cn.		180	IN	A	77.41.80.10
+fswewpwe.cn.		180	IN	A	78.84.234.54
+
+;; AUTHORITY SECTION:
+fswewpwe.cn.		180	IN	NS	ns3.cisunday.com.
+fswewpwe.cn.		180	IN	NS	ns4.cisunday.com.
+fswewpwe.cn.		180	IN	NS	ns1.frubjnfew.com.
+fswewpwe.cn.		180	IN	NS	ns2.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns3.cisunday.com.	112401	IN	A	217.26.171.29
+ns4.cisunday.com.	112401	IN	A	190.25.245.50
+ns1.frubjnfew.com.	112252	IN	A	88.147.9.169
+ns2.frubjnfew.com.	112265	IN	A	62.57.212.134
+
+;; Query time: 1546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:39 2009
+;; MSG SIZE  rcvd: 326
+
+; <<>> DiG 9.3.2rc1 <<>> fspryege.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1081
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fspryege.cn.			IN	A
+
+;; ANSWER SECTION:
+fspryege.cn.		180	IN	A	84.237.132.115
+fspryege.cn.		180	IN	A	85.66.254.112
+fspryege.cn.		180	IN	A	85.67.98.214
+fspryege.cn.		180	IN	A	77.41.80.10
+fspryege.cn.		180	IN	A	78.84.234.54
+fspryege.cn.		180	IN	A	80.99.169.105
+fspryege.cn.		180	IN	A	81.94.248.150
+fspryege.cn.		180	IN	A	84.17.6.134
+
+;; AUTHORITY SECTION:
+fspryege.cn.		180	IN	NS	ns3.cisunday.com.
+fspryege.cn.		180	IN	NS	ns4.cisunday.com.
+fspryege.cn.		180	IN	NS	ns1.frubjnfew.com.
+fspryege.cn.		180	IN	NS	ns2.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns3.cisunday.com.	148843	IN	A	93.72.17.179
+ns4.cisunday.com.	148599	IN	A	78.139.151.252
+ns1.frubjnfew.com.	148865	IN	A	72.185.78.169
+ns2.frubjnfew.com.	148865	IN	A	79.122.5.238
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:44 2009
+;; MSG SIZE  rcvd: 326
+
+; <<>> DiG 9.3.2rc1 <<>> fsgrrige.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1865
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fsgrrige.cn.			IN	A
+
+;; ANSWER SECTION:
+fsgrrige.cn.		180	IN	A	80.99.169.105
+fsgrrige.cn.		180	IN	A	81.94.248.150
+fsgrrige.cn.		180	IN	A	84.17.6.134
+fsgrrige.cn.		180	IN	A	84.237.132.115
+fsgrrige.cn.		180	IN	A	85.66.254.112
+fsgrrige.cn.		180	IN	A	85.67.98.214
+fsgrrige.cn.		180	IN	A	77.41.80.10
+fsgrrige.cn.		180	IN	A	78.84.234.54
+
+;; AUTHORITY SECTION:
+fsgrrige.cn.		180	IN	NS	ns1.frubjnfew.com.
+fsgrrige.cn.		180	IN	NS	ns2.frubjnfew.com.
+fsgrrige.cn.		180	IN	NS	ns3.cisunday.com.
+fsgrrige.cn.		180	IN	NS	ns4.cisunday.com.
+
+;; ADDITIONAL SECTION:
+ns1.frubjnfew.com.	149023	IN	A	72.185.78.169
+ns2.frubjnfew.com.	149026	IN	A	79.122.5.238
+ns3.cisunday.com.	149027	IN	A	93.72.17.179
+ns4.cisunday.com.	149027	IN	A	78.139.151.252
+
+;; Query time: 1671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:46 2009
+;; MSG SIZE  rcvd: 326
+
+; <<>> DiG 9.3.2rc1 <<>> magic-cyber-place.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 538
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;magic-cyber-place.com.		IN	A
+
+;; ANSWER SECTION:
+magic-cyber-place.com.	300	IN	A	69.198.5.210
+magic-cyber-place.com.	300	IN	A	201.6.245.234
+magic-cyber-place.com.	300	IN	A	209.41.200.129
+magic-cyber-place.com.	300	IN	A	64.238.223.93
+magic-cyber-place.com.	300	IN	A	66.240.84.56
+magic-cyber-place.com.	300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+magic-cyber-place.com.	300	IN	NS	ns4.magnifindings.com.
+magic-cyber-place.com.	300	IN	NS	ns1.verity-fresh.com.
+magic-cyber-place.com.	300	IN	NS	ns2.desistylish.com.
+magic-cyber-place.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	216.241.132.134
+ns1.verity-fresh.com.	172799	IN	A	212.100.201.65
+ns2.desistylish.com.	172799	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172799 IN	A	64.207.235.135
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:48 2009
+;; MSG SIZE  rcvd: 348
+
+; <<>> DiG 9.3.2rc1 <<>> meds-originals.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 478
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;meds-originals.com.		IN	A
+
+;; ANSWER SECTION:
+meds-originals.com.	300	IN	A	68.236.210.184
+meds-originals.com.	300	IN	A	69.198.5.210
+meds-originals.com.	300	IN	A	201.6.245.234
+meds-originals.com.	300	IN	A	209.41.200.129
+meds-originals.com.	300	IN	A	64.238.223.93
+meds-originals.com.	300	IN	A	66.240.84.56
+
+;; AUTHORITY SECTION:
+meds-originals.com.	300	IN	NS	ns2.desistylish.com.
+meds-originals.com.	300	IN	NS	ns3.splendidfindings.com.
+meds-originals.com.	300	IN	NS	ns4.magnifindings.com.
+meds-originals.com.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	172800	IN	A	75.41.185.57
+ns3.splendidfindings.com. 172800 IN	A	64.207.235.135
+ns4.magnifindings.com.	172800	IN	A	216.241.132.134
+ns1.verity-fresh.com.	172800	IN	A	212.100.201.65
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 14 00:15:48 2009
+;; MSG SIZE  rcvd: 342
+

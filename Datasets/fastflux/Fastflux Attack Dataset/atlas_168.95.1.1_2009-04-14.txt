@@ -1,0 +1,326 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovelyfun4all.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1799
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lovelyfun4all.cn.		IN	A
+
+;; ANSWER SECTION:
+lovelyfun4all.cn.	300	IN	A	207.108.245.4
+lovelyfun4all.cn.	300	IN	A	213.120.254.75
+lovelyfun4all.cn.	300	IN	A	64.238.223.93
+lovelyfun4all.cn.	300	IN	A	74.15.177.251
+lovelyfun4all.cn.	300	IN	A	75.33.18.196
+lovelyfun4all.cn.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+lovelyfun4all.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+lovelyfun4all.cn.	300	IN	NS	ns2.uniquest-professional.com.
+lovelyfun4all.cn.	300	IN	NS	ns3.answertruthful.com.
+lovelyfun4all.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 134038 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 134038 IN A	74.192.107.5
+ns3.answertruthful.com.	134038	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 134038 IN	A	71.172.38.60
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:18 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovely-amusement-wecare.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1615
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;lovely-amusement-wecare.cn.	IN	A
+
+;; ANSWER SECTION:
+lovely-amusement-wecare.cn. 300	IN	A	121.240.109.67
+lovely-amusement-wecare.cn. 300	IN	A	207.108.245.4
+lovely-amusement-wecare.cn. 300	IN	A	213.120.254.75
+lovely-amusement-wecare.cn. 300	IN	A	64.238.223.93
+lovely-amusement-wecare.cn. 300	IN	A	74.15.177.251
+lovely-amusement-wecare.cn. 300	IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+lovely-amusement-wecare.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+lovely-amusement-wecare.cn. 300	IN	NS	ns2.uniquest-professional.com.
+lovely-amusement-wecare.cn. 300	IN	NS	ns3.answertruthful.com.
+lovely-amusement-wecare.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 145137 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 145137 IN A	76.233.44.113
+ns3.answertruthful.com.	145137	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 145137 IN	A	71.172.38.60
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:18 2009
+;; MSG SIZE  rcvd: 379
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 love-top-decisions.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 162
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;love-top-decisions.cn.		IN	A
+
+;; ANSWER SECTION:
+love-top-decisions.cn.	300	IN	A	207.108.245.4
+love-top-decisions.cn.	300	IN	A	213.120.254.75
+love-top-decisions.cn.	300	IN	A	64.238.223.93
+love-top-decisions.cn.	300	IN	A	74.15.177.251
+love-top-decisions.cn.	300	IN	A	75.33.18.196
+love-top-decisions.cn.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+love-top-decisions.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+love-top-decisions.cn.	300	IN	NS	ns2.uniquest-professional.com.
+love-top-decisions.cn.	300	IN	NS	ns3.answertruthful.com.
+love-top-decisions.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 150377 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 150377 IN A	76.233.44.113
+ns3.answertruthful.com.	150377	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 150377 IN	A	71.172.38.60
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:19 2009
+;; MSG SIZE  rcvd: 369
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 listen-to-sonorous-tone.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 247
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;listen-to-sonorous-tone.cn.	IN	A
+
+;; ANSWER SECTION:
+listen-to-sonorous-tone.cn. 300	IN	A	207.108.245.4
+listen-to-sonorous-tone.cn. 300	IN	A	213.120.254.75
+listen-to-sonorous-tone.cn. 300	IN	A	64.238.223.93
+listen-to-sonorous-tone.cn. 300	IN	A	74.15.177.251
+listen-to-sonorous-tone.cn. 300	IN	A	75.33.18.196
+listen-to-sonorous-tone.cn. 300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+listen-to-sonorous-tone.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+listen-to-sonorous-tone.cn. 300	IN	NS	ns2.uniquest-professional.com.
+listen-to-sonorous-tone.cn. 300	IN	NS	ns3.answertruthful.com.
+listen-to-sonorous-tone.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 171920 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 171920 IN A	76.233.44.113
+ns3.answertruthful.com.	171920	IN	A	24.219.37.58
+ns4.uniquest-pedagogue.com. 171920 IN	A	71.172.38.60
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:19 2009
+;; MSG SIZE  rcvd: 379
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 listen-to-joyful-rhythm.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 974
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;listen-to-joyful-rhythm.cn.	IN	A
+
+;; ANSWER SECTION:
+listen-to-joyful-rhythm.cn. 300	IN	A	207.108.245.4
+listen-to-joyful-rhythm.cn. 300	IN	A	213.120.254.75
+listen-to-joyful-rhythm.cn. 300	IN	A	64.238.223.93
+listen-to-joyful-rhythm.cn. 300	IN	A	74.15.177.251
+listen-to-joyful-rhythm.cn. 300	IN	A	75.33.18.196
+listen-to-joyful-rhythm.cn. 300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+listen-to-joyful-rhythm.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+listen-to-joyful-rhythm.cn. 300	IN	NS	ns2.uniquest-professional.com.
+listen-to-joyful-rhythm.cn. 300	IN	NS	ns3.answertruthful.com.
+listen-to-joyful-rhythm.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 150479 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 150479 IN A	76.233.44.113
+ns3.answertruthful.com.	150479	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 150479 IN	A	71.172.38.60
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:20 2009
+;; MSG SIZE  rcvd: 379
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 joinparticularball.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1577
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;joinparticularball.cn.		IN	A
+
+;; ANSWER SECTION:
+joinparticularball.cn.	300	IN	A	74.15.177.251
+joinparticularball.cn.	300	IN	A	75.33.18.196
+joinparticularball.cn.	300	IN	A	121.240.109.67
+joinparticularball.cn.	300	IN	A	207.108.245.4
+joinparticularball.cn.	300	IN	A	213.120.254.75
+joinparticularball.cn.	300	IN	A	64.238.223.93
+
+;; AUTHORITY SECTION:
+joinparticularball.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+joinparticularball.cn.	300	IN	NS	ns2.uniquest-professional.com.
+joinparticularball.cn.	300	IN	NS	ns3.answertruthful.com.
+joinparticularball.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 172733 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 172733 IN A	76.233.44.113
+ns3.answertruthful.com.	172733	IN	A	24.219.37.58
+ns4.uniquest-pedagogue.com. 172733 IN	A	71.172.38.60
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:20 2009
+;; MSG SIZE  rcvd: 369
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 in-unusual-ball.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1818
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;in-unusual-ball.cn.		IN	A
+
+;; ANSWER SECTION:
+in-unusual-ball.cn.	300	IN	A	207.108.245.4
+in-unusual-ball.cn.	300	IN	A	213.120.254.75
+in-unusual-ball.cn.	300	IN	A	64.238.223.93
+in-unusual-ball.cn.	300	IN	A	74.15.177.251
+in-unusual-ball.cn.	300	IN	A	75.33.18.196
+in-unusual-ball.cn.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+in-unusual-ball.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+in-unusual-ball.cn.	300	IN	NS	ns2.uniquest-professional.com.
+in-unusual-ball.cn.	300	IN	NS	ns3.answertruthful.com.
+in-unusual-ball.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 128437 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 128437 IN A	74.192.107.5
+ns3.answertruthful.com.	128437	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 128437 IN	A	71.172.38.60
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:21 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 in-grand-ball.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1403
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;in-grand-ball.cn.		IN	A
+
+;; ANSWER SECTION:
+in-grand-ball.cn.	300	IN	A	213.120.254.75
+in-grand-ball.cn.	300	IN	A	64.238.223.93
+in-grand-ball.cn.	300	IN	A	74.15.177.251
+in-grand-ball.cn.	300	IN	A	75.33.18.196
+in-grand-ball.cn.	300	IN	A	121.240.109.67
+in-grand-ball.cn.	300	IN	A	207.108.245.4
+
+;; AUTHORITY SECTION:
+in-grand-ball.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+in-grand-ball.cn.	300	IN	NS	ns2.uniquest-professional.com.
+in-grand-ball.cn.	300	IN	NS	ns3.answertruthful.com.
+in-grand-ball.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 131084 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 131080 IN A	74.192.107.5
+ns3.answertruthful.com.	131080	IN	A	193.193.239.254
+ns4.uniquest-pedagogue.com. 131080 IN	A	71.172.38.60
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:21 2009
+;; MSG SIZE  rcvd: 359
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ifpooiwq.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 331
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ifpooiwq.cn.			IN	A
+
+;; ANSWER SECTION:
+ifpooiwq.cn.		180	IN	A	75.131.74.139
+ifpooiwq.cn.		180	IN	A	77.243.210.100
+ifpooiwq.cn.		180	IN	A	78.84.10.55
+ifpooiwq.cn.		180	IN	A	89.134.194.164
+ifpooiwq.cn.		180	IN	A	89.148.121.18
+ifpooiwq.cn.		180	IN	A	210.183.129.212
+ifpooiwq.cn.		180	IN	A	220.123.48.47
+ifpooiwq.cn.		180	IN	A	62.201.119.53
+
+;; AUTHORITY SECTION:
+ifpooiwq.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+ifpooiwq.cn.		180	IN	NS	ns4.bubdonmfe.com.
+ifpooiwq.cn.		180	IN	NS	ns1.bubdonmfe.com.
+ifpooiwq.cn.		180	IN	NS	ns2.bubdonmfe.com.
+
+;; ADDITIONAL SECTION:
+ns3.vrtcwnjde.com.	168257	IN	A	77.93.30.149
+ns4.bubdonmfe.com.	172586	IN	A	89.133.137.39
+ns1.bubdonmfe.com.	172586	IN	A	207.68.253.13
+ns2.bubdonmfe.com.	172586	IN	A	87.226.67.6
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:35:22 2009
+;; MSG SIZE  rcvd: 327
+
+

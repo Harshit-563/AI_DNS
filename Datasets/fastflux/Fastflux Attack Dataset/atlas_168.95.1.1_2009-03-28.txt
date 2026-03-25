@@ -1,0 +1,341 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 il1fi.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 857
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;il1fi.com.			IN	A
+
+;; ANSWER SECTION:
+il1fi.com.		1800	IN	A	88.173.85.170
+il1fi.com.		1800	IN	A	94.26.40.78
+il1fi.com.		1800	IN	A	96.32.174.151
+il1fi.com.		1800	IN	A	200.109.36.241
+il1fi.com.		1800	IN	A	201.215.161.113
+il1fi.com.		1800	IN	A	201.233.25.244
+il1fi.com.		1800	IN	A	213.91.227.80
+il1fi.com.		1800	IN	A	71.143.158.235
+il1fi.com.		1800	IN	A	76.205.93.63
+il1fi.com.		1800	IN	A	78.94.97.120
+il1fi.com.		1800	IN	A	82.9.87.182
+il1fi.com.		1800	IN	A	83.57.2.219
+il1fi.com.		1800	IN	A	84.122.124.19
+il1fi.com.		1800	IN	A	85.31.254.88
+il1fi.com.		1800	IN	A	85.85.75.102
+
+;; AUTHORITY SECTION:
+il1fi.com.		1800	IN	NS	ns2.alternativedll.com.
+il1fi.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+il1fi.com.		1800	IN	NS	ns1.alternativedll.com.
+il1fi.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+
+;; ADDITIONAL SECTION:
+ns1.alternativedll.com.	172800	IN	A	96.9.148.136
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:00 2009
+;; MSG SIZE  rcvd: 398
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 il1lf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1143
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;il1lf.com.			IN	A
+
+;; ANSWER SECTION:
+il1lf.com.		1800	IN	A	71.143.158.235
+il1lf.com.		1800	IN	A	76.205.93.63
+il1lf.com.		1800	IN	A	78.94.97.120
+il1lf.com.		1800	IN	A	82.9.87.182
+il1lf.com.		1800	IN	A	83.57.2.219
+il1lf.com.		1800	IN	A	84.122.124.19
+il1lf.com.		1800	IN	A	85.31.254.88
+il1lf.com.		1800	IN	A	85.85.75.102
+il1lf.com.		1800	IN	A	88.173.85.170
+il1lf.com.		1800	IN	A	94.26.40.78
+il1lf.com.		1800	IN	A	96.32.174.151
+il1lf.com.		1800	IN	A	200.109.36.241
+il1lf.com.		1800	IN	A	201.215.161.113
+il1lf.com.		1800	IN	A	201.233.25.244
+il1lf.com.		1800	IN	A	213.91.227.80
+
+;; AUTHORITY SECTION:
+il1lf.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+il1lf.com.		1800	IN	NS	ns1.alternativedll.com.
+il1lf.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+il1lf.com.		1800	IN	NS	ns2.alternativedll.com.
+
+;; ADDITIONAL SECTION:
+ns1.alternativedll.com.	172800	IN	A	96.9.148.136
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:01 2009
+;; MSG SIZE  rcvd: 398
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jj1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1476
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;jj1il.com.			IN	A
+
+;; ANSWER SECTION:
+jj1il.com.		1800	IN	A	201.233.25.244
+jj1il.com.		1800	IN	A	213.91.227.80
+jj1il.com.		1800	IN	A	71.143.158.235
+jj1il.com.		1800	IN	A	76.205.93.63
+jj1il.com.		1800	IN	A	78.94.97.120
+jj1il.com.		1800	IN	A	82.9.87.182
+jj1il.com.		1800	IN	A	83.57.2.219
+jj1il.com.		1800	IN	A	84.122.124.19
+jj1il.com.		1800	IN	A	85.31.254.88
+jj1il.com.		1800	IN	A	85.85.75.102
+jj1il.com.		1800	IN	A	88.173.85.170
+jj1il.com.		1800	IN	A	94.26.40.78
+jj1il.com.		1800	IN	A	96.32.174.151
+jj1il.com.		1800	IN	A	200.109.36.241
+jj1il.com.		1800	IN	A	201.215.161.113
+
+;; AUTHORITY SECTION:
+jj1il.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+jj1il.com.		1800	IN	NS	ns1.alternativedll.com.
+jj1il.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+jj1il.com.		1800	IN	NS	ns2.alternativedll.com.
+
+;; ADDITIONAL SECTION:
+ns1.alternativedll.com.	172800	IN	A	96.9.148.136
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:02 2009
+;; MSG SIZE  rcvd: 398
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 i11il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1423
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;i11il.com.			IN	A
+
+;; ANSWER SECTION:
+i11il.com.		1800	IN	A	94.26.40.78
+i11il.com.		1800	IN	A	96.32.174.151
+i11il.com.		1800	IN	A	200.109.36.241
+i11il.com.		1800	IN	A	201.215.161.113
+i11il.com.		1800	IN	A	201.233.25.244
+i11il.com.		1800	IN	A	213.91.227.80
+i11il.com.		1800	IN	A	71.143.158.235
+i11il.com.		1800	IN	A	76.205.93.63
+i11il.com.		1800	IN	A	78.94.97.120
+i11il.com.		1800	IN	A	82.9.87.182
+i11il.com.		1800	IN	A	83.57.2.219
+i11il.com.		1800	IN	A	84.122.124.19
+i11il.com.		1800	IN	A	85.31.254.88
+i11il.com.		1800	IN	A	85.85.75.102
+i11il.com.		1800	IN	A	88.173.85.170
+
+;; AUTHORITY SECTION:
+i11il.com.		1800	IN	NS	ns1.bus-on-line.com.
+i11il.com.		1800	IN	NS	ns1.americans-tool.com.
+i11il.com.		1800	IN	NS	ns2.americans-tool.com.
+i11il.com.		1800	IN	NS	ns2.bus-on-line.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	172800	IN	A	8.12.160.183
+ns1.americans-tool.com.	172800	IN	A	8.12.160.183
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:03 2009
+;; MSG SIZE  rcvd: 407
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jf1il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 456
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;jf1il.com.			IN	A
+
+;; ANSWER SECTION:
+jf1il.com.		1800	IN	A	96.32.174.151
+jf1il.com.		1800	IN	A	200.109.36.241
+jf1il.com.		1800	IN	A	201.215.161.113
+jf1il.com.		1800	IN	A	201.233.25.244
+jf1il.com.		1800	IN	A	213.91.227.80
+jf1il.com.		1800	IN	A	71.143.158.235
+jf1il.com.		1800	IN	A	76.205.93.63
+jf1il.com.		1800	IN	A	78.94.97.120
+jf1il.com.		1800	IN	A	82.9.87.182
+jf1il.com.		1800	IN	A	83.57.2.219
+jf1il.com.		1800	IN	A	84.122.124.19
+jf1il.com.		1800	IN	A	85.31.254.88
+jf1il.com.		1800	IN	A	85.85.75.102
+jf1il.com.		1800	IN	A	88.173.85.170
+jf1il.com.		1800	IN	A	94.26.40.78
+
+;; AUTHORITY SECTION:
+jf1il.com.		1800	IN	NS	ns2.alternativedll.com.
+jf1il.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+jf1il.com.		1800	IN	NS	ns1.alternativedll.com.
+jf1il.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.net. 172796	IN	A	68.198.145.131
+ns1.alternativedll.com.	172800	IN	A	96.9.148.136
+ns1.atlantasale-dll.net. 172796	IN	A	96.9.148.136
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:06 2009
+;; MSG SIZE  rcvd: 430
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 if1if.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1298
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;if1if.com.			IN	A
+
+;; ANSWER SECTION:
+if1if.com.		1800	IN	A	201.233.25.244
+if1if.com.		1800	IN	A	213.91.227.80
+if1if.com.		1800	IN	A	71.143.158.235
+if1if.com.		1800	IN	A	76.205.93.63
+if1if.com.		1800	IN	A	78.94.97.120
+if1if.com.		1800	IN	A	82.9.87.182
+if1if.com.		1800	IN	A	83.57.2.219
+if1if.com.		1800	IN	A	84.122.124.19
+if1if.com.		1800	IN	A	85.31.254.88
+if1if.com.		1800	IN	A	85.85.75.102
+if1if.com.		1800	IN	A	88.173.85.170
+if1if.com.		1800	IN	A	94.26.40.78
+if1if.com.		1800	IN	A	96.32.174.151
+if1if.com.		1800	IN	A	200.109.36.241
+if1if.com.		1800	IN	A	201.215.161.113
+
+;; AUTHORITY SECTION:
+if1if.com.		1800	IN	NS	ns2.alternativedll.com.
+if1if.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+if1if.com.		1800	IN	NS	ns1.alternativedll.com.
+if1if.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+
+;; ADDITIONAL SECTION:
+ns2.alternativedll.com.	116736	IN	A	66.249.52.12
+ns2.atlantasale-dll.net. 105424	IN	A	68.198.145.131
+ns1.alternativedll.com.	112963	IN	A	96.9.148.136
+ns1.atlantasale-dll.net. 105424	IN	A	96.9.148.136
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:12 2009
+;; MSG SIZE  rcvd: 446
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xcbxpehi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 166
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;xcbxpehi.cn.			IN	A
+
+;; ANSWER SECTION:
+xcbxpehi.cn.		180	IN	A	121.136.134.84
+xcbxpehi.cn.		180	IN	A	212.16.134.189
+xcbxpehi.cn.		180	IN	A	62.84.63.152
+xcbxpehi.cn.		180	IN	A	78.26.154.108
+xcbxpehi.cn.		180	IN	A	82.131.101.250
+xcbxpehi.cn.		180	IN	A	85.66.145.238
+xcbxpehi.cn.		180	IN	A	89.137.112.220
+xcbxpehi.cn.		180	IN	A	94.52.77.9
+
+;; AUTHORITY SECTION:
+xcbxpehi.cn.		180	IN	NS	ns3.ninknedsew.com.
+xcbxpehi.cn.		180	IN	NS	ns4.hugwqsw.com.
+xcbxpehi.cn.		180	IN	NS	ns1.hugwqsw.com.
+xcbxpehi.cn.		180	IN	NS	ns2.hugwqsw.com.
+
+;; ADDITIONAL SECTION:
+ns3.ninknedsew.com.	169832	IN	A	210.183.129.197
+ns4.hugwqsw.com.	169832	IN	A	77.108.235.218
+ns1.hugwqsw.com.	169832	IN	A	59.151.232.164
+ns2.hugwqsw.com.	169832	IN	A	192.116.57.120
+
+;; Query time: 906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:13 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 j11il.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 870
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;j11il.com.			IN	A
+
+;; ANSWER SECTION:
+j11il.com.		1800	IN	A	96.32.174.151
+j11il.com.		1800	IN	A	200.109.36.241
+j11il.com.		1800	IN	A	201.215.161.113
+j11il.com.		1800	IN	A	201.233.25.244
+j11il.com.		1800	IN	A	213.91.227.80
+j11il.com.		1800	IN	A	71.143.158.235
+j11il.com.		1800	IN	A	76.205.93.63
+j11il.com.		1800	IN	A	78.94.97.120
+j11il.com.		1800	IN	A	82.9.87.182
+j11il.com.		1800	IN	A	83.57.2.219
+j11il.com.		1800	IN	A	84.122.124.19
+j11il.com.		1800	IN	A	85.31.254.88
+j11il.com.		1800	IN	A	85.85.75.102
+j11il.com.		1800	IN	A	88.173.85.170
+j11il.com.		1800	IN	A	94.26.40.78
+
+;; AUTHORITY SECTION:
+j11il.com.		1800	IN	NS	ns1.alternativedll.com.
+j11il.com.		1800	IN	NS	ns1.atlantasale-dll.net.
+j11il.com.		1800	IN	NS	ns2.alternativedll.com.
+j11il.com.		1800	IN	NS	ns2.atlantasale-dll.net.
+
+;; ADDITIONAL SECTION:
+ns1.alternativedll.com.	119844	IN	A	96.9.148.136
+ns1.atlantasale-dll.net. 99236	IN	A	96.9.148.136
+ns2.alternativedll.com.	109161	IN	A	66.249.52.12
+ns2.atlantasale-dll.net. 99236	IN	A	68.198.145.131
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:36:14 2009
+;; MSG SIZE  rcvd: 446
+
+

@@ -1,0 +1,1549 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1658
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	92.100.112.17
+odyears.cn.		180	IN	A	95.76.195.195
+odyears.cn.		180	IN	A	116.72.75.53
+odyears.cn.		180	IN	A	78.84.9.57
+odyears.cn.		180	IN	A	78.139.186.82
+odyears.cn.		180	IN	A	86.101.10.242
+odyears.cn.		180	IN	A	88.132.2.165
+odyears.cn.		180	IN	A	89.133.137.39
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	154639	IN	A	77.89.78.3
+ns2.teybwpnm.com.	154639	IN	A	89.133.137.39
+ns4.teybwpnm.com.	154639	IN	A	89.133.172.111
+ns1.dneuine.com.	154639	IN	A	95.104.69.234
+
+;; Query time: 3140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:42:53 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1296
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	89.132.131.231
+odyears.cn.		180	IN	A	91.116.168.26
+odyears.cn.		180	IN	A	92.115.8.236
+odyears.cn.		180	IN	A	81.184.71.156
+odyears.cn.		180	IN	A	86.57.2.47
+odyears.cn.		180	IN	A	89.28.61.92
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.40.253.1
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	172665	IN	A	89.133.137.39
+ns4.teybwpnm.com.	172665	IN	A	62.84.54.174
+ns1.dneuine.com.	172665	IN	A	86.101.10.242
+ns2.dneuine.com.	172665	IN	A	195.140.160.145
+
+;; Query time: 1531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:45:23 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 363
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	89.28.61.92
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.40.253.1
+odyears.cn.		180	IN	A	89.132.131.231
+odyears.cn.		180	IN	A	91.116.168.26
+odyears.cn.		180	IN	A	92.115.8.236
+odyears.cn.		180	IN	A	81.184.71.156
+odyears.cn.		180	IN	A	86.57.2.47
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	165249	IN	A	94.102.19.35
+ns1.dneuine.com.	165249	IN	A	95.104.69.234
+ns2.dneuine.com.	165249	IN	A	89.133.137.39
+ns2.teybwpnm.com.	165249	IN	A	80.98.26.210
+
+;; Query time: 3656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:45:42 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 709
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	93.114.114.13
+odyears.cn.		180	IN	A	116.72.75.53
+odyears.cn.		180	IN	A	78.84.245.67
+odyears.cn.		180	IN	A	78.139.186.82
+odyears.cn.		180	IN	A	88.147.19.4
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.232.37.181
+odyears.cn.		180	IN	A	91.116.168.26
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	158026	IN	A	89.133.137.39
+ns2.teybwpnm.com.	158026	IN	A	81.198.47.148
+ns4.teybwpnm.com.	158026	IN	A	89.40.253.1
+ns1.dneuine.com.	158026	IN	A	78.84.14.235
+
+;; Query time: 4437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:46:52 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 966
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	88.147.19.4
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.232.37.181
+odyears.cn.		180	IN	A	91.116.168.26
+odyears.cn.		180	IN	A	93.114.114.13
+odyears.cn.		180	IN	A	116.72.75.53
+odyears.cn.		180	IN	A	78.84.245.67
+odyears.cn.		180	IN	A	78.139.186.82
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	167994	IN	A	89.133.137.39
+ns2.dneuine.com.	167994	IN	A	92.115.8.236
+ns2.teybwpnm.com.	167994	IN	A	85.66.254.112
+ns4.teybwpnm.com.	167994	IN	A	89.232.37.181
+
+;; Query time: 4468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:47:38 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 283
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	91.116.168.26
+odyears.cn.		180	IN	A	93.114.114.13
+odyears.cn.		180	IN	A	116.72.75.53
+odyears.cn.		180	IN	A	78.84.245.67
+odyears.cn.		180	IN	A	78.139.186.82
+odyears.cn.		180	IN	A	88.147.19.4
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.232.37.181
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	167959	IN	A	85.66.254.112
+ns4.teybwpnm.com.	167959	IN	A	89.232.37.181
+ns1.dneuine.com.	167959	IN	A	89.133.137.39
+ns2.dneuine.com.	167959	IN	A	92.115.8.236
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:48:11 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1819
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		175	IN	A	88.147.19.4
+odyears.cn.		175	IN	A	89.34.156.237
+odyears.cn.		175	IN	A	89.232.37.181
+odyears.cn.		175	IN	A	91.116.168.26
+odyears.cn.		175	IN	A	93.114.114.13
+odyears.cn.		175	IN	A	116.72.75.53
+odyears.cn.		175	IN	A	78.84.245.67
+odyears.cn.		175	IN	A	78.139.186.82
+
+;; AUTHORITY SECTION:
+odyears.cn.		175	IN	NS	ns2.dneuine.com.
+odyears.cn.		175	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		175	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		175	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	114577	IN	A	81.184.71.156
+ns2.teybwpnm.com.	114577	IN	A	70.45.236.166
+ns4.teybwpnm.com.	114577	IN	A	186.12.30.54
+ns1.dneuine.com.	114577	IN	A	89.133.137.39
+
+;; Query time: 2828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:48:19 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 655
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	78.139.186.82
+odyears.cn.		180	IN	A	88.147.19.4
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.232.37.181
+odyears.cn.		180	IN	A	91.116.168.26
+odyears.cn.		180	IN	A	93.114.114.13
+odyears.cn.		180	IN	A	116.72.75.53
+odyears.cn.		180	IN	A	78.84.245.67
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	167927	IN	A	92.115.8.236
+ns2.teybwpnm.com.	167927	IN	A	85.66.254.112
+ns4.teybwpnm.com.	167927	IN	A	89.232.37.181
+ns1.dneuine.com.	167927	IN	A	89.133.137.39
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 22 22:48:58 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1177
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	83.86.122.42
+odyears.cn.		180	IN	A	83.170.205.162
+odyears.cn.		180	IN	A	87.101.119.138
+odyears.cn.		180	IN	A	89.133.172.111
+odyears.cn.		180	IN	A	121.124.76.55
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.97.118
+odyears.cn.		180	IN	A	82.131.6.88
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	162300	IN	A	89.176.85.119
+ns1.dneuine.com.	162300	IN	A	210.121.155.68
+ns2.dneuine.com.	162300	IN	A	87.101.112.192
+ns2.teybwpnm.com.	162300	IN	A	114.76.3.253
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:46 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 867
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.97.118
+odyears.cn.		180	IN	A	82.131.6.88
+odyears.cn.		180	IN	A	83.86.122.42
+odyears.cn.		180	IN	A	83.170.205.162
+odyears.cn.		180	IN	A	87.101.119.138
+odyears.cn.		180	IN	A	89.133.172.111
+odyears.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	144979	IN	A	186.18.20.92
+ns2.teybwpnm.com.	144979	IN	A	210.121.155.68
+ns4.teybwpnm.com.	144979	IN	A	87.101.112.192
+ns1.dneuine.com.	144979	IN	A	91.122.155.90
+
+;; Query time: 2062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:31 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1481
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	89.133.191.120
+odyears.cn.		180	IN	A	92.115.8.13
+odyears.cn.		180	IN	A	93.114.114.13
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.46.140
+odyears.cn.		180	IN	A	81.198.177.37
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.133.137.39
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	123992	IN	A	89.133.137.39
+ns2.dneuine.com.	123992	IN	A	74.65.228.223
+ns2.teybwpnm.com.	123992	IN	A	194.27.100.197
+ns4.teybwpnm.com.	123992	IN	A	163.13.157.217
+
+;; Query time: 1625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Mar 27 23:55:49 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1463
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	83.99.205.198
+odyears.cn.		180	IN	A	84.237.132.93
+odyears.cn.		180	IN	A	88.147.23.181
+odyears.cn.		180	IN	A	89.133.172.111
+odyears.cn.		180	IN	A	92.115.27.82
+odyears.cn.		180	IN	A	62.84.58.100
+odyears.cn.		180	IN	A	79.118.122.78
+odyears.cn.		180	IN	A	83.86.122.42
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	172800	IN	A	77.123.188.188
+ns2.teybwpnm.com.	153388	IN	A	86.57.2.47
+ns4.teybwpnm.com.	172800	IN	A	92.115.27.82
+ns1.dneuine.com.	172800	IN	A	89.133.172.111
+
+;; Query time: 1265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:00:47 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 519
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	78.26.154.108
+odyears.cn.		180	IN	A	79.118.122.78
+odyears.cn.		180	IN	A	85.66.145.238
+odyears.cn.		180	IN	A	87.226.50.79
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	89.137.112.220
+odyears.cn.		180	IN	A	94.52.77.9
+odyears.cn.		180	IN	A	67.36.182.146
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	151569	IN	A	213.222.148.39
+ns1.dneuine.com.	151569	IN	A	59.151.232.164
+ns2.dneuine.com.	151569	IN	A	89.176.85.119
+ns2.teybwpnm.com.	151569	IN	A	217.199.114.203
+
+;; Query time: 1984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:38:45 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1118
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	94.52.77.9
+odyears.cn.		180	IN	A	67.36.182.146
+odyears.cn.		180	IN	A	78.26.154.108
+odyears.cn.		180	IN	A	79.118.122.78
+odyears.cn.		180	IN	A	85.66.145.238
+odyears.cn.		180	IN	A	87.226.50.79
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	89.137.112.220
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	129017	IN	A	85.64.41.116
+ns2.dneuine.com.	129017	IN	A	122.107.120.83
+ns2.teybwpnm.com.	129017	IN	A	93.72.40.172
+ns4.teybwpnm.com.	129017	IN	A	116.72.211.219
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:41:10 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 737
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	219.68.186.112
+odyears.cn.		180	IN	A	80.98.26.210
+odyears.cn.		180	IN	A	84.3.179.80
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.132.131.231
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	89.176.85.119
+odyears.cn.		180	IN	A	92.101.23.233
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	166961	IN	A	77.123.107.64
+ns2.teybwpnm.com.	166961	IN	A	89.133.190.51
+ns4.teybwpnm.com.	166961	IN	A	78.84.14.235
+ns1.dneuine.com.	166961	IN	A	87.101.112.192
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:38:54 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 645
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	80.98.26.210
+odyears.cn.		180	IN	A	84.3.179.80
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.132.131.231
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	89.176.85.119
+odyears.cn.		180	IN	A	92.101.23.233
+odyears.cn.		180	IN	A	219.68.186.112
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	172265	IN	A	89.133.172.111
+ns1.dneuine.com.	172265	IN	A	89.232.37.181
+ns2.dneuine.com.	172265	IN	A	200.79.226.42
+ns2.teybwpnm.com.	172265	IN	A	78.37.26.40
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:41:33 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1944
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	219.68.186.112
+odyears.cn.		180	IN	A	80.98.26.210
+odyears.cn.		180	IN	A	84.3.179.80
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.132.131.231
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	89.176.85.119
+odyears.cn.		180	IN	A	92.101.23.233
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	132642	IN	A	89.133.137.39
+ns1.dneuine.com.	132642	IN	A	77.123.188.188
+ns2.dneuine.com.	132642	IN	A	74.65.228.223
+ns2.teybwpnm.com.	132642	IN	A	165.93.128.92
+
+;; Query time: 62 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:43:19 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1102
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	80.99.15.223
+odyears.cn.		180	IN	A	81.184.70.193
+odyears.cn.		180	IN	A	89.176.85.119
+odyears.cn.		180	IN	A	92.115.8.13
+odyears.cn.		180	IN	A	163.13.157.217
+odyears.cn.		180	IN	A	193.151.252.247
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.97.118
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns3.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns4.ncibneww.com.
+odyears.cn.		180	IN	NS	ns1.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cgsoftly.com.	135476	IN	A	69.227.165.58
+ns4.ncibneww.com.	135476	IN	A	114.76.3.253
+ns1.cgsoftly.com.	135476	IN	A	125.99.137.219
+ns2.ncibneww.com.	135476	IN	A	86.57.2.47
+
+;; Query time: 2328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:35 2009
+;; MSG SIZE  rcvd: 323
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 188
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	91.122.163.75
+odyears.cn.		180	IN	A	92.115.8.13
+odyears.cn.		180	IN	A	92.115.192.218
+odyears.cn.		180	IN	A	190.25.245.50
+odyears.cn.		180	IN	A	212.77.133.16
+odyears.cn.		180	IN	A	87.101.112.192
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.133.137.39
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.ncibneww.com.
+odyears.cn.		180	IN	NS	ns3.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns4.ncibneww.com.
+odyears.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; Query time: 3906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:42:58 2009
+;; MSG SIZE  rcvd: 259
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 961
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	91.122.163.75
+odyears.cn.		180	IN	A	92.115.8.13
+odyears.cn.		180	IN	A	92.115.192.218
+odyears.cn.		180	IN	A	190.25.245.50
+odyears.cn.		180	IN	A	212.77.133.16
+odyears.cn.		180	IN	A	87.101.112.192
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.133.137.39
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.ncibneww.com.
+odyears.cn.		180	IN	NS	ns3.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns4.ncibneww.com.
+odyears.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns2.ncibneww.com.	172708	IN	A	192.116.57.120
+ns4.ncibneww.com.	172708	IN	A	79.122.116.174
+
+;; Query time: 3046 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:44:30 2009
+;; MSG SIZE  rcvd: 291
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2039
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	92.115.192.218
+odyears.cn.		180	IN	A	190.25.245.50
+odyears.cn.		180	IN	A	212.77.133.16
+odyears.cn.		180	IN	A	87.101.112.192
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	91.122.163.75
+odyears.cn.		180	IN	A	92.115.8.13
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.ncibneww.com.
+odyears.cn.		180	IN	NS	ns1.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns2.ncibneww.com.
+odyears.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns4.ncibneww.com.	134133	IN	A	134.32.12.164
+ns1.cgsoftly.com.	134133	IN	A	125.99.137.219
+ns2.ncibneww.com.	134133	IN	A	217.20.77.245
+ns3.cgsoftly.com.	134133	IN	A	114.76.3.253
+
+;; Query time: 2093 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:44:45 2009
+;; MSG SIZE  rcvd: 323
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 378
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	212.77.133.16
+odyears.cn.		180	IN	A	87.101.112.192
+odyears.cn.		180	IN	A	89.34.156.237
+odyears.cn.		180	IN	A	89.133.137.39
+odyears.cn.		180	IN	A	91.122.163.75
+odyears.cn.		180	IN	A	92.115.8.13
+odyears.cn.		180	IN	A	92.115.192.218
+odyears.cn.		180	IN	A	190.25.245.50
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.ncibneww.com.
+odyears.cn.		180	IN	NS	ns1.cgsoftly.com.
+odyears.cn.		180	IN	NS	ns2.ncibneww.com.
+odyears.cn.		180	IN	NS	ns3.cgsoftly.com.
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:45:27 2009
+;; MSG SIZE  rcvd: 259
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1329
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	62.57.8.64
+dfidgxgf.cn.		180	IN	A	62.201.68.213
+dfidgxgf.cn.		180	IN	A	83.99.205.198
+dfidgxgf.cn.		180	IN	A	87.101.119.138
+dfidgxgf.cn.		180	IN	A	89.40.253.1
+dfidgxgf.cn.		180	IN	A	89.176.85.119
+dfidgxgf.cn.		180	IN	A	91.116.169.56
+dfidgxgf.cn.		180	IN	A	92.114.211.34
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns1.linbknhefw.com.	145467	IN	A	121.136.134.143
+ns2.linbknhefw.com.	145467	IN	A	84.17.6.134
+ns3.chlanded.com.	145467	IN	A	92.100.95.115
+ns4.chlanded.com.	145467	IN	A	193.6.155.61
+
+;; Query time: 3812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:38:30 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1057
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	89.176.85.119
+dfidgxgf.cn.		180	IN	A	91.116.169.56
+dfidgxgf.cn.		180	IN	A	92.114.211.34
+dfidgxgf.cn.		180	IN	A	62.57.8.64
+dfidgxgf.cn.		180	IN	A	62.201.68.213
+dfidgxgf.cn.		180	IN	A	83.99.205.198
+dfidgxgf.cn.		180	IN	A	87.101.119.138
+dfidgxgf.cn.		180	IN	A	89.40.253.1
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns4.chlanded.com.	133155	IN	A	98.165.171.134
+ns1.linbknhefw.com.	172797	IN	A	157.193.84.63
+ns2.linbknhefw.com.	172797	IN	A	88.147.11.69
+ns3.chlanded.com.	133155	IN	A	91.116.169.56
+
+;; Query time: 4046 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:40:59 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1554
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	121.124.76.55
+dfidgxgf.cn.		180	IN	A	24.66.46.17
+dfidgxgf.cn.		180	IN	A	59.21.124.47
+dfidgxgf.cn.		180	IN	A	79.121.97.118
+dfidgxgf.cn.		180	IN	A	82.131.6.88
+dfidgxgf.cn.		180	IN	A	83.86.122.42
+dfidgxgf.cn.		180	IN	A	85.66.211.196
+dfidgxgf.cn.		180	IN	A	89.133.172.111
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns1.linbknhefw.com.	143321	IN	A	210.121.155.68
+ns2.linbknhefw.com.	143321	IN	A	114.76.3.253
+ns3.chlanded.com.	143321	IN	A	87.101.112.192
+ns4.chlanded.com.	143321	IN	A	84.17.6.134
+
+;; Query time: 1015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:57 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 667
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	59.21.124.47
+dfidgxgf.cn.		180	IN	A	79.121.97.118
+dfidgxgf.cn.		180	IN	A	82.131.6.88
+dfidgxgf.cn.		180	IN	A	83.86.122.42
+dfidgxgf.cn.		180	IN	A	85.66.211.196
+dfidgxgf.cn.		180	IN	A	89.133.172.111
+dfidgxgf.cn.		180	IN	A	121.124.76.55
+dfidgxgf.cn.		180	IN	A	24.66.46.17
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns4.chlanded.com.	143066	IN	A	84.17.6.134
+ns1.linbknhefw.com.	163634	IN	A	157.193.84.63
+ns2.linbknhefw.com.	163634	IN	A	165.93.128.92
+ns3.chlanded.com.	143066	IN	A	87.101.112.192
+
+;; Query time: 3265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:19 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1797
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	89.137.112.220
+dfidgxgf.cn.		180	IN	A	213.169.70.189
+dfidgxgf.cn.		180	IN	A	62.84.63.152
+dfidgxgf.cn.		180	IN	A	78.26.154.108
+dfidgxgf.cn.		180	IN	A	82.131.101.250
+dfidgxgf.cn.		180	IN	A	85.64.41.116
+dfidgxgf.cn.		180	IN	A	87.101.112.192
+dfidgxgf.cn.		180	IN	A	89.133.172.111
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns4.chlanded.com.	140741	IN	A	89.133.137.39
+ns1.linbknhefw.com.	172799	IN	A	85.66.145.238
+ns2.linbknhefw.com.	172799	IN	A	68.51.195.151
+ns3.chlanded.com.	140741	IN	A	114.76.3.253
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:37:15 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 631
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	62.84.54.37
+dfidgxgf.cn.		180	IN	A	67.36.182.146
+dfidgxgf.cn.		180	IN	A	79.118.122.78
+dfidgxgf.cn.		180	IN	A	85.66.145.238
+dfidgxgf.cn.		180	IN	A	87.226.50.79
+dfidgxgf.cn.		180	IN	A	89.133.137.39
+dfidgxgf.cn.		180	IN	A	89.137.112.220
+dfidgxgf.cn.		180	IN	A	94.52.77.9
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+
+;; ADDITIONAL SECTION:
+ns2.linbknhefw.com.	140433	IN	A	98.165.171.134
+ns3.chlanded.com.	140433	IN	A	114.76.3.253
+ns4.chlanded.com.	140433	IN	A	89.133.137.39
+ns1.linbknhefw.com.	140433	IN	A	219.68.185.141
+
+;; Query time: 2937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 22:41:56 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1545
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	92.115.8.13
+dfidgxgf.cn.		180	IN	A	116.127.124.30
+dfidgxgf.cn.		180	IN	A	163.13.157.217
+dfidgxgf.cn.		180	IN	A	193.151.252.247
+dfidgxgf.cn.		180	IN	A	62.201.113.51
+dfidgxgf.cn.		180	IN	A	80.99.15.223
+dfidgxgf.cn.		180	IN	A	81.184.70.193
+dfidgxgf.cn.		180	IN	A	89.176.85.119
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+
+;; ADDITIONAL SECTION:
+ns2.linbknhefw.com.	135164	IN	A	217.20.77.245
+ns3.chlanded.com.	135164	IN	A	89.133.137.39
+ns4.chlanded.com.	135164	IN	A	83.170.195.182
+ns1.linbknhefw.com.	135164	IN	A	125.99.137.219
+
+;; Query time: 2687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:55 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 383
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	84.3.84.212
+dfidgxgf.cn.		180	IN	A	86.126.94.54
+dfidgxgf.cn.		180	IN	A	121.182.220.81
+dfidgxgf.cn.		180	IN	A	212.90.185.230
+dfidgxgf.cn.		180	IN	A	62.84.47.211
+dfidgxgf.cn.		180	IN	A	77.120.242.70
+dfidgxgf.cn.		180	IN	A	78.84.14.235
+dfidgxgf.cn.		180	IN	A	78.84.245.67
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+
+;; ADDITIONAL SECTION:
+ns2.linbknhefw.com.	172717	IN	A	121.182.220.81
+ns3.chlanded.com.	172717	IN	A	77.122.208.101
+ns4.chlanded.com.	172717	IN	A	94.101.233.242
+ns1.linbknhefw.com.	172717	IN	A	78.84.245.67
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:38:40 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 885
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	217.20.77.105
+dfidgxgf.cn.		180	IN	A	62.201.119.53
+dfidgxgf.cn.		180	IN	A	62.205.128.209
+dfidgxgf.cn.		180	IN	A	77.120.242.70
+dfidgxgf.cn.		180	IN	A	81.184.70.193
+dfidgxgf.cn.		180	IN	A	115.186.124.79
+dfidgxgf.cn.		180	IN	A	190.6.230.54
+dfidgxgf.cn.		180	IN	A	210.183.129.212
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+
+;; ADDITIONAL SECTION:
+ns3.chlanded.com.	172735	IN	A	201.231.97.165
+ns4.chlanded.com.	172735	IN	A	81.184.70.193
+ns1.linbknhefw.com.	172735	IN	A	77.120.242.70
+ns2.linbknhefw.com.	172735	IN	A	200.79.226.112
+
+;; Query time: 4296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 08 22:41:22 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+

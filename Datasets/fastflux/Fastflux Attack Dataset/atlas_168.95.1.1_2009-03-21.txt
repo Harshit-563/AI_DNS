@@ -1,0 +1,192 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xilleixf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 962
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;xilleixf.cn.			IN	A
+
+;; ANSWER SECTION:
+xilleixf.cn.		180	IN	A	88.132.2.165
+xilleixf.cn.		180	IN	A	89.232.37.181
+xilleixf.cn.		180	IN	A	92.115.8.236
+xilleixf.cn.		180	IN	A	95.104.69.234
+xilleixf.cn.		180	IN	A	24.215.217.40
+xilleixf.cn.		180	IN	A	70.45.236.166
+xilleixf.cn.		180	IN	A	81.184.71.156
+xilleixf.cn.		180	IN	A	84.3.248.197
+
+;; AUTHORITY SECTION:
+xilleixf.cn.		180	IN	NS	ns1.ninknedsew.com.
+xilleixf.cn.		180	IN	NS	ns2.riehjkwqdsw.com.
+xilleixf.cn.		180	IN	NS	ns3.ninknedsew.com.
+xilleixf.cn.		180	IN	NS	ns4.ninknedsew.com.
+
+;; ADDITIONAL SECTION:
+ns1.ninknedsew.com.	104230	IN	A	83.86.122.42
+ns2.riehjkwqdsw.com.	104230	IN	A	78.96.248.243
+ns3.ninknedsew.com.	104230	IN	A	89.133.137.39
+
+;; Query time: 1968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:12 2009
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 8345server.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 900
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;8345server.com.			IN	A
+
+;; ANSWER SECTION:
+8345server.com.		1800	IN	A	121.84.118.16
+8345server.com.		1800	IN	A	200.73.229.212
+8345server.com.		1800	IN	A	208.120.237.132
+8345server.com.		1800	IN	A	84.121.116.138
+8345server.com.		1800	IN	A	98.234.74.152
+
+;; AUTHORITY SECTION:
+8345server.com.		1800	IN	NS	ns1.resoursedone.com.
+8345server.com.		1800	IN	NS	ns2.resoursedone.com.
+
+;; ADDITIONAL SECTION:
+ns1.resoursedone.com.	130403	IN	A	207.150.183.185
+ns2.resoursedone.com.	166455	IN	A	66.249.15.114
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:13 2009
+;; MSG SIZE  rcvd: 207
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 736signin.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1092
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;736signin.com.			IN	A
+
+;; ANSWER SECTION:
+736signin.com.		1800	IN	A	200.73.229.212
+736signin.com.		1800	IN	A	208.120.237.132
+736signin.com.		1800	IN	A	84.121.116.138
+736signin.com.		1800	IN	A	98.234.74.152
+736signin.com.		1800	IN	A	121.84.118.16
+
+;; AUTHORITY SECTION:
+736signin.com.		1800	IN	NS	ns1.resoursedone.com.
+736signin.com.		1800	IN	NS	ns2.resoursedone.com.
+
+;; ADDITIONAL SECTION:
+ns1.resoursedone.com.	162825	IN	A	207.150.183.185
+ns2.resoursedone.com.	137114	IN	A	66.249.15.114
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:13 2009
+;; MSG SIZE  rcvd: 205
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 637login.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1070
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;637login.com.			IN	A
+
+;; ANSWER SECTION:
+637login.com.		1800	IN	A	98.234.74.152
+637login.com.		1800	IN	A	121.84.118.16
+637login.com.		1800	IN	A	200.73.229.212
+637login.com.		1800	IN	A	208.120.237.132
+637login.com.		1800	IN	A	84.121.116.138
+
+;; AUTHORITY SECTION:
+637login.com.		1800	IN	NS	ns1.resoursedone.com.
+637login.com.		1800	IN	NS	ns2.resoursedone.com.
+
+;; ADDITIONAL SECTION:
+ns1.resoursedone.com.	127126	IN	A	207.150.183.185
+ns2.resoursedone.com.	119918	IN	A	66.249.15.114
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:14 2009
+;; MSG SIZE  rcvd: 203
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 5435core.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1851
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;5435core.com.			IN	A
+
+;; ANSWER SECTION:
+5435core.com.		1800	IN	A	98.234.74.152
+5435core.com.		1800	IN	A	121.84.118.16
+5435core.com.		1800	IN	A	200.73.229.212
+5435core.com.		1800	IN	A	208.120.237.132
+5435core.com.		1800	IN	A	84.121.116.138
+
+;; AUTHORITY SECTION:
+5435core.com.		137926	IN	NS	ns1.resoursedone.com.
+5435core.com.		137926	IN	NS	ns2.resoursedone.com.
+
+;; ADDITIONAL SECTION:
+ns1.resoursedone.com.	119584	IN	A	207.150.183.185
+ns2.resoursedone.com.	127489	IN	A	66.249.15.114
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:14 2009
+;; MSG SIZE  rcvd: 203
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 344session.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1179
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;344session.com.			IN	A
+
+;; ANSWER SECTION:
+344session.com.		1800	IN	A	121.84.118.16
+344session.com.		1800	IN	A	200.73.229.212
+344session.com.		1800	IN	A	208.120.237.132
+344session.com.		1800	IN	A	84.121.116.138
+344session.com.		1800	IN	A	98.234.74.152
+
+;; AUTHORITY SECTION:
+344session.com.		1800	IN	NS	ns1.resoursedone.com.
+344session.com.		1800	IN	NS	ns2.resoursedone.com.
+
+;; ADDITIONAL SECTION:
+ns1.resoursedone.com.	134117	IN	A	207.150.183.185
+ns2.resoursedone.com.	149058	IN	A	66.249.15.114
+
+;; Query time: 1578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 21 22:35:16 2009
+;; MSG SIZE  rcvd: 207
+
+

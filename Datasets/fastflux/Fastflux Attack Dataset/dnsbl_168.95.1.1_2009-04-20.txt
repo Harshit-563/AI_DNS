@@ -1,0 +1,2788 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 181
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	75.87.66.214
+acceptslim.com.		180	IN	A	190.166.27.13
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	66.61.138.226
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	85.106.179.194
+acceptslim.com.		180	IN	A	12.154.3.21
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:35:36 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1679
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	66.61.138.226
+acceptslim.com.		180	IN	A	24.122.37.205
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	85.106.179.194
+acceptslim.com.		180	IN	A	79.70.158.114
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	76.109.134.38
+acceptslim.com.		180	IN	A	71.199.237.190
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:39:18 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1717
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	88.169.82.101
+acceptslim.com.		180	IN	A	190.166.27.13
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	85.106.179.194
+acceptslim.com.		180	IN	A	24.122.37.205
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	66.61.138.226
+
+;; Query time: 4968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:39:58 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1428
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	66.61.138.226
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	190.166.27.13
+acceptslim.com.		180	IN	A	24.122.37.205
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	88.169.82.101
+acceptslim.com.		180	IN	A	85.106.179.194
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:07 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1064
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	24.122.37.205
+acceptslim.com.		180	IN	A	88.169.82.101
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	190.166.27.13
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	66.61.138.226
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	85.106.179.194
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:37 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 116
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	85.106.179.194
+acceptslim.com.		180	IN	A	88.169.82.101
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	99.136.108.225
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	190.166.27.13
+acceptslim.com.		180	IN	A	66.61.138.226
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	24.122.37.205
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Mar 29 22:40:38 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 474
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	71.199.237.190
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	88.224.49.111
+acceptslim.com.		180	IN	A	68.33.154.250
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	75.4.207.59
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:40:47 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1472
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	75.4.207.59
+acceptslim.com.		180	IN	A	88.224.49.111
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	68.33.154.250
+acceptslim.com.		180	IN	A	71.199.237.190
+acceptslim.com.		180	IN	A	81.56.143.182
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:00 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 296
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.224.49.111
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	71.199.237.190
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	68.33.154.250
+acceptslim.com.		180	IN	A	75.4.207.59
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:00 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 404
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	68.33.154.250
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	75.4.207.59
+acceptslim.com.		180	IN	A	88.224.49.111
+acceptslim.com.		180	IN	A	71.199.237.190
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	82.191.44.66
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:22 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 545
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	68.80.255.93
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	88.160.147.33
+acceptslim.com.		180	IN	A	41.145.48.18
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	82.147.125.46
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	98.134.244.177
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:42 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 79
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	68.80.255.93
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	82.147.125.46
+acceptslim.com.		180	IN	A	41.145.48.18
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	98.134.244.177
+acceptslim.com.		180	IN	A	88.160.147.33
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:41:43 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 795
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	68.80.255.93
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	82.147.125.46
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	41.145.48.18
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	88.160.147.33
+acceptslim.com.		180	IN	A	98.134.244.177
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 30 22:43:00 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1198
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	64.130.127.154
+acceptslim.com.		180	IN	A	88.169.242.88
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	78.180.76.7
+acceptslim.com.		180	IN	A	213.149.20.134
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	69.94.203.178
+acceptslim.com.		180	IN	A	82.191.44.68
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:41:55 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 280
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	97.81.103.44
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	84.9.45.206
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	78.180.76.7
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	200.168.82.93
+acceptslim.com.		180	IN	A	71.224.214.18
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:42:49 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 769
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	97.81.103.44
+acceptslim.com.		180	IN	A	78.180.76.7
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	84.9.45.206
+acceptslim.com.		180	IN	A	200.168.82.93
+
+;; Query time: 4265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:42:53 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 651
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	84.9.45.206
+acceptslim.com.		180	IN	A	200.168.82.93
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	97.81.103.44
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	78.180.76.7
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 4000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:42:58 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1252
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	84.9.45.206
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	97.81.103.44
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	78.180.76.7
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	200.168.82.93
+acceptslim.com.		180	IN	A	58.185.181.30
+
+;; Query time: 4218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 31 22:43:03 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 411
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	85.234.167.204
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	130.13.98.247
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	84.9.47.94
+
+;; Query time: 984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:41:08 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 115
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	85.234.167.204
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	84.9.47.94
+acceptslim.com.		180	IN	A	130.13.98.247
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	68.42.12.52
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 4359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:42:14 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1446
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	76.109.134.38
+acceptslim.com.		180	IN	A	82.191.44.68
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	190.100.6.83
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	88.169.242.88
+acceptslim.com.		180	IN	A	200.222.60.195
+
+;; Query time: 1906 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 01 22:43:15 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 678
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	75.4.209.176
+acceptslim.com.		180	IN	A	75.48.1.252
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	66.177.193.93
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	173.45.210.202
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 02 22:36:51 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1664
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	75.4.209.176
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	66.177.193.93
+acceptslim.com.		180	IN	A	58.185.181.30
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	75.48.1.252
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	67.164.131.90
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 02 22:38:28 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1816
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	84.9.45.248
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	84.253.72.200
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	88.230.74.164
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	216.184.89.6
+
+;; Query time: 2406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:39:36 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1348
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.230.74.164
+acceptslim.com.		180	IN	A	58.7.98.117
+acceptslim.com.		180	IN	A	85.227.168.163
+acceptslim.com.		180	IN	A	66.177.193.93
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	84.253.72.200
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	138.238.175.109
+
+;; Query time: 859 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:32 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 525
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	58.7.98.117
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	85.227.168.163
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	88.230.74.164
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	84.253.72.200
+acceptslim.com.		180	IN	A	66.177.193.93
+acceptslim.com.		180	IN	A	88.148.36.213
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:33 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1664
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	85.227.168.163
+acceptslim.com.		180	IN	A	58.7.98.117
+acceptslim.com.		180	IN	A	84.253.72.200
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	88.230.74.164
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	66.177.193.93
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:34 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 289
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	84.253.72.200
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	88.230.74.164
+acceptslim.com.		180	IN	A	66.177.193.93
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	85.227.168.163
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	58.7.98.117
+acceptslim.com.		180	IN	A	88.148.36.213
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 03 22:40:35 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1061
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	62.248.81.135
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	58.7.168.169
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	78.224.204.17
+acceptslim.com.		180	IN	A	200.222.60.195
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:58 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 405
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	69.89.222.117
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:34 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 999
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		170	IN	A	66.137.5.201
+acceptslim.com.		170	IN	A	173.45.210.202
+acceptslim.com.		170	IN	A	69.89.222.117
+acceptslim.com.		170	IN	A	82.66.22.14
+acceptslim.com.		170	IN	A	88.148.36.213
+acceptslim.com.		170	IN	A	82.191.44.66
+acceptslim.com.		170	IN	A	82.143.216.141
+acceptslim.com.		170	IN	A	138.238.175.109
+acceptslim.com.		170	IN	A	24.81.18.211
+acceptslim.com.		170	IN	A	67.164.131.90
+
+;; AUTHORITY SECTION:
+acceptslim.com.		172790	IN	NS	ns1.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns2.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns3.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns4.thingyns.com.
+
+;; ADDITIONAL SECTION:
+ns1.thingyns.com.	159500	IN	A	71.224.214.18
+ns2.thingyns.com.	19	IN	A	71.224.214.18
+ns3.thingyns.com.	159500	IN	A	138.238.175.109
+ns4.thingyns.com.	19	IN	A	138.238.175.109
+
+;; Query time: 15 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:44 2009
+;; MSG SIZE  rcvd: 337
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 244
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	67.164.131.90
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:54 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1098
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	68.190.207.79
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	74.137.210.2
+acceptslim.com.		180	IN	A	119.95.151.76
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	220.235.20.238
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 4593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:38:50 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 581
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	119.95.151.76
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	68.190.207.79
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	74.137.210.2
+acceptslim.com.		180	IN	A	71.224.214.18
+acceptslim.com.		180	IN	A	220.235.20.238
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 05 22:41:12 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1171
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	216.184.89.6
+acceptslim.com.		180	IN	A	65.96.16.87
+acceptslim.com.		180	IN	A	72.242.232.68
+acceptslim.com.		180	IN	A	98.209.125.36
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	158.142.159.251
+acceptslim.com.		180	IN	A	88.36.230.146
+acceptslim.com.		180	IN	A	200.222.60.195
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:36:41 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1939
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	88.36.230.146
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	201.87.127.99
+acceptslim.com.		180	IN	A	158.142.159.251
+acceptslim.com.		180	IN	A	119.95.145.202
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	200.206.209.195
+
+;; Query time: 3984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:38:30 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	88.36.230.146
+acceptslim.com.		180	IN	A	81.56.143.182
+acceptslim.com.		180	IN	A	99.194.126.176
+acceptslim.com.		180	IN	A	158.142.159.251
+acceptslim.com.		180	IN	A	201.87.127.99
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	119.95.145.202
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	98.223.70.212
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 06 22:38:41 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 556
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	217.249.224.191
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	98.209.125.36
+acceptslim.com.		180	IN	A	24.65.117.239
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	76.122.155.74
+acceptslim.com.		180	IN	A	69.131.240.74
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	82.248.77.45
+
+;; Query time: 2531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:36:39 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 878
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	69.131.240.74
+acceptslim.com.		180	IN	A	76.122.155.74
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	98.209.125.36
+acceptslim.com.		180	IN	A	217.249.224.191
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	82.248.77.45
+acceptslim.com.		180	IN	A	24.65.117.239
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:37:48 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1498
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.131.240.74
+acceptslim.com.		180	IN	A	82.248.77.45
+acceptslim.com.		180	IN	A	66.168.181.124
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	200.222.60.195
+acceptslim.com.		180	IN	A	83.217.1.147
+acceptslim.com.		180	IN	A	24.65.117.239
+acceptslim.com.		180	IN	A	72.242.232.68
+acceptslim.com.		180	IN	A	138.238.175.109
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:27 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1436
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	195.28.59.154
+acceptslim.com.		180	IN	A	200.222.60.195
+acceptslim.com.		180	IN	A	24.65.117.239
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	82.248.77.45
+acceptslim.com.		180	IN	A	66.168.181.124
+acceptslim.com.		180	IN	A	83.217.1.147
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	72.242.232.68
+acceptslim.com.		180	IN	A	69.131.240.74
+
+;; Query time: 3453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:38 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 179
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.131.240.74
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	88.160.70.154
+acceptslim.com.		180	IN	A	24.65.117.239
+acceptslim.com.		180	IN	A	217.249.224.191
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	76.122.155.74
+acceptslim.com.		180	IN	A	98.209.125.36
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	82.248.77.45
+
+;; Query time: 1015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 07 22:38:40 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1385
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	75.207.142.149
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:47:51 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 629
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 1234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:49:24 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	60.254.49.145
+
+;; Query time: 4234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:49:45 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1426
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	68.180.113.4
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:49:45 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 940
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	98.223.70.212
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:49:46 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 928
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	24.76.224.180
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:50:01 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 872
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	190.144.119.61
+
+;; Query time: 4890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:50:06 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1055
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	68.180.113.4
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	75.207.142.149
+acceptslim.com.		180	IN	A	60.254.49.145
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	24.76.224.180
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	68.113.42.224
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	98.223.70.212
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 11:50:07 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1744
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	98.223.70.212
+
+;; Query time: 1828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:37:36 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 324
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:38:03 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 465
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	195.73.247.206
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:19 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1033
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:19 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1580
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	189.47.170.171
+
+;; Query time: 1578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:42 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1839
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:51 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	93.92.34.238
+
+;; Query time: 4015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:55 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1275
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	189.47.170.171
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	86.104.128.136
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:40:56 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1395
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		159	IN	A	131.204.196.222
+acceptslim.com.		159	IN	A	138.238.175.109
+acceptslim.com.		159	IN	A	93.92.34.238
+acceptslim.com.		159	IN	A	86.104.128.136
+acceptslim.com.		159	IN	A	98.223.70.212
+acceptslim.com.		159	IN	A	88.228.112.129
+acceptslim.com.		159	IN	A	124.104.200.71
+acceptslim.com.		159	IN	A	190.144.119.61
+acceptslim.com.		159	IN	A	189.47.170.171
+acceptslim.com.		159	IN	A	195.73.247.206
+
+;; AUTHORITY SECTION:
+acceptslim.com.		172778	IN	NS	ns1.thingyns.com.
+acceptslim.com.		172778	IN	NS	ns2.thingyns.com.
+acceptslim.com.		172778	IN	NS	ns3.thingyns.com.
+acceptslim.com.		172778	IN	NS	ns4.thingyns.com.
+
+;; ADDITIONAL SECTION:
+ns1.thingyns.com.	159031	IN	A	68.180.113.4
+ns2.thingyns.com.	158171	IN	A	84.243.28.180
+ns3.thingyns.com.	158728	IN	A	138.238.175.109
+ns4.thingyns.com.	158197	IN	A	69.131.240.74
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:41:12 2009
+;; MSG SIZE  rcvd: 337
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1528
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	88.228.112.129
+acceptslim.com.		180	IN	A	190.144.119.61
+acceptslim.com.		180	IN	A	131.204.196.222
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	124.104.200.71
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	189.47.170.171
+
+;; Query time: 1562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:41:13 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1219
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		147	IN	A	98.223.70.212
+acceptslim.com.		147	IN	A	131.204.196.222
+acceptslim.com.		147	IN	A	138.238.175.109
+acceptslim.com.		147	IN	A	124.104.200.71
+acceptslim.com.		147	IN	A	195.73.247.206
+acceptslim.com.		147	IN	A	93.92.34.238
+acceptslim.com.		147	IN	A	190.144.119.61
+acceptslim.com.		147	IN	A	189.47.170.171
+acceptslim.com.		147	IN	A	86.104.128.136
+acceptslim.com.		147	IN	A	88.228.112.129
+
+;; AUTHORITY SECTION:
+acceptslim.com.		172767	IN	NS	ns1.thingyns.com.
+acceptslim.com.		172767	IN	NS	ns2.thingyns.com.
+acceptslim.com.		172767	IN	NS	ns3.thingyns.com.
+acceptslim.com.		172767	IN	NS	ns4.thingyns.com.
+
+;; ADDITIONAL SECTION:
+ns1.thingyns.com.	122736	IN	A	68.180.113.4
+ns2.thingyns.com.	121414	IN	A	84.243.28.180
+ns3.thingyns.com.	120702	IN	A	138.238.175.109
+ns4.thingyns.com.	123883	IN	A	69.131.240.74
+
+;; Query time: 1281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 10 22:41:14 2009
+;; MSG SIZE  rcvd: 337
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1201
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	71.199.70.12
+acceptslim.com.		180	IN	A	76.18.120.208
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	74.140.244.48
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	77.210.136.147
+acceptslim.com.		180	IN	A	78.155.206.122
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	125.212.237.204
+
+;; Query time: 3562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:37:20 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 435
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	74.140.244.48
+acceptslim.com.		180	IN	A	71.199.70.12
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	78.155.206.122
+acceptslim.com.		180	IN	A	76.18.120.208
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	77.210.136.147
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	92.67.40.218
+acceptslim.com.		180	IN	A	125.212.237.204
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:38:19 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1298
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	81.218.137.68
+acceptslim.com.		180	IN	A	190.137.48.77
+acceptslim.com.		180	IN	A	67.59.8.134
+acceptslim.com.		180	IN	A	194.123.27.181
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	76.18.120.208
+acceptslim.com.		180	IN	A	24.83.74.35
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	75.199.107.136
+
+;; Query time: 1421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:37:32 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1436
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	67.59.8.134
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	81.218.137.68
+acceptslim.com.		180	IN	A	24.83.74.35
+acceptslim.com.		180	IN	A	190.137.48.77
+acceptslim.com.		180	IN	A	194.123.27.181
+acceptslim.com.		180	IN	A	75.199.107.136
+acceptslim.com.		180	IN	A	76.18.120.208
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:03 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1716
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.83.74.35
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	194.123.27.181
+acceptslim.com.		180	IN	A	75.199.107.136
+acceptslim.com.		180	IN	A	81.218.137.68
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	67.59.8.134
+acceptslim.com.		180	IN	A	76.18.120.208
+acceptslim.com.		180	IN	A	190.137.48.77
+
+;; Query time: 1000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:38:04 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 137
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	82.143.216.166
+acceptslim.com.		180	IN	A	67.59.8.134
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	76.226.191.94
+acceptslim.com.		180	IN	A	200.171.17.209
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	77.210.86.58
+acceptslim.com.		180	IN	A	72.42.177.34
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:37:48 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 741
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	67.59.8.134
+acceptslim.com.		180	IN	A	82.143.216.166
+acceptslim.com.		180	IN	A	76.226.191.94
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	200.171.17.209
+acceptslim.com.		180	IN	A	72.42.177.34
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	77.210.86.58
+
+;; Query time: 4343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:37:57 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	82.143.216.166
+acceptslim.com.		180	IN	A	88.160.167.92
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	200.171.17.209
+acceptslim.com.		180	IN	A	77.210.86.58
+acceptslim.com.		180	IN	A	76.226.191.94
+acceptslim.com.		180	IN	A	72.42.177.34
+acceptslim.com.		180	IN	A	67.59.8.134
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:40:23 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1526
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	213.153.50.123
+acceptslim.com.		180	IN	A	128.151.135.198
+acceptslim.com.		180	IN	A	98.223.70.212
+acceptslim.com.		180	IN	A	24.83.74.35
+acceptslim.com.		180	IN	A	62.213.30.42
+acceptslim.com.		180	IN	A	71.199.70.12
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	193.69.39.210
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 14 22:37:32 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1132
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.116.80.47
+acceptslim.com.		180	IN	A	72.42.177.34
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	158.142.159.76
+acceptslim.com.		180	IN	A	71.199.70.12
+acceptslim.com.		180	IN	A	195.73.247.206
+acceptslim.com.		180	IN	A	76.14.41.83
+acceptslim.com.		180	IN	A	84.119.1.187
+acceptslim.com.		180	IN	A	160.36.233.117
+acceptslim.com.		180	IN	A	74.75.104.93
+
+;; Query time: 4171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:38:33 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 610
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	24.65.117.239
+acceptslim.com.		180	IN	A	93.80.38.200
+acceptslim.com.		180	IN	A	69.223.153.41
+acceptslim.com.		180	IN	A	200.206.209.195
+acceptslim.com.		180	IN	A	67.175.46.251
+acceptslim.com.		180	IN	A	158.142.159.76
+acceptslim.com.		180	IN	A	128.151.135.198
+acceptslim.com.		180	IN	A	81.218.137.68
+acceptslim.com.		180	IN	A	24.116.80.47
+acceptslim.com.		180	IN	A	70.113.64.114
+
+;; Query time: 1093 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:41:19 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 69
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	74.210.165.165
+acceptslim.com.		180	IN	A	93.80.140.37
+acceptslim.com.		180	IN	A	91.168.81.120
+acceptslim.com.		180	IN	A	207.68.230.120
+acceptslim.com.		180	IN	A	88.187.100.204
+acceptslim.com.		180	IN	A	76.23.116.12
+acceptslim.com.		180	IN	A	62.249.99.70
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	81.56.250.159
+acceptslim.com.		180	IN	A	189.87.98.39
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:37:32 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1317
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	93.80.140.37
+acceptslim.com.		180	IN	A	81.56.250.159
+acceptslim.com.		180	IN	A	62.249.99.70
+acceptslim.com.		180	IN	A	76.23.116.12
+acceptslim.com.		180	IN	A	74.210.165.165
+acceptslim.com.		180	IN	A	189.87.98.39
+acceptslim.com.		180	IN	A	207.68.230.120
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	91.168.81.120
+acceptslim.com.		180	IN	A	88.187.100.204
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:37:32 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1610
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	93.80.140.37
+acceptslim.com.		180	IN	A	89.178.193.6
+acceptslim.com.		180	IN	A	84.190.133.62
+acceptslim.com.		180	IN	A	74.68.141.120
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	76.23.116.12
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	207.68.230.120
+acceptslim.com.		180	IN	A	82.10.48.194
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:38:42 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 145
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.10.48.194
+acceptslim.com.		180	IN	A	89.178.193.6
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	76.23.116.12
+acceptslim.com.		180	IN	A	207.68.230.120
+acceptslim.com.		180	IN	A	93.80.140.37
+acceptslim.com.		180	IN	A	84.190.133.62
+acceptslim.com.		180	IN	A	74.68.141.120
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	82.191.44.66
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:38:47 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1811
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	74.68.141.120
+acceptslim.com.		180	IN	A	82.10.48.194
+acceptslim.com.		180	IN	A	86.104.128.136
+acceptslim.com.		180	IN	A	84.190.133.62
+acceptslim.com.		180	IN	A	76.23.116.12
+acceptslim.com.		180	IN	A	207.68.230.120
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	89.178.193.6
+acceptslim.com.		180	IN	A	93.80.140.37
+acceptslim.com.		180	IN	A	69.89.222.117
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:39:38 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1633
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238327 1800 900 604800 900
+
+;; Query time: 1437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:38:59 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 826
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238357 1800 900 604800 900
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:39:22 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1044
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238357 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:39:24 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 852
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238511 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:41:55 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1904
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238511 1800 900 604800 900
+
+;; Query time: 1468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:41:56 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 381
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238511 1800 900 604800 900
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:41:57 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1209
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238511 1800 900 604800 900
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:41:57 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1135
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238526 1800 900 604800 900
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:42:18 2009
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1065
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	79.70.120.137
+1ilhf.com.		1800	IN	A	79.164.61.102
+1ilhf.com.		1800	IN	A	79.165.41.211
+1ilhf.com.		1800	IN	A	81.203.87.207
+1ilhf.com.		1800	IN	A	82.47.35.68
+1ilhf.com.		1800	IN	A	83.24.210.44
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	85.155.207.27
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	62.30.88.159
+1ilhf.com.		1800	IN	A	67.193.190.252
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	78.136.90.145
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns2.suportservice.com.	169174	IN	A	76.28.249.13
+ns1.adventury-s.com.	158296	IN	A	74.81.90.74
+ns1.suportservice.com.	169174	IN	A	74.81.90.74
+ns2.adventury-s.com.	158374	IN	A	66.45.136.84
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:35:16 2009
+;; MSG SIZE  rcvd: 438
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 771
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+
+;; ADDITIONAL SECTION:
+ns2.adventury-s.com.	172696	IN	A	66.45.136.84
+ns2.suportservice.com.	172696	IN	A	76.28.249.13
+ns1.adventury-s.com.	172684	IN	A	74.81.90.74
+ns1.suportservice.com.	172696	IN	A	74.81.90.74
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:37:39 2009
+;; MSG SIZE  rcvd: 438
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1785
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+
+;; ADDITIONAL SECTION:
+ns1.adventury-s.com.	172800	IN	A	74.81.90.74
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:38:34 2009
+;; MSG SIZE  rcvd: 390
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1481
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+1ilhf.com.		1800	IN	A	201.233.45.234
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns1.adventury-s.com.	172800	IN	A	74.81.90.74
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:38:38 2009
+;; MSG SIZE  rcvd: 390
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1138
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+
+;; ADDITIONAL SECTION:
+ns2.adventury-s.com.	163517	IN	A	66.45.136.84
+ns1.adventury-s.com.	163517	IN	A	74.81.90.74
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:38:40 2009
+;; MSG SIZE  rcvd: 406
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 351
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns2.adventury-s.com.	161023	IN	A	66.45.136.84
+ns1.adventury-s.com.	161023	IN	A	74.81.90.74
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:39:08 2009
+;; MSG SIZE  rcvd: 406
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 171
+;; flags: qr rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1771	IN	A	86.15.224.146
+1ilhf.com.		1771	IN	A	92.237.25.216
+1ilhf.com.		1771	IN	A	124.66.240.30
+1ilhf.com.		1771	IN	A	189.120.41.35
+1ilhf.com.		1771	IN	A	201.233.45.234
+1ilhf.com.		1771	IN	A	38.102.19.237
+1ilhf.com.		1771	IN	A	77.100.242.200
+1ilhf.com.		1771	IN	A	79.70.62.232
+1ilhf.com.		1771	IN	A	79.165.45.101
+1ilhf.com.		1771	IN	A	79.172.72.90
+1ilhf.com.		1771	IN	A	83.24.223.138
+1ilhf.com.		1771	IN	A	84.125.47.12
+1ilhf.com.		1771	IN	A	84.126.94.112
+1ilhf.com.		1771	IN	A	85.85.230.64
+1ilhf.com.		1771	IN	A	85.137.243.224
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1771	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1771	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1771	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1771	IN	NS	ns1.suportservice.com.
+
+;; ADDITIONAL SECTION:
+ns2.adventury-s.com.	163488	IN	A	66.45.136.84
+ns2.suportservice.com.	172771	IN	A	76.28.249.13
+ns1.adventury-s.com.	163488	IN	A	74.81.90.74
+ns1.suportservice.com.	172771	IN	A	74.81.90.74
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:39:09 2009
+;; MSG SIZE  rcvd: 429
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1971
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+
+;; ADDITIONAL SECTION:
+ns2.suportservice.com.	172709	IN	A	76.28.249.13
+ns1.adventury-s.com.	172800	IN	A	74.81.90.74
+ns1.suportservice.com.	172709	IN	A	74.81.90.74
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:40:13 2009
+;; MSG SIZE  rcvd: 422
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1096
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; ANSWER SECTION:
+1ilhf.com.		1800	IN	A	92.237.25.216
+1ilhf.com.		1800	IN	A	124.66.240.30
+1ilhf.com.		1800	IN	A	189.120.41.35
+1ilhf.com.		1800	IN	A	201.233.45.234
+1ilhf.com.		1800	IN	A	38.102.19.237
+1ilhf.com.		1800	IN	A	77.100.242.200
+1ilhf.com.		1800	IN	A	79.70.62.232
+1ilhf.com.		1800	IN	A	79.165.45.101
+1ilhf.com.		1800	IN	A	79.172.72.90
+1ilhf.com.		1800	IN	A	83.24.223.138
+1ilhf.com.		1800	IN	A	84.125.47.12
+1ilhf.com.		1800	IN	A	84.126.94.112
+1ilhf.com.		1800	IN	A	85.85.230.64
+1ilhf.com.		1800	IN	A	85.137.243.224
+1ilhf.com.		1800	IN	A	86.15.224.146
+
+;; AUTHORITY SECTION:
+1ilhf.com.		1800	IN	NS	ns2.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns1.adventury-s.com.
+1ilhf.com.		1800	IN	NS	ns1.suportservice.com.
+1ilhf.com.		1800	IN	NS	ns2.adventury-s.com.
+
+;; ADDITIONAL SECTION:
+ns1.adventury-s.com.	172451	IN	A	74.81.90.74
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:41:15 2009
+;; MSG SIZE  rcvd: 390
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 989
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238542 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:42:35 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 1ilhf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 349
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;1ilhf.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240238572 1800 900 604800 900
+
+;; Query time: 1687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:43:12 2009
+;; MSG SIZE  rcvd: 103
+
+

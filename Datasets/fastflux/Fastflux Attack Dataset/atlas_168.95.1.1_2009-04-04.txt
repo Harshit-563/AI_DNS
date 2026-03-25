@@ -1,0 +1,159 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fissfioo.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1959
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fissfioo.cn.			IN	A
+
+;; ANSWER SECTION:
+fissfioo.cn.		180	IN	A	89.232.28.247
+fissfioo.cn.		180	IN	A	93.170.70.229
+fissfioo.cn.		180	IN	A	94.52.77.9
+fissfioo.cn.		180	IN	A	194.208.177.215
+fissfioo.cn.		180	IN	A	213.100.206.161
+fissfioo.cn.		180	IN	A	81.195.46.67
+fissfioo.cn.		180	IN	A	89.34.156.237
+fissfioo.cn.		180	IN	A	89.148.100.95
+
+;; AUTHORITY SECTION:
+fissfioo.cn.		180	IN	NS	ns3.cgsoftly.com.
+fissfioo.cn.		180	IN	NS	ns4.ncibneww.com.
+fissfioo.cn.		180	IN	NS	ns1.cgsoftly.com.
+fissfioo.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cgsoftly.com.	152878	IN	A	78.26.154.108
+ns4.ncibneww.com.	152879	IN	A	165.93.128.92
+ns1.cgsoftly.com.	152527	IN	A	59.151.232.164
+ns2.ncibneww.com.	152879	IN	A	83.86.122.42
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:11 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fiijssgc.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2023
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fiijssgc.cn.			IN	A
+
+;; ANSWER SECTION:
+fiijssgc.cn.		180	IN	A	81.195.46.67
+fiijssgc.cn.		180	IN	A	89.34.156.237
+fiijssgc.cn.		180	IN	A	89.148.100.95
+fiijssgc.cn.		180	IN	A	89.232.28.247
+fiijssgc.cn.		180	IN	A	93.170.70.229
+fiijssgc.cn.		180	IN	A	94.52.77.9
+fiijssgc.cn.		180	IN	A	194.208.177.215
+fiijssgc.cn.		180	IN	A	213.100.206.161
+
+;; AUTHORITY SECTION:
+fiijssgc.cn.		180	IN	NS	ns3.cgsoftly.com.
+fiijssgc.cn.		180	IN	NS	ns4.ncibneww.com.
+fiijssgc.cn.		180	IN	NS	ns1.cgsoftly.com.
+fiijssgc.cn.		180	IN	NS	ns2.ncibneww.com.
+
+;; ADDITIONAL SECTION:
+ns3.cgsoftly.com.	169744	IN	A	89.134.106.69
+ns4.ncibneww.com.	169744	IN	A	92.115.192.230
+ns1.cgsoftly.com.	169744	IN	A	59.151.232.164
+ns2.ncibneww.com.	169744	IN	A	217.199.114.203
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:12 2009
+;; MSG SIZE  rcvd: 325
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jf1fi.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 842
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jf1fi.com.			IN	A
+
+;; ANSWER SECTION:
+jf1fi.com.		1800	IN	A	77.41.99.131
+jf1fi.com.		1800	IN	A	79.112.26.107
+jf1fi.com.		1800	IN	A	82.47.35.68
+jf1fi.com.		1800	IN	A	84.126.129.97
+jf1fi.com.		1800	IN	A	85.155.254.14
+jf1fi.com.		1800	IN	A	87.224.218.249
+jf1fi.com.		1800	IN	A	88.156.177.237
+jf1fi.com.		1800	IN	A	89.46.59.20
+jf1fi.com.		1800	IN	A	93.172.30.119
+jf1fi.com.		1800	IN	A	200.120.122.234
+jf1fi.com.		1800	IN	A	201.233.45.234
+jf1fi.com.		1800	IN	A	208.120.237.132
+jf1fi.com.		1800	IN	A	212.231.236.255
+jf1fi.com.		1800	IN	A	67.193.190.252
+jf1fi.com.		1800	IN	A	76.112.163.235
+
+;; AUTHORITY SECTION:
+jf1fi.com.		1800	IN	NS	ns2.atlantasale-dll.com.
+jf1fi.com.		1800	IN	NS	ns1.goldstatik.net.
+jf1fi.com.		1800	IN	NS	ns1.atlantasale-dll.com.
+jf1fi.com.		1800	IN	NS	ns2.goldstatik.net.
+
+;; ADDITIONAL SECTION:
+ns2.atlantasale-dll.com. 159910	IN	A	55.125.99.23
+ns1.goldstatik.net.	160162	IN	A	66.219.22.109
+ns1.atlantasale-dll.com. 165342	IN	A	66.219.22.109
+ns2.goldstatik.net.	162078	IN	A	199.21.42.60
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:12 2009
+;; MSG SIZE  rcvd: 442
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bbfiesfo.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 482
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bbfiesfo.cn.			IN	A
+
+;; ANSWER SECTION:
+bbfiesfo.cn.		180	IN	A	213.100.206.161
+bbfiesfo.cn.		180	IN	A	81.195.46.67
+bbfiesfo.cn.		180	IN	A	89.34.156.237
+bbfiesfo.cn.		180	IN	A	89.148.100.95
+bbfiesfo.cn.		180	IN	A	89.232.28.247
+bbfiesfo.cn.		180	IN	A	93.170.70.229
+bbfiesfo.cn.		180	IN	A	94.52.77.9
+bbfiesfo.cn.		180	IN	A	194.208.177.215
+
+;; AUTHORITY SECTION:
+bbfiesfo.cn.		180	IN	NS	ns2.ncibneww.com.
+bbfiesfo.cn.		180	IN	NS	ns3.cgsoftly.com.
+bbfiesfo.cn.		180	IN	NS	ns4.ncibneww.com.
+bbfiesfo.cn.		180	IN	NS	ns1.cgsoftly.com.
+
+;; ADDITIONAL SECTION:
+ns2.ncibneww.com.	153712	IN	A	93.170.70.229
+ns3.cgsoftly.com.	153716	IN	A	93.74.166.48
+ns4.ncibneww.com.	153716	IN	A	61.102.195.240
+ns1.cgsoftly.com.	153716	IN	A	59.151.232.164
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:35:13 2009
+;; MSG SIZE  rcvd: 325
+
+

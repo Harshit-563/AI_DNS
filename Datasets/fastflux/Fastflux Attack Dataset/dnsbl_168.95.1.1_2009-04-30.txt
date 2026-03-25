@@ -1,0 +1,1140 @@
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 106
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; Query time: 750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:35:50 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1005
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	76.224.122.215
+63mode.me.		600	IN	A	64.205.9.115
+63mode.me.		600	IN	A	68.88.238.194
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	165.166.236.74
+63mode.me.		600	IN	A	75.134.38.246
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	173.29.205.121
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	99.141.79.160
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 15 22:36:33 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 969
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	68.88.238.194
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	173.16.232.159
+63mode.me.		600	IN	A	76.224.122.215
+63mode.me.		600	IN	A	75.134.38.246
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	64.149.157.194
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	82.42.189.145
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 4281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:35:51 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 130
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	76.224.19.19
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	70.231.157.228
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	24.125.195.72
+63mode.me.		600	IN	A	68.88.238.194
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	24.179.47.251
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:35:42 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1267
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	70.253.144.220
+63mode.me.		600	IN	A	24.125.195.72
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	76.224.19.19
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	98.197.176.224
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	65.65.114.185
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+
+;; Query time: 4234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:36:17 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1259
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	71.79.9.177
+63mode.me.		600	IN	A	70.253.144.220
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	76.224.19.19
+63mode.me.		600	IN	A	72.48.183.204
+63mode.me.		600	IN	A	24.125.195.72
+63mode.me.		600	IN	A	70.231.157.228
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	82.3.106.140
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 3875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 19 22:36:06 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 310
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	64.91.14.12
+63mode.me.		600	IN	A	65.65.208.207
+63mode.me.		600	IN	A	71.56.99.7
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	67.65.165.42
+63mode.me.		600	IN	A	205.209.232.195
+63mode.me.		600	IN	A	70.136.31.99
+63mode.me.		600	IN	A	99.4.105.171
+63mode.me.		600	IN	A	82.3.106.140
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 20 22:36:32 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 636
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	76.181.138.175
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 26 22:36:15 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1762
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	67.150.81.4
+63mode.me.		600	IN	A	66.142.188.149
+63mode.me.		600	IN	A	65.66.157.127
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	216.188.193.83
+63mode.me.		600	IN	A	76.177.167.69
+63mode.me.		600	IN	A	76.97.143.24
+63mode.me.		600	IN	A	64.205.9.115
+63mode.me.		600	IN	A	71.8.1.184
+63mode.me.		600	IN	A	80.189.10.239
+63mode.me.		600	IN	A	99.149.194.219
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	71.134.213.120
+63mode.me.		600	IN	A	24.6.232.7
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:36:23 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1668
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 24 22:39:55 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1926
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:31 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 627
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	173.29.205.121
+63mode.me.		600	IN	A	24.219.190.251
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	165.166.236.74
+63mode.me.		600	IN	A	68.88.253.211
+63mode.me.		600	IN	A	173.16.232.159
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	71.12.207.45
+63mode.me.		600	IN	A	75.134.38.246
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	99.141.79.160
+63mode.me.		600	IN	A	76.73.237.59
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 3843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 11 22:40:29 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 318
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	99.141.79.160
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	24.219.190.251
+63mode.me.		600	IN	A	165.166.236.74
+63mode.me.		600	IN	A	173.29.205.121
+63mode.me.		600	IN	A	76.73.237.59
+63mode.me.		600	IN	A	71.12.207.45
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	75.134.38.246
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	173.16.232.159
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 3984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sun Apr 12 22:39:25 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 218
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	76.224.122.215
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	64.149.157.194
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	68.88.238.194
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	75.134.38.246
+63mode.me.		600	IN	A	173.16.232.159
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	24.170.188.159
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 16 22:41:58 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 231
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	68.88.238.194
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	70.231.157.228
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	65.65.114.185
+63mode.me.		600	IN	A	24.125.195.72
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	71.137.5.244
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri Apr 17 22:39:05 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 583
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	146.57.249.100
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.125.195.72
+63mode.me.		600	IN	A	98.197.176.224
+63mode.me.		600	IN	A	70.231.157.228
+63mode.me.		600	IN	A	76.224.19.19
+63mode.me.		600	IN	A	65.65.114.185
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	64.203.14.41
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+
+;; Query time: 3937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 18 22:41:25 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1477
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	98.235.17.250
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	64.203.14.41
+63mode.me.		600	IN	A	70.253.144.220
+63mode.me.		600	IN	A	76.224.19.19
+63mode.me.		600	IN	A	76.102.51.10
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	68.89.47.177
+63mode.me.		600	IN	A	24.170.188.159
+63mode.me.		600	IN	A	70.231.157.228
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 21 22:41:39 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1250
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	4.231.254.135
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	99.141.52.86
+63mode.me.		600	IN	A	84.25.208.139
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	66.140.61.157
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	69.247.161.254
+63mode.me.		600	IN	A	71.56.22.137
+63mode.me.		600	IN	A	173.51.158.242
+63mode.me.		600	IN	A	68.122.80.137
+63mode.me.		600	IN	A	24.6.232.7
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:38:31 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 111
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	24.158.226.162
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 1531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:39:43 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1990
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	76.181.138.175
+
+;; AUTHORITY SECTION:
+63mode.me.		86396	IN	NS	ns1.63mode.me.
+63mode.me.		86396	IN	NS	ns2.63mode.me.
+63mode.me.		86396	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86396	IN	A	76.73.237.59
+ns2.63mode.me.		86396	IN	A	99.242.5.254
+ns3.63mode.me.		86396	IN	A	70.154.82.100
+
+;; Query time: 4406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:40:03 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 461
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	125.195.89.237
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.6.232.7
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	4.231.254.135
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	173.51.158.242
+63mode.me.		600	IN	A	66.140.61.157
+63mode.me.		600	IN	A	84.25.208.139
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	68.122.80.137
+63mode.me.		600	IN	A	71.56.22.137
+63mode.me.		600	IN	A	69.247.161.254
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 1765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:40:05 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1342
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	125.195.89.237
+63mode.me.		600	IN	A	71.195.144.64
+63mode.me.		600	IN	A	70.154.82.100
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	84.25.208.139
+63mode.me.		600	IN	A	66.140.61.157
+63mode.me.		600	IN	A	173.51.158.242
+63mode.me.		600	IN	A	4.231.254.135
+63mode.me.		600	IN	A	68.122.80.137
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.6.232.7
+63mode.me.		600	IN	A	71.137.5.244
+63mode.me.		600	IN	A	69.247.161.254
+63mode.me.		600	IN	A	71.56.22.137
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 25 22:42:18 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1518
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	24.23.113.132
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:38:48 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 549
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	93.156.252.131
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:35 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1366
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	216.144.105.172
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:36 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1362
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	82.3.106.140
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:41 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 66
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	24.23.113.132
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	69.66.237.74
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:39:51 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 472
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	24.158.226.162
+63mode.me.		600	IN	A	84.105.9.169
+63mode.me.		600	IN	A	93.156.252.131
+63mode.me.		600	IN	A	211.86.54.249
+63mode.me.		600	IN	A	216.144.105.172
+63mode.me.		600	IN	A	82.3.106.140
+63mode.me.		600	IN	A	76.22.226.55
+63mode.me.		600	IN	A	71.137.9.48
+63mode.me.		600	IN	A	120.50.106.27
+63mode.me.		600	IN	A	76.181.138.175
+63mode.me.		600	IN	A	84.121.218.144
+63mode.me.		600	IN	A	71.132.131.155
+63mode.me.		600	IN	A	69.66.237.74
+63mode.me.		600	IN	A	24.23.113.132
+
+;; AUTHORITY SECTION:
+63mode.me.		86400	IN	NS	ns1.63mode.me.
+63mode.me.		86400	IN	NS	ns2.63mode.me.
+63mode.me.		86400	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86400	IN	A	76.73.237.59
+ns2.63mode.me.		86400	IN	A	99.242.5.254
+ns3.63mode.me.		86400	IN	A	70.154.82.100
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Apr 28 22:40:40 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1060
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; ANSWER SECTION:
+63mode.me.		600	IN	A	24.179.47.251
+63mode.me.		600	IN	A	66.137.148.32
+63mode.me.		600	IN	A	98.134.161.40
+63mode.me.		600	IN	A	74.212.28.57
+63mode.me.		600	IN	A	99.190.74.145
+63mode.me.		600	IN	A	74.41.48.50
+63mode.me.		600	IN	A	209.30.248.102
+63mode.me.		600	IN	A	82.42.189.145
+63mode.me.		600	IN	A	72.241.113.161
+63mode.me.		600	IN	A	99.4.107.88
+63mode.me.		600	IN	A	75.65.138.103
+63mode.me.		600	IN	A	24.164.127.56
+63mode.me.		600	IN	A	173.51.158.242
+63mode.me.		600	IN	A	76.181.138.175
+
+;; AUTHORITY SECTION:
+63mode.me.		86399	IN	NS	ns1.63mode.me.
+63mode.me.		86399	IN	NS	ns2.63mode.me.
+63mode.me.		86399	IN	NS	ns3.63mode.me.
+
+;; ADDITIONAL SECTION:
+ns1.63mode.me.		86399	IN	A	76.73.237.59
+ns2.63mode.me.		86399	IN	A	99.242.5.254
+ns3.63mode.me.		86399	IN	A	70.154.82.100
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 30 22:40:34 2009
+;; MSG SIZE  rcvd: 362
+
+
