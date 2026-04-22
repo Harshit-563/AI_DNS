@@ -1,0 +1,10 @@
+**to stimulate fastflux add this in dns_sniffer**
+def start_capture_loop(self):
+        try:
+            sniff(
+                filter="udp port 53",
+                prn=self.parse_dns,
+                store=False,
+                # 👇 Add this line using the exact name from Step 1
+                iface="Software Loopback Interface 1"
+            )

@@ -53,14 +53,18 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-BG_DARK = "#0a0a0a"
+BG_DARK = "#0d1117"
 BG_PANEL = "#161b22"
-ACCENT_GREEN = "#238636"
-ACCENT_RED = "#da3633"
-ACCENT_AMBER = "#d29922"
-TEXT_MAIN = "#c9d1d9"
+BG_ACCENT = "#1c2128"
+ACCENT_BLUE = "#58a6ff"
+ACCENT_GREEN = "#3fb950"
+ACCENT_RED = "#f85149"
+ACCENT_AMBER = "#ffa500"
+TEXT_MAIN = "#e6edf3"
+TEXT_MUTED = "#8b949e"
 DETAIL_BLUE = "#79c0ff"
 DETAIL_BG = "#0d1117"
+BORDER_COLOR = "#30363d"
 MAX_ROWS = 100
 FAST_FLUX_WINDOW = 60
 WHITELIST_FILE = "dns_whitelist.txt"
@@ -120,6 +124,7 @@ class DNSThreatDashboard:
             lambda: {"ips": set(), "timestamps": deque(maxlen=50)}
         )
         self.packet_details = {}
+        self.session_packet_details = []
         self.asn_cache = {}
         self.whitelist = load_whitelist()
         self.stats = {"Benign": 0, "Suspicious": 0, "DGA": 0, "fast_flux": 0}
@@ -131,74 +136,127 @@ class DNSThreatDashboard:
         self.sniffer_thread.start()
 
     def build_ui(self):
-        header = tk.Frame(self.root, bg=BG_DARK, pady=10)
-        header.pack(fill="x")
+        # ===== HEADER =====
+        header = tk.Frame(self.root, bg=BG_DARK, pady=12)
+        header.pack(fill="x", padx=0)
+        
+        # Logo/Title area
+        title_frame = tk.Frame(header, bg=BG_DARK)
+        title_frame.pack(side="left", padx=15, pady=5)
         tk.Label(
-            header,
-            text="  DOMAIN_WATCH THE THREAT ANALYZER",
-            font=("Consolas", 20, "bold"),
-            fg=ACCENT_GREEN,
+            title_frame,
+            text="🛡️  DNS THREAT ANALYZER",
+            font=("Segoe UI", 18, "bold"),
+            fg=ACCENT_BLUE,
             bg=BG_DARK,
         ).pack(side="left")
-
-        controls = tk.Frame(self.root, bg=BG_DARK, pady=5)
-        controls.pack(fill="x", padx=10)
-
-        self.btn_start = tk.Button(
-            controls,
-            text="START SNIFFING",
-            bg=ACCENT_GREEN,
-            fg="white",
-            font=("Consolas", 10, "bold"),
-            command=self.toggle_sniffing,
-            width=15,
-        )
-        self.btn_start.pack(side="left", padx=5)
-
-        tk.Button(
-            controls,
-            text="STATS",
-            bg=ACCENT_AMBER,
-            fg="black",
-            font=("Consolas", 10, "bold"),
-            command=self.analyze_stats,
-        ).pack(side="left", padx=5)
-
-        tk.Button(
-            controls,
-            text="SAVE",
-            bg="#444d56",
-            fg="white",
-            font=("Consolas", 10),
-            command=self.download_logs,
-        ).pack(side="left", padx=5)
-
-        tk.Button(
-            controls,
-            text="CLEAR WHITELIST",
-            bg="#444d56",
-            fg="white",
-            font=("Consolas", 10),
-            command=self.clear_full_whitelist,
-        ).pack(side="left", padx=5)
-
-        tk.Button(
-            controls,
-            text="DEEP ANALYSIS",
-            bg=ACCENT_GREEN,
-            fg="white",
-            font=("Consolas", 10, "bold"),
-            command=self.trigger_llm,
-        ).pack(side="right", padx=5)
-
+        tk.Label(
+            title_frame,
+            text="Real-Time Security Monitoring",
+            font=("Segoe UI", 9),
+            fg=TEXT_MUTED,
+            bg=BG_DARK,
+        ).pack(side="left", padx=(10, 0))
+        
+        # Status indicator
         self.status_lbl = tk.Label(
-            controls,
-            text="STATUS: PAUSED",
-            font=("Consolas", 10),
-            fg="orange",
+            header,
+            text="● PAUSED",
+            font=("Segoe UI", 10, "bold"),
+            fg=ACCENT_AMBER,
             bg=BG_DARK,
         )
         self.status_lbl.pack(side="right", padx=15)
+
+        # ===== TOOLBAR =====
+        toolbar = tk.Frame(self.root, bg=BG_PANEL, height=60)
+        toolbar.pack(fill="x", padx=0, pady=(5, 0))
+        
+        # Left button group
+        left_group = tk.Frame(toolbar, bg=BG_PANEL)
+        left_group.pack(side="left", padx=10, pady=8)
+        
+        self.btn_start = tk.Button(
+            left_group,
+            text="▶  START SNIFFER",
+            bg=ACCENT_GREEN,
+            fg="#0d1117",
+            font=("Segoe UI", 9, "bold"),
+            command=self.toggle_sniffing,
+            width=18,
+            relief=tk.FLAT,
+            activebackground="#34d399",
+        )
+        self.btn_start.pack(side="left", padx=4)
+
+        tk.Button(
+            left_group,
+            text="📊  STATISTICS",
+            bg=ACCENT_AMBER,
+            fg="#0d1117",
+            font=("Segoe UI", 9, "bold"),
+            command=self.analyze_stats,
+            width=12,
+            relief=tk.FLAT,
+            activebackground="#ffd166",
+        ).pack(side="left", padx=4)
+
+        tk.Button(
+            left_group,
+            text="💾  EXPORT",
+            bg=BORDER_COLOR,
+            fg=TEXT_MAIN,
+            font=("Segoe UI", 9, "bold"),
+            command=self.download_logs,
+            width=10,
+            relief=tk.FLAT,
+            activebackground="#444d56",
+        ).pack(side="left", padx=4)
+
+        # Right button group
+        right_group = tk.Frame(toolbar, bg=BG_PANEL)
+        right_group.pack(side="right", padx=10, pady=8)
+        
+        tk.Button(
+            right_group,
+            text="🧠  AI ANALYSIS",
+            bg=ACCENT_BLUE,
+            fg="#0d1117",
+            font=("Segoe UI", 9, "bold"),
+            command=self.trigger_llm,
+            width=14,
+            relief=tk.FLAT,
+            activebackground="#79c0ff",
+        ).pack(side="left", padx=4)
+
+        tk.Button(
+            right_group,
+            text="🗑️  CLEAR WHITELIST",
+            bg="#444d56",
+            fg=TEXT_MAIN,
+            font=("Segoe UI", 9),
+            command=self.clear_full_whitelist,
+            width=14,
+            relief=tk.FLAT,
+            activebackground="#555d66",
+        ).pack(side="left", padx=4)
+
+        # ===== TABLE SECTION =====
+        table_label = tk.Label(
+            self.root,
+            text="📡 DNS Query Log",
+            font=("Segoe UI", 11, "bold"),
+            fg=TEXT_MAIN,
+            bg=BG_DARK,
+        )
+        table_label.pack(anchor="w", padx=10, pady=(10, 5))
+
+        tree_frame = tk.Frame(self.root, bg=BG_DARK)
+        tree_frame.pack(fill="both", expand=True, padx=10, pady=(0, 5))
+
+        # Create scrollbar
+        scrollbar = tk.Scrollbar(tree_frame, bg=BG_PANEL, troughcolor=BG_DARK)
+        scrollbar.pack(side="right", fill="y")
 
         style = ttk.Style()
         style.theme_use("clam")
@@ -207,55 +265,100 @@ class DNSThreatDashboard:
             background=BG_PANEL,
             foreground=TEXT_MAIN,
             fieldbackground=BG_PANEL,
-            rowheight=30,
-            font=("Consolas", 10),
+            rowheight=26,
+            font=("Segoe UI", 9),
+            borderwidth=0,
+        )
+        style.map(
+            "Treeview",
+            background=[("selected", ACCENT_BLUE)],
+            foreground=[("selected", "#0d1117")],
         )
         style.configure(
             "Treeview.Heading",
-            background="#21262d",
-            foreground=ACCENT_GREEN,
-            font=("Consolas", 10, "bold"),
+            background=BG_ACCENT,
+            foreground=ACCENT_BLUE,
+            font=("Segoe UI", 9, "bold"),
+            borderwidth=0,
         )
-
-        tree_frame = tk.Frame(self.root, bg=BG_DARK)
-        tree_frame.pack(fill="both", expand=True, padx=10)
+        style.map("Treeview.Heading", background=[("active", BG_PANEL)])
 
         cols = ("src", "dst", "query", "ttl", "conf", "status")
-        self.tree = ttk.Treeview(tree_frame, columns=cols, show="headings")
-        for key, title in zip(cols, ("SRC", "DST", "DNS_QUERY", "TTL", "AI_CONF", "STATUS")):
+        self.tree = ttk.Treeview(tree_frame, columns=cols, show="headings", yscrollcommand=scrollbar.set, height=15)
+        scrollbar.config(command=self.tree.yview)
+        
+        col_config = {
+            "src": ("SRC IP", 100),
+            "dst": ("DST IP", 100),
+            "query": ("DNS QUERY", 400),
+            "ttl": ("TTL", 60),
+            "conf": ("CONFIDENCE", 100),
+            "status": ("STATUS", 120),
+        }
+        
+        for key, (title, width) in col_config.items():
             self.tree.heading(key, text=title)
-            self.tree.column(key, anchor="center", width=100)
-        self.tree.column("query", width=350, anchor="w")
+            self.tree.column(key, anchor="w" if key == "query" else "center", width=width)
+        
         self.tree.pack(fill="both", expand=True)
 
-        self.tree.tag_configure("malicious", background="#3e1a19", foreground="#ff7b72")
-        self.tree.tag_configure("benign", foreground="#3fb950")
+        # Tag configuration for row colors
+        self.tree.tag_configure("benign", background=BG_PANEL, foreground=ACCENT_GREEN)
+        self.tree.tag_configure("benign_alt", background=BG_ACCENT, foreground=ACCENT_GREEN)
+        self.tree.tag_configure("suspicious", background=BG_PANEL, foreground=ACCENT_AMBER)
+        self.tree.tag_configure("suspicious_alt", background=BG_ACCENT, foreground=ACCENT_AMBER)
+        self.tree.tag_configure("malicious", background="#3e1a19", foreground=ACCENT_RED)
+        self.tree.tag_configure("malicious_alt", background="#4a1f21", foreground=ACCENT_RED)
+
+        # ===== DETAILS PANEL =====
+        details_label = tk.Label(
+            self.root,
+            text="🔍 Detailed Analysis",
+            font=("Segoe UI", 11, "bold"),
+            fg=TEXT_MAIN,
+            bg=BG_DARK,
+        )
+        details_label.pack(anchor="w", padx=10, pady=(10, 5))
+
+        detail_frame = tk.Frame(self.root, bg=BG_DARK)
+        detail_frame.pack(fill="both", padx=10, pady=(0, 10), expand=False)
+
+        # Create scrollbar for detail box
+        detail_scrollbar = tk.Scrollbar(detail_frame, bg=BG_PANEL, troughcolor=BG_DARK)
+        detail_scrollbar.pack(side="right", fill="y")
 
         self.detail_box = tk.Text(
-            self.root,
-            height=12,
+            detail_frame,
+            height=10,
             bg=DETAIL_BG,
             fg=DETAIL_BLUE,
-            font=("Consolas", 10),
-            borderwidth=0,
+            font=("Consolas", 9),
+            borderwidth=1,
+            border=1,
+            relief=tk.SUNKEN,
             padx=10,
-            pady=10,
+            pady=8,
+            yscrollcommand=detail_scrollbar.set,
         )
-        self.detail_box.pack(fill="both", padx=10, pady=10)
+        detail_scrollbar.config(command=self.detail_box.yview)
+        self.detail_box.pack(fill="both", expand=True)
 
+        # Context menu
         self.popup_menu = tk.Menu(
             self.root,
             tearoff=0,
             bg=BG_PANEL,
             fg=TEXT_MAIN,
-            font=("Consolas", 10),
+            font=("Segoe UI", 9),
+            activebackground=ACCENT_BLUE,
+            activeforeground="#0d1117",
         )
         self.popup_menu.add_command(
-            label="Mark as False Positive (Whitelist)",
+            label="✓ Mark as False Positive (Whitelist)",
             command=self.mark_false_positive,
         )
         self.popup_menu.add_command(
-            label="Remove from Whitelist",
+            label="🗑️ Remove from Whitelist",
             command=self.unwhitelist_selected,
         )
 
@@ -265,17 +368,17 @@ class DNSThreatDashboard:
     def toggle_sniffing(self):
         self.is_sniffing = not self.is_sniffing
         if self.is_sniffing:
-            self.btn_start.config(text="STOP SNIFFING", bg=ACCENT_RED)
-            self.status_lbl.config(text="STATUS: ACTIVE", fg=ACCENT_GREEN)
-            self.write_detail("[SYSTEM] Live sniffing started.\n")
+            self.btn_start.config(text="⏹  STOP SNIFFER", bg=ACCENT_RED)
+            self.status_lbl.config(text="● ACTIVE", fg=ACCENT_GREEN)
+            self.write_detail("\n[▶ SYSTEM] Sniffer activated. Monitoring DNS traffic...\n" + "="*70 + "\n\n")
         else:
-            self.btn_start.config(text="START SNIFFING", bg=ACCENT_GREEN)
-            self.status_lbl.config(text="STATUS: PAUSED", fg="orange")
-            self.write_detail("[SYSTEM] Live sniffing paused.\n")
+            self.btn_start.config(text="▶  START SNIFFER", bg=ACCENT_GREEN)
+            self.status_lbl.config(text="● PAUSED", fg=ACCENT_AMBER)
+            self.write_detail("\n[⏸ SYSTEM] Sniffer paused. No new queries captured.\n" + "="*70 + "\n\n")
 
     def analyze_stats(self):
         stats = {"Benign": 0, "Suspicious": 0, "DGA": 0, "fast_flux": 0}
-        for item in self.packet_details.values():
+        for item in self.session_packet_details:
             status = item.get("status", "Benign")
             if status == "fast_flux" or "Fast-Flux" in status or "FAST-FLUX" in status:
                 stats["fast_flux"] += 1
@@ -288,24 +391,64 @@ class DNSThreatDashboard:
 
         self.stats = stats
         top = tk.Toplevel(self.root)
-        top.title("Session Analysis")
-        top.geometry("300x250")
+        top.title("📊 Session Statistics")
+        top.geometry("400x300")
         top.configure(bg=BG_PANEL)
+        top.resizable(False, False)
+        
+        # Title
         tk.Label(
             top,
-            text="LIVE STATS",
-            font=("Consolas", 14, "bold"),
+            text="📊 LIVE STATISTICS",
+            font=("Segoe UI", 14, "bold"),
             bg=BG_PANEL,
-            fg="white",
-        ).pack(pady=10)
-        for label, value in stats.items():
+            fg=ACCENT_BLUE,
+        ).pack(pady=(15, 20))
+        
+        total = sum(stats.values())
+        tk.Label(
+            top,
+            text=f"Total Queries: {total}",
+            font=("Segoe UI", 11, "bold"),
+            bg=BG_PANEL,
+            fg=TEXT_MAIN,
+        ).pack(pady=5)
+        
+        # Stats with color coding
+        for label, value in [
+            ("✓ Benign", stats["Benign"]),
+            ("⚠ Suspicious", stats["Suspicious"]),
+            ("🔴 DGA", stats["DGA"]),
+            ("🔴 Fast-Flux", stats["fast_flux"]),
+        ]:
+            pct = (value / max(total, 1)) * 100
+            
+            # Determine color
+            if "Benign" in label:
+                color = ACCENT_GREEN
+            elif "Suspicious" in label:
+                color = ACCENT_AMBER
+            else:
+                color = ACCENT_RED
+            
             tk.Label(
                 top,
-                text=f"{label}: {value}",
-                font=("Consolas", 12),
+                text=f"{label}: {value:>5} ({pct:>5.1f}%)",
+                font=("Segoe UI", 10),
                 bg=BG_PANEL,
-                fg=TEXT_MAIN,
-            ).pack()
+                fg=color,
+            ).pack(pady=4)
+        
+        # Close button
+        tk.Button(
+            top,
+            text="Close",
+            bg=ACCENT_BLUE,
+            fg="#0d1117",
+            font=("Segoe UI", 9, "bold"),
+            command=top.destroy,
+            width=15,
+        ).pack(pady=(20, 10))
 
     def download_logs(self):
         filename = filedialog.asksaveasfilename(
@@ -315,7 +458,7 @@ class DNSThreatDashboard:
         if not filename:
             return
 
-        data_to_save = list(self.packet_details.values())
+        data_to_save = self.session_packet_details
         with open(filename, "w", encoding="utf-8") as handle:
             json.dump(data_to_save, handle, indent=4)
         messagebox.showinfo("Success", f"Logs saved to {os.path.basename(filename)}")
@@ -389,10 +532,138 @@ class DNSThreatDashboard:
             return
         packet = self.packet_details[selected[0]]
         self.detail_box.delete("1.0", tk.END)
-        self.write_detail(
-            f">>> INSPECTION: {packet['query_info']['domain']}\n"
-            + json.dumps(packet, indent=4)
-        )
+        
+        # Extract all available data
+        q = packet.get('query_info', {})
+        n = packet.get('network_context', {})
+        ai = packet.get('ai_analysis', {})
+        rf = packet.get('raw_features', {})
+        ff = ai.get('fastflux_analysis', {}) if isinstance(ai.get('fastflux_analysis'), dict) else {}
+        ff_score = ai.get('ff_score')
+        if ff_score is None:
+            ff_score = ff.get('fastflux_score', 0)
+        try:
+            ff_score = float(ff_score)
+        except (TypeError, ValueError):
+            ff_score = 0.0
+        data = {'status': packet.get('status', 'Unknown')}
+        
+        # Build threat signals text
+        signals = []
+        if ai.get('explanation'):
+            signals.append(ai['explanation'])
+        signals_text = " | ".join(signals) if signals else "No anomalies detected"
+        
+        # Build probabilities text
+        probs = ai.get('probabilities', {})
+        if probs and isinstance(probs, dict):
+            probabilities_text = f"Base: {probs.get('base_class', 'N/A')} ({probs.get('base_confidence', 0):.1%}) → Final: {probs.get('final_class', 'N/A')}"
+        else:
+            probabilities_text = "N/A"
+        
+        # Build detector details
+        detector_text = ""
+        if ai.get('label') == 'fast_flux' or ai.get('is_fastflux'):
+            detector_text = f"Fast-Flux Detector Triggered:\n"
+            detector_text += f"  • Score: {ff_score:.3f}\n"
+            detector_text += f"  • Domain Lexical Score: {ff.get('domain_lexical_score', 0):.3f}\n"
+            detector_text += f"  • Subdomain Complexity Score: {ff.get('subdomain_complexity_score', 0):.3f}\n"
+            detector_text += f"  • Domain Age Score: {ff.get('domain_age_score', 0):.3f}\n"
+        else:
+            detector_text = f"Standard Classification Engine:\n"
+            detector_text += f"  • Base Prediction: {probs.get('base_prediction', 'N/A')}\n"
+            detector_text += f"  • Confidence: {probs.get('base_confidence', 0):.1%}\n"
+        
+        # Build reasons text
+        reasons = []
+        if ai.get('confidence', 0) >= 0.8:
+            reasons.append("High confidence prediction")
+        if ai.get('is_fastflux'):
+            reasons.append("Fast-Flux network pattern detected")
+        if rf.get('entropy', 0) > 4.5:
+            reasons.append("High domain entropy (randomization)")
+        if rf.get('digit_ratio', 0) > 0.3:
+            reasons.append("Excessive digit percentage")
+        if rf.get('subdomain_depth', 0) > 3:
+            reasons.append("Deep subdomain structure")
+        if n.get('query_rate', 0) > 100:
+            reasons.append("High query rate detected")
+        if n.get('asn_diversity', 0) > 0.5:
+            reasons.append("Multiple ASN sources (IP churn)")
+        
+        reasons_text = "\n  • ".join(reasons) if reasons else "  • No specific indicators"
+        if reasons:
+            reasons_text = "  • " + reasons_text
+        
+        # Build comprehensive inspection output
+        inspection = f"""
+{'='*80}
+                        🔍 DETAILED PACKET INSPECTION
+{'='*80}
+
+DOMAIN INFO
+  → Domain              : {q.get('domain', 'N/A')}
+  → TTL                 : {q.get('ttl', 'N/A')} seconds
+  → IP Count            : {q.get('ip_count', 'N/A')}
+  → Record Type         : {q.get('record_type', 'A')}
+  → Response Code       : {q.get('response_code', '0')}
+
+RESOLUTION
+  → IP Addresses        : {', '.join(q.get('ips', [])) if q.get('ips') else 'N/A'}
+  → Resolution Count    : {len(q.get('ips', []))}
+
+NETWORK FLOW
+  → Source Port         : {q.get('source_port', 'Unknown')}
+  → Destination Port    : 53 (DNS)
+  → Protocol            : UDP
+
+NETWORK CONTEXT
+  → ASN Diversity       : {round(n.get('asn_diversity', 0), 3)}
+  → Query Rate          : {n.get('query_rate', 0)} queries/period
+  → Domain Reputation   : Not Checked
+
+THREAT ENGINE
+  → Classification      : {data.get('status', 'UNKNOWN')}
+  → Confidence          : {round(ai.get('confidence', 0) * 100)}%
+  → Signals             : {signals_text}
+
+ML ANALYSIS
+  → Prediction          : {ai.get('label', 'Unknown')}
+  → Confidence          : {round(ai.get('confidence', 0) * 100)}%
+  → Recommendation      : {ai.get('recommendation', 'REVIEW')}
+  → Probabilities       : {probabilities_text}
+
+FAST-FLUX ANALYSIS
+  → Score               : {round(ff_score, 3)}
+  → Detected            : {'🔴 YES' if ai.get('is_fastflux') else '✓ NO'}
+  → TTL Risk            : {round(ff.get('ttl_score', 0), 3)}
+  → IP Diversity Risk   : {round(ff.get('ip_diversity_score', 0), 3)}
+  → Query Rate Risk     : {round(ff.get('query_rate_score', 0), 3)}
+
+RAW FEATURES
+  → Domain Length       : {rf.get('domain_length', 'N/A')}
+  → Entropy             : {round(rf.get('entropy', 0), 3)}
+  → Digit Ratio         : {round(rf.get('digit_ratio', 0), 3)}
+  → Subdomain Depth     : {rf.get('subdomain_depth', 'N/A')}
+  → TTL Value           : {rf.get('ttl', 'N/A')}
+  → Unique IP Count     : {rf.get('unique_ip_count', 'N/A')}
+  → Query Rate          : {rf.get('query_rate', 'N/A')}
+
+DETECTOR DETAILS
+{detector_text}
+
+DETECTION REASONS
+{reasons_text}
+
+FINAL STATUS
+  → Result              : {data.get('status', 'UNKNOWN')}
+  → Captured At         : {packet.get('captured_at', 'N/A')}
+  → Whitelist Status    : {'🔒 WHITELISTED' if q.get('domain', '') in self.whitelist else '◯ NOT WHITELISTED'}
+
+{'='*80}
+"""
+        
+        self.write_detail(inspection)
 
     def start_capture_loop(self):
         try:
@@ -528,6 +799,7 @@ class DNSThreatDashboard:
                         "probabilities": prediction.get("probabilities"),
                         "is_fastflux": prediction.get("is_fastflux", False),
                         "ff_score": prediction.get("ff_score"),
+                        "fastflux_analysis": prediction.get("fastflux_analysis", {}),
                     },
                     "raw_features": dict(zip(FEATURE_NAMES, features)),
                     "status": status,
@@ -569,6 +841,7 @@ class DNSThreatDashboard:
                 "probabilities": None,
                 "is_fastflux": False,
                 "ff_score": None,
+                "fastflux_analysis": {},
             }
 
         prediction = result.get("final_prediction", "Benign")
@@ -599,6 +872,7 @@ class DNSThreatDashboard:
             },
             "is_fastflux": is_fastflux,
             "ff_score": ff_score,
+            "fastflux_analysis": fastflux_analysis,
         }
 
     def get_asn_diversity(self, ip_list):
@@ -669,6 +943,21 @@ class DNSThreatDashboard:
 
                 payload = item["payload"]
                 bar = self.render_confidence_bar(payload["confidence"])
+                
+                # Determine tag based on status for better coloring
+                row_index = len(self.tree.get_children())
+                is_even = row_index % 2 == 0
+                
+                if payload["tag"] == "benign":
+                    tag = "benign" if is_even else "benign_alt"
+                elif payload["tag"] == "malicious":
+                    if "SUSPICIOUS" in payload["status"]:
+                        tag = "suspicious" if is_even else "suspicious_alt"
+                    else:
+                        tag = "malicious" if is_even else "malicious_alt"
+                else:
+                    tag = "benign" if is_even else "benign_alt"
+                
                 item_id = self.tree.insert(
                     "",
                     "end",
@@ -680,9 +969,11 @@ class DNSThreatDashboard:
                         bar,
                         payload["status"],
                     ),
-                    tags=(payload["tag"],),
+                    tags=(tag,),
                 )
-                self.packet_details[item_id] = payload["details"]
+                details = payload["details"]
+                self.packet_details[item_id] = details
+                self.session_packet_details.append(details)
 
                 if len(self.tree.get_children()) > MAX_ROWS:
                     oldest = self.tree.get_children()[0]
@@ -698,7 +989,10 @@ class DNSThreatDashboard:
         normalized_confidence = confidence / 100 if confidence > 1 else confidence
         filled = max(0, min(10, int(normalized_confidence * 10)))
         percentage = int(confidence if confidence > 1 else confidence * 100)
-        return f"[{'■' * filled}{'□' * (10 - filled)}] {percentage}%"
+        
+        # Better visual representation
+        bar = f"[{'▓' * filled}{'░' * (10 - filled)}] {percentage:>3d}%"
+        return bar
 
 
 def main():

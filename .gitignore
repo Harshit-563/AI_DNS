@@ -8,3 +8,4 @@
 __pycache__/
 *.log
 tranco_1_mil.csv
+.env
